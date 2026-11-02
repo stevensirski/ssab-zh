@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-30T22:22",
+ "updated": "2026-11-02T16:34",
  "episodes": [
+  {
+   "id": "ssab-2026-11-02",
+   "date": "2026-11-02",
+   "title": "The Content Fortress and the AI Personal Assistant",
+   "titleZh": "内容堡垒与AI私人助理",
+   "description": "Steven describes building a \"content fortress\" with AI, why Meta's Muse could finally automate his social media posting and email follow-ups, and what AI still can't do, from Halloween storytelling to replacing real podcast hosts. He also questions venture-funded AI business models and uses one of his ten new dashboards to look at how China's Fifth Plenary Session may affect stocks.",
+   "duration": 551,
+   "chars": 1423,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-30",
    "date": "2026-10-30",
