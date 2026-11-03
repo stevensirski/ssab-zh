@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-03T19:23",
+ "updated": "2026-11-03T19:25",
  "episodes": [
   {
    "id": "ssab-2026-11-03",
    "date": "2026-11-03",
    "title": "Donkey Burgers and the Meaning of Home",
    "titleZh": "驴肉汉堡与家的意义",
-   "description": "Steven explains why he runs so many channels, then shares everyday expat life in Beijing, from a pricey donkey burger and his go-to foods to new drone restrictions and gym progress. He closes with a line from American Gods that asks what home really is.",
-   "duration": null,
-   "chars": 1543,
-   "hasAudio": false
+   "description": "Steven explains why he runs so many channels, then shares everyday expat life in Beijing: a pricey donkey burger, his go-to foods, new drone restrictions, creatine and gym progress. He closes with a line from American Gods that left him wondering what home really is.",
+   "duration": 574,
+   "chars": 1449,
+   "hasAudio": true
   },
   {
    "id": "ssab-2026-11-02",

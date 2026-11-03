@@ -3,9 +3,11 @@
  "date": "2026-11-03",
  "title": "Donkey Burgers and the Meaning of Home",
  "titleZh": "驴肉汉堡与家的意义",
- "description": "Steven explains why he runs so many channels, then shares everyday expat life in Beijing, from a pricey donkey burger and his go-to foods to new drone restrictions and gym progress. He closes with a line from American Gods that asks what home really is.",
- "duration": null,
- "audio": null,
+ "description": "Steven explains why he runs so many channels, then shares everyday expat life in Beijing: a pricey donkey burger, his go-to foods, new drone restrictions, creatine and gym progress. He closes with a line from American Gods that left him wondering what home really is.",
+ "duration": 574,
+ "audio": {
+  "src": "audio/ssab-2026-11-03.m4a"
+ },
  "paragraphs": [
   {
    "id": "p1",
@@ -14,11 +16,13 @@
     {
      "id": "s001",
      "zh": "内容速览",
-     "en": "Quick Overview",
+     "en": "Content Overview",
      "segments": [
       {"zh": "内容", "py": "nèiróng", "gl": "content"},
       {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
-     ]
+     ],
+     "start": 18.04,
+     "end": 18.89
     }
    ]
   },
@@ -38,7 +42,7 @@
       {"zh": "，"},
       {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
       {"zh": "先", "py": "xiān", "gl": "first"},
-      {"zh": "聊了聊", "py": "liáoleliáo", "gl": "chatted about"},
+      {"zh": "聊了聊", "py": "liáoleliáo", "gl": "chatted a bit about"},
       {"zh": "："},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "为什么", "py": "wèishénme", "gl": "why"},
@@ -46,15 +50,17 @@
       {"zh": "经营", "py": "jīngyíng", "gl": "run, operate"},
       {"zh": "这么", "py": "zhème", "gl": "so"},
       {"zh": "多", "py": "duō", "gl": "many"},
-      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
       {"zh": "频道", "py": "píndào", "gl": "channel"},
       {"zh": "？"}
-     ]
+     ],
+     "start": 20.04,
+     "end": 28.77
     },
     {
      "id": "s003",
      "zh": "接着，因为有些听众已经被 AI 话题“刷屏”到腻了，他换了个口味，讲讲在北京做外国人的日常。",
-     "en": "Next, because some listeners are sick of AI topics flooding their feeds, he changes things up and talks about daily life as a foreigner in Beijing.",
+     "en": "Next, because some listeners have grown tired of AI topics flooding their feeds, he changes things up and talks about daily life as a foreigner in Beijing.",
      "segments": [
       {"zh": "接着", "py": "jiēzhe", "gl": "next"},
       {"zh": "，"},
@@ -72,7 +78,7 @@
       {"zh": "”"},
       {"zh": "到", "py": "dào", "gl": "to the point of"},
       {"zh": "腻", "py": "nì", "gl": "fed up"},
-      {"zh": "了", "py": "le", "gl": "(changed state)"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
       {"zh": "，"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "换", "py": "huàn", "gl": "change"},
@@ -83,48 +89,52 @@
       {"zh": "讲讲", "py": "jiǎngjiang", "gl": "talk a bit about"},
       {"zh": "在", "py": "zài", "gl": "in"},
       {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
-      {"zh": "做", "py": "zuò", "gl": "be, live as"},
+      {"zh": "做", "py": "zuò", "gl": "be, work as"},
       {"zh": "外国人", "py": "wàiguórén", "gl": "foreigner"},
       {"zh": "的", "py": "de", "gl": "(possessive particle)"},
       {"zh": "日常", "py": "rìcháng", "gl": "daily life"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 29.3,
+     "end": 42.43
     },
     {
      "id": "s004",
      "zh": "内容包括一个价格不便宜的驴肉火烧汉堡、他常吃的几样美食，以及无人机新规带来的麻烦。",
-     "en": "It covers a not-so-cheap donkey-meat burger in the style of a huoshao, a few of the foods he often eats, and the trouble caused by new drone regulations.",
+     "en": "Topics include a not-so-cheap donkey meat burger, a few of the foods he often eats, and the trouble caused by new drone regulations.",
      "segments": [
       {"zh": "内容", "py": "nèiróng", "gl": "content"},
       {"zh": "包括", "py": "bāokuò", "gl": "include"},
-      {"zh": "一个", "py": "yí ge", "gl": "a, one"},
+      {"zh": "一个", "py": "yí ge", "gl": "one, a"},
       {"zh": "价格", "py": "jiàgé", "gl": "price"},
       {"zh": "不", "py": "bù", "gl": "not"},
       {"zh": "便宜", "py": "piányi", "gl": "cheap"},
-      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
-      {"zh": "驴肉火烧", "py": "lǘròu huǒshao", "gl": "donkey-meat flatbread sandwich"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "驴肉火烧", "py": "lǘròu huǒshao", "gl": "donkey meat flatbread"},
       {"zh": "汉堡", "py": "hànbǎo", "gl": "burger"},
       {"zh": "、"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "常", "py": "cháng", "gl": "often"},
       {"zh": "吃", "py": "chī", "gl": "eat"},
-      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
-      {"zh": "几样", "py": "jǐyàng", "gl": "several kinds"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "几样", "py": "jǐ yàng", "gl": "several kinds"},
       {"zh": "美食", "py": "měishí", "gl": "delicious food"},
       {"zh": "，"},
       {"zh": "以及", "py": "yǐjí", "gl": "as well as"},
       {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
       {"zh": "新规", "py": "xīnguī", "gl": "new regulations"},
       {"zh": "带来", "py": "dàilái", "gl": "bring about"},
-      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
       {"zh": "麻烦", "py": "máfan", "gl": "trouble"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 42.96,
+     "end": 54.79
     },
     {
      "id": "s005",
      "zh": "他还说起自己对肌酸的误会，和一次让他挺满意的卧推成绩。",
-     "en": "He also talks about his misconception about creatine and a bench press result he was pretty happy with.",
+     "en": "He also talks about his misconception about creatine and a bench press result he was quite happy with.",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "还", "py": "hái", "gl": "also"},
@@ -132,7 +142,7 @@
       {"zh": "自己", "py": "zìjǐ", "gl": "his own"},
       {"zh": "对", "py": "duì", "gl": "about, regarding"},
       {"zh": "肌酸", "py": "jīsuān", "gl": "creatine"},
-      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
       {"zh": "误会", "py": "wùhuì", "gl": "misunderstanding"},
       {"zh": "，"},
       {"zh": "和", "py": "hé", "gl": "and"},
@@ -141,16 +151,18 @@
       {"zh": "他", "py": "tā", "gl": "him"},
       {"zh": "挺", "py": "tǐng", "gl": "quite"},
       {"zh": "满意", "py": "mǎnyì", "gl": "satisfied"},
-      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
       {"zh": "卧推", "py": "wòtuī", "gl": "bench press"},
       {"zh": "成绩", "py": "chéngjì", "gl": "result"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 55.14,
+     "end": 62.39
     },
     {
      "id": "s006",
      "zh": "最后聊到小说《美国众神》，书里有一句话让他想了很久：家，到底是什么？",
-     "en": "Finally, he gets to the novel American Gods, which has a line that made him think for a long time: what exactly is home?",
+     "en": "Finally, he turns to the novel American Gods, which has a line that made him think for a long time: what exactly is home?",
      "segments": [
       {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
       {"zh": "聊到", "py": "liáodào", "gl": "get to talking about"},
@@ -162,13 +174,12 @@
       {"zh": "书", "py": "shū", "gl": "book"},
       {"zh": "里", "py": "lǐ", "gl": "in"},
       {"zh": "有", "py": "yǒu", "gl": "there is"},
-      {"zh": "一句话", "py": "yí jù huà", "gl": "a sentence"},
+      {"zh": "一句话", "py": "yí jù huà", "gl": "a sentence, a line"},
       {"zh": "让", "py": "ràng", "gl": "make"},
       {"zh": "他", "py": "tā", "gl": "him"},
       {"zh": "想", "py": "xiǎng", "gl": "think"},
       {"zh": "了", "py": "le", "gl": "(completed action)"},
-      {"zh": "很", "py": "hěn", "gl": "very"},
-      {"zh": "久", "py": "jiǔ", "gl": "long time"},
+      {"zh": "很久", "py": "hěn jiǔ", "gl": "a long time"},
       {"zh": "："},
       {"zh": "家", "py": "jiā", "gl": "home"},
       {"zh": "，"},
@@ -176,7 +187,9 @@
       {"zh": "是", "py": "shì", "gl": "is"},
       {"zh": "什么", "py": "shénme", "gl": "what"},
       {"zh": "？"}
-     ]
+     ],
+     "start": 62.92,
+     "end": 72.37
     }
    ]
   },
@@ -190,12 +203,14 @@
      "en": "Why run so many channels?",
      "segments": [
       {"zh": "为什么", "py": "wèishénme", "gl": "why"},
-      {"zh": "开", "py": "kāi", "gl": "run, start"},
+      {"zh": "开", "py": "kāi", "gl": "start, run"},
       {"zh": "这么", "py": "zhème", "gl": "so"},
       {"zh": "多", "py": "duō", "gl": "many"},
-      {"zh": "频道", "py": "píndào", "gl": "channels"},
+      {"zh": "频道", "py": "píndào", "gl": "channel"},
       {"zh": "？"}
-     ]
+     ],
+     "start": 72.78,
+     "end": 74.88
     }
    ]
   },
@@ -206,11 +221,11 @@
     {
      "id": "s008",
      "zh": "有人问得很直接：史蒂文，你为什么不专心做一个频道？",
-     "en": "Someone asked quite bluntly: Steven, why don't you focus on just one channel?",
+     "en": "Someone put it to him bluntly: Steven, why don't you focus on just one channel?",
      "segments": [
       {"zh": "有人", "py": "yǒurén", "gl": "someone"},
-      {"zh": "问", "py": "wèn", "gl": "asked"},
-      {"zh": "得", "py": "de", "gl": "(links verb to manner)"},
+      {"zh": "问", "py": "wèn", "gl": "ask"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
       {"zh": "很", "py": "hěn", "gl": "very"},
       {"zh": "直接", "py": "zhíjiē", "gl": "direct, blunt"},
       {"zh": "："},
@@ -220,18 +235,20 @@
       {"zh": "为什么", "py": "wèishénme", "gl": "why"},
       {"zh": "不", "py": "bù", "gl": "not"},
       {"zh": "专心", "py": "zhuānxīn", "gl": "focus on"},
-      {"zh": "做", "py": "zuò", "gl": "make, do"},
+      {"zh": "做", "py": "zuò", "gl": "do, run"},
       {"zh": "一个", "py": "yí ge", "gl": "one"},
       {"zh": "频道", "py": "píndào", "gl": "channel"},
       {"zh": "？"}
-     ]
+     ],
+     "start": 74.88,
+     "end": 82.67
     },
     {
      "id": "s009",
      "zh": "他的回答很老实：他不相信任何单一的渠道能养活自己，就像他不愿意只靠一份工资过日子。",
-     "en": "His answer was very honest: he doesn't believe any single channel can support him, just as he wouldn't want to live on only one salary.",
+     "en": "His answer was honest: he doesn't believe any single channel can support him, just as he wouldn't want to live on only one paycheck.",
      "segments": [
-      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "他", "py": "tā", "gl": "his, he"},
       {"zh": "的", "py": "de", "gl": "(possessive)"},
       {"zh": "回答", "py": "huídá", "gl": "answer"},
       {"zh": "很", "py": "hěn", "gl": "very"},
@@ -242,23 +259,26 @@
       {"zh": "相信", "py": "xiāngxìn", "gl": "believe"},
       {"zh": "任何", "py": "rènhé", "gl": "any"},
       {"zh": "单一", "py": "dānyī", "gl": "single"},
-      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
-      {"zh": "渠道", "py": "qúdào", "gl": "channel, income source"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "渠道", "py": "qúdào", "gl": "channel, outlet"},
       {"zh": "能", "py": "néng", "gl": "can"},
       {"zh": "养活", "py": "yǎnghuo", "gl": "support, feed"},
-      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "oneself"},
       {"zh": "，"},
-      {"zh": "就像", "py": "jiùxiàng", "gl": "just like"},
+      {"zh": "就", "py": "jiù", "gl": "just"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "不", "py": "bú", "gl": "not"},
-      {"zh": "愿意", "py": "yuànyì", "gl": "willing to"},
+      {"zh": "愿意", "py": "yuànyì", "gl": "be willing"},
       {"zh": "只", "py": "zhǐ", "gl": "only"},
       {"zh": "靠", "py": "kào", "gl": "rely on"},
       {"zh": "一份", "py": "yí fèn", "gl": "one (job's)"},
-      {"zh": "工资", "py": "gōngzī", "gl": "salary"},
-      {"zh": "过日子", "py": "guòrìzi", "gl": "get by, live"},
+      {"zh": "工资", "py": "gōngzī", "gl": "salary, paycheck"},
+      {"zh": "过日子", "py": "guò rìzi", "gl": "get by, live"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 83.1,
+     "end": 94.22
     },
     {
      "id": "s010",
@@ -266,15 +286,17 @@
      "en": "He admits that this does look a bit unfocused.",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
-      {"zh": "承认", "py": "chéngrèn", "gl": "admits"},
+      {"zh": "承认", "py": "chéngrèn", "gl": "admit"},
       {"zh": "，"},
       {"zh": "这样", "py": "zhèyàng", "gl": "this way"},
-      {"zh": "看上去", "py": "kànshàngqu", "gl": "looks, appears"},
+      {"zh": "看上去", "py": "kàn shàngqu", "gl": "look, appear"},
       {"zh": "确实", "py": "quèshí", "gl": "indeed"},
       {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
       {"zh": "三心二意", "py": "sānxīn'èryì", "gl": "half-hearted, unfocused"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 94.22,
+     "end": 99.53
     }
    ]
   },
@@ -285,7 +307,7 @@
     {
      "id": "s011",
      "zh": "如果只能留一个，他会选这档播客，因为拍 vlog 太费精力了。",
-     "en": "If he could only keep one, he'd choose this podcast, because shooting vlogs takes too much energy.",
+     "en": "If he could keep only one, he would choose this podcast, because making vlogs takes too much energy.",
      "segments": [
       {"zh": "如果", "py": "rúguǒ", "gl": "if"},
       {"zh": "只能", "py": "zhǐnéng", "gl": "can only"},
@@ -296,7 +318,7 @@
       {"zh": "会", "py": "huì", "gl": "would"},
       {"zh": "选", "py": "xuǎn", "gl": "choose"},
       {"zh": "这", "py": "zhè", "gl": "this"},
-      {"zh": "档", "py": "dàng", "gl": "(measure word for shows)"},
+      {"zh": "档", "py": "dàng", "gl": "(measure word: show)"},
       {"zh": "播客", "py": "bōkè", "gl": "podcast"},
       {"zh": "，"},
       {"zh": "因为", "py": "yīnwèi", "gl": "because"},
@@ -309,18 +331,20 @@
       {"zh": "精力", "py": "jīnglì", "gl": "energy"},
       {"zh": "了", "py": "le", "gl": "(emphasis with 太)"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 101.06,
+     "end": 109.03
     },
     {
      "id": "s012",
      "zh": "播客是他用爱发电的事业，还能帮他理清想法。",
-     "en": "The podcast is his labor of love, and it also helps him sort out his thoughts.",
+     "en": "The podcast is a labor of love for him, and it also helps him sort out his thoughts.",
      "segments": [
       {"zh": "播客", "py": "bōkè", "gl": "podcast"},
       {"zh": "是", "py": "shì", "gl": "is"},
-      {"zh": "他", "py": "tā", "gl": "his"},
-      {"zh": "用爱发电", "py": "yòng'àifādiàn", "gl": "done for love, unpaid"},
-      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "他", "py": "tā", "gl": "his, he"},
+      {"zh": "用爱发电", "py": "yòng'àifādiàn", "gl": "do for love, unpaid"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
       {"zh": "事业", "py": "shìyè", "gl": "undertaking, venture"},
       {"zh": "，"},
       {"zh": "还", "py": "hái", "gl": "also"},
@@ -328,9 +352,11 @@
       {"zh": "帮", "py": "bāng", "gl": "help"},
       {"zh": "他", "py": "tā", "gl": "him"},
       {"zh": "理清", "py": "lǐqīng", "gl": "sort out, clarify"},
-      {"zh": "想法", "py": "xiǎngfǎ", "gl": "thoughts"},
+      {"zh": "想法", "py": "xiǎngfǎ", "gl": "thoughts, ideas"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 109.32,
+     "end": 114.95
     }
    ]
   },
@@ -344,14 +370,16 @@
      "en": "\"Epic-itis\" and AI experiments",
      "segments": [
       {"zh": "“"},
-      {"zh": "史诗病", "py": "shǐshībìng", "gl": "epic-itis"},
+      {"zh": "史诗病", "py": "shǐshībìng", "gl": "\"epic-itis\""},
       {"zh": "”"},
       {"zh": "和", "py": "hé", "gl": "and"},
       {"zh": " "},
       {"zh": "AI"},
       {"zh": " "},
       {"zh": "实验", "py": "shíyàn", "gl": "experiments"}
-     ]
+     ],
+     "start": 116.2,
+     "end": 118.19
     }
    ]
   },
@@ -370,21 +398,21 @@
       {"zh": "Substack"},
       {"zh": "，"},
       {"zh": "本想", "py": "běnxiǎng", "gl": "originally intended"},
-      {"zh": "重拾", "py": "chóngshí", "gl": "pick up again"},
+      {"zh": "重拾", "py": "chóngshí", "gl": "regain"},
       {"zh": "写", "py": "xiě", "gl": "write"},
       {"zh": "博客", "py": "bókè", "gl": "blog"},
-      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "的", "py": "de", "gl": "(possessive/linking particle)"},
       {"zh": "乐趣", "py": "lèqù", "gl": "joy"},
       {"zh": "，"},
       {"zh": "结果", "py": "jiéguǒ", "gl": "as it turned out"},
-      {"zh": "却", "py": "què", "gl": "but instead"},
+      {"zh": "却", "py": "què", "gl": "instead"},
       {"zh": "染上", "py": "rǎnshàng", "gl": "catch (an illness)"},
       {"zh": "了", "py": "le", "gl": "(completed action)"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "所谓", "py": "suǒwèi", "gl": "so-called"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "的", "py": "de", "gl": "(linking particle)"},
       {"zh": "“"},
-      {"zh": "史诗病", "py": "shǐshībìng", "gl": "epic-itis"},
+      {"zh": "史诗病", "py": "shǐshībìng", "gl": "\"epic-itis\""},
       {"zh": "”"},
       {"zh": "（"},
       {"zh": "epic-itis"},
@@ -396,8 +424,8 @@
       {"zh": "觉得", "py": "juéde", "gl": "feel"},
       {"zh": "自己", "py": "zìjǐ", "gl": "oneself"},
       {"zh": "做", "py": "zuò", "gl": "make"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
-      {"zh": "东西", "py": "dōngxi", "gl": "stuff"},
+      {"zh": "的", "py": "de", "gl": "(relative clause particle)"},
+      {"zh": "东西", "py": "dōngxi", "gl": "things"},
       {"zh": "有", "py": "yǒu", "gl": "have"},
       {"zh": "毛病", "py": "máobìng", "gl": "flaws"},
       {"zh": "，"},
@@ -420,15 +448,17 @@
       {"zh": "史诗级", "py": "shǐshījí", "gl": "epic-level"},
       {"zh": "”"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 118.62,
+     "end": 144.29
     },
     {
      "id": "s015",
      "zh": "他说：“你必须先发布，才能越过这一关。”",
-     "en": "He says, \"You have to publish first to get past this hurdle.\"",
+     "en": "He said, \"You have to publish first to get past this hurdle.\"",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
-      {"zh": "说", "py": "shuō", "gl": "says"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
       {"zh": "："},
       {"zh": "“"},
       {"zh": "你", "py": "nǐ", "gl": "you"},
@@ -443,7 +473,9 @@
       {"zh": "关", "py": "guān", "gl": "hurdle"},
       {"zh": "。"},
       {"zh": "”"}
-     ]
+     ],
+     "start": 145.24,
+     "end": 151.63
     }
    ]
   },
@@ -453,8 +485,8 @@
    "sentences": [
     {
      "id": "s016",
-     "zh": "现在他在摆弄 AI 智能体和自动化流程。",
-     "en": "Now he's tinkering with AI agents and automated workflows.",
+     "zh": "现在他在摆弄 AI 智能体和自动化流程，大家只看得到最后的成品，看不到中间的挣扎。",
+     "en": "Now he's tinkering with AI agents and automated workflows; everyone sees only the finished product, not the struggle in between.",
      "segments": [
       {"zh": "现在", "py": "xiànzài", "gl": "now"},
       {"zh": "他", "py": "tā", "gl": "he"},
@@ -467,60 +499,22 @@
       {"zh": "和", "py": "hé", "gl": "and"},
       {"zh": "自动化", "py": "zìdònghuà", "gl": "automated"},
       {"zh": "流程", "py": "liúchéng", "gl": "workflows"},
-      {"zh": "。"}
-     ]
-    },
-    {
-     "id": "s017",
-     "zh": "大家只看得到最后的成品，看不到中间的挣扎。",
-     "en": "People only see the finished product, not the struggle along the way.",
-     "segments": [
+      {"zh": "，"},
       {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
       {"zh": "只", "py": "zhǐ", "gl": "only"},
       {"zh": "看得到", "py": "kàndedào", "gl": "can see"},
       {"zh": "最后", "py": "zuìhòu", "gl": "final"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "的", "py": "de", "gl": "(linking particle)"},
       {"zh": "成品", "py": "chéngpǐn", "gl": "finished product"},
       {"zh": "，"},
-      {"zh": "看不到", "py": "kànbudào", "gl": "can't see"},
+      {"zh": "看不到", "py": "kànbudào", "gl": "cannot see"},
       {"zh": "中间", "py": "zhōngjiān", "gl": "in between"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "的", "py": "de", "gl": "(linking particle)"},
       {"zh": "挣扎", "py": "zhēngzhá", "gl": "struggle"},
       {"zh": "。"}
-     ]
-    },
-    {
-     "id": "s018",
-     "zh": "用他的话说：“如果你想把自己的工作自动化，这档播客就是为你准备的。”",
-     "en": "In his words: \"If you want to automate your own work, this podcast is for you.\"",
-     "segments": [
-      {"zh": "用", "py": "yòng", "gl": "using"},
-      {"zh": "他", "py": "tā", "gl": "his"},
-      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
-      {"zh": "话", "py": "huà", "gl": "words"},
-      {"zh": "说", "py": "shuō", "gl": "to say"},
-      {"zh": "："},
-      {"zh": "“"},
-      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
-      {"zh": "你", "py": "nǐ", "gl": "you"},
-      {"zh": "想", "py": "xiǎng", "gl": "want"},
-      {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
-      {"zh": "自己", "py": "zìjǐ", "gl": "your own"},
-      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
-      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
-      {"zh": "自动化", "py": "zìdònghuà", "gl": "automate"},
-      {"zh": "，"},
-      {"zh": "这", "py": "zhè", "gl": "this"},
-      {"zh": "档", "py": "dàng", "gl": "(measure word: show)"},
-      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
-      {"zh": "就是", "py": "jiùshì", "gl": "is precisely"},
-      {"zh": "为", "py": "wèi", "gl": "for"},
-      {"zh": "你", "py": "nǐ", "gl": "you"},
-      {"zh": "准备", "py": "zhǔnbèi", "gl": "prepared"},
-      {"zh": "的", "py": "de", "gl": "(emphasis particle)"},
-      {"zh": "。"},
-      {"zh": "”"}
-     ]
+     ],
+     "start": 152.74,
+     "end": 164.37
     }
    ]
   },
@@ -529,20 +523,22 @@
    "type": "heading",
    "sentences": [
     {
-     "id": "s019",
+     "id": "s017",
      "zh": "TikTok 直播与这档节目的由来",
-     "en": "TikTok livestreams and the origins of this show",
+     "en": "TikTok livestreaming and the origins of this show",
      "segments": [
       {"zh": "TikTok"},
       {"zh": " "},
-      {"zh": "直播", "py": "zhíbō", "gl": "livestream"},
+      {"zh": "直播", "py": "zhíbō", "gl": "livestreaming"},
       {"zh": "与", "py": "yǔ", "gl": "and"},
       {"zh": "这", "py": "zhè", "gl": "this"},
-      {"zh": "档", "py": "dàng", "gl": "(measure word for shows)"},
+      {"zh": "档", "py": "dàng", "gl": "(measure word: shows)"},
       {"zh": "节目", "py": "jiémù", "gl": "show"},
-      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
       {"zh": "由来", "py": "yóulái", "gl": "origin"}
-     ]
+     ],
+     "start": 164.74,
+     "end": 168.46
     }
    ]
   },
@@ -551,9 +547,9 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s020",
+     "id": "s018",
      "zh": "他最近也开始在 TikTok 上直播。",
-     "en": "He has also recently started livestreaming on TikTok.",
+     "en": "He has recently started livestreaming on TikTok too.",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "最近", "py": "zuìjìn", "gl": "recently"},
@@ -563,44 +559,49 @@
       {"zh": " "},
       {"zh": "TikTok"},
       {"zh": " "},
-      {"zh": "上", "py": "shàng", "gl": "on (platform)"},
+      {"zh": "上", "py": "shàng", "gl": "on"},
       {"zh": "直播", "py": "zhíbō", "gl": "livestream"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 168.46,
+     "end": 172.54
     },
     {
-     "id": "s021",
+     "id": "s019",
      "zh": "昨天一个赞都没有，后来忽然涨到了 631 个。",
      "en": "Yesterday he didn't have a single like, then it suddenly jumped to 631.",
      "segments": [
       {"zh": "昨天", "py": "zuótiān", "gl": "yesterday"},
-      {"zh": "一个", "py": "yí ge", "gl": "a single"},
+      {"zh": "一个", "py": "yí ge", "gl": "one, a single"},
       {"zh": "赞", "py": "zàn", "gl": "like"},
-      {"zh": "都", "py": "dōu", "gl": "(emphasis: even)"},
+      {"zh": "都", "py": "dōu", "gl": "(even, with negative)"},
       {"zh": "没有", "py": "méiyǒu", "gl": "not have"},
       {"zh": "，"},
       {"zh": "后来", "py": "hòulái", "gl": "later"},
       {"zh": "忽然", "py": "hūrán", "gl": "suddenly"},
-      {"zh": "涨到", "py": "zhǎngdào", "gl": "rise to"},
+      {"zh": "涨", "py": "zhǎng", "gl": "rise"},
+      {"zh": "到", "py": "dào", "gl": "to (result)"},
       {"zh": "了", "py": "le", "gl": "(completed action)"},
       {"zh": " "},
       {"zh": "631"},
       {"zh": " "},
       {"zh": "个", "py": "gè", "gl": "(measure word)"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 172.54,
+     "end": 178.09
     },
     {
-     "id": "s022",
+     "id": "s020",
      "zh": "他在 YouTube 上直播失败过，因为从中国连过去不够稳定，TikTok 就顺畅多了。",
-     "en": "His livestreams on YouTube have failed before because the connection from China wasn't stable enough; TikTok runs much more smoothly.",
+     "en": "His attempts to livestream on YouTube have failed because the connection from China wasn't stable enough, whereas TikTok runs much more smoothly.",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "在", "py": "zài", "gl": "on"},
       {"zh": " "},
       {"zh": "YouTube"},
       {"zh": " "},
-      {"zh": "上", "py": "shàng", "gl": "on (platform)"},
+      {"zh": "上", "py": "shàng", "gl": "on"},
       {"zh": "直播", "py": "zhíbō", "gl": "livestream"},
       {"zh": "失败", "py": "shībài", "gl": "fail"},
       {"zh": "过", "py": "guo", "gl": "(past experience)"},
@@ -609,18 +610,20 @@
       {"zh": "从", "py": "cóng", "gl": "from"},
       {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
       {"zh": "连", "py": "lián", "gl": "connect"},
-      {"zh": "过去", "py": "guòqu", "gl": "over (to there)"},
-      {"zh": "不够", "py": "búgòu", "gl": "not enough"},
+      {"zh": "过去", "py": "guòqu", "gl": "over (there)"},
+      {"zh": "不够", "py": "búgòu", "gl": "not sufficiently"},
       {"zh": "稳定", "py": "wěndìng", "gl": "stable"},
       {"zh": "，"},
       {"zh": "TikTok"},
       {"zh": " "},
-      {"zh": "就", "py": "jiù", "gl": "by contrast"},
+      {"zh": "就", "py": "jiù", "gl": "(by contrast)"},
       {"zh": "顺畅", "py": "shùnchàng", "gl": "smooth"},
       {"zh": "多", "py": "duō", "gl": "much more"},
       {"zh": "了", "py": "le", "gl": "(change of state)"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 179.12,
+     "end": 190.91
     }
    ]
   },
@@ -629,27 +632,20 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s023",
-     "zh": "这档节目始于 2021 年。",
-     "en": "This show began in 2021.",
+     "id": "s021",
+     "zh": "这档节目始于 2021 年，当时他是为了在疫情期间保持心态平和，也想让大家看看外国人在中国的普通生活。",
+     "en": "This show began in 2021, when he started it to keep a calm state of mind during the pandemic and also to show people the ordinary life of a foreigner in China.",
      "segments": [
       {"zh": "这", "py": "zhè", "gl": "this"},
-      {"zh": "档", "py": "dàng", "gl": "(measure word for shows)"},
+      {"zh": "档", "py": "dàng", "gl": "(measure word: shows)"},
       {"zh": "节目", "py": "jiémù", "gl": "show"},
-      {"zh": "始于", "py": "shǐyú", "gl": "begin in"},
+      {"zh": "始于", "py": "shǐyú", "gl": "began in"},
       {"zh": " "},
       {"zh": "2021"},
       {"zh": " "},
       {"zh": "年", "py": "nián", "gl": "year"},
-      {"zh": "。"}
-     ]
-    },
-    {
-     "id": "s024",
-     "zh": "当时他是为了在疫情期间保持心态平和，也想让大家看看外国人在中国的普通生活是什么模样。",
-     "en": "At the time, he did it to keep a calm state of mind during the pandemic, and also to show everyone what ordinary life is like for a foreigner in China.",
-     "segments": [
-      {"zh": "当时", "py": "dāngshí", "gl": "at the time"},
+      {"zh": "，"},
+      {"zh": "当时", "py": "dāngshí", "gl": "at that time"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "是", "py": "shì", "gl": "(emphasis)"},
       {"zh": "为了", "py": "wèile", "gl": "in order to"},
@@ -668,14 +664,13 @@
       {"zh": "外国人", "py": "wàiguórén", "gl": "foreigner"},
       {"zh": "在", "py": "zài", "gl": "in"},
       {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
-      {"zh": "的", "py": "de", "gl": "(linking particle)"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
       {"zh": "普通", "py": "pǔtōng", "gl": "ordinary"},
       {"zh": "生活", "py": "shēnghuó", "gl": "life"},
-      {"zh": "是", "py": "shì", "gl": "is"},
-      {"zh": "什么", "py": "shénme", "gl": "what"},
-      {"zh": "模样", "py": "múyàng", "gl": "appearance, what it's like"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 191.5,
+     "end": 205.37
     }
    ]
   },
@@ -684,9 +679,9 @@
    "type": "heading",
    "sentences": [
     {
-     "id": "s025",
+     "id": "s022",
      "zh": "驴肉汉堡与“无聊”的生活",
-     "en": "Donkey Burgers and a \"Boring\" Life",
+     "en": "Donkey Meat Burgers and a \"Boring\" Life",
      "segments": [
       {"zh": "驴肉", "py": "lǘròu", "gl": "donkey meat"},
       {"zh": "汉堡", "py": "hànbǎo", "gl": "burger"},
@@ -696,7 +691,9 @@
       {"zh": "”"},
       {"zh": "的", "py": "de", "gl": "(possessive/modifier)"},
       {"zh": "生活", "py": "shēnghuó", "gl": "life"}
-     ]
+     ],
+     "start": 205.76,
+     "end": 208.91
     }
    ]
   },
@@ -705,9 +702,9 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s026",
+     "id": "s023",
      "zh": "周六从健身房走回家，他在大望路附近、税务局旁边的一家店吃了个驴肉汉堡。",
-     "en": "Walking home from the gym on Saturday, he ate a donkey burger at a shop near Dawanglu, next to the tax bureau.",
+     "en": "Walking home from the gym on Saturday, he ate a donkey meat burger at a shop near Dawanglu, next to the tax bureau.",
      "segments": [
       {"zh": "周六", "py": "zhōuliù", "gl": "Saturday"},
       {"zh": "从", "py": "cóng", "gl": "from"},
@@ -732,12 +729,14 @@
       {"zh": "驴肉", "py": "lǘròu", "gl": "donkey meat"},
       {"zh": "汉堡", "py": "hànbǎo", "gl": "burger"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 209.68,
+     "end": 219.25
     },
     {
-     "id": "s027",
+     "id": "s024",
      "zh": "肉夹在长条形的饼里，还有猪油、洋葱和辣椒。",
-     "en": "The meat is tucked into a long, narrow flatbread, along with lard, onions, and chili peppers.",
+     "en": "The meat is tucked into a long, narrow flatbread, along with lard, onions and chili peppers.",
      "segments": [
       {"zh": "肉", "py": "ròu", "gl": "meat"},
       {"zh": "夹", "py": "jiā", "gl": "sandwiched"},
@@ -754,20 +753,23 @@
       {"zh": "和", "py": "hé", "gl": "and"},
       {"zh": "辣椒", "py": "làjiāo", "gl": "chili pepper"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 221.02,
+     "end": 226.75
     },
     {
-     "id": "s028",
+     "id": "s025",
      "zh": "味道不错，但他本以为是 12 到 15 块，结果收了 20。",
-     "en": "It tasted good, but he had expected it to cost 12 to 15 yuan, and they charged him 20.",
+     "en": "It tasted good, but he had assumed it would be 12 to 15 yuan, and in the end he was charged 20.",
      "segments": [
       {"zh": "味道", "py": "wèidao", "gl": "taste"},
       {"zh": "不错", "py": "búcuò", "gl": "pretty good"},
       {"zh": "，"},
       {"zh": "但", "py": "dàn", "gl": "but"},
       {"zh": "他", "py": "tā", "gl": "he"},
-      {"zh": "本以为", "py": "běnyǐwéi", "gl": "originally assumed"},
-      {"zh": "是", "py": "shì", "gl": "(it) was"},
+      {"zh": "本", "py": "běn", "gl": "originally"},
+      {"zh": "以为", "py": "yǐwéi", "gl": "assumed"},
+      {"zh": "是", "py": "shì", "gl": "to be"},
       {"zh": " "},
       {"zh": "12"},
       {"zh": " "},
@@ -775,20 +777,22 @@
       {"zh": " "},
       {"zh": "15"},
       {"zh": " "},
-      {"zh": "块", "py": "kuài", "gl": "yuan (colloquial)"},
+      {"zh": "块", "py": "kuài", "gl": "yuan"},
       {"zh": "，"},
-      {"zh": "结果", "py": "jiéguǒ", "gl": "but in the end"},
-      {"zh": "收", "py": "shōu", "gl": "charged"},
+      {"zh": "结果", "py": "jiéguǒ", "gl": "in the end"},
+      {"zh": "收", "py": "shōu", "gl": "charge"},
       {"zh": "了", "py": "le", "gl": "(completed action)"},
       {"zh": " "},
       {"zh": "20"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 227.32,
+     "end": 235.21
     },
     {
-     "id": "s029",
+     "id": "s026",
      "zh": "也许是“税务局溢价”，也许只是通货膨胀。",
-     "en": "Maybe it was a \"tax bureau premium,\" or maybe just inflation.",
+     "en": "Maybe it was a \"tax bureau premium,\" or maybe it was just inflation.",
      "segments": [
       {"zh": "也许", "py": "yěxǔ", "gl": "maybe"},
       {"zh": "是", "py": "shì", "gl": "is"},
@@ -799,9 +803,11 @@
       {"zh": "，"},
       {"zh": "也许", "py": "yěxǔ", "gl": "maybe"},
       {"zh": "只是", "py": "zhǐshì", "gl": "just"},
-      {"zh": "通货膨胀", "py": "tōnghuò péngzhàng", "gl": "inflation"},
+      {"zh": "通货膨胀", "py": "tōnghuòpéngzhàng", "gl": "inflation"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 235.62,
+     "end": 241.33
     }
    ]
   },
@@ -810,15 +816,14 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s030",
+     "id": "s027",
      "zh": "一位刚搬到福建的加拿大朋友总劝他多出门逛逛。",
-     "en": "A Canadian friend who just moved to Fujian keeps urging him to get out and explore more.",
+     "en": "A Canadian friend who just moved to Fujian keeps urging him to get out and wander around more.",
      "segments": [
       {"zh": "一", "py": "yí", "gl": "one"},
-      {"zh": "位", "py": "wèi", "gl": "(polite measure word: people)"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
       {"zh": "刚", "py": "gāng", "gl": "just"},
-      {"zh": "搬", "py": "bān", "gl": "move"},
-      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "搬到", "py": "bāndào", "gl": "move to"},
       {"zh": "福建", "py": "Fújiàn", "gl": "Fujian"},
       {"zh": "的", "py": "de", "gl": "(modifier)"},
       {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
@@ -828,14 +833,16 @@
       {"zh": "他", "py": "tā", "gl": "him"},
       {"zh": "多", "py": "duō", "gl": "more"},
       {"zh": "出门", "py": "chūmén", "gl": "go out"},
-      {"zh": "逛逛", "py": "guàngguang", "gl": "stroll around"},
+      {"zh": "逛逛", "py": "guàngguang", "gl": "wander around"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 242.36,
+     "end": 248.07
     },
     {
-     "id": "s031",
+     "id": "s028",
      "zh": "可在中国待了 12 年，他宁愿在家搭建自动化流程，也不想在餐厅里点菜点得磕磕绊绊，走在街上还被人盯着看、被人偷拍。",
-     "en": "But after 12 years in China, he would rather stay home building automation workflows than stumble through ordering at a restaurant, or walk down the street being stared at and secretly photographed.",
+     "en": "But after 12 years in China, he would rather stay home building automated workflows than stumble through ordering food in a restaurant and, out on the street, get stared at and secretly photographed.",
      "segments": [
       {"zh": "可", "py": "kě", "gl": "but"},
       {"zh": "在", "py": "zài", "gl": "in"},
@@ -849,26 +856,24 @@
       {"zh": "，"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "宁愿", "py": "nìngyuàn", "gl": "would rather"},
-      {"zh": "在", "py": "zài", "gl": "at"},
-      {"zh": "家", "py": "jiā", "gl": "home"},
+      {"zh": "在家", "py": "zàijiā", "gl": "at home"},
       {"zh": "搭建", "py": "dājiàn", "gl": "build"},
-      {"zh": "自动化", "py": "zìdònghuà", "gl": "automation"},
+      {"zh": "自动化", "py": "zìdònghuà", "gl": "automated"},
       {"zh": "流程", "py": "liúchéng", "gl": "workflow"},
       {"zh": "，"},
-      {"zh": "也", "py": "yě", "gl": "(and) also"},
+      {"zh": "也", "py": "yě", "gl": "(rather than)"},
       {"zh": "不想", "py": "bùxiǎng", "gl": "not want"},
       {"zh": "在", "py": "zài", "gl": "in"},
       {"zh": "餐厅", "py": "cāntīng", "gl": "restaurant"},
       {"zh": "里", "py": "lǐ", "gl": "inside"},
       {"zh": "点菜", "py": "diǎncài", "gl": "order food"},
       {"zh": "点", "py": "diǎn", "gl": "order"},
-      {"zh": "得", "py": "de", "gl": "(manner complement)"},
-      {"zh": "磕磕绊绊", "py": "kēkebànbàn", "gl": "haltingly"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "磕磕绊绊", "py": "kēkēbànbàn", "gl": "stumblingly"},
       {"zh": "，"},
       {"zh": "走", "py": "zǒu", "gl": "walk"},
       {"zh": "在", "py": "zài", "gl": "on"},
-      {"zh": "街", "py": "jiē", "gl": "street"},
-      {"zh": "上", "py": "shàng", "gl": "on"},
+      {"zh": "街上", "py": "jiēshang", "gl": "on the street"},
       {"zh": "还", "py": "hái", "gl": "also"},
       {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
       {"zh": "人", "py": "rén", "gl": "people"},
@@ -879,41 +884,30 @@
       {"zh": "人", "py": "rén", "gl": "people"},
       {"zh": "偷拍", "py": "tōupāi", "gl": "secretly photograph"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 248.38,
+     "end": 263.59
     },
     {
-     "id": "s032",
-     "zh": "别急着怪他那快 20 英寸长的大胡子，这种事早在留胡子之前就有了。",
-     "en": "Don't be quick to blame his nearly 20-inch-long beard: this was happening long before he grew it.",
+     "id": "s029",
+     "zh": "这种事早在他留胡子之前就有了。",
+     "en": "This sort of thing was already happening long before he grew a beard.",
      "segments": [
-      {"zh": "别", "py": "bié", "gl": "don't"},
-      {"zh": "急着", "py": "jízhe", "gl": "hurry to"},
-      {"zh": "怪", "py": "guài", "gl": "blame"},
-      {"zh": "他", "py": "tā", "gl": "his"},
-      {"zh": "那", "py": "nà", "gl": "that"},
-      {"zh": "快", "py": "kuài", "gl": "nearly"},
-      {"zh": " "},
-      {"zh": "20"},
-      {"zh": " "},
-      {"zh": "英寸", "py": "yīngcùn", "gl": "inches"},
-      {"zh": "长", "py": "cháng", "gl": "long"},
-      {"zh": "的", "py": "de", "gl": "(modifier)"},
-      {"zh": "大", "py": "dà", "gl": "big"},
-      {"zh": "胡子", "py": "húzi", "gl": "beard"},
-      {"zh": "，"},
-      {"zh": "这", "py": "zhè", "gl": "this"},
-      {"zh": "种", "py": "zhǒng", "gl": "kind of"},
+      {"zh": "这种", "py": "zhèzhǒng", "gl": "this kind of"},
       {"zh": "事", "py": "shì", "gl": "thing"},
       {"zh": "早", "py": "zǎo", "gl": "long ago"},
       {"zh": "在", "py": "zài", "gl": "at"},
-      {"zh": "留", "py": "liú", "gl": "grow (hair)"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "留", "py": "liú", "gl": "grow"},
       {"zh": "胡子", "py": "húzi", "gl": "beard"},
       {"zh": "之前", "py": "zhīqián", "gl": "before"},
       {"zh": "就", "py": "jiù", "gl": "already"},
-      {"zh": "有", "py": "yǒu", "gl": "existed"},
-      {"zh": "了", "py": "le", "gl": "(changed state)"},
+      {"zh": "有", "py": "yǒu", "gl": "exist"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 264.2,
+     "end": 268.16
     }
    ]
   },
@@ -922,16 +916,18 @@
    "type": "heading",
    "sentences": [
     {
-     "id": "s033",
+     "id": "s030",
      "zh": "他常吃的几样",
      "en": "A few things he often eats",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "常", "py": "cháng", "gl": "often"},
       {"zh": "吃", "py": "chī", "gl": "eat"},
-      {"zh": "的", "py": "de", "gl": "(nominalizer: things that)"},
-      {"zh": "几样", "py": "jǐyàng", "gl": "several kinds"}
-     ]
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "几样", "py": "jǐyàng", "gl": "several items"}
+     ],
+     "start": 268.16,
+     "end": 270.15
     }
    ]
   },
@@ -940,21 +936,23 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s034",
+     "id": "s031",
      "zh": "他的“固定菜单”其实很短：",
-     "en": "His \"regular menu\" is actually quite short:",
+     "en": "His \"set menu\" is actually quite short:",
      "segments": [
-      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "他", "py": "tā", "gl": "his"},
       {"zh": "的", "py": "de", "gl": "(possessive)"},
       {"zh": "“"},
-      {"zh": "固定", "py": "gùdìng", "gl": "regular, fixed"},
+      {"zh": "固定", "py": "gùdìng", "gl": "fixed"},
       {"zh": "菜单", "py": "càidān", "gl": "menu"},
       {"zh": "”"},
       {"zh": "其实", "py": "qíshí", "gl": "actually"},
-      {"zh": "很", "py": "hěn", "gl": "quite"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
       {"zh": "短", "py": "duǎn", "gl": "short"},
       {"zh": "："}
-     ]
+     ],
+     "start": 271.02,
+     "end": 274.19
     }
    ]
   },
@@ -963,19 +961,21 @@
    "type": "item",
    "sentences": [
     {
-     "id": "s035",
+     "id": "s032",
      "zh": "中式早餐：包子、油条、豆浆",
-     "en": "Chinese breakfast: steamed buns, fried dough sticks, soy milk",
+     "en": "Chinese breakfast: steamed buns, fried dough sticks and soy milk",
      "segments": [
       {"zh": "中式", "py": "zhōngshì", "gl": "Chinese-style"},
       {"zh": "早餐", "py": "zǎocān", "gl": "breakfast"},
       {"zh": "："},
-      {"zh": "包子", "py": "bāozi", "gl": "steamed stuffed buns"},
+      {"zh": "包子", "py": "bāozi", "gl": "steamed stuffed bun"},
       {"zh": "、"},
-      {"zh": "油条", "py": "yóutiáo", "gl": "fried dough sticks"},
+      {"zh": "油条", "py": "yóutiáo", "gl": "fried dough stick"},
       {"zh": "、"},
       {"zh": "豆浆", "py": "dòujiāng", "gl": "soy milk"}
-     ]
+     ],
+     "start": 275.02,
+     "end": 278.72
     }
    ]
   },
@@ -984,17 +984,19 @@
    "type": "item",
    "sentences": [
     {
-     "id": "s036",
+     "id": "s033",
      "zh": "锅包肉：东北的酸甜里脊",
-     "en": "Guobaorou: Northeastern-style sweet and sour pork tenderloin",
+     "en": "Guobaorou: sweet and sour pork tenderloin from Northeast China",
      "segments": [
       {"zh": "锅包肉", "py": "guōbāoròu", "gl": "sweet-sour fried pork"},
       {"zh": "："},
       {"zh": "东北", "py": "Dōngběi", "gl": "Northeast China"},
-      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
       {"zh": "酸甜", "py": "suāntián", "gl": "sweet and sour"},
       {"zh": "里脊", "py": "lǐji", "gl": "tenderloin"}
-     ]
+     ],
+     "start": 278.72,
+     "end": 281.13
     }
    ]
   },
@@ -1003,29 +1005,31 @@
    "type": "item",
    "sentences": [
     {
-     "id": "s037",
+     "id": "s034",
      "zh": "清真烤串：简直是“穿在签子上的正宗牛排”，再配上馕",
-     "en": "Halal grilled skewers: practically \"authentic steak on a stick,\" paired with naan flatbread",
+     "en": "Halal kebabs: practically \"authentic steak on a skewer,\" served with naan",
      "segments": [
       {"zh": "清真", "py": "qīngzhēn", "gl": "halal"},
       {"zh": "烤串", "py": "kǎochuàn", "gl": "grilled skewers"},
       {"zh": "："},
-      {"zh": "简直", "py": "jiǎnzhí", "gl": "practically, simply"},
+      {"zh": "简直", "py": "jiǎnzhí", "gl": "practically"},
       {"zh": "是", "py": "shì", "gl": "is"},
       {"zh": "“"},
       {"zh": "穿", "py": "chuān", "gl": "threaded"},
       {"zh": "在", "py": "zài", "gl": "on"},
-      {"zh": "签子", "py": "qiānzi", "gl": "skewer, stick"},
-      {"zh": "上", "py": "shàng", "gl": "on (location)"},
-      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "签子", "py": "qiānzi", "gl": "skewer"},
+      {"zh": "上", "py": "shàng", "gl": "on"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
       {"zh": "正宗", "py": "zhèngzōng", "gl": "authentic"},
       {"zh": "牛排", "py": "niúpái", "gl": "steak"},
       {"zh": "”"},
       {"zh": "，"},
-      {"zh": "再", "py": "zài", "gl": "then, in addition"},
-      {"zh": "配上", "py": "pèishang", "gl": "paired with"},
-      {"zh": "馕", "py": "náng", "gl": "naan flatbread"}
-     ]
+      {"zh": "再", "py": "zài", "gl": "then also"},
+      {"zh": "配上", "py": "pèishang", "gl": "pair with"},
+      {"zh": "馕", "py": "náng", "gl": "naan"}
+     ],
+     "start": 282.0,
+     "end": 290.53
     }
    ]
   },
@@ -1034,9 +1038,9 @@
    "type": "item",
    "sentences": [
     {
-     "id": "s038",
+     "id": "s035",
      "zh": "Blue Frog 的双层汉堡：在他看来是世界上最好的汉堡",
-     "en": "Blue Frog's double-patty burger: in his view, the best burger in the world",
+     "en": "Blue Frog's double burger: in his view, the best burger in the world",
      "segments": [
       {"zh": "Blue Frog"},
       {"zh": " "},
@@ -1044,17 +1048,15 @@
       {"zh": "双层", "py": "shuāngcéng", "gl": "double-layer"},
       {"zh": "汉堡", "py": "hànbǎo", "gl": "burger"},
       {"zh": "："},
-      {"zh": "在", "py": "zài", "gl": "in"},
-      {"zh": "他", "py": "tā", "gl": "his"},
-      {"zh": "看来", "py": "kànlái", "gl": "view, opinion"},
+      {"zh": "在他看来", "py": "zài tā kànlái", "gl": "in his view"},
       {"zh": "是", "py": "shì", "gl": "is"},
-      {"zh": "世界", "py": "shìjiè", "gl": "world"},
-      {"zh": "上", "py": "shàng", "gl": "in (location)"},
-      {"zh": "最", "py": "zuì", "gl": "most"},
-      {"zh": "好", "py": "hǎo", "gl": "good"},
-      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "世界上", "py": "shìjièshang", "gl": "in the world"},
+      {"zh": "最好", "py": "zuìhǎo", "gl": "best"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
       {"zh": "汉堡", "py": "hànbǎo", "gl": "burger"}
-     ]
+     ],
+     "start": 290.58,
+     "end": 296.67
     }
    ]
   },
@@ -1063,20 +1065,19 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s039",
+     "id": "s036",
      "zh": "Blue Frog 周一买一送，两个汉堡加两杯饮料约 160 元，他能分好几顿吃完。",
-     "en": "Blue Frog does buy-one-get-one-free on Mondays; two burgers plus two drinks cost about 160 yuan, and he can split them across several meals.",
+     "en": "Blue Frog does buy-one-get-one on Mondays: two burgers plus two drinks come to about 160 yuan, and he can split that across several meals.",
      "segments": [
       {"zh": "Blue Frog"},
       {"zh": " "},
       {"zh": "周一", "py": "zhōuyī", "gl": "Monday"},
       {"zh": "买一送", "py": "mǎiyísòng", "gl": "buy one get one"},
       {"zh": "，"},
-      {"zh": "两个", "py": "liǎng ge", "gl": "two"},
+      {"zh": "两个", "py": "liǎngge", "gl": "two"},
       {"zh": "汉堡", "py": "hànbǎo", "gl": "burgers"},
       {"zh": "加", "py": "jiā", "gl": "plus"},
-      {"zh": "两", "py": "liǎng", "gl": "two"},
-      {"zh": "杯", "py": "bēi", "gl": "(measure: cups)"},
+      {"zh": "两杯", "py": "liǎngbēi", "gl": "two cups"},
       {"zh": "饮料", "py": "yǐnliào", "gl": "drinks"},
       {"zh": "约", "py": "yuē", "gl": "about"},
       {"zh": " "},
@@ -1086,29 +1087,19 @@
       {"zh": "，"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "能", "py": "néng", "gl": "can"},
-      {"zh": "分", "py": "fēn", "gl": "divide, split"},
-      {"zh": "好几", "py": "hǎojǐ", "gl": "quite a few"},
-      {"zh": "顿", "py": "dùn", "gl": "(measure: meals)"},
+      {"zh": "分", "py": "fēn", "gl": "divide"},
+      {"zh": "好几顿", "py": "hǎojǐdùn", "gl": "several meals"},
       {"zh": "吃完", "py": "chīwán", "gl": "finish eating"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 296.82,
+     "end": 307.35
     },
     {
-     "id": "s040",
-     "zh": "在这儿会想“来吧，吃！”，在加拿大花 30 加元可真是肉疼。",
-     "en": "Here you think, \"Come on, let's eat!\", whereas spending 30 Canadian dollars in Canada really hurts.",
+     "id": "s037",
+     "zh": "在加拿大花 30 加元吃同样的东西，可真是肉疼。",
+     "en": "Spending 30 Canadian dollars on the same thing in Canada really hurts.",
      "segments": [
-      {"zh": "在", "py": "zài", "gl": "in, at"},
-      {"zh": "这儿", "py": "zhèr", "gl": "here"},
-      {"zh": "会", "py": "huì", "gl": "would"},
-      {"zh": "想", "py": "xiǎng", "gl": "think"},
-      {"zh": "“"},
-      {"zh": "来吧", "py": "láiba", "gl": "come on"},
-      {"zh": "，"},
-      {"zh": "吃", "py": "chī", "gl": "eat"},
-      {"zh": "！"},
-      {"zh": "”"},
-      {"zh": "，"},
       {"zh": "在", "py": "zài", "gl": "in"},
       {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
       {"zh": "花", "py": "huā", "gl": "spend"},
@@ -1116,11 +1107,18 @@
       {"zh": "30"},
       {"zh": " "},
       {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
-      {"zh": "可", "py": "kě", "gl": "really (emphasis)"},
-      {"zh": "真是", "py": "zhēnshi", "gl": "truly is"},
-      {"zh": "肉疼", "py": "ròuténg", "gl": "painful (spending money)"},
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "同样", "py": "tóngyàng", "gl": "the same"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "东西", "py": "dōngxi", "gl": "thing"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "really"},
+      {"zh": "真是", "py": "zhēnshi", "gl": "truly"},
+      {"zh": "肉疼", "py": "ròuténg", "gl": "painful (of spending)"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 307.98,
+     "end": 314.19
     }
    ]
   },
@@ -1129,18 +1127,18 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s041",
+     "id": "s038",
      "zh": "女朋友的妈妈也常给他送吃的，明星是甜饼（tianbing）：像肉夹馍的那种饼，只不过是封口的，里面包着糖。",
-     "en": "His girlfriend's mother also often brings him food, and the star is tianbing, a sweet flatbread: a bread like the one used for roujiamo, except that it's sealed, with sugar wrapped inside.",
+     "en": "His girlfriend's mother also often brings him food, and the star is tianbing: a flatbread like the kind used for roujiamo, except that it's sealed and has sugar inside.",
      "segments": [
       {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
       {"zh": "的", "py": "de", "gl": "(possessive)"},
       {"zh": "妈妈", "py": "māma", "gl": "mother"},
       {"zh": "也", "py": "yě", "gl": "also"},
       {"zh": "常", "py": "cháng", "gl": "often"},
-      {"zh": "给", "py": "gěi", "gl": "to, for"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
       {"zh": "他", "py": "tā", "gl": "him"},
-      {"zh": "送", "py": "sòng", "gl": "bring, deliver"},
+      {"zh": "送", "py": "sòng", "gl": "bring"},
       {"zh": "吃的", "py": "chīde", "gl": "food"},
       {"zh": "，"},
       {"zh": "明星", "py": "míngxīng", "gl": "star"},
@@ -1152,38 +1150,41 @@
       {"zh": "："},
       {"zh": "像", "py": "xiàng", "gl": "like"},
       {"zh": "肉夹馍", "py": "ròujiāmó", "gl": "Chinese meat sandwich"},
-      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
       {"zh": "那种", "py": "nàzhǒng", "gl": "that kind"},
       {"zh": "饼", "py": "bǐng", "gl": "flatbread"},
       {"zh": "，"},
       {"zh": "只不过", "py": "zhǐbúguò", "gl": "except that"},
-      {"zh": "是", "py": "shì", "gl": "is (emphasis)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
       {"zh": "封口", "py": "fēngkǒu", "gl": "sealed"},
       {"zh": "的", "py": "de", "gl": "(nominalizer)"},
       {"zh": "，"},
       {"zh": "里面", "py": "lǐmiàn", "gl": "inside"},
-      {"zh": "包", "py": "bāo", "gl": "wrap"},
-      {"zh": "着", "py": "zhe", "gl": "(continuing state)"},
+      {"zh": "包着", "py": "bāozhe", "gl": "wrapped with"},
       {"zh": "糖", "py": "táng", "gl": "sugar"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 314.56,
+     "end": 329.31
     },
     {
-     "id": "s042",
+     "id": "s039",
      "zh": "加热后配上冰激凌，是绝佳的甜点。",
-     "en": "Heated up and served with ice cream, it makes an excellent dessert.",
+     "en": "Heated up and served with ice cream, it makes a superb dessert.",
      "segments": [
       {"zh": "加热", "py": "jiārè", "gl": "heat up"},
       {"zh": "后", "py": "hòu", "gl": "after"},
-      {"zh": "配上", "py": "pèishang", "gl": "paired with"},
-      {"zh": "冰激凌", "py": "bīngjīlíng", "gl": "ice cream"},
+      {"zh": "配上", "py": "pèishang", "gl": "pair with"},
+      {"zh": "冰激凌", "py": "bīngjilíng", "gl": "ice cream"},
       {"zh": "，"},
       {"zh": "是", "py": "shì", "gl": "is"},
-      {"zh": "绝佳", "py": "juéjiā", "gl": "excellent"},
-      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "绝佳", "py": "juéjiā", "gl": "superb"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
       {"zh": "甜点", "py": "tiándiǎn", "gl": "dessert"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 329.92,
+     "end": 335.15
     }
    ]
   },
@@ -1192,9 +1193,9 @@
    "type": "heading",
    "sentences": [
     {
-     "id": "s043",
+     "id": "s040",
      "zh": "秋叶与无人机禁令",
-     "en": "Autumn Leaves and the Drone Ban",
+     "en": "Autumn leaves and the drone ban",
      "segments": [
       {"zh": "秋叶", "py": "qiūyè", "gl": "autumn leaves"},
       {"zh": "与", "py": "yǔ", "gl": "and"},
@@ -1209,14 +1210,14 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s044",
+     "id": "s041",
      "zh": "树叶终于变色了，秋天正是去长城的好时候。",
      "en": "The leaves have finally changed color, and autumn is the perfect time to visit the Great Wall.",
      "segments": [
       {"zh": "树叶", "py": "shùyè", "gl": "tree leaves"},
       {"zh": "终于", "py": "zhōngyú", "gl": "finally"},
       {"zh": "变色", "py": "biànsè", "gl": "change color"},
-      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
       {"zh": "，"},
       {"zh": "秋天", "py": "qiūtiān", "gl": "autumn"},
       {"zh": "正是", "py": "zhèngshì", "gl": "is precisely"},
@@ -1226,12 +1227,14 @@
       {"zh": "好", "py": "hǎo", "gl": "good"},
       {"zh": "时候", "py": "shíhou", "gl": "time"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 339.6,
+     "end": 345.03
     },
     {
-     "id": "s045",
+     "id": "s042",
      "zh": "以前这个季节最适合航拍，可现在在北京，连持有或携带无人机零件都不行，包括过境转机，范围是以北京为中心 300 公里。",
-     "en": "This season used to be the best for aerial photography, but now in Beijing you can't even possess or carry drone parts, including when transiting, and the restricted area extends 300 kilometers around Beijing.",
+     "en": "This season used to be the best for aerial photography, but now in Beijing even possessing or carrying drone parts isn't allowed, including when transiting, and the restricted area extends 300 kilometers around Beijing.",
      "segments": [
       {"zh": "以前", "py": "yǐqián", "gl": "in the past"},
       {"zh": "这个", "py": "zhège", "gl": "this"},
@@ -1255,21 +1258,23 @@
       {"zh": "不行", "py": "bùxíng", "gl": "not allowed"},
       {"zh": "，"},
       {"zh": "包括", "py": "bāokuò", "gl": "including"},
-      {"zh": "过境", "py": "guòjìng", "gl": "transit"},
+      {"zh": "过境", "py": "guòjìng", "gl": "in transit"},
       {"zh": "转机", "py": "zhuǎnjī", "gl": "change planes"},
       {"zh": "，"},
-      {"zh": "范围", "py": "fànwéi", "gl": "range, area"},
+      {"zh": "范围", "py": "fànwéi", "gl": "area, range"},
       {"zh": "是", "py": "shì", "gl": "is"},
-      {"zh": "以", "py": "yǐ", "gl": "taking (以…为)"},
+      {"zh": "以", "py": "yǐ", "gl": "taking (as)"},
       {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
-      {"zh": "为", "py": "wéi", "gl": "as (以…为)"},
+      {"zh": "为", "py": "wéi", "gl": "as"},
       {"zh": "中心", "py": "zhōngxīn", "gl": "center"},
       {"zh": " "},
       {"zh": "300"},
       {"zh": " "},
       {"zh": "公里", "py": "gōnglǐ", "gl": "kilometers"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 345.72,
+     "end": 360.93
     }
    ]
   },
@@ -1278,9 +1283,9 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s046",
+     "id": "s043",
      "zh": "如果从加拿大飞，经北京转机去蒙古，能带无人机吗？",
-     "en": "If you fly from Canada and change planes in Beijing on the way to Mongolia, can you bring a drone?",
+     "en": "If you fly from Canada and transfer through Beijing on the way to Mongolia, can you bring a drone?",
      "segments": [
       {"zh": "如果", "py": "rúguǒ", "gl": "if"},
       {"zh": "从", "py": "cóng", "gl": "from"},
@@ -1298,10 +1303,12 @@
       {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
       {"zh": "吗", "py": "ma", "gl": "(question particle)"},
       {"zh": "？"}
-     ]
+     ],
+     "start": 361.48,
+     "end": 368.87
     },
     {
-     "id": "s047",
+     "id": "s044",
      "zh": "机场算北京吗？",
      "en": "Does the airport count as Beijing?",
      "segments": [
@@ -1310,32 +1317,36 @@
       {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
       {"zh": "吗", "py": "ma", "gl": "(question particle)"},
       {"zh": "？"}
-     ]
+     ],
+     "start": 369.52,
+     "end": 371.54
     },
     {
-     "id": "s048",
+     "id": "s045",
      "zh": "他没查到任何信息，而他手里还有一架无人机，所以有点发愁。",
-     "en": "He couldn't find any information, and since he has a drone on hand, he's a bit worried.",
+     "en": "He couldn't find any information, and since he still has a drone, he's a bit worried.",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "没", "py": "méi", "gl": "did not"},
-      {"zh": "查到", "py": "chádào", "gl": "find by searching"},
+      {"zh": "查到", "py": "chádào", "gl": "find (by searching)"},
       {"zh": "任何", "py": "rènhé", "gl": "any"},
       {"zh": "信息", "py": "xìnxī", "gl": "information"},
       {"zh": "，"},
-      {"zh": "而", "py": "ér", "gl": "and, yet"},
+      {"zh": "而", "py": "ér", "gl": "and, whereas"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "手里", "py": "shǒuli", "gl": "on hand"},
       {"zh": "还有", "py": "háiyǒu", "gl": "still has"},
       {"zh": "一", "py": "yí", "gl": "one"},
-      {"zh": "架", "py": "jià", "gl": "(measure word: aircraft)"},
+      {"zh": "架", "py": "jià", "gl": "(measure word for aircraft)"},
       {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
       {"zh": "，"},
       {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
       {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
       {"zh": "发愁", "py": "fāchóu", "gl": "worried"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 371.54,
+     "end": 380.44
     }
    ]
   },
@@ -1344,17 +1355,19 @@
    "type": "heading",
    "sentences": [
     {
-     "id": "s049",
+     "id": "s046",
      "zh": "健身卡、肌酸和新成绩",
-     "en": "Gym memberships, creatine, and new lifting numbers",
+     "en": "Gym cards, creatine and new personal bests",
      "segments": [
       {"zh": "健身卡", "py": "jiànshēnkǎ", "gl": "gym card"},
       {"zh": "、"},
       {"zh": "肌酸", "py": "jīsuān", "gl": "creatine"},
       {"zh": "和", "py": "hé", "gl": "and"},
       {"zh": "新", "py": "xīn", "gl": "new"},
-      {"zh": "成绩", "py": "chéngjì", "gl": "results; numbers"}
-     ]
+      {"zh": "成绩", "py": "chéngjì", "gl": "results; lifts"}
+     ],
+     "start": 380.44,
+     "end": 384.22
     }
    ]
   },
@@ -1363,7 +1376,7 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s050",
+     "id": "s047",
      "zh": "他的健身房有两种方式：往卡里充钱，或者买按次数计的月卡。",
      "en": "His gym offers two options: load money onto a card, or buy a monthly card that counts visits.",
      "segments": [
@@ -1373,84 +1386,54 @@
       {"zh": "有", "py": "yǒu", "gl": "has"},
       {"zh": "两", "py": "liǎng", "gl": "two"},
       {"zh": "种", "py": "zhǒng", "gl": "kinds of"},
-      {"zh": "方式", "py": "fāngshì", "gl": "options; ways"},
+      {"zh": "方式", "py": "fāngshì", "gl": "ways; options"},
       {"zh": "："},
-      {"zh": "往", "py": "wǎng", "gl": "onto; toward"},
+      {"zh": "往", "py": "wǎng", "gl": "onto"},
       {"zh": "卡", "py": "kǎ", "gl": "card"},
-      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
       {"zh": "充钱", "py": "chōngqián", "gl": "add money"},
       {"zh": "，"},
       {"zh": "或者", "py": "huòzhě", "gl": "or"},
       {"zh": "买", "py": "mǎi", "gl": "buy"},
       {"zh": "按", "py": "àn", "gl": "according to"},
-      {"zh": "次数", "py": "cìshù", "gl": "number of visits"},
+      {"zh": "次数", "py": "cìshù", "gl": "number of times"},
       {"zh": "计", "py": "jì", "gl": "count"},
       {"zh": "的", "py": "de", "gl": "(links modifier)"},
       {"zh": "月卡", "py": "yuèkǎ", "gl": "monthly card"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 384.22,
+     "end": 394.11
     },
     {
-     "id": "s051",
-     "zh": "月卡的坑在于：中途上个厕所，或者忘了带水瓶回去取，就又算一次进场。",
-     "en": "The catch with the monthly card is that if you step out to use the bathroom partway through, or go back for a forgotten water bottle, it counts as another entry.",
+     "id": "s048",
+     "zh": "月卡的坑在于：中途上个厕所，或者回去取水瓶，就又算一次进场。",
+     "en": "The catch with the monthly card is that if you go to the toilet partway through, or go back to get your water bottle, it counts as another entry.",
      "segments": [
       {"zh": "月卡", "py": "yuèkǎ", "gl": "monthly card"},
       {"zh": "的", "py": "de", "gl": "(possessive)"},
-      {"zh": "坑", "py": "kēng", "gl": "catch; trap"},
+      {"zh": "坑", "py": "kēng", "gl": "catch; pitfall"},
       {"zh": "在于", "py": "zàiyú", "gl": "lies in"},
       {"zh": "："},
       {"zh": "中途", "py": "zhōngtú", "gl": "midway"},
       {"zh": "上", "py": "shàng", "gl": "go to"},
       {"zh": "个", "py": "ge", "gl": "(measure word)"},
-      {"zh": "厕所", "py": "cèsuǒ", "gl": "bathroom"},
+      {"zh": "厕所", "py": "cèsuǒ", "gl": "toilet"},
       {"zh": "，"},
       {"zh": "或者", "py": "huòzhě", "gl": "or"},
-      {"zh": "忘", "py": "wàng", "gl": "forget"},
-      {"zh": "了", "py": "le", "gl": "(completed action)"},
-      {"zh": "带", "py": "dài", "gl": "bring"},
-      {"zh": "水瓶", "py": "shuǐpíng", "gl": "water bottle"},
-      {"zh": "回去", "py": "huíqù", "gl": "go back"},
+      {"zh": "回去", "py": "huíqu", "gl": "go back"},
       {"zh": "取", "py": "qǔ", "gl": "fetch"},
+      {"zh": "水瓶", "py": "shuǐpíng", "gl": "water bottle"},
       {"zh": "，"},
       {"zh": "就", "py": "jiù", "gl": "then"},
       {"zh": "又", "py": "yòu", "gl": "again"},
-      {"zh": "算", "py": "suàn", "gl": "count as"},
+      {"zh": "算", "py": "suàn", "gl": "counts as"},
       {"zh": "一次", "py": "yícì", "gl": "one time"},
       {"zh": "进场", "py": "jìnchǎng", "gl": "entry"},
       {"zh": "。"}
-     ]
-    },
-    {
-     "id": "s052",
-     "zh": "他离休息只差两次训练，还在纠结是做一周减量训练，还是干脆整周休息。",
-     "en": "He's only two workouts away from a break, and he's still torn between doing a deload week and just taking the whole week off.",
-     "segments": [
-      {"zh": "他", "py": "tā", "gl": "he"},
-      {"zh": "离", "py": "lí", "gl": "away from"},
-      {"zh": "休息", "py": "xiūxi", "gl": "rest; break"},
-      {"zh": "只", "py": "zhǐ", "gl": "only"},
-      {"zh": "差", "py": "chà", "gl": "short by"},
-      {"zh": "两", "py": "liǎng", "gl": "two"},
-      {"zh": "次", "py": "cì", "gl": "(times)"},
-      {"zh": "训练", "py": "xùnliàn", "gl": "workouts"},
-      {"zh": "，"},
-      {"zh": "还", "py": "hái", "gl": "still"},
-      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
-      {"zh": "纠结", "py": "jiūjié", "gl": "torn; undecided"},
-      {"zh": "是", "py": "shì", "gl": "whether"},
-      {"zh": "做", "py": "zuò", "gl": "do"},
-      {"zh": "一周", "py": "yìzhōu", "gl": "one week"},
-      {"zh": "减量", "py": "jiǎnliàng", "gl": "reduced volume"},
-      {"zh": "训练", "py": "xùnliàn", "gl": "training"},
-      {"zh": "，"},
-      {"zh": "还是", "py": "háishi", "gl": "or"},
-      {"zh": "干脆", "py": "gāncuì", "gl": "simply; just"},
-      {"zh": "整", "py": "zhěng", "gl": "whole"},
-      {"zh": "周", "py": "zhōu", "gl": "week"},
-      {"zh": "休息", "py": "xiūxi", "gl": "rest"},
-      {"zh": "。"}
-     ]
+     ],
+     "start": 394.7,
+     "end": 404.73
     }
    ]
   },
@@ -1459,7 +1442,7 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s053",
+     "id": "s049",
      "zh": "他还澄清了一个误会：他喝的是一水肌酸，每天 3 克，并不是蛋白质来源。",
      "en": "He also cleared up a misunderstanding: what he takes is creatine monohydrate, 3 grams a day, and it isn't a source of protein.",
      "segments": [
@@ -1467,12 +1450,12 @@
       {"zh": "还", "py": "hái", "gl": "also"},
       {"zh": "澄清", "py": "chéngqīng", "gl": "clear up"},
       {"zh": "了", "py": "le", "gl": "(completed action)"},
-      {"zh": "一个", "py": "yí ge", "gl": "a; one"},
+      {"zh": "一个", "py": "yí ge", "gl": "a"},
       {"zh": "误会", "py": "wùhuì", "gl": "misunderstanding"},
       {"zh": "："},
       {"zh": "他", "py": "tā", "gl": "he"},
-      {"zh": "喝", "py": "hē", "gl": "drink; take"},
-      {"zh": "的", "py": "de", "gl": "(what is...)"},
+      {"zh": "喝", "py": "hē", "gl": "drinks"},
+      {"zh": "的", "py": "de", "gl": "(what he...)"},
       {"zh": "是", "py": "shì", "gl": "is"},
       {"zh": "一水肌酸", "py": "yìshuǐjīsuān", "gl": "creatine monohydrate"},
       {"zh": "，"},
@@ -1487,32 +1470,36 @@
       {"zh": "蛋白质", "py": "dànbáizhì", "gl": "protein"},
       {"zh": "来源", "py": "láiyuán", "gl": "source"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 405.22,
+     "end": 415.67
     },
     {
-     "id": "s054",
+     "id": "s050",
      "zh": "他以前的肠胃问题多半是乳清蛋白惹的祸，所以现在改喝豌豆蛋白。",
-     "en": "His past stomach problems were most likely caused by whey protein, so now he's switched to pea protein.",
+     "en": "His past stomach problems were most likely caused by whey protein, so now he has switched to pea protein.",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "以前", "py": "yǐqián", "gl": "previously"},
       {"zh": "的", "py": "de", "gl": "(possessive)"},
-      {"zh": "肠胃", "py": "chángwèi", "gl": "stomach and gut"},
+      {"zh": "肠胃", "py": "chángwèi", "gl": "stomach; digestive"},
       {"zh": "问题", "py": "wèntí", "gl": "problems"},
       {"zh": "多半", "py": "duōbàn", "gl": "most likely"},
       {"zh": "是", "py": "shì", "gl": "is"},
-      {"zh": "乳清蛋白", "py": "rǔqīng dànbái", "gl": "whey protein"},
-      {"zh": "惹", "py": "rě", "gl": "cause; provoke"},
-      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "乳清蛋白", "py": "rǔqīngdànbái", "gl": "whey protein"},
+      {"zh": "惹", "py": "rě", "gl": "cause"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
       {"zh": "祸", "py": "huò", "gl": "trouble"},
       {"zh": "，"},
       {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
       {"zh": "现在", "py": "xiànzài", "gl": "now"},
       {"zh": "改", "py": "gǎi", "gl": "switch to"},
       {"zh": "喝", "py": "hē", "gl": "drink"},
-      {"zh": "豌豆蛋白", "py": "wāndòu dànbái", "gl": "pea protein"},
+      {"zh": "豌豆蛋白", "py": "wāndòudànbái", "gl": "pea protein"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 416.28,
+     "end": 425.15
     }
    ]
   },
@@ -1521,14 +1508,16 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s055",
+     "id": "s051",
      "zh": "成绩如下：",
-     "en": "Here are his numbers:",
+     "en": "His results are as follows:",
      "segments": [
-      {"zh": "成绩", "py": "chéngjì", "gl": "results; numbers"},
+      {"zh": "成绩", "py": "chéngjì", "gl": "results; lifts"},
       {"zh": "如下", "py": "rúxià", "gl": "as follows"},
       {"zh": "："}
-     ]
+     ],
+     "start": 425.56,
+     "end": 427.23
     }
    ]
   },
@@ -1537,9 +1526,9 @@
    "type": "item",
    "sentences": [
     {
-     "id": "s056",
+     "id": "s052",
      "zh": "卧推：80 公斤，先推 4 个再推 3 个，几乎等于他的体重，也是约 10 年来第一次接近这个数",
-     "en": "Bench press: 80 kg, for a set of 4 and then a set of 3, nearly his body weight and the closest he's come to that number in about 10 years",
+     "en": "Bench press: 80 kg, first 4 reps and then 3, almost equal to his body weight, and the first time in about 10 years he has come close to that number",
      "segments": [
       {"zh": "卧推", "py": "wòtuī", "gl": "bench press"},
       {"zh": "："},
@@ -1552,17 +1541,17 @@
       {"zh": " "},
       {"zh": "4"},
       {"zh": " "},
-      {"zh": "个", "py": "ge", "gl": "(reps)"},
+      {"zh": "个", "py": "gè", "gl": "reps"},
       {"zh": "再", "py": "zài", "gl": "then"},
       {"zh": "推", "py": "tuī", "gl": "press"},
       {"zh": " "},
       {"zh": "3"},
       {"zh": " "},
-      {"zh": "个", "py": "ge", "gl": "(reps)"},
+      {"zh": "个", "py": "gè", "gl": "reps"},
       {"zh": "，"},
       {"zh": "几乎", "py": "jīhū", "gl": "almost"},
       {"zh": "等于", "py": "děngyú", "gl": "equal to"},
-      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "他", "py": "tā", "gl": "his"},
       {"zh": "的", "py": "de", "gl": "(possessive)"},
       {"zh": "体重", "py": "tǐzhòng", "gl": "body weight"},
       {"zh": "，"},
@@ -1574,10 +1563,12 @@
       {"zh": " "},
       {"zh": "年来", "py": "niánlái", "gl": "over the years"},
       {"zh": "第一次", "py": "dìyīcì", "gl": "first time"},
-      {"zh": "接近", "py": "jiējìn", "gl": "get close to"},
+      {"zh": "接近", "py": "jiējìn", "gl": "come close to"},
       {"zh": "这个", "py": "zhège", "gl": "this"},
       {"zh": "数", "py": "shù", "gl": "number"}
-     ]
+     ],
+     "start": 429.38,
+     "end": 439.53
     }
    ]
   },
@@ -1586,9 +1577,9 @@
    "type": "item",
    "sentences": [
     {
-     "id": "s057",
+     "id": "s053",
      "zh": "硬拉：130 公斤，一次，用了腰带",
-     "en": "Deadlift: 130 kg for one rep, using a belt",
+     "en": "Deadlift: 130 kg, one rep, using a belt",
      "segments": [
       {"zh": "硬拉", "py": "yìnglā", "gl": "deadlift"},
       {"zh": "："},
@@ -1600,7 +1591,7 @@
       {"zh": "，"},
       {"zh": "用", "py": "yòng", "gl": "use"},
       {"zh": "了", "py": "le", "gl": "(completed action)"},
-      {"zh": "腰带", "py": "yāodài", "gl": "lifting belt"}
+      {"zh": "腰带", "py": "yāodài", "gl": "belt"}
      ]
     }
    ]
@@ -1610,13 +1601,13 @@
    "type": "item",
    "sentences": [
     {
-     "id": "s058",
+     "id": "s054",
      "zh": "深蹲：停在 80 公斤左右，正在练灵活度和动作标准",
      "en": "Squat: holding at around 80 kg while he works on mobility and form",
      "segments": [
       {"zh": "深蹲", "py": "shēndūn", "gl": "squat"},
       {"zh": "："},
-      {"zh": "停", "py": "tíng", "gl": "stop; hold"},
+      {"zh": "停", "py": "tíng", "gl": "stopped"},
       {"zh": "在", "py": "zài", "gl": "at"},
       {"zh": " "},
       {"zh": "80"},
@@ -1629,8 +1620,10 @@
       {"zh": "灵活度", "py": "línghuódù", "gl": "mobility"},
       {"zh": "和", "py": "hé", "gl": "and"},
       {"zh": "动作", "py": "dòngzuò", "gl": "movement"},
-      {"zh": "标准", "py": "biāozhǔn", "gl": "correct form"}
-     ]
+      {"zh": "标准", "py": "biāozhǔn", "gl": "standard; proper form"}
+     ],
+     "start": 445.98,
+     "end": 455.0
     }
    ]
   },
@@ -1639,36 +1632,40 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s059",
+     "id": "s055",
      "zh": "“对一个老头来说，不算差。”",
-     "en": "\"Not bad for an old guy.\"",
+     "en": "\"Not bad for an old man.\"",
      "segments": [
       {"zh": "“"},
       {"zh": "对", "py": "duì", "gl": "for"},
-      {"zh": "一个", "py": "yí ge", "gl": "a; one"},
-      {"zh": "老头", "py": "lǎotóu", "gl": "old guy"},
-      {"zh": "来说", "py": "láishuō", "gl": "as far as"},
+      {"zh": "一个", "py": "yí ge", "gl": "a"},
+      {"zh": "老头", "py": "lǎotóu", "gl": "old man"},
+      {"zh": "来说", "py": "láishuō", "gl": "speaking of"},
       {"zh": "，"},
       {"zh": "不算", "py": "búsuàn", "gl": "not considered"},
       {"zh": "差", "py": "chà", "gl": "bad"},
       {"zh": "。"},
       {"zh": "”"}
-     ]
+     ],
+     "start": 455.0,
+     "end": 459.13
     },
     {
-     "id": "s060",
+     "id": "s056",
      "zh": "不过，他可算不上多老。",
-     "en": "Then again, he's hardly all that old.",
+     "en": "Though he's hardly all that old.",
      "segments": [
       {"zh": "不过", "py": "búguò", "gl": "however"},
       {"zh": "，"},
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "可", "py": "kě", "gl": "(emphatic) really"},
       {"zh": "算不上", "py": "suànbushàng", "gl": "can't count as"},
-      {"zh": "多", "py": "duō", "gl": "very; that"},
+      {"zh": "多", "py": "duō", "gl": "very"},
       {"zh": "老", "py": "lǎo", "gl": "old"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 460.14,
+     "end": 463.85
     }
    ]
   },
@@ -1677,9 +1674,9 @@
    "type": "heading",
    "sentences": [
     {
-     "id": "s061",
+     "id": "s057",
      "zh": "以书代酒",
-     "en": "Books Instead of Booze",
+     "en": "Books instead of booze",
      "segments": [
       {"zh": "以", "py": "yǐ", "gl": "using"},
       {"zh": "书", "py": "shū", "gl": "books"},
@@ -1694,23 +1691,25 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s062",
+     "id": "s058",
      "zh": "他把泡吧换成了读书。",
-     "en": "He swapped going to bars for reading.",
+     "en": "He replaced going to bars with reading.",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
-      {"zh": "泡吧", "py": "pàobā", "gl": "going to bars"},
-      {"zh": "换成", "py": "huànchéng", "gl": "to swap for"},
+      {"zh": "泡吧", "py": "pàobā", "gl": "hanging out in bars"},
+      {"zh": "换成", "py": "huànchéng", "gl": "to change into"},
       {"zh": "了", "py": "le", "gl": "(completed action)"},
-      {"zh": "读书", "py": "dúshū", "gl": "reading"},
+      {"zh": "读书", "py": "dúshū", "gl": "reading books"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 466.06,
+     "end": 469.41
     },
     {
-     "id": "s063",
+     "id": "s059",
      "zh": "喝一两杯啤酒，往往以刷 Joe Rogan 的片段、UFC 比赛和《恶搞之家》收场，而书只会在家里占地方。",
-     "en": "A beer or two usually ends with scrolling through Joe Rogan clips, UFC fights and Family Guy, while the books just take up space at home.",
+     "en": "Having a beer or two usually ends with scrolling through Joe Rogan clips, UFC fights and Family Guy, while the books just take up space at home.",
      "segments": [
       {"zh": "喝", "py": "hē", "gl": "to drink"},
       {"zh": "一两", "py": "yìliǎng", "gl": "one or two"},
@@ -1731,25 +1730,26 @@
       {"zh": "比赛", "py": "bǐsài", "gl": "fights"},
       {"zh": "和", "py": "hé", "gl": "and"},
       {"zh": "《"},
-      {"zh": "恶搞之家", "py": "Ègǎo zhī Jiā", "gl": "Family Guy"},
+      {"zh": "恶搞之家", "py": "Ègǎo Zhī Jiā", "gl": "Family Guy"},
       {"zh": "》"},
       {"zh": "收场", "py": "shōuchǎng", "gl": "to end"},
       {"zh": "，"},
       {"zh": "而", "py": "ér", "gl": "while"},
       {"zh": "书", "py": "shū", "gl": "books"},
-      {"zh": "只", "py": "zhǐ", "gl": "only"},
-      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "只会", "py": "zhǐhuì", "gl": "will only"},
       {"zh": "在", "py": "zài", "gl": "at"},
-      {"zh": "家里", "py": "jiālǐ", "gl": "home"},
+      {"zh": "家里", "py": "jiālǐ", "gl": "at home"},
       {"zh": "占", "py": "zhàn", "gl": "to take up"},
       {"zh": "地方", "py": "dìfang", "gl": "space"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 471.12,
+     "end": 484.85
     },
     {
-     "id": "s064",
+     "id": "s060",
      "zh": "“如果你宁愿喝啤酒也不愿读书，那不如把书扔了。”",
-     "en": "\"If you'd rather drink beer than read, you might as well throw your books away.\"",
+     "en": "\"If you'd rather drink beer than read books, you might as well throw the books away.\"",
      "segments": [
       {"zh": "“"},
       {"zh": "如果", "py": "rúguǒ", "gl": "if"},
@@ -1759,7 +1759,7 @@
       {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
       {"zh": "也", "py": "yě", "gl": "(and) also"},
       {"zh": "不愿", "py": "búyuàn", "gl": "not willing"},
-      {"zh": "读书", "py": "dúshū", "gl": "to read"},
+      {"zh": "读书", "py": "dúshū", "gl": "to read books"},
       {"zh": "，"},
       {"zh": "那", "py": "nà", "gl": "then"},
       {"zh": "不如", "py": "bùrú", "gl": "might as well"},
@@ -1769,7 +1769,9 @@
       {"zh": "了", "py": "le", "gl": "(completed action)"},
       {"zh": "。"},
       {"zh": "”"}
-     ]
+     ],
+     "start": 485.58,
+     "end": 491.72
     }
    ]
   },
@@ -1778,9 +1780,9 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s065",
+     "id": "s061",
      "zh": "他终于读完了《美国众神》。",
-     "en": "He finally finished American Gods.",
+     "en": "He finally finished reading American Gods.",
      "segments": [
       {"zh": "他", "py": "tā", "gl": "he"},
       {"zh": "终于", "py": "zhōngyú", "gl": "finally"},
@@ -1790,15 +1792,16 @@
       {"zh": "美国众神", "py": "Měiguó Zhòngshén", "gl": "American Gods"},
       {"zh": "》"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 491.72,
+     "end": 495.39
     },
     {
-     "id": "s066",
+     "id": "s062",
      "zh": "下一本是 Rob Sheffield 的《Love Is a Mixtape》，本是买给女朋友的，还以为是爱情故事，结果是个“死亡故事”，哎呀。",
-     "en": "Next up is Rob Sheffield's Love Is a Mixtape, which he originally bought for his girlfriend, thinking it was a love story, but it turned out to be a \"death story\", oops.",
+     "en": "Next up is Rob Sheffield's Love Is a Mixtape, which he originally bought for his girlfriend, thinking it was a love story, but it turned out to be a \"death story\". Oops.",
      "segments": [
-      {"zh": "下一", "py": "xiàyì", "gl": "next"},
-      {"zh": "本", "py": "běn", "gl": "(measure word, books)"},
+      {"zh": "下一本", "py": "xiàyìběn", "gl": "the next book"},
       {"zh": "是", "py": "shì", "gl": "is"},
       {"zh": " "},
       {"zh": "Rob Sheffield"},
@@ -1817,12 +1820,12 @@
       {"zh": "，"},
       {"zh": "还", "py": "hái", "gl": "even"},
       {"zh": "以为", "py": "yǐwéi", "gl": "to mistakenly think"},
-      {"zh": "是", "py": "shì", "gl": "is"},
-      {"zh": "爱情", "py": "àiqíng", "gl": "love"},
+      {"zh": "是", "py": "shì", "gl": "to be"},
+      {"zh": "爱情", "py": "àiqíng", "gl": "romantic love"},
       {"zh": "故事", "py": "gùshi", "gl": "story"},
       {"zh": "，"},
       {"zh": "结果", "py": "jiéguǒ", "gl": "it turned out"},
-      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "是", "py": "shì", "gl": "to be"},
       {"zh": "个", "py": "ge", "gl": "(measure word)"},
       {"zh": "“"},
       {"zh": "死亡", "py": "sǐwáng", "gl": "death"},
@@ -1831,7 +1834,9 @@
       {"zh": "，"},
       {"zh": "哎呀", "py": "āiyā", "gl": "oops"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 496.34,
+     "end": 512.39
     }
    ]
   },
@@ -1840,25 +1845,23 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s067",
+     "id": "s063",
      "zh": "《美国众神》快结尾处有一句话让他停了下来：“他不知道，家是一个地方住久了自然而然发生的事，还是只要你不停地走、不停地等、不停地用意志去追寻，终有一天会找到的东西。”",
-     "en": "A line near the end of American Gods stopped him: \"He did not know if home was something that happens naturally once you've lived in a place long enough, or something you will find one day if you just keep walking, keep waiting, and keep seeking it with your will.\"",
+     "en": "Near the end of American Gods, one line stopped him: \"He did not know whether home is something that happens naturally when you live in a place long enough, or something you will find one day if you just keep walking, keep waiting, and keep pursuing it with your will.\"",
      "segments": [
       {"zh": "《"},
       {"zh": "美国众神", "py": "Měiguó Zhòngshén", "gl": "American Gods"},
       {"zh": "》"},
-      {"zh": "快", "py": "kuài", "gl": "nearly at"},
-      {"zh": "结尾", "py": "jiéwěi", "gl": "the end"},
+      {"zh": "快", "py": "kuài", "gl": "near"},
+      {"zh": "结尾", "py": "jiéwěi", "gl": "the ending"},
       {"zh": "处", "py": "chù", "gl": "place"},
       {"zh": "有", "py": "yǒu", "gl": "there is"},
-      {"zh": "一", "py": "yí", "gl": "one"},
-      {"zh": "句", "py": "jù", "gl": "(measure word, sentences)"},
-      {"zh": "话", "py": "huà", "gl": "line"},
+      {"zh": "一句话", "py": "yíjùhuà", "gl": "one sentence"},
       {"zh": "让", "py": "ràng", "gl": "to make"},
       {"zh": "他", "py": "tā", "gl": "him"},
       {"zh": "停", "py": "tíng", "gl": "to stop"},
       {"zh": "了", "py": "le", "gl": "(completed action)"},
-      {"zh": "下来", "py": "xiàlai", "gl": "(settling down)"},
+      {"zh": "下来", "py": "xiàlai", "gl": "(comes to a halt)"},
       {"zh": "："},
       {"zh": "“"},
       {"zh": "他", "py": "tā", "gl": "he"},
@@ -1869,8 +1872,8 @@
       {"zh": "一个", "py": "yíge", "gl": "a"},
       {"zh": "地方", "py": "dìfang", "gl": "place"},
       {"zh": "住", "py": "zhù", "gl": "to live"},
-      {"zh": "久", "py": "jiǔ", "gl": "for long"},
-      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "久", "py": "jiǔ", "gl": "long"},
+      {"zh": "了", "py": "le", "gl": "(changed state)"},
       {"zh": "自然而然", "py": "zìrán'érrán", "gl": "naturally"},
       {"zh": "发生", "py": "fāshēng", "gl": "to happen"},
       {"zh": "的", "py": "de", "gl": "(links modifier)"},
@@ -1879,68 +1882,50 @@
       {"zh": "还是", "py": "háishi", "gl": "or"},
       {"zh": "只要", "py": "zhǐyào", "gl": "as long as"},
       {"zh": "你", "py": "nǐ", "gl": "you"},
-      {"zh": "不停", "py": "bùtíng", "gl": "nonstop"},
+      {"zh": "不停", "py": "bùtíng", "gl": "without stopping"},
       {"zh": "地", "py": "de", "gl": "(adverb marker)"},
       {"zh": "走", "py": "zǒu", "gl": "to walk"},
       {"zh": "、"},
-      {"zh": "不停", "py": "bùtíng", "gl": "nonstop"},
+      {"zh": "不停", "py": "bùtíng", "gl": "without stopping"},
       {"zh": "地", "py": "de", "gl": "(adverb marker)"},
       {"zh": "等", "py": "děng", "gl": "to wait"},
       {"zh": "、"},
-      {"zh": "不停", "py": "bùtíng", "gl": "nonstop"},
+      {"zh": "不停", "py": "bùtíng", "gl": "without stopping"},
       {"zh": "地", "py": "de", "gl": "(adverb marker)"},
-      {"zh": "用", "py": "yòng", "gl": "with"},
-      {"zh": "意志", "py": "yìzhì", "gl": "will"},
-      {"zh": "去", "py": "qù", "gl": "(leads to action)"},
-      {"zh": "追寻", "py": "zhuīxún", "gl": "to seek"},
+      {"zh": "用", "py": "yòng", "gl": "to use"},
+      {"zh": "意志", "py": "yìzhì", "gl": "willpower"},
+      {"zh": "去", "py": "qù", "gl": "to (go and)"},
+      {"zh": "追寻", "py": "zhuīxún", "gl": "to pursue"},
       {"zh": "，"},
-      {"zh": "终", "py": "zhōng", "gl": "eventually"},
-      {"zh": "有", "py": "yǒu", "gl": "there will be"},
-      {"zh": "一天", "py": "yìtiān", "gl": "one day"},
+      {"zh": "终有一天", "py": "zhōngyǒuyìtiān", "gl": "someday"},
       {"zh": "会", "py": "huì", "gl": "will"},
       {"zh": "找到", "py": "zhǎodào", "gl": "to find"},
       {"zh": "的", "py": "de", "gl": "(links modifier)"},
       {"zh": "东西", "py": "dōngxi", "gl": "thing"},
       {"zh": "。"},
       {"zh": "”"}
-     ]
+     ],
+     "start": 512.9,
+     "end": 536.19
     },
     {
-     "id": "s068",
+     "id": "s064",
      "zh": "这正是“外国人之乡”的写照。",
-     "en": "This perfectly captures the \"land of foreigners\".",
+     "en": "That is exactly what being in a \"land of foreigners\" is like.",
      "segments": [
       {"zh": "这", "py": "zhè", "gl": "this"},
       {"zh": "正是", "py": "zhèngshì", "gl": "is precisely"},
       {"zh": "“"},
-      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigners"},
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigner"},
       {"zh": "之", "py": "zhī", "gl": "of"},
       {"zh": "乡", "py": "xiāng", "gl": "land"},
       {"zh": "”"},
       {"zh": "的", "py": "de", "gl": "(possessive)"},
       {"zh": "写照", "py": "xiězhào", "gl": "portrayal"},
       {"zh": "。"}
-     ]
-    },
-    {
-     "id": "s069",
-     "zh": "家，是你选的，还是别人给你的？",
-     "en": "Home: is it something you choose, or something others give you?",
-     "segments": [
-      {"zh": "家", "py": "jiā", "gl": "home"},
-      {"zh": "，"},
-      {"zh": "是", "py": "shì", "gl": "is it"},
-      {"zh": "你", "py": "nǐ", "gl": "you"},
-      {"zh": "选", "py": "xuǎn", "gl": "to choose"},
-      {"zh": "的", "py": "de", "gl": "(the one that)"},
-      {"zh": "，"},
-      {"zh": "还是", "py": "háishi", "gl": "or"},
-      {"zh": "别人", "py": "biéren", "gl": "others"},
-      {"zh": "给", "py": "gěi", "gl": "to give"},
-      {"zh": "你", "py": "nǐ", "gl": "you"},
-      {"zh": "的", "py": "de", "gl": "(the one that)"},
-      {"zh": "？"}
-     ]
+     ],
+     "start": 536.86,
+     "end": 540.03
     }
    ]
   },
@@ -1949,13 +1934,15 @@
    "type": "heading",
    "sentences": [
     {
-     "id": "s070",
+     "id": "s065",
      "zh": "今日总结",
-     "en": "Today's Summary",
+     "en": "Today's summary",
      "segments": [
       {"zh": "今日", "py": "jīnrì", "gl": "today"},
       {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
-     ]
+     ],
+     "start": 541.24,
+     "end": 542.04
     }
    ]
   },
@@ -1964,37 +1951,39 @@
    "type": "para",
    "sentences": [
     {
-     "id": "s071",
+     "id": "s066",
      "zh": "同时撒下很多网，也许不是最专注的办法，却是他摸索什么行得通的方式。",
-     "en": "Casting many nets at once may not be the most focused approach, but it's how he figures out what works.",
+     "en": "Casting many nets at once may not be the most focused approach, but it's his way of figuring out what works.",
      "segments": [
       {"zh": "同时", "py": "tóngshí", "gl": "at the same time"},
-      {"zh": "撒下", "py": "sǎxià", "gl": "cast (a net)"},
+      {"zh": "撒下", "py": "sāxià", "gl": "cast"},
       {"zh": "很多", "py": "hěnduō", "gl": "many"},
-      {"zh": "网", "py": "wǎng", "gl": "net"},
+      {"zh": "网", "py": "wǎng", "gl": "nets"},
       {"zh": "，"},
       {"zh": "也许", "py": "yěxǔ", "gl": "perhaps"},
       {"zh": "不是", "py": "búshì", "gl": "is not"},
       {"zh": "最", "py": "zuì", "gl": "most"},
       {"zh": "专注", "py": "zhuānzhù", "gl": "focused"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
       {"zh": "办法", "py": "bànfǎ", "gl": "approach"},
       {"zh": "，"},
       {"zh": "却", "py": "què", "gl": "but"},
       {"zh": "是", "py": "shì", "gl": "is"},
-      {"zh": "他", "py": "tā", "gl": "he"},
-      {"zh": "摸索", "py": "mōsuǒ", "gl": "figure out"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "摸索", "py": "mōsuǒ", "gl": "figure out by trial"},
       {"zh": "什么", "py": "shénme", "gl": "what"},
       {"zh": "行得通", "py": "xíngdetōng", "gl": "works"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
       {"zh": "方式", "py": "fāngshì", "gl": "way"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 542.04,
+     "end": 553.5
     },
     {
-     "id": "s072",
+     "id": "s067",
      "zh": "有时候，最“无聊”的外国人生活里，也有好吃的汉堡，和书里一句让人记很久的话。",
-     "en": "Sometimes even the most \"boring\" expat life has a delicious burger and a line from a book that stays with you for a long time.",
+     "en": "Sometimes even the most \"boring\" expat life has a tasty burger and a line from a book that stays with you for a long time.",
      "segments": [
       {"zh": "有时候", "py": "yǒushíhou", "gl": "sometimes"},
       {"zh": "，"},
@@ -2002,32 +1991,34 @@
       {"zh": "“"},
       {"zh": "无聊", "py": "wúliáo", "gl": "boring"},
       {"zh": "”"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
       {"zh": "外国人", "py": "wàiguórén", "gl": "foreigner"},
       {"zh": "生活", "py": "shēnghuó", "gl": "life"},
-      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "里", "py": "li", "gl": "in"},
       {"zh": "，"},
       {"zh": "也", "py": "yě", "gl": "also"},
       {"zh": "有", "py": "yǒu", "gl": "there is"},
-      {"zh": "好吃", "py": "hǎochī", "gl": "delicious"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "好吃", "py": "hǎochī", "gl": "tasty"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
       {"zh": "汉堡", "py": "hànbǎo", "gl": "burger"},
       {"zh": "，"},
       {"zh": "和", "py": "hé", "gl": "and"},
       {"zh": "书", "py": "shū", "gl": "book"},
-      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "里", "py": "li", "gl": "in"},
       {"zh": "一句", "py": "yíjù", "gl": "one line"},
-      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "让", "py": "ràng", "gl": "makes"},
       {"zh": "人", "py": "rén", "gl": "people"},
       {"zh": "记", "py": "jì", "gl": "remember"},
       {"zh": "很久", "py": "hěnjiǔ", "gl": "a long time"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
       {"zh": "话", "py": "huà", "gl": "words"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 553.5,
+     "end": 564.52
     },
     {
-     "id": "s073",
+     "id": "s068",
      "zh": "家，也许就是你一直住下去，一个地方慢慢变成的样子。",
      "en": "Home may simply be what a place slowly becomes as you keep on living there.",
      "segments": [
@@ -2038,16 +2029,18 @@
       {"zh": "你", "py": "nǐ", "gl": "you"},
       {"zh": "一直", "py": "yìzhí", "gl": "continuously"},
       {"zh": "住", "py": "zhù", "gl": "live"},
-      {"zh": "下去", "py": "xiàqù", "gl": "keep on (doing)"},
+      {"zh": "下去", "py": "xiàqu", "gl": "keep on (doing)"},
       {"zh": "，"},
       {"zh": "一个", "py": "yíge", "gl": "a"},
       {"zh": "地方", "py": "dìfang", "gl": "place"},
       {"zh": "慢慢", "py": "mànmàn", "gl": "slowly"},
       {"zh": "变成", "py": "biànchéng", "gl": "become"},
-      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
       {"zh": "样子", "py": "yàngzi", "gl": "form"},
       {"zh": "。"}
-     ]
+     ],
+     "start": 564.52,
+     "end": 572.89
     }
    ]
   }
