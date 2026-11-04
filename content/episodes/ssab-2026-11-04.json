@@ -1,0 +1,1735 @@
+{
+ "id": "ssab-2026-11-04",
+ "date": "2026-11-04",
+ "title": "Smog, Google's Slide, and the Chained Door",
+ "titleZh": "雾霾、谷歌大跌与锁链门",
+ "description": "Steven covers Beijing's heavy smog, Alphabet's oversold slide and other stock picks, and a confused Canadian's take on the US midterm elections. He also connects a Chinese company's unbreakable glass to the chained fire door in his building, then reports on his students' rocky midterm rehearsal.",
+ "duration": null,
+ "audio": null,
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "本期速览",
+     "en": "This Episode at a Glance",
+     "segments": [
+      {"zh": "本期", "py": "běnqī", "gl": "this issue/episode"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "本期节目里，史蒂文聊了北京浓重的雾霾、被“砸”得不轻的谷歌股价，还有他终于想弄明白的美国中期选举。",
+     "en": "In this episode, Steven talks about Beijing's heavy smog, Google's badly \"smashed\" stock price, and the US midterm elections, which he's finally trying to figure out.",
+     "segments": [
+      {"zh": "本期", "py": "běnqī", "gl": "this episode"},
+      {"zh": "节目", "py": "jiémù", "gl": "program, show"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "聊", "py": "liáo", "gl": "to talk about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "浓重", "py": "nóngzhòng", "gl": "thick, heavy"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "雾霾", "py": "wùmái", "gl": "smog"},
+      {"zh": "、"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "“"},
+      {"zh": "砸", "py": "zá", "gl": "to smash"},
+      {"zh": "”"},
+      {"zh": "得", "py": "de", "gl": "(degree complement marker)"},
+      {"zh": "不轻", "py": "bùqīng", "gl": "quite badly"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "谷歌", "py": "Gǔgē", "gl": "Google"},
+      {"zh": "股价", "py": "gǔjià", "gl": "stock price"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "终于", "py": "zhōngyú", "gl": "finally"},
+      {"zh": "想", "py": "xiǎng", "gl": "to want to"},
+      {"zh": "弄明白", "py": "nòng míngbai", "gl": "to figure out"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "美国", "py": "Měiguó", "gl": "United States"},
+      {"zh": "中期选举", "py": "zhōngqī xuǎnjǔ", "gl": "midterm elections"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s003",
+     "zh": "接着，他说到一家中国玻璃公司：法国的暴徒据说怎么也砸不碎它的玻璃。",
+     "en": "Next, he talks about a Chinese glass company: rioters in France supposedly just couldn't smash its glass.",
+     "segments": [
+      {"zh": "接着", "py": "jiēzhe", "gl": "next, then"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说到", "py": "shuōdào", "gl": "to talk about"},
+      {"zh": "一家", "py": "yìjiā", "gl": "a (company)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China, Chinese"},
+      {"zh": "玻璃", "py": "bōli", "gl": "glass"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "："},
+      {"zh": "法国", "py": "Fǎguó", "gl": "France"},
+      {"zh": "的", "py": "de", "gl": "(possessive marker)"},
+      {"zh": "暴徒", "py": "bàotú", "gl": "rioters, thugs"},
+      {"zh": "据说", "py": "jùshuō", "gl": "reportedly, supposedly"},
+      {"zh": "怎么", "py": "zěnme", "gl": "no matter how"},
+      {"zh": "也", "py": "yě", "gl": "(still, even)"},
+      {"zh": "砸不碎", "py": "zábúsuì", "gl": "can't smash to pieces"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "的", "py": "de", "gl": "(possessive marker)"},
+      {"zh": "玻璃", "py": "bōli", "gl": "glass"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s004",
+     "zh": "这让他想到了自家楼里那扇被锁链拴住的门。",
+     "en": "This reminds him of the door in his own building that's held shut with a chain.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "让", "py": "ràng", "gl": "to make, cause"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "想到", "py": "xiǎngdào", "gl": "to think of"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "自家", "py": "zìjiā", "gl": "one's own"},
+      {"zh": "楼", "py": "lóu", "gl": "building"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "扇", "py": "shàn", "gl": "(measure word for doors)"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "锁链", "py": "suǒliàn", "gl": "chain"},
+      {"zh": "拴住", "py": "shuānzhù", "gl": "to fasten, tie up"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "门", "py": "mén", "gl": "door"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s005",
+     "zh": "最后，他聊到对他来说最要紧的“期中考试”：学生们的期中考。",
+     "en": "Finally, he talks about the \"midterms\" that matter most to him: his students' midterm exams.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "聊到", "py": "liáodào", "gl": "to talk about"},
+      {"zh": "对", "py": "duì", "gl": "for, to"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "来说", "py": "láishuō", "gl": "as far as (he's) concerned"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "要紧", "py": "yàojǐn", "gl": "important, pressing"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "“"},
+      {"zh": "期中考试", "py": "qīzhōng kǎoshì", "gl": "midterm exams"},
+      {"zh": "”"},
+      {"zh": "："},
+      {"zh": "学生们", "py": "xuéshengmen", "gl": "students"},
+      {"zh": "的", "py": "de", "gl": "(possessive marker)"},
+      {"zh": "期中考", "py": "qīzhōngkǎo", "gl": "midterm exam"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s006",
+     "zh": "灰蒙蒙的天，和跑步机的“续命”",
+     "en": "Gray skies, and the treadmill's new lease on life",
+     "segments": [
+      {"zh": "灰蒙蒙", "py": "huīmēngmēng", "gl": "gray and hazy"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "天", "py": "tiān", "gl": "sky"},
+      {"zh": "，"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "跑步机", "py": "pǎobùjī", "gl": "treadmill"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "“"},
+      {"zh": "续命", "py": "xùmìng", "gl": "extended life"},
+      {"zh": "”"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s007",
+     "zh": "今晚，史蒂文望向窗外，屋顶上方是粉色的晚霞，可横在他和晚霞之间的，是他在北京很久没见过的厚厚雾霾。",
+     "en": "Tonight, Steven looked out the window at the pink sunset glow above the rooftops, but between him and the sunset lay a thick smog he hadn't seen in Beijing for a long time.",
+     "segments": [
+      {"zh": "今晚", "py": "jīnwǎn", "gl": "tonight"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "望向", "py": "wàngxiàng", "gl": "look toward"},
+      {"zh": "窗外", "py": "chuāngwài", "gl": "outside the window"},
+      {"zh": "，"},
+      {"zh": "屋顶", "py": "wūdǐng", "gl": "rooftop"},
+      {"zh": "上方", "py": "shàngfāng", "gl": "above"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "粉色", "py": "fěnsè", "gl": "pink"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "晚霞", "py": "wǎnxiá", "gl": "sunset glow"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "横", "py": "héng", "gl": "lie across"},
+      {"zh": "在", "py": "zài", "gl": "at, between"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "晚霞", "py": "wǎnxiá", "gl": "sunset glow"},
+      {"zh": "之间", "py": "zhījiān", "gl": "between"},
+      {"zh": "的", "py": "de", "gl": "(the thing that)"},
+      {"zh": "，"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "很久", "py": "hěnjiǔ", "gl": "for a long time"},
+      {"zh": "没", "py": "méi", "gl": "have not"},
+      {"zh": "见过", "py": "jiànguo", "gl": "seen before"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "厚厚", "py": "hòuhòu", "gl": "thick"},
+      {"zh": "雾霾", "py": "wùmái", "gl": "smog"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s008",
+     "zh": "AQI 在 165 到 192 之间。",
+     "en": "The AQI was between 165 and 192.",
+     "segments": [
+      {"zh": "AQI"},
+      {"zh": " "},
+      {"zh": "在", "py": "zài", "gl": "is at"},
+      {"zh": " "},
+      {"zh": "165"},
+      {"zh": " "},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": " "},
+      {"zh": "192"},
+      {"zh": " "},
+      {"zh": "之间", "py": "zhījiān", "gl": "between"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s009",
+     "zh": "他说：“这不是雾，是霾。”",
+     "en": "He said, \"This isn't fog, it's smog.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "雾", "py": "wù", "gl": "fog"},
+      {"zh": "，"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "霾", "py": "mái", "gl": "smog, haze"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ]
+    },
+    {
+     "id": "s010",
+     "zh": "预计明晚会降到绿色的 45，周五又会重新变脏。",
+     "en": "It's forecast to drop to a green 45 tomorrow night, and then get dirty again on Friday.",
+     "segments": [
+      {"zh": "预计", "py": "yùjì", "gl": "forecast to"},
+      {"zh": "明晚", "py": "míngwǎn", "gl": "tomorrow night"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "降到", "py": "jiàngdào", "gl": "drop to"},
+      {"zh": "绿色", "py": "lǜsè", "gl": "green"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": " "},
+      {"zh": "45"},
+      {"zh": "，"},
+      {"zh": "周五", "py": "zhōuwǔ", "gl": "Friday"},
+      {"zh": "又", "py": "yòu", "gl": "again"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "重新", "py": "chóngxīn", "gl": "once more"},
+      {"zh": "变脏", "py": "biànzāng", "gl": "become dirty"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s011",
+     "zh": "原因呢？",
+     "en": "And the reason?",
+     "segments": [
+      {"zh": "原因", "py": "yuányīn", "gl": "reason"},
+      {"zh": "呢", "py": "ne", "gl": "(question particle)"},
+      {"zh": "？"}
+     ]
+    },
+    {
+     "id": "s012",
+     "zh": "他也不知道，也许是中国在加大生产，也许是厄尔尼诺。",
+     "en": "He doesn't know either; maybe China is ramping up production, maybe it's El Niño.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "也", "py": "yě", "gl": "either"},
+      {"zh": "不知道", "py": "bùzhīdào", "gl": "doesn't know"},
+      {"zh": "，"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "maybe"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "加大", "py": "jiādà", "gl": "increase"},
+      {"zh": "生产", "py": "shēngchǎn", "gl": "production"},
+      {"zh": "，"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "maybe"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "厄尔尼诺", "py": "È'ěrnínuò", "gl": "El Niño"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s013",
+     "zh": "所以他庆幸自己没把跑步机处理掉，不过他还是更喜欢在户外跑，因为那 45 到 50 分钟正好可以远离电子设备。",
+     "en": "So he's glad he didn't get rid of the treadmill, though he still prefers running outdoors, because those 45 to 50 minutes are the perfect chance to get away from electronic devices.",
+     "segments": [
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "庆幸", "py": "qìngxìng", "gl": "feel fortunate"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "没", "py": "méi", "gl": "did not"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "跑步机", "py": "pǎobùjī", "gl": "treadmill"},
+      {"zh": "处理掉", "py": "chǔlǐdiào", "gl": "get rid of"},
+      {"zh": "，"},
+      {"zh": "不过", "py": "búguò", "gl": "however"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "喜欢", "py": "xǐhuan", "gl": "like"},
+      {"zh": "在", "py": "zài", "gl": "at, in"},
+      {"zh": "户外", "py": "hùwài", "gl": "outdoors"},
+      {"zh": "跑", "py": "pǎo", "gl": "run"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "那", "py": "nà", "gl": "those"},
+      {"zh": " "},
+      {"zh": "45"},
+      {"zh": " "},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": " "},
+      {"zh": "50"},
+      {"zh": " "},
+      {"zh": "分钟", "py": "fēnzhōng", "gl": "minutes"},
+      {"zh": "正好", "py": "zhènghǎo", "gl": "just right for"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "远离", "py": "yuǎnlí", "gl": "stay away from"},
+      {"zh": "电子", "py": "diànzǐ", "gl": "electronic"},
+      {"zh": "设备", "py": "shèbèi", "gl": "devices"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s014",
+     "zh": "AI 仪表盘： 现在到处都是。",
+     "en": "AI dashboards: they're everywhere now.",
+     "segments": [
+      {"zh": "AI"},
+      {"zh": " "},
+      {"zh": "仪表盘", "py": "yíbiǎopán", "gl": "dashboard"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "到处", "py": "dàochù", "gl": "everywhere"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s015",
+     "zh": "他自嘲：“它到底有没有帮我多做出一点内容？还是我只是在不同的 AI 工具之间瞎折腾？”",
+     "en": "He joked at his own expense: \"Has it actually helped me produce any more content? Or am I just messing around between different AI tools?\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "自嘲", "py": "zìcháo", "gl": "mock oneself"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "actually, after all"},
+      {"zh": "有没有", "py": "yǒuméiyǒu", "gl": "has or hasn't"},
+      {"zh": "帮", "py": "bāng", "gl": "help"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "多", "py": "duō", "gl": "additionally, more"},
+      {"zh": "做出", "py": "zuòchū", "gl": "produce"},
+      {"zh": "一点", "py": "yìdiǎn", "gl": "a little"},
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "？"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "merely"},
+      {"zh": "在", "py": "zài", "gl": "among"},
+      {"zh": "不同", "py": "bùtóng", "gl": "different"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": " "},
+      {"zh": "AI"},
+      {"zh": " "},
+      {"zh": "工具", "py": "gōngjù", "gl": "tools"},
+      {"zh": "之间", "py": "zhījiān", "gl": "between"},
+      {"zh": "瞎", "py": "xiā", "gl": "aimlessly"},
+      {"zh": "折腾", "py": "zhēteng", "gl": "mess around"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s016",
+     "zh": "暖气： 集中供暖通常要到 11 月中旬才来，所以现在脚趾冻得发凉。",
+     "en": "Heating: central heating usually doesn't come on until mid-November, so right now his toes are freezing.",
+     "segments": [
+      {"zh": "暖气", "py": "nuǎnqì", "gl": "heating"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "集中", "py": "jízhōng", "gl": "centralized"},
+      {"zh": "供暖", "py": "gōngnuǎn", "gl": "heating supply"},
+      {"zh": "通常", "py": "tōngcháng", "gl": "usually"},
+      {"zh": "要", "py": "yào", "gl": "has to"},
+      {"zh": "到", "py": "dào", "gl": "until"},
+      {"zh": " "},
+      {"zh": "11"},
+      {"zh": " "},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "中旬", "py": "zhōngxún", "gl": "middle of a month"},
+      {"zh": "才", "py": "cái", "gl": "not until"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "脚趾", "py": "jiǎozhǐ", "gl": "toes"},
+      {"zh": "冻", "py": "dòng", "gl": "freeze"},
+      {"zh": "得", "py": "de", "gl": "(result complement)"},
+      {"zh": "发凉", "py": "fāliáng", "gl": "turn cold"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s017",
+     "zh": "谷歌被砸了：该抄底吗？",
+     "en": "Google got hammered: time to buy the dip?",
+     "segments": [
+      {"zh": "谷歌", "py": "Gǔgē", "gl": "Google"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "砸", "py": "zá", "gl": "smashed, hammered"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "："},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "抄底", "py": "chāodǐ", "gl": "buy the dip"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s018",
+     "zh": "Alphabet 连续几个交易日大跌，史蒂文最爱的技术指标之一——相对强弱指数（RSI）——已经进入超卖区。",
+     "en": "Alphabet has dropped sharply over several straight trading days, and one of Steven's favorite technical indicators, the Relative Strength Index (RSI), has entered oversold territory.",
+     "segments": [
+      {"zh": "Alphabet"},
+      {"zh": " "},
+      {"zh": "连续", "py": "liánxù", "gl": "consecutive"},
+      {"zh": "几个", "py": "jǐ ge", "gl": "several"},
+      {"zh": "交易日", "py": "jiāoyìrì", "gl": "trading days"},
+      {"zh": "大跌", "py": "dàdiē", "gl": "fall sharply"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "最爱", "py": "zuì'ài", "gl": "favorite"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "技术", "py": "jìshù", "gl": "technical"},
+      {"zh": "指标", "py": "zhǐbiāo", "gl": "indicator"},
+      {"zh": "之一", "py": "zhīyī", "gl": "one of"},
+      {"zh": "——"},
+      {"zh": "相对", "py": "xiāngduì", "gl": "relative"},
+      {"zh": "强弱", "py": "qiángruò", "gl": "strength"},
+      {"zh": "指数", "py": "zhǐshù", "gl": "index"},
+      {"zh": "（"},
+      {"zh": "RSI"},
+      {"zh": "）"},
+      {"zh": "——"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "进入", "py": "jìnrù", "gl": "enter"},
+      {"zh": "超卖区", "py": "chāomàiqū", "gl": "oversold zone"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s019",
+     "zh": "以往股票跌到这个位置，多半是不错的买入时机。",
+     "en": "In the past, when the stock fell to this level, it was usually a good time to buy.",
+     "segments": [
+      {"zh": "以往", "py": "yǐwǎng", "gl": "in the past"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "位置", "py": "wèizhi", "gl": "level"},
+      {"zh": "，"},
+      {"zh": "多半", "py": "duōbàn", "gl": "mostly, usually"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "不错", "py": "búcuò", "gl": "pretty good"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "买入", "py": "mǎirù", "gl": "buy"},
+      {"zh": "时机", "py": "shíjī", "gl": "opportune moment"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s020",
+     "zh": "不过这不是投资建议，请自己做好功课。",
+     "en": "That said, this isn't investment advice, so please do your own homework.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "however"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "投资", "py": "tóuzī", "gl": "investment"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "，"},
+      {"zh": "请", "py": "qǐng", "gl": "please"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "yourself"},
+      {"zh": "做好", "py": "zuòhǎo", "gl": "do properly"},
+      {"zh": "功课", "py": "gōngkè", "gl": "homework"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s021",
+     "zh": "“钱是你的，后果你自己担，别怪我。”",
+     "en": "\"It's your money, you bear the consequences, so don't blame me.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "你的", "py": "nǐ de", "gl": "yours"},
+      {"zh": "，"},
+      {"zh": "后果", "py": "hòuguǒ", "gl": "consequences"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "yourself"},
+      {"zh": "担", "py": "dān", "gl": "bear"},
+      {"zh": "，"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "怪", "py": "guài", "gl": "blame"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s022",
+     "zh": "Meta： 走势横盘偏下，也许更适合短线交易。",
+     "en": "Meta: The trend is sideways to slightly down, so it may be better suited to short-term trading.",
+     "segments": [
+      {"zh": "Meta"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "走势", "py": "zǒushì", "gl": "price trend"},
+      {"zh": "横盘", "py": "héngpán", "gl": "trade sideways"},
+      {"zh": "偏下", "py": "piānxià", "gl": "leaning downward"},
+      {"zh": "，"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "perhaps"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "适合", "py": "shìhé", "gl": "suited to"},
+      {"zh": "短线", "py": "duǎnxiàn", "gl": "short-term"},
+      {"zh": "交易", "py": "jiāoyì", "gl": "trading"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s023",
+     "zh": "苹果： 新款 OLED 触屏 MacBook 发布后涨到 350 见顶，此后跌了约 10%。",
+     "en": "Apple: After the new OLED touchscreen MacBook launched, the stock peaked at 350 and has since fallen about 10%.",
+     "segments": [
+      {"zh": "苹果", "py": "Píngguǒ", "gl": "Apple"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "新款", "py": "xīnkuǎn", "gl": "new model"},
+      {"zh": " "},
+      {"zh": "OLED"},
+      {"zh": " "},
+      {"zh": "触屏", "py": "chùpíng", "gl": "touchscreen"},
+      {"zh": " "},
+      {"zh": "MacBook"},
+      {"zh": " "},
+      {"zh": "发布", "py": "fābù", "gl": "launch"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "涨", "py": "zhǎng", "gl": "rise"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": " "},
+      {"zh": "350"},
+      {"zh": " "},
+      {"zh": "见顶", "py": "jiàndǐng", "gl": "peak"},
+      {"zh": "，"},
+      {"zh": "此后", "py": "cǐhòu", "gl": "since then"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": " "},
+      {"zh": "10%"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s024",
+     "zh": "“买传闻，卖事实”似乎又应验了。",
+     "en": "\"Buy the rumor, sell the news\" seems to have proven true once again.",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "传闻", "py": "chuánwén", "gl": "rumor"},
+      {"zh": "，"},
+      {"zh": "卖", "py": "mài", "gl": "sell"},
+      {"zh": "事实", "py": "shìshí", "gl": "fact, news"},
+      {"zh": "”"},
+      {"zh": "似乎", "py": "sìhū", "gl": "seemingly"},
+      {"zh": "又", "py": "yòu", "gl": "again"},
+      {"zh": "应验", "py": "yìngyàn", "gl": "prove true"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s025",
+     "zh": "Agnico Eagle： 这家老牌黄金股同样在走低，值得留意。",
+     "en": "Agnico Eagle: This long-established gold stock is also heading lower and is worth keeping an eye on.",
+     "segments": [
+      {"zh": "Agnico Eagle"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "这家", "py": "zhèjiā", "gl": "this (company)"},
+      {"zh": "老牌", "py": "lǎopái", "gl": "long-established"},
+      {"zh": "黄金股", "py": "huángjīngǔ", "gl": "gold stock"},
+      {"zh": "同样", "py": "tóngyàng", "gl": "likewise"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "走低", "py": "zǒudī", "gl": "head lower"},
+      {"zh": "，"},
+      {"zh": "值得", "py": "zhídé", "gl": "worth"},
+      {"zh": "留意", "py": "liúyì", "gl": "keeping an eye on"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s026",
+     "zh": "股票追踪表",
+     "en": "Stock tracking spreadsheet",
+     "segments": [
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "追踪", "py": "zhuīzōng", "gl": "tracking"},
+      {"zh": "表", "py": "biǎo", "gl": "spreadsheet"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s027",
+     "zh": "如果你是在 TikTok 上刚认识史蒂文，这里说明一下：他把节目里提过的每只股票都记在一张表格里，链接放在节目说明中。",
+     "en": "If you just discovered Steven on TikTok, here's a quick explanation: he records every stock mentioned on the show in a spreadsheet, and the link is in the show notes.",
+     "segments": [
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": " "},
+      {"zh": "TikTok"},
+      {"zh": " "},
+      {"zh": "上", "py": "shàng", "gl": "on"},
+      {"zh": "刚", "py": "gāng", "gl": "just"},
+      {"zh": "认识", "py": "rènshi", "gl": "got to know"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "，"},
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here"},
+      {"zh": "说明", "py": "shuōmíng", "gl": "explain"},
+      {"zh": "一下", "py": "yíxià", "gl": "briefly"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "提", "py": "tí", "gl": "mention"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "每", "py": "měi", "gl": "every"},
+      {"zh": "只", "py": "zhī", "gl": "(measure word)"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "记", "py": "jì", "gl": "record"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "张", "py": "zhāng", "gl": "(measure word)"},
+      {"zh": "表格", "py": "biǎogé", "gl": "spreadsheet"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "，"},
+      {"zh": "链接", "py": "liànjiē", "gl": "link"},
+      {"zh": "放", "py": "fàng", "gl": "placed"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": "说明", "py": "shuōmíng", "gl": "notes"},
+      {"zh": "中", "py": "zhōng", "gl": "in"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s028",
+     "zh": "今天新增了 Alphabet、Meta、苹果和 Agnico Eagle，每只都按前一天收盘价假设买入一万美元。",
+     "en": "Today he added Alphabet, Meta, Apple and Agnico Eagle, each with a hypothetical $10,000 purchase at the previous day's closing price.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "新增", "py": "xīnzēng", "gl": "newly added"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": " "},
+      {"zh": "Alphabet"},
+      {"zh": "、"},
+      {"zh": "Meta"},
+      {"zh": "、"},
+      {"zh": "苹果", "py": "Píngguǒ", "gl": "Apple"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": " "},
+      {"zh": "Agnico Eagle"},
+      {"zh": "，"},
+      {"zh": "每", "py": "měi", "gl": "each"},
+      {"zh": "只", "py": "zhī", "gl": "(measure word)"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "按", "py": "àn", "gl": "according to"},
+      {"zh": "前一天", "py": "qiányìtiān", "gl": "previous day"},
+      {"zh": "收盘价", "py": "shōupánjià", "gl": "closing price"},
+      {"zh": "假设", "py": "jiǎshè", "gl": "hypothetically"},
+      {"zh": "买入", "py": "mǎirù", "gl": "buy"},
+      {"zh": "一万", "py": "yíwàn", "gl": "ten thousand"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s029",
+     "zh": "这只是记录，不是建议，年底前后他会回头复盘。",
+     "en": "This is just a record, not advice, and he'll look back and review it around the end of the year.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "merely"},
+      {"zh": "记录", "py": "jìlù", "gl": "record"},
+      {"zh": "，"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "，"},
+      {"zh": "年底", "py": "niándǐ", "gl": "end of year"},
+      {"zh": "前后", "py": "qiánhòu", "gl": "around"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "回头", "py": "huítóu", "gl": "look back"},
+      {"zh": "复盘", "py": "fùpán", "gl": "review"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s030",
+     "zh": "糊涂加拿大人眼中的美国中期选举",
+     "en": "The US midterm elections through the eyes of a confused Canadian",
+     "segments": [
+      {"zh": "糊涂", "py": "hútu", "gl": "confused"},
+      {"zh": "加拿大人", "py": "Jiānádàrén", "gl": "Canadian"},
+      {"zh": "眼中", "py": "yǎnzhōng", "gl": "in the eyes of"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "美国", "py": "Měiguó", "gl": "United States"},
+      {"zh": "中期", "py": "zhōngqī", "gl": "midterm"},
+      {"zh": "选举", "py": "xuǎnjǔ", "gl": "election"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s031",
+     "zh": "史蒂文坦白：他活了这么多年，一直不明白这事为什么重要，所以去问了 ChatGPT。",
+     "en": "Steven confesses that after all these years he has never understood why this matters, so he went and asked ChatGPT.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "坦白", "py": "tǎnbái", "gl": "to confess"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "活", "py": "huó", "gl": "to live"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "这么", "py": "zhème", "gl": "so"},
+      {"zh": "多", "py": "duō", "gl": "many"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "，"},
+      {"zh": "一直", "py": "yìzhí", "gl": "all along"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "明白", "py": "míngbai", "gl": "to understand"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "事", "py": "shì", "gl": "matter"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "重要", "py": "zhòngyào", "gl": "important"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "去", "py": "qù", "gl": "to go"},
+      {"zh": "问", "py": "wèn", "gl": "to ask"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": " "},
+      {"zh": "ChatGPT"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s032",
+     "zh": "原来美国人这次不是选总统，而是选出能通过、阻止、调查总统政策的议员：众议院全部席位和约三分之一的参议院席位都要改选。",
+     "en": "It turns out Americans aren't electing a president this time, but rather the legislators who can pass, block and investigate the president's policies: all the seats in the House of Representatives and about one third of the seats in the Senate are up for election.",
+     "segments": [
+      {"zh": "原来", "py": "yuánlái", "gl": "it turns out"},
+      {"zh": "美国人", "py": "Měiguórén", "gl": "Americans"},
+      {"zh": "这次", "py": "zhècì", "gl": "this time"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "选", "py": "xuǎn", "gl": "to elect"},
+      {"zh": "总统", "py": "zǒngtǒng", "gl": "president"},
+      {"zh": "，"},
+      {"zh": "而是", "py": "érshì", "gl": "but rather"},
+      {"zh": "选出", "py": "xuǎnchū", "gl": "to elect"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "通过", "py": "tōngguò", "gl": "to pass"},
+      {"zh": "、"},
+      {"zh": "阻止", "py": "zǔzhǐ", "gl": "to block"},
+      {"zh": "、"},
+      {"zh": "调查", "py": "diàochá", "gl": "to investigate"},
+      {"zh": "总统", "py": "zǒngtǒng", "gl": "president"},
+      {"zh": "政策", "py": "zhèngcè", "gl": "policies"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "议员", "py": "yìyuán", "gl": "legislators"},
+      {"zh": "："},
+      {"zh": "众议院", "py": "Zhòngyìyuàn", "gl": "House of Representatives"},
+      {"zh": "全部", "py": "quánbù", "gl": "all"},
+      {"zh": "席位", "py": "xíwèi", "gl": "seats"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "三分之一", "py": "sānfēnzhīyī", "gl": "one third"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "参议院", "py": "Cānyìyuàn", "gl": "Senate"},
+      {"zh": "席位", "py": "xíwèi", "gl": "seats"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "要", "py": "yào", "gl": "will"},
+      {"zh": "改选", "py": "gǎixuǎn", "gl": "to be re-elected"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s033",
+     "zh": "据他所闻，这可能意味着特朗普要面对两年接连不断的弹劾程序，但特朗普仍有否决权，所以不能算“跛脚鸭”。",
+     "en": "From what he's heard, this could mean Trump faces two years of nonstop impeachment proceedings, but Trump still has the veto, so he can't really be called a \"lame duck.\"",
+     "segments": [
+      {"zh": "据", "py": "jù", "gl": "according to"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "所闻", "py": "suǒwén", "gl": "what is heard"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "可能", "py": "kěnéng", "gl": "may"},
+      {"zh": "意味着", "py": "yìwèizhe", "gl": "to mean"},
+      {"zh": "特朗普", "py": "Tèlǎngpǔ", "gl": "Trump"},
+      {"zh": "要", "py": "yào", "gl": "will have to"},
+      {"zh": "面对", "py": "miànduì", "gl": "to face"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "接连不断", "py": "jiēliánbúduàn", "gl": "nonstop"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "弹劾", "py": "tánhé", "gl": "impeachment"},
+      {"zh": "程序", "py": "chéngxù", "gl": "proceedings"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "特朗普", "py": "Tèlǎngpǔ", "gl": "Trump"},
+      {"zh": "仍", "py": "réng", "gl": "still"},
+      {"zh": "有", "py": "yǒu", "gl": "to have"},
+      {"zh": "否决权", "py": "fǒujuéquán", "gl": "veto power"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "不能", "py": "bùnéng", "gl": "cannot"},
+      {"zh": "算", "py": "suàn", "gl": "to count as"},
+      {"zh": "“"},
+      {"zh": "跛脚鸭", "py": "bǒjiǎoyā", "gl": "lame duck"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s034",
+     "zh": "从市场角度看，ChatGPT 引用《股票交易员年鉴》说，总统任期第三年历来是表现最强的一年。",
+     "en": "From a market perspective, ChatGPT cites the Stock Trader's Almanac as saying that the third year of a presidential term has historically been the strongest-performing year.",
+     "segments": [
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "市场", "py": "shìchǎng", "gl": "market"},
+      {"zh": "角度", "py": "jiǎodù", "gl": "perspective"},
+      {"zh": "看", "py": "kàn", "gl": "viewed"},
+      {"zh": "，"},
+      {"zh": "ChatGPT"},
+      {"zh": " "},
+      {"zh": "引用", "py": "yǐnyòng", "gl": "to cite"},
+      {"zh": "《"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "交易员", "py": "jiāoyìyuán", "gl": "trader"},
+      {"zh": "年鉴", "py": "niánjiàn", "gl": "almanac"},
+      {"zh": "》"},
+      {"zh": "说", "py": "shuō", "gl": "to say"},
+      {"zh": "，"},
+      {"zh": "总统", "py": "zǒngtǒng", "gl": "presidential"},
+      {"zh": "任期", "py": "rènqī", "gl": "term of office"},
+      {"zh": "第三", "py": "dìsān", "gl": "third"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "历来", "py": "lìlái", "gl": "historically"},
+      {"zh": "是", "py": "shì", "gl": "to be"},
+      {"zh": "表现", "py": "biǎoxiàn", "gl": "performance"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "强", "py": "qiáng", "gl": "strong"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s035",
+     "zh": "本周中国公司：砸不碎的玻璃",
+     "en": "This week's Chinese company: glass that can't be smashed",
+     "segments": [
+      {"zh": "本周", "py": "běnzhōu", "gl": "this week"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "："},
+      {"zh": "砸不碎", "py": "zábusuì", "gl": "can't be smashed"},
+      {"zh": "的", "py": "de", "gl": "(links description to noun)"},
+      {"zh": "玻璃", "py": "bōli", "gl": "glass"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s036",
+     "zh": "本周“最难砸坏产品奖”颁给河南平顶山的一家中国玻璃厂。",
+     "en": "This week's \"Hardest Product to Smash Award\" goes to a Chinese glass factory in Pingdingshan, Henan.",
+     "segments": [
+      {"zh": "本周", "py": "běnzhōu", "gl": "this week"},
+      {"zh": "“"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "难", "py": "nán", "gl": "hard, difficult"},
+      {"zh": "砸坏", "py": "záhuài", "gl": "smash and break"},
+      {"zh": "产品", "py": "chǎnpǐn", "gl": "product"},
+      {"zh": "奖", "py": "jiǎng", "gl": "award"},
+      {"zh": "”"},
+      {"zh": "颁给", "py": "bāngěi", "gl": "awarded to"},
+      {"zh": "河南", "py": "Hénán", "gl": "Henan province"},
+      {"zh": "平顶山", "py": "Píngdǐngshān", "gl": "Pingdingshan (city)"},
+      {"zh": "的", "py": "de", "gl": "(links location to noun)"},
+      {"zh": "一", "py": "yì", "gl": "one, a"},
+      {"zh": "家", "py": "jiā", "gl": "(measure word: businesses)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "Chinese"},
+      {"zh": "玻璃厂", "py": "bōlichǎng", "gl": "glass factory"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s037",
+     "zh": "小红书和 TikTok 上到处是一段视频：法国的抗议者想砸穿它的玻璃，却怎么也砸不碎。",
+     "en": "A video is all over Xiaohongshu and TikTok: French protesters try to smash through its glass, but no matter what they do, it won't break.",
+     "segments": [
+      {"zh": "小红书", "py": "Xiǎohóngshū", "gl": "Xiaohongshu (RedNote app)"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": " "},
+      {"zh": "TikTok"},
+      {"zh": " "},
+      {"zh": "上", "py": "shàng", "gl": "on"},
+      {"zh": "到处", "py": "dàochù", "gl": "everywhere"},
+      {"zh": "是", "py": "shì", "gl": "is, there is"},
+      {"zh": "一", "py": "yí", "gl": "one, a"},
+      {"zh": "段", "py": "duàn", "gl": "(measure word: video clips)"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "："},
+      {"zh": "法国", "py": "Fǎguó", "gl": "France"},
+      {"zh": "的", "py": "de", "gl": "(possessive/modifier)"},
+      {"zh": "抗议者", "py": "kàngyìzhě", "gl": "protesters"},
+      {"zh": "想", "py": "xiǎng", "gl": "want to"},
+      {"zh": "砸穿", "py": "záchuān", "gl": "smash through"},
+      {"zh": "它", "py": "tā", "gl": "its (the company's)"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "玻璃", "py": "bōli", "gl": "glass"},
+      {"zh": "，"},
+      {"zh": "却", "py": "què", "gl": "but, yet"},
+      {"zh": "怎么", "py": "zěnme", "gl": "no matter how"},
+      {"zh": "也", "py": "yě", "gl": "(still, with negative)"},
+      {"zh": "砸不碎", "py": "zábusuì", "gl": "can't be smashed"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s038",
+     "zh": "可惜这看起来是家私营公司，没有股票可买。",
+     "en": "Unfortunately, it appears to be a private company, so there's no stock to buy.",
+     "segments": [
+      {"zh": "可惜", "py": "kěxī", "gl": "unfortunately"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "看起来", "py": "kànqǐlai", "gl": "appears, seems"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "家", "py": "jiā", "gl": "(measure word: businesses)"},
+      {"zh": "私营", "py": "sīyíng", "gl": "privately owned"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "，"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there is no"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock, shares"},
+      {"zh": "可", "py": "kě", "gl": "can, available to"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s039",
+     "zh": "好玻璃，锁链门",
+     "en": "Good glass, chained doors",
+     "segments": [
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "玻璃", "py": "bōli", "gl": "glass"},
+      {"zh": "，"},
+      {"zh": "锁链", "py": "suǒliàn", "gl": "chain"},
+      {"zh": "门", "py": "mén", "gl": "door"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s040",
+     "zh": "史蒂文的女朋友看了说“中国加油”，他也同意中国能造出这样的好产品是件好事。",
+     "en": "Steven's girlfriend saw it and said, \"Go China,\" and he agreed it's a good thing that China can make such a fine product.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "看", "py": "kàn", "gl": "watch, see"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "“"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "加油", "py": "jiāyóu", "gl": "go, come on"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "同意", "py": "tóngyì", "gl": "agree"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "造出", "py": "zàochū", "gl": "manufacture, produce"},
+      {"zh": "这样", "py": "zhèyàng", "gl": "such, like this"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "产品", "py": "chǎnpǐn", "gl": "product"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "件", "py": "jiàn", "gl": "(measure word)"},
+      {"zh": "好事", "py": "hǎoshì", "gl": "good thing"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s041",
+     "zh": "可接着，他心里的“杠精”冒出来了：他住的楼一层有扇门，从外面被锁链拴着。",
+     "en": "But then his inner contrarian popped up: on the ground floor of his building, there's a door chained shut from the outside.",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "接着", "py": "jiēzhe", "gl": "then, next"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "心里", "py": "xīnli", "gl": "in one's heart"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "“"},
+      {"zh": "杠精", "py": "gàngjīng", "gl": "contrarian, nitpicker"},
+      {"zh": "”"},
+      {"zh": "冒出来", "py": "màochūlai", "gl": "pop up, emerge"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "住", "py": "zhù", "gl": "live"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "楼", "py": "lóu", "gl": "building"},
+      {"zh": "一层", "py": "yīcéng", "gl": "ground floor"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "扇", "py": "shàn", "gl": "(measure word: doors)"},
+      {"zh": "门", "py": "mén", "gl": "door"},
+      {"zh": "，"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "外面", "py": "wàimiàn", "gl": "outside"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "锁链", "py": "suǒliàn", "gl": "chain"},
+      {"zh": "拴", "py": "shuān", "gl": "tie, fasten"},
+      {"zh": "着", "py": "zhe", "gl": "(continuing state)"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s042",
+     "zh": "一提到火灾，得到的回答通常是“不会着火的”。",
+     "en": "Whenever a fire is brought up, the answer is usually, \"There won't be a fire.\"",
+     "segments": [
+      {"zh": "一", "py": "yì", "gl": "as soon as"},
+      {"zh": "提到", "py": "tídào", "gl": "mention"},
+      {"zh": "火灾", "py": "huǒzāi", "gl": "fire (disaster)"},
+      {"zh": "，"},
+      {"zh": "得到", "py": "dédào", "gl": "receive, get"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "回答", "py": "huídá", "gl": "answer"},
+      {"zh": "通常", "py": "tōngcháng", "gl": "usually"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "“"},
+      {"zh": "不会", "py": "búhuì", "gl": "won't"},
+      {"zh": "着火", "py": "zháohuǒ", "gl": "catch fire"},
+      {"zh": "的", "py": "de", "gl": "(assertive tone)"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s043",
+     "zh": "他说：“着不着火，可不是你说了算。”",
+     "en": "He said, \"Whether there's a fire or not isn't up to you.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "着不着火", "py": "zháobuzháohuǒ", "gl": "whether fire breaks out"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "(emphasis)"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "说了算", "py": "shuōlesuàn", "gl": "have the final say"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "他的公寓里有灭火器和手动消防水带，却没有自动灭火系统，而且现在只有一部电梯能用。",
+     "en": "His apartment has a fire extinguisher and a manual fire hose, but no automatic fire suppression system, and right now only one elevator is working.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "公寓", "py": "gōngyù", "gl": "apartment"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "灭火器", "py": "mièhuǒqì", "gl": "fire extinguisher"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "手动", "py": "shǒudòng", "gl": "manual"},
+      {"zh": "消防", "py": "xiāofáng", "gl": "firefighting"},
+      {"zh": "水带", "py": "shuǐdài", "gl": "hose"},
+      {"zh": "，"},
+      {"zh": "却", "py": "què", "gl": "but, yet"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "not have"},
+      {"zh": "自动", "py": "zìdòng", "gl": "automatic"},
+      {"zh": "灭火", "py": "mièhuǒ", "gl": "fire suppression"},
+      {"zh": "系统", "py": "xìtǒng", "gl": "system"},
+      {"zh": "，"},
+      {"zh": "而且", "py": "érqiě", "gl": "moreover"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "只有", "py": "zhǐyǒu", "gl": "only"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "部", "py": "bù", "gl": "(measure word: machines)"},
+      {"zh": "电梯", "py": "diàntī", "gl": "elevator"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s045",
+     "zh": "所以在他看来，砸不碎的玻璃只会让火灾更危险。",
+     "en": "So as he sees it, unbreakable glass only makes a fire more dangerous.",
+     "segments": [
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "在", "py": "zài", "gl": "(in the view of)"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "看来", "py": "kànlái", "gl": "as one sees it"},
+      {"zh": "，"},
+      {"zh": "砸不碎", "py": "zábusuì", "gl": "can't be smashed"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "玻璃", "py": "bōli", "gl": "glass"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "让", "py": "ràng", "gl": "make, cause"},
+      {"zh": "火灾", "py": "huǒzāi", "gl": "fire (disaster)"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "危险", "py": "wēixiǎn", "gl": "dangerous"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s046",
+     "zh": "加拿大取消夏令时了吗？",
+     "en": "Has Canada abolished daylight saving time?",
+     "segments": [
+      {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
+      {"zh": "取消", "py": "qǔxiāo", "gl": "abolish"},
+      {"zh": "夏令时", "py": "xiàlìngshí", "gl": "daylight saving time"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s047",
+     "zh": "昨晚九点半，史蒂文照例去看股市，行情却没有更新。",
+     "en": "At 9:30 last night, Steven went to check the stock market as usual, but the prices weren't updating.",
+     "segments": [
+      {"zh": "昨晚", "py": "zuówǎn", "gl": "last night"},
+      {"zh": "九", "py": "jiǔ", "gl": "nine"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "半", "py": "bàn", "gl": "half past"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "照例", "py": "zhàolì", "gl": "as usual"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "看", "py": "kàn", "gl": "check"},
+      {"zh": "股市", "py": "gǔshì", "gl": "stock market"},
+      {"zh": "，"},
+      {"zh": "行情", "py": "hángqíng", "gl": "market prices"},
+      {"zh": "却", "py": "què", "gl": "but"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "did not"},
+      {"zh": "更新", "py": "gēngxīn", "gl": "update"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s048",
+     "zh": "难道是中期选举休市？",
+     "en": "Could the market be closed for the midterm elections?",
+     "segments": [
+      {"zh": "难道", "py": "nándào", "gl": "could it be"},
+      {"zh": "是", "py": "shì", "gl": "be (because of)"},
+      {"zh": "中期选举", "py": "zhōngqīxuǎnjǔ", "gl": "midterm elections"},
+      {"zh": "休市", "py": "xiūshì", "gl": "market closure"},
+      {"zh": "？"}
+     ]
+    },
+    {
+     "id": "s049",
+     "zh": "不是，是时钟拨回了。",
+     "en": "No, the clocks had gone back.",
+     "segments": [
+      {"zh": "不是", "py": "búshì", "gl": "no, not so"},
+      {"zh": "，"},
+      {"zh": "是", "py": "shì", "gl": "it is that"},
+      {"zh": "时钟", "py": "shízhōng", "gl": "clock"},
+      {"zh": "拨回", "py": "bōhuí", "gl": "turn back"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s050",
+     "zh": "据他了解，加拿大基本已取消夏令时，不过阿尔伯塔省和不列颠哥伦比亚省好像还在用。",
+     "en": "As far as he knows, Canada has largely abolished daylight saving time, though Alberta and British Columbia seem to still use it.",
+     "segments": [
+      {"zh": "据", "py": "jù", "gl": "according to"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "了解", "py": "liǎojiě", "gl": "understanding"},
+      {"zh": "，"},
+      {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
+      {"zh": "基本", "py": "jīběn", "gl": "basically"},
+      {"zh": "已", "py": "yǐ", "gl": "already"},
+      {"zh": "取消", "py": "qǔxiāo", "gl": "abolish"},
+      {"zh": "夏令时", "py": "xiàlìngshí", "gl": "daylight saving time"},
+      {"zh": "，"},
+      {"zh": "不过", "py": "búguò", "gl": "however"},
+      {"zh": "阿尔伯塔省", "py": "Ā'ěrbótǎ Shěng", "gl": "Alberta"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "不列颠哥伦比亚省", "py": "Bùlièdiān Gēlúnbǐyà Shěng", "gl": "British Columbia"},
+      {"zh": "好像", "py": "hǎoxiàng", "gl": "seem to"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s051",
+     "zh": "现在多伦多和纽约都比北京晚 13 小时，所以美股对他来说是晚上 10 点半开盘。",
+     "en": "Toronto and New York are now both 13 hours behind Beijing, so for him the US stock market opens at 10:30 p.m.",
+     "segments": [
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "多伦多", "py": "Duōlúnduō", "gl": "Toronto"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "纽约", "py": "Niǔyuē", "gl": "New York"},
+      {"zh": "都", "py": "dōu", "gl": "both"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "晚", "py": "wǎn", "gl": "later, behind"},
+      {"zh": " "},
+      {"zh": "13"},
+      {"zh": " "},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "美股", "py": "Měigǔ", "gl": "US stocks"},
+      {"zh": "对", "py": "duì", "gl": "for"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "来说", "py": "láishuō", "gl": "(as far as concerned)"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "晚上", "py": "wǎnshang", "gl": "in the evening"},
+      {"zh": " "},
+      {"zh": "10"},
+      {"zh": " "},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "半", "py": "bàn", "gl": "half past"},
+      {"zh": "开盘", "py": "kāipán", "gl": "market opens"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s052",
+     "zh": "他笑说：“这一期全是我在谷歌搜索。”",
+     "en": "He said with a laugh, \"This whole episode is just me Googling things.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "笑", "py": "xiào", "gl": "laugh"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "期", "py": "qī", "gl": "episode"},
+      {"zh": "全", "py": "quán", "gl": "entirely"},
+      {"zh": "是", "py": "shì", "gl": "be"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "谷歌", "py": "Gǔgē", "gl": "Google"},
+      {"zh": "搜索", "py": "sōusuǒ", "gl": "search"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s053",
+     "zh": "真正要紧的“期中考”",
+     "en": "The \"midterm\" that really matters",
+     "segments": [
+      {"zh": "真正", "py": "zhēnzhèng", "gl": "really"},
+      {"zh": "要紧", "py": "yàojǐn", "gl": "important"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "“"},
+      {"zh": "期中考", "py": "qīzhōngkǎo", "gl": "midterm exam"},
+      {"zh": "”"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s054",
+     "zh": "学生们的期中考下周就到了，今天的预演让史蒂文发现，他们根本不知道该怎么做。",
+     "en": "The students' midterm is next week, and today's rehearsal showed Steven that they have no idea what to do.",
+     "segments": [
+      {"zh": "学生们", "py": "xuéshengmen", "gl": "students"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "期中考", "py": "qīzhōngkǎo", "gl": "midterm exam"},
+      {"zh": "下周", "py": "xiàzhōu", "gl": "next week"},
+      {"zh": "就", "py": "jiù", "gl": "(soon)"},
+      {"zh": "到", "py": "dào", "gl": "arrive"},
+      {"zh": "了", "py": "le", "gl": "(change of situation)"},
+      {"zh": "，"},
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "预演", "py": "yùyǎn", "gl": "rehearsal"},
+      {"zh": "让", "py": "ràng", "gl": "make, cause"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "发现", "py": "fāxiàn", "gl": "discover"},
+      {"zh": "，"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "根本", "py": "gēnběn", "gl": "at all"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "知道", "py": "zhīdào", "gl": "know"},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s055",
+     "zh": "好在这次考试占分为零。",
+     "en": "Fortunately, this exam counts for zero points.",
+     "segments": [
+      {"zh": "好在", "py": "hǎozài", "gl": "fortunately"},
+      {"zh": "这次", "py": "zhècì", "gl": "this time"},
+      {"zh": "考试", "py": "kǎoshì", "gl": "exam"},
+      {"zh": "占分", "py": "zhànfēn", "gl": "count toward grade"},
+      {"zh": "为", "py": "wéi", "gl": "be"},
+      {"zh": "零", "py": "líng", "gl": "zero"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s056",
+     "zh": "口语考试中，四名学生要围绕一个议题的三种立场讨论约 12 分钟，要用时间、有效性、实施和成本等标准，并引用五篇文章。",
+     "en": "In the oral exam, four students must discuss three positions on an issue for about 12 minutes, using criteria such as time, effectiveness, implementation and cost, and citing five articles.",
+     "segments": [
+      {"zh": "口语", "py": "kǒuyǔ", "gl": "spoken language"},
+      {"zh": "考试", "py": "kǎoshì", "gl": "exam"},
+      {"zh": "中", "py": "zhōng", "gl": "in, during"},
+      {"zh": "，"},
+      {"zh": "四", "py": "sì", "gl": "four"},
+      {"zh": "名", "py": "míng", "gl": "(measure word, people)"},
+      {"zh": "学生", "py": "xuésheng", "gl": "student"},
+      {"zh": "要", "py": "yào", "gl": "must"},
+      {"zh": "围绕", "py": "wéirào", "gl": "center on"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "议题", "py": "yìtí", "gl": "issue, topic"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "种", "py": "zhǒng", "gl": "kinds of"},
+      {"zh": "立场", "py": "lìchǎng", "gl": "position, stance"},
+      {"zh": "讨论", "py": "tǎolùn", "gl": "discuss"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": " "},
+      {"zh": "12"},
+      {"zh": " "},
+      {"zh": "分钟", "py": "fēnzhōng", "gl": "minutes"},
+      {"zh": "，"},
+      {"zh": "要", "py": "yào", "gl": "must"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "、"},
+      {"zh": "有效性", "py": "yǒuxiàoxìng", "gl": "effectiveness"},
+      {"zh": "、"},
+      {"zh": "实施", "py": "shíshī", "gl": "implementation"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "成本", "py": "chéngběn", "gl": "cost"},
+      {"zh": "等", "py": "děng", "gl": "and so on"},
+      {"zh": "标准", "py": "biāozhǔn", "gl": "criteria"},
+      {"zh": "，"},
+      {"zh": "并", "py": "bìng", "gl": "and also"},
+      {"zh": "引用", "py": "yǐnyòng", "gl": "cite"},
+      {"zh": "五", "py": "wǔ", "gl": "five"},
+      {"zh": "篇", "py": "piān", "gl": "(measure word, articles)"},
+      {"zh": "文章", "py": "wénzhāng", "gl": "article"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s057",
+     "zh": "结果没有一个人提到文章或标准。",
+     "en": "As it turned out, not a single one of them mentioned the articles or the criteria.",
+     "segments": [
+      {"zh": "结果", "py": "jiéguǒ", "gl": "as it turned out"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there wasn't"},
+      {"zh": "一个", "py": "yí ge", "gl": "a single"},
+      {"zh": "人", "py": "rén", "gl": "person"},
+      {"zh": "提到", "py": "tídào", "gl": "mention"},
+      {"zh": "文章", "py": "wénzhāng", "gl": "articles"},
+      {"zh": "或", "py": "huò", "gl": "or"},
+      {"zh": "标准", "py": "biāozhǔn", "gl": "criteria"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s058",
+     "zh": "不过这是第一次尝试，他本来也没抱太大期望。",
+     "en": "But this was their first try, and he hadn't expected much anyway.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "第一次", "py": "dìyīcì", "gl": "first time"},
+      {"zh": "尝试", "py": "chángshì", "gl": "attempt"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "本来", "py": "běnlái", "gl": "in the first place"},
+      {"zh": "也", "py": "yě", "gl": "(anyway)"},
+      {"zh": "没", "py": "méi", "gl": "did not"},
+      {"zh": "抱", "py": "bào", "gl": "hold, cherish"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "大", "py": "dà", "gl": "great"},
+      {"zh": "期望", "py": "qīwàng", "gl": "expectation"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s059",
+     "zh": "昨晚长达一个半小时的评分校准会很有用，因为他自己的打分偏差很大。",
+     "en": "Last night's hour-and-a-half grading calibration session was very useful, because his own scoring was way off.",
+     "segments": [
+      {"zh": "昨晚", "py": "zuówǎn", "gl": "last night"},
+      {"zh": "长达", "py": "chángdá", "gl": "as long as"},
+      {"zh": "一个半", "py": "yí ge bàn", "gl": "one and a half"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hour"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "评分", "py": "píngfēn", "gl": "grading"},
+      {"zh": "校准会", "py": "jiàozhǔnhuì", "gl": "calibration session"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "有用", "py": "yǒuyòng", "gl": "useful"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "own"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "打分", "py": "dǎfēn", "gl": "scoring"},
+      {"zh": "偏差", "py": "piānchā", "gl": "deviation"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "大", "py": "dà", "gl": "large"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s060",
+     "zh": "周五，学生们要写至少 250 词，好让他在笔试前给出反馈。",
+     "en": "On Friday, the students must write at least 250 words so that he can give feedback before the written exam.",
+     "segments": [
+      {"zh": "周五", "py": "zhōuwǔ", "gl": "Friday"},
+      {"zh": "，"},
+      {"zh": "学生们", "py": "xuéshengmen", "gl": "students"},
+      {"zh": "要", "py": "yào", "gl": "must"},
+      {"zh": "写", "py": "xiě", "gl": "write"},
+      {"zh": "至少", "py": "zhìshǎo", "gl": "at least"},
+      {"zh": " "},
+      {"zh": "250"},
+      {"zh": " "},
+      {"zh": "词", "py": "cí", "gl": "words"},
+      {"zh": "，"},
+      {"zh": "好", "py": "hǎo", "gl": "so that"},
+      {"zh": "让", "py": "ràng", "gl": "allow"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "在", "py": "zài", "gl": "at (time)"},
+      {"zh": "笔试", "py": "bǐshì", "gl": "written exam"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "给出", "py": "gěichū", "gl": "give"},
+      {"zh": "反馈", "py": "fǎnkuì", "gl": "feedback"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s061",
+     "zh": "今日总结",
+     "en": "Today's Summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s062",
+     "zh": "无论是雾霾、股市，还是第一次小组讨论，看看眼前真实的情况，总比图省事随大流要好。",
+     "en": "Whether it's smog, the stock market, or your first group discussion, looking at what's really in front of you is always better than taking the easy way out and following the crowd.",
+     "segments": [
+      {"zh": "无论", "py": "wúlùn", "gl": "whether; no matter"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "雾霾", "py": "wùmái", "gl": "smog"},
+      {"zh": "、"},
+      {"zh": "股市", "py": "gǔshì", "gl": "stock market"},
+      {"zh": "，"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "第一次", "py": "dìyīcì", "gl": "first time"},
+      {"zh": "小组", "py": "xiǎozǔ", "gl": "small group"},
+      {"zh": "讨论", "py": "tǎolùn", "gl": "discussion"},
+      {"zh": "，"},
+      {"zh": "看看", "py": "kànkan", "gl": "take a look at"},
+      {"zh": "眼前", "py": "yǎnqián", "gl": "before one's eyes"},
+      {"zh": "真实", "py": "zhēnshí", "gl": "real; true"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "情况", "py": "qíngkuàng", "gl": "situation"},
+      {"zh": "，"},
+      {"zh": "总", "py": "zǒng", "gl": "always; after all"},
+      {"zh": "比", "py": "bǐ", "gl": "(compared) than"},
+      {"zh": "图", "py": "tú", "gl": "seek; go for"},
+      {"zh": "省事", "py": "shěngshì", "gl": "saving trouble"},
+      {"zh": "随大流", "py": "suídàliú", "gl": "follow the crowd"},
+      {"zh": "要", "py": "yào", "gl": "(in comparisons) would be"},
+      {"zh": "好", "py": "hǎo", "gl": "better; good"},
+      {"zh": "。"}
+     ]
+    },
+    {
+     "id": "s063",
+     "zh": "要是有人说“不会着火的”，你还是去看一眼那扇门吧。",
+     "en": "If someone says \"it won't catch fire,\" you should still go take a look at that door.",
+     "segments": [
+      {"zh": "要是", "py": "yàoshi", "gl": "if"},
+      {"zh": "有人", "py": "yǒurén", "gl": "someone"},
+      {"zh": "说", "py": "shuō", "gl": "says"},
+      {"zh": "“"},
+      {"zh": "不会", "py": "búhuì", "gl": "won't"},
+      {"zh": "着火", "py": "zháohuǒ", "gl": "catch fire"},
+      {"zh": "的", "py": "de", "gl": "(emphatic assertion)"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "还是", "py": "háishi", "gl": "still; had better"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "看", "py": "kàn", "gl": "look at"},
+      {"zh": "一眼", "py": "yìyǎn", "gl": "one glance"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "扇", "py": "shàn", "gl": "(measure word for doors)"},
+      {"zh": "门", "py": "mén", "gl": "door"},
+      {"zh": "吧", "py": "ba", "gl": "(soft suggestion)"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "雾霾", "py": "wùmái", "en": "smog"},
+  {"zh": "抄底", "py": "chāodǐ", "en": "to buy at the bottom / buy the dip"},
+  {"zh": "超卖", "py": "chāomài", "en": "oversold"},
+  {"zh": "跛脚鸭", "py": "bǒjiǎoyā", "en": "lame duck"},
+  {"zh": "弹劾", "py": "tánhé", "en": "impeachment"},
+  {"zh": "否决权", "py": "fǒujuéquán", "en": "veto power"},
+  {"zh": "杠精", "py": "gàngjīng", "en": "a contrarian who loves to argue / nitpicker"},
+  {"zh": "夏令时", "py": "xiàlìngshí", "en": "daylight saving time"},
+  {"zh": "复盘", "py": "fùpán", "en": "to review and reflect on past results"},
+  {"zh": "瞎折腾", "py": "xiā zhēteng", "en": "to fiddle around aimlessly"}
+ ]
+}
