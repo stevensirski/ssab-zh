@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-05T16:18",
+ "updated": "2026-11-06T21:13",
  "episodes": [
+  {
+   "id": "ssab-2026-11-06",
+   "date": "2026-11-06",
+   "title": "The Heat Is On, and So Are Midterms",
+   "titleZh": "暖气来了，期中考也来了",
+   "description": "Steven talks about Beijing's central heating finally coming on, the elevator renovation in his building, and how early darkness and fatigue pushed back his recording. Most of the episode covers his university midterm prep: an ungraded midterm, a first try at group discussion practice, a stack of handwritten essays and the role of AI. He ends by asking whether watching a TV series is worth as much as reading a book.",
+   "duration": 556,
+   "chars": 1483,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-05",
    "date": "2026-11-05",
