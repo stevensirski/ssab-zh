@@ -1,0 +1,2026 @@
+{
+ "id": "ssab-2026-11-09",
+ "date": "2026-11-09",
+ "title": "Body on Strike and the Bedbug Map",
+ "titleZh": "身体罢工与臭虫地图",
+ "description": "Steven covers midterm week, Beijing's cold rain, and a forced rest week that raises questions about aging and testosterone. The episode also gets into gym herpes, hidden hotel cameras, Shanghai's bedbug map, next year's holiday schedule, and a shrinking Substack.",
+ "duration": 557,
+ "audio": {
+  "src": "audio/ssab-2026-11-09.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Quick Overview",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 17.32,
+     "end": 18.63
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "今天这期节目里，史蒂文聊了期中考试周、北京的冷雨，还有他的身体为什么终于“罢工”，逼他休息一周。",
+     "en": "In today's episode, Steven talks about midterm exam week, Beijing's cold rain, and why his body finally \"went on strike,\" forcing him to rest for a week.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: episode)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show, program"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "聊", "py": "liáo", "gl": "to chat about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "期中", "py": "qīzhōng", "gl": "midterm"},
+      {"zh": "考试周", "py": "kǎoshìzhōu", "gl": "exam week"},
+      {"zh": "、"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "冷雨", "py": "lěngyǔ", "gl": "cold rain"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "身体", "py": "shēntǐ", "gl": "body"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "终于", "py": "zhōngyú", "gl": "finally"},
+      {"zh": "“"},
+      {"zh": "罢工", "py": "bàgōng", "gl": "to go on strike"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "逼", "py": "bī", "gl": "to force"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "休息", "py": "xiūxi", "gl": "to rest"},
+      {"zh": "一周", "py": "yìzhōu", "gl": "one week"},
+      {"zh": "。"}
+     ],
+     "start": 19.74,
+     "end": 33.71
+    },
+    {
+     "id": "s003",
+     "zh": "他怀疑疲惫只是年纪大了，还是睾酮水平下降。",
+     "en": "He wonders whether his fatigue is just down to getting older, or to falling testosterone levels.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "怀疑", "py": "huáiyí", "gl": "to suspect, wonder"},
+      {"zh": "疲惫", "py": "píbèi", "gl": "exhaustion"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "merely"},
+      {"zh": "年纪", "py": "niánjì", "gl": "age"},
+      {"zh": "大", "py": "dà", "gl": "old (in age)"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "，"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "睾酮", "py": "gāotóng", "gl": "testosterone"},
+      {"zh": "水平", "py": "shuǐpíng", "gl": "level"},
+      {"zh": "下降", "py": "xiàjiàng", "gl": "to decline"},
+      {"zh": "。"}
+     ],
+     "start": 34.88,
+     "end": 40.37
+    },
+    {
+     "id": "s004",
+     "zh": "接着聊到信息流里的新闻：健身房里的疱疹、酒店房间的隐藏摄像头，以及上海的臭虫地图。",
+     "en": "Next, he turns to news from his feed: herpes at the gym, hidden cameras in hotel rooms, and a bedbug map of Shanghai.",
+     "segments": [
+      {"zh": "接着", "py": "jiēzhe", "gl": "next"},
+      {"zh": "聊到", "py": "liáodào", "gl": "to get to talking about"},
+      {"zh": "信息流", "py": "xìnxīliú", "gl": "news feed"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(linking particle)"},
+      {"zh": "新闻", "py": "xīnwén", "gl": "news"},
+      {"zh": "："},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(linking particle)"},
+      {"zh": "疱疹", "py": "pàozhěn", "gl": "herpes"},
+      {"zh": "、"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "房间", "py": "fángjiān", "gl": "room"},
+      {"zh": "的", "py": "de", "gl": "(linking particle)"},
+      {"zh": "隐藏", "py": "yǐncáng", "gl": "hidden"},
+      {"zh": "摄像头", "py": "shèxiàngtóu", "gl": "camera"},
+      {"zh": "，"},
+      {"zh": "以及", "py": "yǐjí", "gl": "as well as"},
+      {"zh": "上海", "py": "Shànghǎi", "gl": "Shanghai"},
+      {"zh": "的", "py": "de", "gl": "(linking particle)"},
+      {"zh": "臭虫", "py": "chòuchóng", "gl": "bedbug"},
+      {"zh": "地图", "py": "dìtú", "gl": "map"},
+      {"zh": "。"}
+     ],
+     "start": 40.78,
+     "end": 52.81
+    },
+    {
+     "id": "s005",
+     "zh": "最后是明年的假期安排，还有他日渐“缩水”的 Substack。",
+     "en": "Finally, there are next year's vacation plans and his steadily \"shrinking\" Substack.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "明年", "py": "míngnián", "gl": "next year"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "假期", "py": "jiàqī", "gl": "vacation"},
+      {"zh": "安排", "py": "ānpái", "gl": "plans, schedule"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "日渐", "py": "rìjiàn", "gl": "increasingly by day"},
+      {"zh": "“"},
+      {"zh": "缩水", "py": "suōshuǐ", "gl": "to shrink"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(linking particle)"},
+      {"zh": " "},
+      {"zh": "Substack"},
+      {"zh": "。"}
+     ],
+     "start": 53.34,
+     "end": 60.21
+    },
+    {
+     "id": "s006",
+     "zh": "这期内容有点让人浑身发痒，不过他讲得挺有趣。",
+     "en": "This episode might make your skin crawl a little, but he makes it pretty entertaining.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: episode)"},
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
+      {"zh": "让", "py": "ràng", "gl": "to make"},
+      {"zh": "人", "py": "rén", "gl": "people, one"},
+      {"zh": "浑身", "py": "húnshēn", "gl": "all over the body"},
+      {"zh": "发痒", "py": "fāyǎng", "gl": "to itch"},
+      {"zh": "，"},
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "讲", "py": "jiǎng", "gl": "to tell, talk"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "挺", "py": "tǐng", "gl": "quite"},
+      {"zh": "有趣", "py": "yǒuqù", "gl": "interesting, fun"},
+      {"zh": "。"}
+     ],
+     "start": 60.66,
+     "end": 66.99
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s007",
+     "zh": "期中考试和 50 篇作文",
+     "en": "Midterm exams and 50 essays",
+     "segments": [
+      {"zh": "期中考试", "py": "qīzhōngkǎoshì", "gl": "midterm exam"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": " "},
+      {"zh": "50"},
+      {"zh": " "},
+      {"zh": "篇", "py": "piān", "gl": "(measure word for essays)"},
+      {"zh": "作文", "py": "zuòwén", "gl": "essay"}
+     ],
+     "start": 67.74,
+     "end": 70.35
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s008",
+     "zh": "这周是期中考试周，不用备课，严格说今天算休息日。",
+     "en": "This week is midterm exam week, so there are no classes to prepare for, and strictly speaking, today counts as a day off.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "期中考试", "py": "qīzhōngkǎoshì", "gl": "midterm exam"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "，"},
+      {"zh": "不用", "py": "búyòng", "gl": "no need to"},
+      {"zh": "备课", "py": "bèikè", "gl": "prepare lessons"},
+      {"zh": "，"},
+      {"zh": "严格", "py": "yángé", "gl": "strictly"},
+      {"zh": "说", "py": "shuō", "gl": "speaking"},
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "算", "py": "suàn", "gl": "counts as"},
+      {"zh": "休息日", "py": "xiūxirì", "gl": "day off"},
+      {"zh": "。"}
+     ],
+     "start": 70.8,
+     "end": 77.73
+    },
+    {
+     "id": "s009",
+     "zh": "可他这几天读了三个班大约 50 篇作文，学生们犯的还是他早就写在 PPT 上的那些错误。",
+     "en": "But over the past few days he has read about 50 essays from three classes, and the students are still making the same mistakes he put on his PowerPoint long ago.",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "这", "py": "zhè", "gl": "these"},
+      {"zh": "几天", "py": "jǐtiān", "gl": "few days"},
+      {"zh": "读", "py": "dú", "gl": "read"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "班", "py": "bān", "gl": "class"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": " "},
+      {"zh": "50"},
+      {"zh": " "},
+      {"zh": "篇", "py": "piān", "gl": "(measure word for essays)"},
+      {"zh": "作文", "py": "zuòwén", "gl": "essay"},
+      {"zh": "，"},
+      {"zh": "学生们", "py": "xuéshengmen", "gl": "students"},
+      {"zh": "犯", "py": "fàn", "gl": "make (mistakes)"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer: what is made)"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "早就", "py": "zǎojiù", "gl": "long ago"},
+      {"zh": "写", "py": "xiě", "gl": "write"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": " "},
+      {"zh": "PPT"},
+      {"zh": " "},
+      {"zh": "上", "py": "shàng", "gl": "on"},
+      {"zh": "的", "py": "de", "gl": "(links description to noun)"},
+      {"zh": "那些", "py": "nàxiē", "gl": "those"},
+      {"zh": "错误", "py": "cuòwù", "gl": "mistakes"},
+      {"zh": "。"}
+     ],
+     "start": 78.06,
+     "end": 89.49
+    },
+    {
+     "id": "s010",
+     "zh": "唉，帮他们练好基本功，本来就是他的工作。",
+     "en": "Sigh. Helping them build a solid foundation is his job, after all.",
+     "segments": [
+      {"zh": "唉", "py": "ài", "gl": "(sigh)"},
+      {"zh": "，"},
+      {"zh": "帮", "py": "bāng", "gl": "help"},
+      {"zh": "他们", "py": "tāmen", "gl": "them"},
+      {"zh": "练好", "py": "liànhǎo", "gl": "master through practice"},
+      {"zh": "基本功", "py": "jīběngōng", "gl": "basic skills"},
+      {"zh": "，"},
+      {"zh": "本来", "py": "běnlái", "gl": "after all"},
+      {"zh": "就", "py": "jiù", "gl": "(emphasis)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "job"},
+      {"zh": "。"}
+     ],
+     "start": 90.38,
+     "end": 95.55
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s011",
+     "zh": "叫他“别说了”的数据面板",
+     "en": "The data dashboard that told him to \"stop talking\"",
+     "segments": [
+      {"zh": "叫", "py": "jiào", "gl": "to tell"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "“"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "说", "py": "shuō", "gl": "talk"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(links description to noun)"},
+      {"zh": "数据", "py": "shùjù", "gl": "data"},
+      {"zh": "面板", "py": "miànbǎn", "gl": "dashboard"}
+     ],
+     "start": 95.84,
+     "end": 98.97
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s012",
+     "zh": "史蒂文让 Claude 做了一个话题面板，看看这档节目 330 个小时都聊了些什么：",
+     "en": "Steven had Claude make a topic dashboard to see what the show has talked about over its 330 hours:",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "让", "py": "ràng", "gl": "to have (someone do)"},
+      {"zh": " "},
+      {"zh": "Claude"},
+      {"zh": " "},
+      {"zh": "做", "py": "zuò", "gl": "to make"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "话题", "py": "huàtí", "gl": "topic"},
+      {"zh": "面板", "py": "miànbǎn", "gl": "dashboard"},
+      {"zh": "，"},
+      {"zh": "看看", "py": "kànkan", "gl": "to have a look"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "档", "py": "dàng", "gl": "(measure word for shows)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": " "},
+      {"zh": "330"},
+      {"zh": " "},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "都", "py": "dōu", "gl": "(sums up everything)"},
+      {"zh": "聊", "py": "liáo", "gl": "to chat about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "些", "py": "xiē", "gl": "some"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "："}
+     ],
+     "start": 99.4,
+     "end": 108.63
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "85 小时：一次性话题和其他内容",
+     "en": "85 hours: one-off topics and other content",
+     "segments": [
+      {"zh": "85"},
+      {"zh": " "},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "："},
+      {"zh": "一次性", "py": "yícìxìng", "gl": "one-off"},
+      {"zh": "话题", "py": "huàtí", "gl": "topics"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "其他", "py": "qítā", "gl": "other"},
+      {"zh": "内容", "py": "nèiróng", "gl": "content"}
+     ],
+     "start": 109.82,
+     "end": 114.21
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s014",
+     "zh": "55 小时：开场白、结束语和技术故障",
+     "en": "55 hours: intros, outros and technical problems",
+     "segments": [
+      {"zh": "55"},
+      {"zh": " "},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "："},
+      {"zh": "开场白", "py": "kāichǎngbái", "gl": "intro"},
+      {"zh": "、"},
+      {"zh": "结束语", "py": "jiéshùyǔ", "gl": "closing remarks"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "技术", "py": "jìshù", "gl": "technical"},
+      {"zh": "故障", "py": "gùzhàng", "gl": "glitches"}
+     ],
+     "start": 114.64,
+     "end": 119.11
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s015",
+     "zh": "53 小时：制作节目、AI 工具和 YouTube",
+     "en": "53 hours: making the show, AI tools and YouTube",
+     "segments": [
+      {"zh": "53"},
+      {"zh": " "},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "："},
+      {"zh": "制作", "py": "zhìzuò", "gl": "making"},
+      {"zh": "节目", "py": "jiémù", "gl": "the show"},
+      {"zh": "、"},
+      {"zh": "AI"},
+      {"zh": " "},
+      {"zh": "工具", "py": "gōngjù", "gl": "tools"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": " "},
+      {"zh": "YouTube"}
+     ],
+     "start": 120.92,
+     "end": 126.37
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s016",
+     "zh": "42 小时：日常生活、健身、美食和天气",
+     "en": "42 hours: daily life, fitness, food and the weather",
+     "segments": [
+      {"zh": "42"},
+      {"zh": " "},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "："},
+      {"zh": "日常", "py": "rìcháng", "gl": "everyday"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "life"},
+      {"zh": "、"},
+      {"zh": "健身", "py": "jiànshēn", "gl": "fitness"},
+      {"zh": "、"},
+      {"zh": "美食", "py": "měishí", "gl": "good food"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "天气", "py": "tiānqì", "gl": "weather"}
+     ],
+     "start": 127.86,
+     "end": 133.51
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s017",
+     "zh": "30 小时：教学、语言等等",
+     "en": "30 hours: teaching, languages and so on",
+     "segments": [
+      {"zh": "30"},
+      {"zh": " "},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "："},
+      {"zh": "教学", "py": "jiàoxué", "gl": "teaching"},
+      {"zh": "、"},
+      {"zh": "语言", "py": "yǔyán", "gl": "languages"},
+      {"zh": "等等", "py": "děngděng", "gl": "and so on"}
+     ],
+     "start": 133.82,
+     "end": 137.5
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s018",
+     "zh": "面板最上面的大字写着：“别再做：谈论节目是怎么做出来的。”",
+     "en": "In big letters at the very top of the dashboard, it said: \"Stop doing: talking about how the show gets made.\"",
+     "segments": [
+      {"zh": "面板", "py": "miànbǎn", "gl": "dashboard"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "上面", "py": "shàngmiàn", "gl": "top"},
+      {"zh": "的", "py": "de", "gl": "(links description to noun)"},
+      {"zh": "大字", "py": "dàzì", "gl": "big letters"},
+      {"zh": "写", "py": "xiě", "gl": "to write"},
+      {"zh": "着", "py": "zhe", "gl": "(ongoing state)"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "再", "py": "zài", "gl": "anymore"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "："},
+      {"zh": "谈论", "py": "tánlùn", "gl": "talking about"},
+      {"zh": "节目", "py": "jiémù", "gl": "the show"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis, with 的)"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "做", "py": "zuò", "gl": "to make"},
+      {"zh": "出来", "py": "chūlai", "gl": "(result: comes into being)"},
+      {"zh": "的", "py": "de", "gl": "(emphasis, with 是)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 137.5,
+     "end": 145.6
+    },
+    {
+     "id": "s019",
+     "zh": "有道理！",
+     "en": "Fair enough!",
+     "segments": [
+      {"zh": "有道理", "py": "yǒudàolǐ", "gl": "makes sense"},
+      {"zh": "！"}
+     ],
+     "start": 145.6,
+     "end": 147.1
+    },
+    {
+     "id": "s020",
+     "zh": "他会尽量控制在每周一次左右。",
+     "en": "He'll try to keep it to about once a week.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "尽量", "py": "jǐnliàng", "gl": "to do one's best"},
+      {"zh": "控制", "py": "kòngzhì", "gl": "to keep, limit"},
+      {"zh": "在", "py": "zài", "gl": "at (a level)"},
+      {"zh": "每周", "py": "měizhōu", "gl": "every week"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "次", "py": "cì", "gl": "time"},
+      {"zh": "左右", "py": "zuǒyòu", "gl": "about"},
+      {"zh": "。"}
+     ],
+     "start": 147.1,
+     "end": 151.61
+    },
+    {
+     "id": "s021",
+     "zh": "周末他还终于推出了两款拖了很久的产品，具体内容这周晚些时候再说。",
+     "en": "Over the weekend he also finally launched two long-delayed products; more on those later this week.",
+     "segments": [
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "终于", "py": "zhōngyú", "gl": "finally"},
+      {"zh": "推出", "py": "tuīchū", "gl": "to launch"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "款", "py": "kuǎn", "gl": "(measure word for products)"},
+      {"zh": "拖", "py": "tuō", "gl": "to delay"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "很久", "py": "hěnjiǔ", "gl": "a long time"},
+      {"zh": "的", "py": "de", "gl": "(links description to noun)"},
+      {"zh": "产品", "py": "chǎnpǐn", "gl": "products"},
+      {"zh": "，"},
+      {"zh": "具体", "py": "jùtǐ", "gl": "specific"},
+      {"zh": "内容", "py": "nèiróng", "gl": "details"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "晚些", "py": "wǎnxiē", "gl": "a bit later"},
+      {"zh": "时候", "py": "shíhou", "gl": "time"},
+      {"zh": "再说", "py": "zàishuō", "gl": "to discuss later"},
+      {"zh": "。"}
+     ],
+     "start": 151.94,
+     "end": 161.39
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s022",
+     "zh": "冷雨与新作息",
+     "en": "Cold Rain and a New Routine",
+     "segments": [
+      {"zh": "冷", "py": "lěng", "gl": "cold"},
+      {"zh": "雨", "py": "yǔ", "gl": "rain"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "作息", "py": "zuòxī", "gl": "daily routine"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s023",
+     "zh": "今天天空湛蓝。",
+     "en": "The sky is deep blue today.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "天空", "py": "tiānkōng", "gl": "sky"},
+      {"zh": "湛蓝", "py": "zhànlán", "gl": "deep blue"},
+      {"zh": "。"}
+     ],
+     "start": 164.3,
+     "end": 165.93
+    },
+    {
+     "id": "s024",
+     "zh": "上周他抱怨的雾霾再也没回来。",
+     "en": "The smog he complained about last week never came back.",
+     "segments": [
+      {"zh": "上周", "py": "shàngzhōu", "gl": "last week"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "抱怨", "py": "bàoyuàn", "gl": "complain about"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "雾霾", "py": "wùmái", "gl": "smog"},
+      {"zh": "再也", "py": "zàiyě", "gl": "(never) again"},
+      {"zh": "没", "py": "méi", "gl": "not (past)"},
+      {"zh": "回来", "py": "huílai", "gl": "come back"},
+      {"zh": "。"}
+     ],
+     "start": 166.3,
+     "end": 170.74
+    },
+    {
+     "id": "s025",
+     "zh": "倒是下了雨，天气也真正冷了起来：早上六点闹钟响的时候，只有两摄氏度。",
+     "en": "It did rain, though, and the weather has turned properly cold: when his alarm went off at six this morning, it was only two degrees Celsius.",
+     "segments": [
+      {"zh": "倒是", "py": "dàoshì", "gl": "on the other hand"},
+      {"zh": "下", "py": "xià", "gl": "fall (rain)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "雨", "py": "yǔ", "gl": "rain"},
+      {"zh": "，"},
+      {"zh": "天气", "py": "tiānqì", "gl": "weather"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "真正", "py": "zhēnzhèng", "gl": "truly"},
+      {"zh": "冷", "py": "lěng", "gl": "cold"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "起来", "py": "qǐlai", "gl": "(start to become)"},
+      {"zh": "："},
+      {"zh": "早上", "py": "zǎoshang", "gl": "morning"},
+      {"zh": "六点", "py": "liùdiǎn", "gl": "six o'clock"},
+      {"zh": "闹钟", "py": "nàozhōng", "gl": "alarm clock"},
+      {"zh": "响", "py": "xiǎng", "gl": "ring"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "时候", "py": "shíhou", "gl": "when"},
+      {"zh": "，"},
+      {"zh": "只有", "py": "zhǐyǒu", "gl": "only"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "摄氏度", "py": "shèshìdù", "gl": "degrees Celsius"},
+      {"zh": "。"}
+     ],
+     "start": 170.74,
+     "end": 180.83
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s026",
+     "zh": "他现在少跑步、多去健身房，所以得重新安排作息。",
+     "en": "He's running less and going to the gym more now, so he has to rearrange his routine.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "少", "py": "shǎo", "gl": "less"},
+      {"zh": "跑步", "py": "pǎobù", "gl": "run"},
+      {"zh": "、"},
+      {"zh": "多", "py": "duō", "gl": "more"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "得", "py": "děi", "gl": "have to"},
+      {"zh": "重新", "py": "chóngxīn", "gl": "anew"},
+      {"zh": "安排", "py": "ānpái", "gl": "arrange"},
+      {"zh": "作息", "py": "zuòxī", "gl": "daily routine"},
+      {"zh": "。"}
+     ],
+     "start": 181.7,
+     "end": 189.71
+    },
+    {
+     "id": "s027",
+     "zh": "去年他每周有八个课时，今年只有四个，外加答疑时间，说白了就是非正式的一对一辅导。",
+     "en": "Last year he had eight class periods a week; this year he has only four, plus office hours, which frankly just means informal one-on-one tutoring.",
+     "segments": [
+      {"zh": "去年", "py": "qùnián", "gl": "last year"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "每周", "py": "měizhōu", "gl": "every week"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "八", "py": "bā", "gl": "eight"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "课时", "py": "kèshí", "gl": "class period"},
+      {"zh": "，"},
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "只有", "py": "zhǐyǒu", "gl": "only have"},
+      {"zh": "四", "py": "sì", "gl": "four"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "，"},
+      {"zh": "外加", "py": "wàijiā", "gl": "plus"},
+      {"zh": "答疑", "py": "dáyí", "gl": "answer questions"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "，"},
+      {"zh": "说白了", "py": "shuōbáile", "gl": "to put it plainly"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is just"},
+      {"zh": "非正式", "py": "fēizhèngshì", "gl": "informal"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "一对一", "py": "yíduìyī", "gl": "one-on-one"},
+      {"zh": "辅导", "py": "fǔdǎo", "gl": "tutoring"},
+      {"zh": "。"}
+     ],
+     "start": 190.08,
+     "end": 202.63
+    },
+    {
+     "id": "s028",
+     "zh": "学校想让学生每次扫二维码签到，他回绝了，还提出让大家看他那份腾讯文档表格。",
+     "en": "The school wanted students to scan a QR code to check in each time, but he refused and suggested they look at his Tencent Docs spreadsheet instead.",
+     "segments": [
+      {"zh": "学校", "py": "xuéxiào", "gl": "school"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "让", "py": "ràng", "gl": "have (someone do)"},
+      {"zh": "学生", "py": "xuésheng", "gl": "students"},
+      {"zh": "每次", "py": "měicì", "gl": "every time"},
+      {"zh": "扫", "py": "sǎo", "gl": "scan"},
+      {"zh": "二维码", "py": "èrwéimǎ", "gl": "QR code"},
+      {"zh": "签到", "py": "qiāndào", "gl": "check in"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "回绝", "py": "huíjué", "gl": "refuse"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "提出", "py": "tíchū", "gl": "propose"},
+      {"zh": "让", "py": "ràng", "gl": "have (someone do)"},
+      {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
+      {"zh": "看", "py": "kàn", "gl": "look at"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "份", "py": "fèn", "gl": "(measure: document)"},
+      {"zh": "腾讯", "py": "Téngxùn", "gl": "Tencent"},
+      {"zh": "文档", "py": "wéndàng", "gl": "Docs"},
+      {"zh": "表格", "py": "biǎogé", "gl": "spreadsheet"},
+      {"zh": "。"}
+     ],
+     "start": 203.84,
+     "end": 215.75
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s029",
+     "zh": "今天最大的纠结是先录音还是先跑步。",
+     "en": "Today's biggest dilemma was whether to record first or run first.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "纠结", "py": "jiūjié", "gl": "dilemma"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "录音", "py": "lùyīn", "gl": "record audio"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "跑步", "py": "pǎobù", "gl": "run"},
+      {"zh": "。"}
+     ],
+     "start": 216.38,
+     "end": 221.36
+    },
+    {
+     "id": "s030",
+     "zh": "他选了先录音，这样出门时工作流程就能在后台处理，前提是额度还够用：他这周的 Claude 用量已经到了 97%。",
+     "en": "He chose to record first, so the workflow could process in the background while he was out, provided he still had enough quota: his Claude usage for the week had already reached 97%.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "选", "py": "xuǎn", "gl": "choose"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "录音", "py": "lùyīn", "gl": "record audio"},
+      {"zh": "，"},
+      {"zh": "这样", "py": "zhèyàng", "gl": "this way"},
+      {"zh": "出门", "py": "chūmén", "gl": "go out"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "工作流程", "py": "gōngzuòliúchéng", "gl": "workflow"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "后台", "py": "hòutái", "gl": "background"},
+      {"zh": "处理", "py": "chǔlǐ", "gl": "process"},
+      {"zh": "，"},
+      {"zh": "前提", "py": "qiántí", "gl": "precondition"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "额度", "py": "édù", "gl": "quota"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "够用", "py": "gòuyòng", "gl": "be enough"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": " "},
+      {"zh": "Claude"},
+      {"zh": " "},
+      {"zh": "用量", "py": "yòngliàng", "gl": "usage"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "到", "py": "dào", "gl": "reach"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": " "},
+      {"zh": "97"},
+      {"zh": "%"},
+      {"zh": "。"}
+     ],
+     "start": 221.36,
+     "end": 235.87
+    },
+    {
+     "id": "s031",
+     "zh": "AI 可以叫他别再聊 AI，但它确实让他效率高了不少。",
+     "en": "AI can tell him to stop talking about AI, but it really has made him a lot more efficient.",
+     "segments": [
+      {"zh": "AI"},
+      {"zh": " "},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "叫", "py": "jiào", "gl": "tell"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "再", "py": "zài", "gl": "anymore"},
+      {"zh": "聊", "py": "liáo", "gl": "talk about"},
+      {"zh": " "},
+      {"zh": "AI"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "确实", "py": "quèshí", "gl": "really"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "效率", "py": "xiàolǜ", "gl": "efficiency"},
+      {"zh": "高", "py": "gāo", "gl": "high"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "不少", "py": "bùshǎo", "gl": "quite a lot"},
+      {"zh": "。"}
+     ],
+     "start": 237.7,
+     "end": 244.69
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s032",
+     "zh": "休息周与睾酮之问",
+     "en": "Rest Weeks and the Testosterone Question",
+     "segments": [
+      {"zh": "休息", "py": "xiūxi", "gl": "rest"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "睾酮", "py": "gāotóng", "gl": "testosterone"},
+      {"zh": "之", "py": "zhī", "gl": "(literary 'of')"},
+      {"zh": "问", "py": "wèn", "gl": "question"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s033",
+     "zh": "他今天早上用掉了健身房的最后一张入场券，状态糟透了。",
+     "en": "He used up the last of his gym passes this morning, and he felt terrible.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "早上", "py": "zǎoshang", "gl": "morning"},
+      {"zh": "用掉", "py": "yòngdiào", "gl": "use up"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "最后", "py": "zuìhòu", "gl": "last"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "张", "py": "zhāng", "gl": "(measure word: tickets)"},
+      {"zh": "入场券", "py": "rùchǎngquàn", "gl": "entry pass"},
+      {"zh": "，"},
+      {"zh": "状态", "py": "zhuàngtài", "gl": "condition, form"},
+      {"zh": "糟", "py": "zāo", "gl": "bad"},
+      {"zh": "透", "py": "tòu", "gl": "utterly"},
+      {"zh": "了", "py": "le", "gl": "(emphatic particle)"},
+      {"zh": "。"}
+     ],
+     "start": 248.02,
+     "end": 255.28
+    },
+    {
+     "id": "s034",
+     "zh": "他平时练 StrongLifts 5x5，六周一个周期，第六周减量或者彻底休息。",
+     "en": "He usually does StrongLifts 5x5 in six-week cycles, with the sixth week either a deload or complete rest.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "平时", "py": "píngshí", "gl": "usually"},
+      {"zh": "练", "py": "liàn", "gl": "train, practice"},
+      {"zh": " "},
+      {"zh": "StrongLifts"},
+      {"zh": " "},
+      {"zh": "5x5"},
+      {"zh": "，"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "周期", "py": "zhōuqī", "gl": "cycle"},
+      {"zh": "，"},
+      {"zh": "第六", "py": "dìliù", "gl": "sixth"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "减量", "py": "jiǎnliàng", "gl": "reduce volume, deload"},
+      {"zh": "或者", "py": "huòzhě", "gl": "or"},
+      {"zh": "彻底", "py": "chèdǐ", "gl": "completely"},
+      {"zh": "休息", "py": "xiūxi", "gl": "rest"},
+      {"zh": "。"}
+     ],
+     "start": 255.28,
+     "end": 265.77
+    },
+    {
+     "id": "s035",
+     "zh": "肌酸似乎给了他一点提升，所以这个周期拉长到了八周。",
+     "en": "Creatine seemed to give him a bit of a boost, so he stretched this cycle out to eight weeks.",
+     "segments": [
+      {"zh": "肌酸", "py": "jīsuān", "gl": "creatine"},
+      {"zh": "似乎", "py": "sìhū", "gl": "seemingly"},
+      {"zh": "给", "py": "gěi", "gl": "give"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "一点", "py": "yìdiǎn", "gl": "a little"},
+      {"zh": "提升", "py": "tíshēng", "gl": "boost"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "周期", "py": "zhōuqī", "gl": "cycle"},
+      {"zh": "拉长", "py": "lācháng", "gl": "stretch out"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "八", "py": "bā", "gl": "eight"},
+      {"zh": "周", "py": "zhōu", "gl": "weeks"},
+      {"zh": "。"}
+     ],
+     "start": 267.08,
+     "end": 273.46
+    },
+    {
+     "id": "s036",
+     "zh": "可是不管感觉如何都硬撑着去，反而是在透支。",
+     "en": "But forcing himself to go no matter how he feels is actually running himself into the ground.",
+     "segments": [
+      {"zh": "可是", "py": "kěshì", "gl": "but"},
+      {"zh": "不管", "py": "bùguǎn", "gl": "no matter"},
+      {"zh": "感觉", "py": "gǎnjué", "gl": "feel"},
+      {"zh": "如何", "py": "rúhé", "gl": "how"},
+      {"zh": "都", "py": "dōu", "gl": "(still, regardless)"},
+      {"zh": "硬撑", "py": "yìngchēng", "gl": "force oneself through"},
+      {"zh": "着", "py": "zhe", "gl": "(ongoing manner)"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "，"},
+      {"zh": "反而", "py": "fǎn'ér", "gl": "on the contrary"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "透支", "py": "tòuzhī", "gl": "overdraw, overtax oneself"},
+      {"zh": "。"}
+     ],
+     "start": 273.46,
+     "end": 280.13
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s037",
+     "zh": "他四十多岁了，到底是练得太多、年纪的问题，还是睾酮下降？",
+     "en": "He's in his forties now. Is he training too much, is it his age, or is it declining testosterone?",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "四十", "py": "sìshí", "gl": "forty"},
+      {"zh": "多", "py": "duō", "gl": "more than"},
+      {"zh": "岁", "py": "suì", "gl": "years old"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "，"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "after all, really"},
+      {"zh": "是", "py": "shì", "gl": "is it"},
+      {"zh": "练", "py": "liàn", "gl": "train"},
+      {"zh": "得", "py": "de", "gl": "(degree complement)"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "多", "py": "duō", "gl": "much"},
+      {"zh": "、"},
+      {"zh": "年纪", "py": "niánjì", "gl": "age"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "问题", "py": "wèntí", "gl": "issue"},
+      {"zh": "，"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "睾酮", "py": "gāotóng", "gl": "testosterone"},
+      {"zh": "下降", "py": "xiàjiàng", "gl": "decline"},
+      {"zh": "？"}
+     ],
+     "start": 281.26,
+     "end": 289.53
+    },
+    {
+     "id": "s038",
+     "zh": "他暂时不打算去检查，不过也许这两个月会去，主要是出于好奇。",
+     "en": "He doesn't plan to get tested for now, though he might in the next couple of months, mainly out of curiosity.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "暂时", "py": "zànshí", "gl": "for now"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "打算", "py": "dǎsuàn", "gl": "plan to"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "检查", "py": "jiǎnchá", "gl": "get tested"},
+      {"zh": "，"},
+      {"zh": "不过", "py": "búguò", "gl": "though"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "perhaps"},
+      {"zh": "这", "py": "zhè", "gl": "these"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "月", "py": "yuè", "gl": "months"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "，"},
+      {"zh": "主要", "py": "zhǔyào", "gl": "mainly"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "出于", "py": "chūyú", "gl": "out of"},
+      {"zh": "好奇", "py": "hàoqí", "gl": "curiosity"},
+      {"zh": "。"}
+     ],
+     "start": 289.84,
+     "end": 298.37
+    },
+    {
+     "id": "s039",
+     "zh": "玛咖、高丽红参、印度醉茄他都试过，当然，这些不算健康建议。",
+     "en": "He has tried maca, Korean red ginseng, and ashwagandha. Of course, none of this counts as health advice.",
+     "segments": [
+      {"zh": "玛咖", "py": "mǎkā", "gl": "maca"},
+      {"zh": "、"},
+      {"zh": "高丽红参", "py": "Gāolíhóngshēn", "gl": "Korean red ginseng"},
+      {"zh": "、"},
+      {"zh": "印度醉茄", "py": "Yìndùzuìqié", "gl": "ashwagandha"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "试", "py": "shì", "gl": "try"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "，"},
+      {"zh": "当然", "py": "dāngrán", "gl": "of course"},
+      {"zh": "，"},
+      {"zh": "这些", "py": "zhèxiē", "gl": "these"},
+      {"zh": "不算", "py": "búsuàn", "gl": "doesn't count as"},
+      {"zh": "健康", "py": "jiànkāng", "gl": "health"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "。"}
+     ],
+     "start": 299.64,
+     "end": 308.25
+    },
+    {
+     "id": "s040",
+     "zh": "他还提出了一个很不科学的理论：少喝酒，信心就少，信心少，睾酮就低。",
+     "en": "He also proposed a very unscientific theory: drink less and you have less confidence; less confidence means lower testosterone.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "提出", "py": "tíchū", "gl": "propose"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "科学", "py": "kēxué", "gl": "scientific"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "理论", "py": "lǐlùn", "gl": "theory"},
+      {"zh": "："},
+      {"zh": "少", "py": "shǎo", "gl": "less"},
+      {"zh": "喝酒", "py": "hējiǔ", "gl": "drink alcohol"},
+      {"zh": "，"},
+      {"zh": "信心", "py": "xìnxīn", "gl": "confidence"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "少", "py": "shǎo", "gl": "less"},
+      {"zh": "，"},
+      {"zh": "信心", "py": "xìnxīn", "gl": "confidence"},
+      {"zh": "少", "py": "shǎo", "gl": "less"},
+      {"zh": "，"},
+      {"zh": "睾酮", "py": "gāotóng", "gl": "testosterone"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "低", "py": "dī", "gl": "low"},
+      {"zh": "。"}
+     ],
+     "start": 308.7,
+     "end": 317.45
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s041",
+     "zh": "直播间有人夸他的胡子不错。",
+     "en": "Someone in the livestream chat complimented his beard.",
+     "segments": [
+      {"zh": "直播间", "py": "zhíbōjiān", "gl": "livestream room"},
+      {"zh": "有人", "py": "yǒurén", "gl": "someone"},
+      {"zh": "夸", "py": "kuā", "gl": "praise"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "胡子", "py": "húzi", "gl": "beard"},
+      {"zh": "不错", "py": "búcuò", "gl": "nice, not bad"},
+      {"zh": "。"}
+     ],
+     "start": 319.9,
+     "end": 323.67
+    },
+    {
+     "id": "s042",
+     "zh": "他说：“要说有什么能反映我的睾酮水平，那就是这把胡子了。”",
+     "en": "He said, \"If anything reflects my testosterone level, it's this beard.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "要说", "py": "yàoshuō", "gl": "if one were to say"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "什么", "py": "shénme", "gl": "anything"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "反映", "py": "fǎnyìng", "gl": "reflect"},
+      {"zh": "我", "py": "wǒ", "gl": "my"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "睾酮", "py": "gāotóng", "gl": "testosterone"},
+      {"zh": "水平", "py": "shuǐpíng", "gl": "level"},
+      {"zh": "，"},
+      {"zh": "那", "py": "nà", "gl": "then, that"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is precisely"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "把", "py": "bǎ", "gl": "(measure word: beard)"},
+      {"zh": "胡子", "py": "húzi", "gl": "beard"},
+      {"zh": "了", "py": "le", "gl": "(emphatic particle)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 324.58,
+     "end": 331.98
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s043",
+     "zh": "健身房的疱疹，酒店里的摄像头",
+     "en": "Herpes at the gym, cameras in hotels",
+     "segments": [
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "疱疹", "py": "pàozhěn", "gl": "herpes"},
+      {"zh": "，"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "摄像头", "py": "shèxiàngtóu", "gl": "cameras"}
+     ],
+     "start": 331.98,
+     "end": 336.77
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "大约一个月前，有个网友说他去健身房后起了皮疹，检测出单纯疱疹病毒阳性，还有不少人跟帖说了类似的经历。",
+     "en": "About a month ago, a netizen said he got a rash after going to the gym and tested positive for herpes simplex virus, and quite a few people replied with similar experiences.",
+     "segments": [
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "前", "py": "qián", "gl": "ago"},
+      {"zh": "，"},
+      {"zh": "有", "py": "yǒu", "gl": "there was"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "网友", "py": "wǎngyǒu", "gl": "netizen"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "起", "py": "qǐ", "gl": "break out in"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "皮疹", "py": "pízhěn", "gl": "rash"},
+      {"zh": "，"},
+      {"zh": "检测", "py": "jiǎncè", "gl": "test"},
+      {"zh": "出", "py": "chū", "gl": "(result: detected)"},
+      {"zh": "单纯疱疹", "py": "dānchún pàozhěn", "gl": "herpes simplex"},
+      {"zh": "病毒", "py": "bìngdú", "gl": "virus"},
+      {"zh": "阳性", "py": "yángxìng", "gl": "positive"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "also"},
+      {"zh": "不少", "py": "bùshǎo", "gl": "quite a few"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "跟帖", "py": "gēntiě", "gl": "reply to post"},
+      {"zh": "说", "py": "shuō", "gl": "tell"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "类似", "py": "lèisì", "gl": "similar"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "经历", "py": "jīnglì", "gl": "experiences"},
+      {"zh": "。"}
+     ],
+     "start": 337.22,
+     "end": 353.03
+    },
+    {
+     "id": "s045",
+     "zh": "史蒂文问：“你们是不是在舔健身房的座椅？”",
+     "en": "Steven asked, \"Are you guys licking the seats at the gym?\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "问", "py": "wèn", "gl": "asked"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "你们", "py": "nǐmen", "gl": "you (plural)"},
+      {"zh": "是不是", "py": "shìbushì", "gl": "(yes-no question)"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "舔", "py": "tiǎn", "gl": "lick"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "座椅", "py": "zuòyǐ", "gl": "seats"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 354.94,
+     "end": 358.27
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s046",
+     "zh": "接着是 BBC Eye 关于酒店房间和浴室隐藏摄像头的报道，其中一台在郑州的酒店，藏在墙上的通风设备里，镜头对着床。",
+     "en": "Next came a BBC Eye report on hidden cameras in hotel rooms and bathrooms; one of them, in a hotel in Zhengzhou, was hidden inside a ventilation unit on the wall, with its lens pointed at the bed.",
+     "segments": [
+      {"zh": "接着", "py": "jiēzhe", "gl": "next"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": " "},
+      {"zh": "BBC"},
+      {"zh": " "},
+      {"zh": "Eye"},
+      {"zh": " "},
+      {"zh": "关于", "py": "guānyú", "gl": "about"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "房间", "py": "fángjiān", "gl": "rooms"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "浴室", "py": "yùshì", "gl": "bathrooms"},
+      {"zh": "隐藏", "py": "yǐncáng", "gl": "hidden"},
+      {"zh": "摄像头", "py": "shèxiàngtóu", "gl": "cameras"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "报道", "py": "bàodào", "gl": "report"},
+      {"zh": "，"},
+      {"zh": "其中", "py": "qízhōng", "gl": "among them"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "台", "py": "tái", "gl": "(measure: devices)"},
+      {"zh": "在", "py": "zài", "gl": "located in"},
+      {"zh": "郑州", "py": "Zhèngzhōu", "gl": "Zhengzhou"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "，"},
+      {"zh": "藏", "py": "cáng", "gl": "hidden"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "墙", "py": "qiáng", "gl": "wall"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "通风", "py": "tōngfēng", "gl": "ventilation"},
+      {"zh": "设备", "py": "shèbèi", "gl": "equipment"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "，"},
+      {"zh": "镜头", "py": "jìngtóu", "gl": "lens"},
+      {"zh": "对着", "py": "duìzhe", "gl": "pointed at"},
+      {"zh": "床", "py": "chuáng", "gl": "bed"},
+      {"zh": "。"}
+     ],
+     "start": 359.42,
+     "end": 376.85
+    },
+    {
+     "id": "s047",
+     "zh": "他女友一直比他更担心这件事，他能理解。",
+     "en": "His girlfriend has always worried about this more than he has, and he can understand that.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "女友", "py": "nǚyǒu", "gl": "girlfriend"},
+      {"zh": "一直", "py": "yìzhí", "gl": "always"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "担心", "py": "dānxīn", "gl": "worry about"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "件", "py": "jiàn", "gl": "(measure: matters)"},
+      {"zh": "事", "py": "shì", "gl": "matter"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "理解", "py": "lǐjiě", "gl": "understand"},
+      {"zh": "。"}
+     ],
+     "start": 377.42,
+     "end": 383.33
+    },
+    {
+     "id": "s048",
+     "zh": "至于他自己，觉得没人想看这个胖胖的大叔走来走去。",
+     "en": "As for himself, he figures nobody wants to watch this chubby middle-aged guy walking around.",
+     "segments": [
+      {"zh": "至于", "py": "zhìyú", "gl": "as for"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "，"},
+      {"zh": "觉得", "py": "juéde", "gl": "feels"},
+      {"zh": "没人", "py": "méirén", "gl": "nobody"},
+      {"zh": "想", "py": "xiǎng", "gl": "wants to"},
+      {"zh": "看", "py": "kàn", "gl": "watch"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "胖胖", "py": "pàngpàng", "gl": "chubby"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "大叔", "py": "dàshū", "gl": "middle-aged guy"},
+      {"zh": "走来走去", "py": "zǒuláizǒuqù", "gl": "walk around"},
+      {"zh": "。"}
+     ],
+     "start": 383.74,
+     "end": 390.97
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s049",
+     "zh": "报道里还有一位福建的志愿反偷拍博主，他在 2025 年辞职全职做这件事，已经帮警方抓获 19 个犯罪团伙。",
+     "en": "The report also features a volunteer anti-spycam blogger from Fujian, who quit his job in 2025 to do this full-time and has already helped police bust 19 criminal gangs.",
+     "segments": [
+      {"zh": "报道", "py": "bàodào", "gl": "report"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "also has"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "福建", "py": "Fújiàn", "gl": "Fujian"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "志愿", "py": "zhìyuàn", "gl": "volunteer"},
+      {"zh": "反", "py": "fǎn", "gl": "anti-"},
+      {"zh": "偷拍", "py": "tōupāi", "gl": "covert filming"},
+      {"zh": "博主", "py": "bózhǔ", "gl": "blogger"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": " "},
+      {"zh": "2025"},
+      {"zh": " "},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "辞职", "py": "cízhí", "gl": "quit job"},
+      {"zh": "全职", "py": "quánzhí", "gl": "full-time"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "件", "py": "jiàn", "gl": "(measure: matters)"},
+      {"zh": "事", "py": "shì", "gl": "matter"},
+      {"zh": "，"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "帮", "py": "bāng", "gl": "helped"},
+      {"zh": "警方", "py": "jǐngfāng", "gl": "police"},
+      {"zh": "抓获", "py": "zhuāhuò", "gl": "capture"},
+      {"zh": " "},
+      {"zh": "19"},
+      {"zh": " "},
+      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "犯罪", "py": "fànzuì", "gl": "criminal"},
+      {"zh": "团伙", "py": "tuánhuǒ", "gl": "gangs"},
+      {"zh": "。"}
+     ],
+     "start": 391.86,
+     "end": 406.41
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s050",
+     "zh": "睡得香，别让臭虫咬",
+     "en": "Sleep tight, don't let the bedbugs bite",
+     "segments": [
+      {"zh": "睡", "py": "shuì", "gl": "sleep"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "香", "py": "xiāng", "gl": "soundly"},
+      {"zh": "，"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "让", "py": "ràng", "gl": "let"},
+      {"zh": "臭虫", "py": "chòuchóng", "gl": "bedbugs"},
+      {"zh": "咬", "py": "yǎo", "gl": "bite"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s051",
+     "zh": "雪上加霜的是，还有一个臭虫地图。",
+     "en": "To make matters worse, there's also a bedbug map.",
+     "segments": [
+      {"zh": "雪上加霜", "py": "xuěshàngjiāshuāng", "gl": "to make matters worse"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "there is also"},
+      {"zh": "一个", "py": "yí ge", "gl": "a"},
+      {"zh": "臭虫", "py": "chòuchóng", "gl": "bedbug"},
+      {"zh": "地图", "py": "dìtú", "gl": "map"},
+      {"zh": "。"}
+     ],
+     "start": 410.7,
+     "end": 414.55
+    },
+    {
+     "id": "s052",
+     "zh": "一位上海的工人今年夏天搬进新家，被咬得浑身是包，于是用 AI 写了个应用，汇总对酒店和公寓的投诉。",
+     "en": "A worker in Shanghai moved into a new home this summer and got bitten all over, so he used AI to write an app that compiles complaints about hotels and apartments.",
+     "segments": [
+      {"zh": "一位", "py": "yí wèi", "gl": "one (polite measure)"},
+      {"zh": "上海", "py": "Shànghǎi", "gl": "Shanghai"},
+      {"zh": "的", "py": "de", "gl": "(possessive/attributive)"},
+      {"zh": "工人", "py": "gōngrén", "gl": "worker"},
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "夏天", "py": "xiàtiān", "gl": "summer"},
+      {"zh": "搬进", "py": "bānjìn", "gl": "move into"},
+      {"zh": "新家", "py": "xīnjiā", "gl": "new home"},
+      {"zh": "，"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "咬", "py": "yǎo", "gl": "bite"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "浑身", "py": "húnshēn", "gl": "whole body"},
+      {"zh": "是", "py": "shì", "gl": "covered with"},
+      {"zh": "包", "py": "bāo", "gl": "bumps"},
+      {"zh": "，"},
+      {"zh": "于是", "py": "yúshì", "gl": "so"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": " "},
+      {"zh": "AI"},
+      {"zh": " "},
+      {"zh": "写", "py": "xiě", "gl": "write"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "个", "py": "ge", "gl": "a (measure word)"},
+      {"zh": "应用", "py": "yìngyòng", "gl": "app"},
+      {"zh": "，"},
+      {"zh": "汇总", "py": "huìzǒng", "gl": "compile"},
+      {"zh": "对", "py": "duì", "gl": "about"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotels"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "公寓", "py": "gōngyù", "gl": "apartments"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "投诉", "py": "tóusù", "gl": "complaints"},
+      {"zh": "。"}
+     ],
+     "start": 415.54,
+     "end": 428.27
+    },
+    {
+     "id": "s053",
+     "zh": "它火了起来，随后他被 Telegram 上的网友人肉搜索。",
+     "en": "It took off, and then he was doxxed by users on Telegram.",
+     "segments": [
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "火", "py": "huǒ", "gl": "become popular"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "起来", "py": "qǐlai", "gl": "(start of state)"},
+      {"zh": "，"},
+      {"zh": "随后", "py": "suíhòu", "gl": "afterwards"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": " "},
+      {"zh": "Telegram"},
+      {"zh": " "},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "网友", "py": "wǎngyǒu", "gl": "internet users"},
+      {"zh": "人肉搜索", "py": "rénròusōusuǒ", "gl": "dox"},
+      {"zh": "。"}
+     ],
+     "start": 429.44,
+     "end": 434.91
+    },
+    {
+     "id": "s054",
+     "zh": "北京的 JW 万豪说从没有客人反映过虫子。",
+     "en": "The JW Marriott in Beijing says no guest has ever reported bugs.",
+     "segments": [
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": " "},
+      {"zh": "JW"},
+      {"zh": " "},
+      {"zh": "万豪", "py": "Wànháo", "gl": "Marriott"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "从", "py": "cóng", "gl": "ever (with negative)"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "have not"},
+      {"zh": "客人", "py": "kèrén", "gl": "guests"},
+      {"zh": "反映", "py": "fǎnyìng", "gl": "report"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "虫子", "py": "chóngzi", "gl": "bugs"},
+      {"zh": "。"}
+     ],
+     "start": 435.26,
+     "end": 440.61
+    },
+    {
+     "id": "s055",
+     "zh": "这说法不算完全准确，可不住酒店，又能住哪儿呢？",
+     "en": "That claim isn't entirely accurate, but if you don't stay in a hotel, where else can you stay?",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "说法", "py": "shuōfǎ", "gl": "claim"},
+      {"zh": "不算", "py": "búsuàn", "gl": "can't be considered"},
+      {"zh": "完全", "py": "wánquán", "gl": "entirely"},
+      {"zh": "准确", "py": "zhǔnquè", "gl": "accurate"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "住", "py": "zhù", "gl": "stay at"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "then (emphatic)"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "住", "py": "zhù", "gl": "stay"},
+      {"zh": "哪儿", "py": "nǎr", "gl": "where"},
+      {"zh": "呢", "py": "ne", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 441.84,
+     "end": 449.11
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s056",
+     "zh": "史蒂文只在一家青年旅舍见过臭虫，对方消毒了大约六个小时，臭虫还是一次次卷土重来。",
+     "en": "Steven has only ever seen bedbugs at one youth hostel; the staff there disinfected for about six hours, but the bedbugs kept coming back again and again.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "一家", "py": "yì jiā", "gl": "one (establishment)"},
+      {"zh": "青年旅舍", "py": "qīngniánlǚshè", "gl": "youth hostel"},
+      {"zh": "见过", "py": "jiànguo", "gl": "have seen"},
+      {"zh": "臭虫", "py": "chòuchóng", "gl": "bedbugs"},
+      {"zh": "，"},
+      {"zh": "对方", "py": "duìfāng", "gl": "the other party"},
+      {"zh": "消毒", "py": "xiāodú", "gl": "disinfect"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "，"},
+      {"zh": "臭虫", "py": "chòuchóng", "gl": "bedbugs"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "一次次", "py": "yícìcì", "gl": "time and again"},
+      {"zh": "卷土重来", "py": "juǎntǔchónglái", "gl": "make a comeback"},
+      {"zh": "。"}
+     ],
+     "start": 450.28,
+     "end": 462.45
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "不过也有个好消息：他的健身房把清洁阿姨的“独门清洁法”换成了正规的消毒湿巾。",
+     "en": "There is some good news, though: his gym has replaced the cleaning lady's \"secret cleaning method\" with proper disinfectant wipes.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "however"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "个", "py": "ge", "gl": "a (measure word)"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "消息", "py": "xiāoxi", "gl": "news"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "清洁", "py": "qīngjié", "gl": "cleaning"},
+      {"zh": "阿姨", "py": "āyí", "gl": "auntie (domestic worker)"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "“"},
+      {"zh": "独门", "py": "dúmén", "gl": "secret, exclusive"},
+      {"zh": "清洁法", "py": "qīngjiéfǎ", "gl": "cleaning method"},
+      {"zh": "”"},
+      {"zh": "换成", "py": "huànchéng", "gl": "replace with"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "正规", "py": "zhèngguī", "gl": "proper"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "消毒", "py": "xiāodú", "gl": "disinfectant"},
+      {"zh": "湿巾", "py": "shījīn", "gl": "wet wipes"},
+      {"zh": "。"}
+     ],
+     "start": 462.98,
+     "end": 473.53
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s058",
+     "zh": "明年的假期",
+     "en": "Next Year's Holidays",
+     "segments": [
+      {"zh": "明年", "py": "míngnián", "gl": "next year"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "假期", "py": "jiàqī", "gl": "holidays"}
+     ],
+     "start": 474.96,
+     "end": 476.75
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s059",
+     "zh": "明年的放假安排公布了，没什么特别的，五月的劳动节放五天。",
+     "en": "Next year's holiday schedule has been announced, and there's nothing special about it: the May Day holiday is five days off.",
+     "segments": [
+      {"zh": "明年", "py": "míngnián", "gl": "next year"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "放假", "py": "fàngjià", "gl": "holiday, time off"},
+      {"zh": "安排", "py": "ānpái", "gl": "schedule"},
+      {"zh": "公布", "py": "gōngbù", "gl": "announce"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "没什么", "py": "méi shénme", "gl": "nothing much"},
+      {"zh": "特别", "py": "tèbié", "gl": "special"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "，"},
+      {"zh": "五月", "py": "wǔyuè", "gl": "May"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "劳动节", "py": "Láodòng Jié", "gl": "Labor Day"},
+      {"zh": "放", "py": "fàng", "gl": "have off"},
+      {"zh": "五", "py": "wǔ", "gl": "five"},
+      {"zh": "天", "py": "tiān", "gl": "days"},
+      {"zh": "。"}
+     ],
+     "start": 477.28,
+     "end": 485.61
+    },
+    {
+     "id": "s060",
+     "zh": "大家最关心的还是有没有调休补班，答案是有，照旧。",
+     "en": "What everyone cares about most is still whether there will be make-up workdays for the rearranged days off. The answer is yes, same as always.",
+     "segments": [
+      {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "关心", "py": "guānxīn", "gl": "care about"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "有没有", "py": "yǒu méiyǒu", "gl": "whether there are"},
+      {"zh": "调休", "py": "tiáoxiū", "gl": "rearranged days off"},
+      {"zh": "补班", "py": "bǔbān", "gl": "make-up workdays"},
+      {"zh": "，"},
+      {"zh": "答案", "py": "dá'àn", "gl": "answer"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "有", "py": "yǒu", "gl": "there are"},
+      {"zh": "，"},
+      {"zh": "照旧", "py": "zhàojiù", "gl": "as before"},
+      {"zh": "。"}
+     ],
+     "start": 486.24,
+     "end": 492.27
+    },
+    {
+     "id": "s061",
+     "zh": "正如他所说：“在中国，没有白来的假期。”",
+     "en": "As he said: \"In China, there's no such thing as a free holiday.\"",
+     "segments": [
+      {"zh": "正如", "py": "zhèngrú", "gl": "just as"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "所说", "py": "suǒ shuō", "gl": "said"},
+      {"zh": "：“"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "，"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there is no"},
+      {"zh": "白来", "py": "báilái", "gl": "come for free"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "假期", "py": "jiàqī", "gl": "holiday"},
+      {"zh": "。”"}
+     ],
+     "start": 494.2,
+     "end": 499.74
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s062",
+     "zh": "订阅，好让你的智能体取消订阅",
+     "en": "Subscribe, so your agent can unsubscribe",
+     "segments": [
+      {"zh": "订阅", "py": "dìngyuè", "gl": "subscribe"},
+      {"zh": "，"},
+      {"zh": "好", "py": "hǎo", "gl": "so that"},
+      {"zh": "让", "py": "ràng", "gl": "let"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "智能体", "py": "zhìnéngtǐ", "gl": "AI agent"},
+      {"zh": "取消", "py": "qǔxiāo", "gl": "cancel"},
+      {"zh": "订阅", "py": "dìngyuè", "gl": "subscription"}
+     ],
+     "start": 499.74,
+     "end": 505.03
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s063",
+     "zh": "他免费的 Substack 几个月前最多有 34 位订阅者，现在只剩 26 位，这个周末就少了五个。",
+     "en": "A few months ago his free Substack peaked at 34 subscribers, but now only 26 are left, and he lost five this weekend alone.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "免费", "py": "miǎnfèi", "gl": "free"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": " "},
+      {"zh": "Substack"},
+      {"zh": " "},
+      {"zh": "几个", "py": "jǐ ge", "gl": "a few"},
+      {"zh": "月", "py": "yuè", "gl": "months"},
+      {"zh": "前", "py": "qián", "gl": "ago"},
+      {"zh": "最多", "py": "zuìduō", "gl": "at most"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": " "},
+      {"zh": "34"},
+      {"zh": " "},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "订阅者", "py": "dìngyuèzhě", "gl": "subscribers"},
+      {"zh": "，"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "剩", "py": "shèng", "gl": "remain"},
+      {"zh": " "},
+      {"zh": "26"},
+      {"zh": " "},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "，"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "就", "py": "jiù", "gl": "alone"},
+      {"zh": "少", "py": "shǎo", "gl": "lose"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "五", "py": "wǔ", "gl": "five"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "。"}
+     ],
+     "start": 505.34,
+     "end": 517.07
+    },
+    {
+     "id": "s064",
+     "zh": "他猜是大家的 AI 智能体在清理没读的邮件。",
+     "en": "He guesses it's people's AI agents cleaning out their unread emails.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "猜", "py": "cāi", "gl": "guess"},
+      {"zh": "是", "py": "shì", "gl": "it is"},
+      {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": " "},
+      {"zh": "AI"},
+      {"zh": " "},
+      {"zh": "智能体", "py": "zhìnéngtǐ", "gl": "agents"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "清理", "py": "qīnglǐ", "gl": "clean out"},
+      {"zh": "没", "py": "méi", "gl": "not"},
+      {"zh": "读", "py": "dú", "gl": "read"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "邮件", "py": "yóujiàn", "gl": "emails"},
+      {"zh": "。"}
+     ],
+     "start": 517.42,
+     "end": 522.0
+    },
+    {
+     "id": "s065",
+     "zh": "他不怪任何人，因为自己也退订了不少。",
+     "en": "He doesn't blame anyone, since he has unsubscribed from plenty himself.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "怪", "py": "guài", "gl": "blame"},
+      {"zh": "任何", "py": "rènhé", "gl": "any"},
+      {"zh": "人", "py": "rén", "gl": "person"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "退订", "py": "tuìdìng", "gl": "unsubscribe"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "不少", "py": "bùshǎo", "gl": "quite a few"},
+      {"zh": "。"}
+     ],
+     "start": 522.0,
+     "end": 526.96
+    },
+    {
+     "id": "s066",
+     "zh": "但他还是说：“你们放 AI 去退订我的通讯，就是让我失业啊。”",
+     "en": "Still, he says: \"When you let AI loose to unsubscribe from my newsletter, you're putting me out of a job.\"",
+     "segments": [
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "你们", "py": "nǐmen", "gl": "you (plural)"},
+      {"zh": "放", "py": "fàng", "gl": "let loose"},
+      {"zh": " "},
+      {"zh": "AI"},
+      {"zh": " "},
+      {"zh": "去", "py": "qù", "gl": "to (purpose)"},
+      {"zh": "退订", "py": "tuìdìng", "gl": "unsubscribe from"},
+      {"zh": "我", "py": "wǒ", "gl": "my"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "通讯", "py": "tōngxùn", "gl": "newsletter"},
+      {"zh": "，"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is precisely"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "失业", "py": "shīyè", "gl": "lose one's job"},
+      {"zh": "啊", "py": "a", "gl": "(emphatic particle)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 526.96,
+     "end": 535.2
+    },
+    {
+     "id": "s067",
+     "zh": "想补救的话，可以通过节目说明里的 PayPal 链接支持他！",
+     "en": "If you'd like to make up for it, you can support him through the PayPal link in the show notes!",
+     "segments": [
+      {"zh": "想", "py": "xiǎng", "gl": "want to"},
+      {"zh": "补救", "py": "bǔjiù", "gl": "make amends"},
+      {"zh": "的话", "py": "dehuà", "gl": "if"},
+      {"zh": "，"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "通过", "py": "tōngguò", "gl": "through"},
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": "说明", "py": "shuōmíng", "gl": "notes"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": " "},
+      {"zh": "PayPal"},
+      {"zh": " "},
+      {"zh": "链接", "py": "liànjiē", "gl": "link"},
+      {"zh": "支持", "py": "zhīchí", "gl": "support"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "！"}
+     ],
+     "start": 535.2,
+     "end": 541.59
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s068",
+     "zh": "今日总结",
+     "en": "Today's Summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 542.68,
+     "end": 543.73
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s069",
+     "zh": "别太在意数字，专心做大家真正想听的内容。",
+     "en": "Don't worry too much about the numbers; focus on making content people really want to hear.",
+     "segments": [
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "太", "py": "tài", "gl": "too much"},
+      {"zh": "在意", "py": "zàiyì", "gl": "care about"},
+      {"zh": "数字", "py": "shùzì", "gl": "numbers"},
+      {"zh": "，"},
+      {"zh": "专心", "py": "zhuānxīn", "gl": "focus on"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
+      {"zh": "真正", "py": "zhēnzhèng", "gl": "truly"},
+      {"zh": "想", "py": "xiǎng", "gl": "want to"},
+      {"zh": "听", "py": "tīng", "gl": "listen to"},
+      {"zh": "的", "py": "de", "gl": "(links clause to noun)"},
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "。"}
+     ],
+     "start": 544.26,
+     "end": 550.19
+    },
+    {
+     "id": "s070",
+     "zh": "还有，睡个好觉，别让臭虫咬到你。",
+     "en": "Also, sleep tight and don't let the bedbugs bite.",
+     "segments": [
+      {"zh": "还有", "py": "háiyǒu", "gl": "also"},
+      {"zh": "，"},
+      {"zh": "睡", "py": "shuì", "gl": "sleep"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "觉", "py": "jiào", "gl": "sleep (noun)"},
+      {"zh": "，"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "让", "py": "ràng", "gl": "let"},
+      {"zh": "臭虫", "py": "chòuchóng", "gl": "bedbugs"},
+      {"zh": "咬", "py": "yǎo", "gl": "bite"},
+      {"zh": "到", "py": "dào", "gl": "(action reaches target)"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "。"}
+     ],
+     "start": 550.8,
+     "end": 556.09
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "罢工", "py": "bà gōng", "en": "to go on strike; here, the body refusing to keep going"},
+  {"zh": "减量", "py": "jiǎn liàng", "en": "to reduce the load (a deload week in training)"},
+  {"zh": "咬文嚼字", "py": "yǎo wén jiáo zì", "en": "to quibble over words, to be pedantic"},
+  {"zh": "雪上加霜", "py": "xuě shàng jiā shuāng", "en": "to make a bad situation worse"},
+  {"zh": "卷土重来", "py": "juǎn tǔ chóng lái", "en": "to come back with force after a setback"},
+  {"zh": "人肉搜索", "py": "rén ròu sōu suǒ", "en": "doxxing, crowd-sourced hunt for someone's personal information"},
+  {"zh": "调休", "py": "tiáo xiū", "en": "to swap a day off for a makeup workday"},
+  {"zh": "隐藏摄像头", "py": "yǐn cáng shè xiàng tóu", "en": "hidden camera"},
+  {"zh": "透支", "py": "tòu zhī", "en": "to overdraw; to overextend one's energy or health"},
+  {"zh": "退订", "py": "tuì dìng", "en": "to unsubscribe"}
+ ]
+}

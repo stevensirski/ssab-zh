@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-06T21:13",
+ "updated": "2026-11-09T18:15",
  "episodes": [
+  {
+   "id": "ssab-2026-11-09",
+   "date": "2026-11-09",
+   "title": "Body on Strike and the Bedbug Map",
+   "titleZh": "身体罢工与臭虫地图",
+   "description": "Steven covers midterm week, Beijing's cold rain, and a forced rest week that raises questions about aging and testosterone. The episode also gets into gym herpes, hidden hotel cameras, Shanghai's bedbug map, next year's holiday schedule, and a shrinking Substack.",
+   "duration": 557,
+   "chars": 1438,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-06",
    "date": "2026-11-06",
