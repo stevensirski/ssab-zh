@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-09T18:15",
+ "updated": "2026-11-10T19:13",
  "episodes": [
+  {
+   "id": "ssab-2026-11-10",
+   "date": "2026-11-10",
+   "title": "A Visa Sticker and the Oral Midterm",
+   "titleZh": "签证贴纸与口语期中考",
+   "description": "Steven explains why living on a visa sticker has cooled his drive to learn Chinese, and how his first-year university students handled their first oral midterm, where \"the government should do something\" kept coming up instead of a real argument. He also talks about the SaaStr podcast's 10K dashboard and his own automation plans, then looks at oversold Canadian energy stocks and the November small-cap effect.",
+   "duration": 581,
+   "chars": 1460,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-09",
    "date": "2026-11-09",
