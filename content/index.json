@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-10T19:13",
+ "updated": "2026-11-11T17:43",
  "episodes": [
+  {
+   "id": "ssab-2026-11-11",
+   "date": "2026-11-11",
+   "title": "Water-Cooler Podcasts and Million-Dollar Dreams",
+   "titleZh": "茶水间播客与百万梦",
+   "description": "Steven tells the story of his podcasts, pitches a co-hosted English-teaching show to a colleague, and recounts a Chinese lesson where his teacher talked about why so many people dislike their jobs. He also asks an AI whether an English teacher in China can ever earn a million, and closes with a Remembrance Day reading of \"In Flanders Fields.\"",
+   "duration": 557,
+   "chars": 1412,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-10",
    "date": "2026-11-10",
