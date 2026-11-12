@@ -1,0 +1,2004 @@
+{
+ "id": "ssab-2026-11-12",
+ "date": "2026-11-12",
+ "title": "The Drone Ban and a Quiet Singles Day",
+ "titleZh": "无人机禁令与冷清双十一",
+ "description": "Steven describes an unusually quiet Singles Day and his decluttering plans instead of shopping, then explains how Beijing's new drone ban is sending him on a weekend trip to Tianjin to ship his DJI Mavic away. He also covers Canadian energy stocks after the US midterms and a lime-and-chocolate pie that supposedly brings good fortune.",
+ "duration": 533,
+ "audio": {
+  "src": "audio/ssab-2026-11-12.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Episode overview",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 18.34,
+     "end": 19.61
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "今天这期节目，史蒂文聊了聊冷清得出奇的双十一，还有他“断舍离”而不是剁手的打算。",
+     "en": "In today's episode, Steven talks about an unusually quiet Singles' Day, and about his plan to declutter instead of going on a shopping spree.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: episode)"},
+      {"zh": "节目", "py": "jiémù", "gl": "program, show"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "聊了聊", "py": "liáoleliáo", "gl": "chatted about"},
+      {"zh": "冷清", "py": "lěngqīng", "gl": "quiet, deserted"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "出奇", "py": "chūqí", "gl": "unusually"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "双十一", "py": "Shuāng Shíyī", "gl": "Singles' Day"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "“"},
+      {"zh": "断舍离", "py": "duànshělí", "gl": "decluttering"},
+      {"zh": "”"},
+      {"zh": "而", "py": "ér", "gl": "rather"},
+      {"zh": "不是", "py": "búshì", "gl": "not"},
+      {"zh": "剁手", "py": "duòshǒu", "gl": "shopping spree"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "打算", "py": "dǎsuan", "gl": "plan"},
+      {"zh": "。"}
+     ],
+     "start": 20.74,
+     "end": 32.07
+    },
+    {
+     "id": "s003",
+     "zh": "接着是本周最让人头疼的事：北京出台了无人机禁令，他不得不周末跑一趟天津。",
+     "en": "Next comes the biggest headache of the week: Beijing introduced a drone ban, so he had to make a weekend trip to Tianjin.",
+     "segments": [
+      {"zh": "接着", "py": "jiēzhe", "gl": "next"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "本周", "py": "běnzhōu", "gl": "this week"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "让", "py": "ràng", "gl": "to make"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "头疼", "py": "tóuténg", "gl": "have a headache"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "事", "py": "shì", "gl": "matter, thing"},
+      {"zh": "："},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "出台", "py": "chūtái", "gl": "introduced (a policy)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "禁令", "py": "jìnlìng", "gl": "ban"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不得不", "py": "bùdébù", "gl": "had to"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "跑", "py": "pǎo", "gl": "make a trip"},
+      {"zh": "一趟", "py": "yítàng", "gl": "one trip"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "。"}
+     ],
+     "start": 32.62,
+     "end": 43.03
+    },
+    {
+     "id": "s004",
+     "zh": "最后，他谈到美国中期选举后的加拿大能源股，还有一块据说能带来财运的派。",
+     "en": "Finally, he talks about Canadian energy stocks after the US midterm elections, and a pie that supposedly brings good fortune.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "谈到", "py": "tándào", "gl": "talks about"},
+      {"zh": "美国", "py": "Měiguó", "gl": "United States"},
+      {"zh": "中期", "py": "zhōngqī", "gl": "midterm"},
+      {"zh": "选举", "py": "xuǎnjǔ", "gl": "election"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
+      {"zh": "能源股", "py": "néngyuángǔ", "gl": "energy stocks"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "一块", "py": "yíkuài", "gl": "a piece of"},
+      {"zh": "据说", "py": "jùshuō", "gl": "supposedly"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "带来", "py": "dàilái", "gl": "bring"},
+      {"zh": "财运", "py": "cáiyùn", "gl": "financial luck"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "派", "py": "pài", "gl": "pie"},
+      {"zh": "。"}
+     ],
+     "start": 43.46,
+     "end": 53.67
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s005",
+     "zh": "悄无声息的双十一",
+     "en": "A Quiet Singles' Day",
+     "segments": [
+      {"zh": "悄无声息", "py": "qiǎowúshēngxī", "gl": "quiet, unnoticed"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "双十一", "py": "Shuāng Shíyī", "gl": "Singles' Day (11/11)"}
+     ],
+     "start": 54.32,
+     "end": 56.35
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s006",
+     "zh": "昨天是双十一，也就是中国的“光棍节”，相当于加拿大人的黑色星期五。",
+     "en": "Yesterday was Double Eleven, also known as China's \"Singles' Day,\" the equivalent of Black Friday for Canadians.",
+     "segments": [
+      {"zh": "昨天", "py": "zuótiān", "gl": "yesterday"},
+      {"zh": "是", "py": "shì", "gl": "was"},
+      {"zh": "双十一", "py": "Shuāng Shíyī", "gl": "Double Eleven"},
+      {"zh": "，"},
+      {"zh": "也就是", "py": "yějiùshì", "gl": "that is"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "“"},
+      {"zh": "光棍节", "py": "Guānggùn Jié", "gl": "Singles' Day"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "相当于", "py": "xiāngdāngyú", "gl": "equivalent to"},
+      {"zh": "加拿大人", "py": "Jiānádàrén", "gl": "Canadians"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "黑色", "py": "hēisè", "gl": "black"},
+      {"zh": "星期五", "py": "Xīngqīwǔ", "gl": "Friday"},
+      {"zh": "。"}
+     ],
+     "start": 56.96,
+     "end": 65.35
+    },
+    {
+     "id": "s007",
+     "zh": "可史蒂文几乎没什么感觉。",
+     "en": "But Steven barely noticed it.",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "几乎", "py": "jīhū", "gl": "almost"},
+      {"zh": "没", "py": "méi", "gl": "not have"},
+      {"zh": "什么", "py": "shénme", "gl": "any"},
+      {"zh": "感觉", "py": "gǎnjué", "gl": "feeling"},
+      {"zh": "。"}
+     ],
+     "start": 66.12,
+     "end": 69.57
+    },
+    {
+     "id": "s008",
+     "zh": "他昨天只上了一节课，是雅思班的学生考口语期中考试，同事们也没人提起购物。",
+     "en": "He only taught one class yesterday, where his IELTS students took their midterm speaking exam, and none of his coworkers mentioned shopping either.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "昨天", "py": "zuótiān", "gl": "yesterday"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "上", "py": "shàng", "gl": "teach (a class)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "节", "py": "jié", "gl": "(measure word: classes)"},
+      {"zh": "课", "py": "kè", "gl": "class"},
+      {"zh": "，"},
+      {"zh": "是", "py": "shì", "gl": "it was"},
+      {"zh": "雅思", "py": "Yǎsī", "gl": "IELTS"},
+      {"zh": "班", "py": "bān", "gl": "class"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "学生", "py": "xuésheng", "gl": "students"},
+      {"zh": "考", "py": "kǎo", "gl": "take (an exam)"},
+      {"zh": "口语", "py": "kǒuyǔ", "gl": "speaking"},
+      {"zh": "期中", "py": "qīzhōng", "gl": "midterm"},
+      {"zh": "考试", "py": "kǎoshì", "gl": "exam"},
+      {"zh": "，"},
+      {"zh": "同事们", "py": "tóngshìmen", "gl": "coworkers"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "没", "py": "méi", "gl": "no"},
+      {"zh": "人", "py": "rén", "gl": "one"},
+      {"zh": "提起", "py": "tíqǐ", "gl": "mention"},
+      {"zh": "购物", "py": "gòuwù", "gl": "shopping"},
+      {"zh": "。"}
+     ],
+     "start": 70.04,
+     "end": 80.43
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s009",
+     "zh": "这多少要怪他自己。",
+     "en": "That's partly his own fault.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "多少", "py": "duōshǎo", "gl": "somewhat"},
+      {"zh": "要", "py": "yào", "gl": "should"},
+      {"zh": "怪", "py": "guài", "gl": "blame"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "。"}
+     ],
+     "start": 80.72,
+     "end": 82.94
+    },
+    {
+     "id": "s010",
+     "zh": "他不看电视：家里的“小翼管家”平板什么都要收费，真正的电视又一直显示登录错误。",
+     "en": "He doesn't watch TV: the \"Xiaoyi Butler\" tablet at home charges for everything, and the actual TV keeps showing a login error.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "看", "py": "kàn", "gl": "watch"},
+      {"zh": "电视", "py": "diànshì", "gl": "TV"},
+      {"zh": "："},
+      {"zh": "家里", "py": "jiāli", "gl": "at home"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "“"},
+      {"zh": "小翼", "py": "Xiǎoyì", "gl": "Xiaoyi (brand)"},
+      {"zh": "管家", "py": "Guǎnjiā", "gl": "butler"},
+      {"zh": "”"},
+      {"zh": "平板", "py": "píngbǎn", "gl": "tablet"},
+      {"zh": "什么", "py": "shénme", "gl": "everything"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "要", "py": "yào", "gl": "require"},
+      {"zh": "收费", "py": "shōufèi", "gl": "charge a fee"},
+      {"zh": "，"},
+      {"zh": "真正", "py": "zhēnzhèng", "gl": "real"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "电视", "py": "diànshì", "gl": "TV"},
+      {"zh": "又", "py": "yòu", "gl": "and also"},
+      {"zh": "一直", "py": "yìzhí", "gl": "constantly"},
+      {"zh": "显示", "py": "xiǎnshì", "gl": "display"},
+      {"zh": "登录", "py": "dēnglù", "gl": "login"},
+      {"zh": "错误", "py": "cuòwù", "gl": "error"},
+      {"zh": "。"}
+     ],
+     "start": 82.94,
+     "end": 95.47
+    },
+    {
+     "id": "s011",
+     "zh": "可就算走出家门，他也没看到广告：",
+     "en": "But even when he left home, he didn't see any ads:",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "就算", "py": "jiùsuàn", "gl": "even if"},
+      {"zh": "走出", "py": "zǒuchū", "gl": "walk out of"},
+      {"zh": "家门", "py": "jiāmén", "gl": "home"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "也", "py": "yě", "gl": "still"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "看到", "py": "kàndào", "gl": "see"},
+      {"zh": "广告", "py": "guǎnggào", "gl": "ads"},
+      {"zh": "："}
+     ],
+     "start": 95.82,
+     "end": 100.22
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s012",
+     "zh": "楼里正在换电梯，广告牌都撤了",
+     "en": "The elevators in his building are being replaced, so the billboards have all been taken down",
+     "segments": [
+      {"zh": "楼", "py": "lóu", "gl": "building"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "正在", "py": "zhèngzài", "gl": "currently"},
+      {"zh": "换", "py": "huàn", "gl": "replace"},
+      {"zh": "电梯", "py": "diàntī", "gl": "elevator"},
+      {"zh": "，"},
+      {"zh": "广告牌", "py": "guǎnggàopái", "gl": "billboards"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "撤", "py": "chè", "gl": "remove"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"}
+     ],
+     "start": 100.22,
+     "end": 104.71
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "小区大门口什么也没有",
+     "en": "There's nothing at the neighborhood's front gate",
+     "segments": [
+      {"zh": "小区", "py": "xiǎoqū", "gl": "residential compound"},
+      {"zh": "大门口", "py": "dàménkǒu", "gl": "front gate"},
+      {"zh": "什么", "py": "shénme", "gl": "anything"},
+      {"zh": "也", "py": "yě", "gl": "(emphasis)"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there isn't"}
+     ],
+     "start": 104.94,
+     "end": 107.38
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s014",
+     "zh": "连京东和淘宝的广告都少了",
+     "en": "Even the JD and Taobao ads have become fewer",
+     "segments": [
+      {"zh": "连", "py": "lián", "gl": "even"},
+      {"zh": "京东", "py": "Jīngdōng", "gl": "JD.com"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "淘宝", "py": "Táobǎo", "gl": "Taobao"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "广告", "py": "guǎnggào", "gl": "ads"},
+      {"zh": "都", "py": "dōu", "gl": "(emphasis)"},
+      {"zh": "少", "py": "shǎo", "gl": "fewer"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"}
+     ],
+     "start": 107.38,
+     "end": 110.99
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s015",
+     "zh": "他问女朋友要不要买点什么，她反问：“有什么可买的？”",
+     "en": "He asked his girlfriend if she wanted to buy anything, and she asked back, \"What is there to buy?\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "问", "py": "wèn", "gl": "ask"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "要不要", "py": "yàobuyào", "gl": "whether to want"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "点", "py": "diǎn", "gl": "a little"},
+      {"zh": "什么", "py": "shénme", "gl": "something"},
+      {"zh": "，"},
+      {"zh": "她", "py": "tā", "gl": "she"},
+      {"zh": "反问", "py": "fǎnwèn", "gl": "ask in return"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "可", "py": "kě", "gl": "worth"},
+      {"zh": "买", "py": "mǎi", "gl": "buying"},
+      {"zh": "的", "py": "de", "gl": "(assertive particle)"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 111.34,
+     "end": 118.19
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s016",
+     "zh": "六本笔记本，无人认领（暂时）",
+     "en": "Six notebooks, unclaimed (for now)",
+     "segments": [
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "本", "py": "běn", "gl": "(measure word for books)"},
+      {"zh": "笔记本", "py": "bǐjìběn", "gl": "notebooks"},
+      {"zh": "，"},
+      {"zh": "无人", "py": "wúrén", "gl": "no one"},
+      {"zh": "认领", "py": "rènlǐng", "gl": "claim"},
+      {"zh": "（"},
+      {"zh": "暂时", "py": "zànshí", "gl": "for now"},
+      {"zh": "）"}
+     ],
+     "start": 118.86,
+     "end": 123.43
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s017",
+     "zh": "他们家正在“清库存”。",
+     "en": "His household is \"clearing out inventory.\"",
+     "segments": [
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "家", "py": "jiā", "gl": "household"},
+      {"zh": "正在", "py": "zhèngzài", "gl": "(in progress)"},
+      {"zh": "“"},
+      {"zh": "清", "py": "qīng", "gl": "clear out"},
+      {"zh": "库存", "py": "kùcún", "gl": "inventory"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 123.84,
+     "end": 127.01
+    },
+    {
+     "id": "s018",
+     "zh": "史蒂文数了数，家里有六本笔记本，大多是赠品，来自大学、前雇主、以前的健身房，甚至体检中心。",
+     "en": "Steven counted them up: there are six notebooks at home, mostly freebies from universities, former employers, old gyms, and even a medical checkup center.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "数了数", "py": "shǔleshǔ", "gl": "counted up"},
+      {"zh": "，"},
+      {"zh": "家里", "py": "jiāli", "gl": "at home"},
+      {"zh": "有", "py": "yǒu", "gl": "there are"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "本", "py": "běn", "gl": "(measure word for books)"},
+      {"zh": "笔记本", "py": "bǐjìběn", "gl": "notebooks"},
+      {"zh": "，"},
+      {"zh": "大多", "py": "dàduō", "gl": "mostly"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "赠品", "py": "zèngpǐn", "gl": "freebies"},
+      {"zh": "，"},
+      {"zh": "来自", "py": "láizì", "gl": "come from"},
+      {"zh": "大学", "py": "dàxué", "gl": "universities"},
+      {"zh": "、"},
+      {"zh": "前", "py": "qián", "gl": "former"},
+      {"zh": "雇主", "py": "gùzhǔ", "gl": "employers"},
+      {"zh": "、"},
+      {"zh": "以前", "py": "yǐqián", "gl": "previous"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gyms"},
+      {"zh": "，"},
+      {"zh": "甚至", "py": "shènzhì", "gl": "even"},
+      {"zh": "体检", "py": "tǐjiǎn", "gl": "medical checkup"},
+      {"zh": "中心", "py": "zhōngxīn", "gl": "center"},
+      {"zh": "。"}
+     ],
+     "start": 128.42,
+     "end": 142.91
+    },
+    {
+     "id": "s019",
+     "zh": "他还翻出一本旧的中文笔记本，那时他写的还是拼音，不是汉字。",
+     "en": "He also dug out an old Chinese notebook from back when he was still writing in pinyin, not characters.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "翻出", "py": "fānchū", "gl": "dug out"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "本", "py": "běn", "gl": "(measure word for books)"},
+      {"zh": "旧", "py": "jiù", "gl": "old"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "中文", "py": "zhōngwén", "gl": "Chinese"},
+      {"zh": "笔记本", "py": "bǐjìběn", "gl": "notebook"},
+      {"zh": "，"},
+      {"zh": "那时", "py": "nàshí", "gl": "back then"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "写", "py": "xiě", "gl": "wrote"},
+      {"zh": "的", "py": "de", "gl": "(what he wrote)"},
+      {"zh": "还是", "py": "háishi", "gl": "was still"},
+      {"zh": "拼音", "py": "pīnyīn", "gl": "pinyin"},
+      {"zh": "，"},
+      {"zh": "不是", "py": "búshì", "gl": "not"},
+      {"zh": "汉字", "py": "hànzì", "gl": "Chinese characters"},
+      {"zh": "。"}
+     ],
+     "start": 143.58,
+     "end": 151.77
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s020",
+     "zh": "他打算送给雅思学生，不过有个条件。",
+     "en": "He plans to give them to his IELTS students, but on one condition.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "打算", "py": "dǎsuàn", "gl": "plans"},
+      {"zh": "送给", "py": "sònggěi", "gl": "give to"},
+      {"zh": "雅思", "py": "Yǎsī", "gl": "IELTS"},
+      {"zh": "学生", "py": "xuésheng", "gl": "students"},
+      {"zh": "，"},
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "条件", "py": "tiáojiàn", "gl": "condition"},
+      {"zh": "。"}
+     ],
+     "start": 152.14,
+     "end": 157.37
+    },
+    {
+     "id": "s021",
+     "zh": "用他的话说：“别再把这东西拿回来给我。”",
+     "en": "In his words: \"Don't bring these things back to me.\"",
+     "segments": [
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "话", "py": "huà", "gl": "words"},
+      {"zh": "说", "py": "shuō", "gl": "to say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "再", "py": "zài", "gl": "again"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "东西", "py": "dōngxi", "gl": "stuff"},
+      {"zh": "拿回来", "py": "náhuílai", "gl": "bring back"},
+      {"zh": "给", "py": "gěi", "gl": "to"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 157.76,
+     "end": 162.97
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s022",
+     "zh": "大疆 Osmo 的诱惑",
+     "en": "The temptation of the DJI Osmo",
+     "segments": [
+      {"zh": "大疆", "py": "Dàjiāng", "gl": "DJI"},
+      {"zh": " "},
+      {"zh": "Osmo"},
+      {"zh": " "},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "诱惑", "py": "yòuhuò", "gl": "temptation"}
+     ],
+     "start": 163.26,
+     "end": 165.63
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s023",
+     "zh": "如果非要买点什么，他会选新出的竖屏版大疆 Osmo，因为它能连上他拍 TikTok 用的大疆麦克风。",
+     "en": "If he had to buy something, he'd pick the new vertical-screen DJI Osmo, because it can connect to the DJI microphone he uses for filming TikToks.",
+     "segments": [
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "非要", "py": "fēiyào", "gl": "had to"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "点", "py": "diǎn", "gl": "a bit"},
+      {"zh": "什么", "py": "shénme", "gl": "something"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "选", "py": "xuǎn", "gl": "choose"},
+      {"zh": "新出", "py": "xīnchū", "gl": "newly released"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "竖屏版", "py": "shùpíngbǎn", "gl": "vertical-screen version"},
+      {"zh": "大疆", "py": "Dàjiāng", "gl": "DJI"},
+      {"zh": " "},
+      {"zh": "Osmo"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "连上", "py": "liánshàng", "gl": "connect to"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "拍", "py": "pāi", "gl": "film"},
+      {"zh": " "},
+      {"zh": "TikTok"},
+      {"zh": " "},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "大疆", "py": "Dàjiāng", "gl": "DJI"},
+      {"zh": "麦克风", "py": "màikèfēng", "gl": "microphone"},
+      {"zh": "。"}
+     ],
+     "start": 166.16,
+     "end": 177.53
+    },
+    {
+     "id": "s024",
+     "zh": "他的 GoPro 配不上这支麦克风，画质也差一些。",
+     "en": "His GoPro isn't good enough for this microphone, and its image quality is a bit worse too.",
+     "segments": [
+      {"zh": "他的", "py": "tā de", "gl": "his"},
+      {"zh": " "},
+      {"zh": "GoPro"},
+      {"zh": " "},
+      {"zh": "配不上", "py": "pèibushàng", "gl": "not worthy of"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "支", "py": "zhī", "gl": "(measure word)"},
+      {"zh": "麦克风", "py": "màikèfēng", "gl": "microphone"},
+      {"zh": "，"},
+      {"zh": "画质", "py": "huàzhì", "gl": "image quality"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "差", "py": "chà", "gl": "worse"},
+      {"zh": "一些", "py": "yìxiē", "gl": "a bit"},
+      {"zh": "。"}
+     ],
+     "start": 178.04,
+     "end": 183.43
+    },
+    {
+     "id": "s025",
+     "zh": "不过他最近很少拍旅行视频，所以暂时不急着买。",
+     "en": "But he rarely films travel videos these days, so he's in no hurry to buy one for now.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "最近", "py": "zuìjìn", "gl": "recently"},
+      {"zh": "很少", "py": "hěn shǎo", "gl": "rarely"},
+      {"zh": "拍", "py": "pāi", "gl": "film"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "视频", "py": "shìpín", "gl": "videos"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "暂时", "py": "zànshí", "gl": "for now"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "急着", "py": "jízhe", "gl": "in a hurry to"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "。"}
+     ],
+     "start": 183.9,
+     "end": 190.63
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s026",
+     "zh": "北京禁飞，撞上顺丰",
+     "en": "Drone ban in Beijing, and a run-in with SF Express",
+     "segments": [
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "禁飞", "py": "jìnfēi", "gl": "no-fly ban"},
+      {"zh": "，"},
+      {"zh": "撞上", "py": "zhuàngshàng", "gl": "run into"},
+      {"zh": "顺丰", "py": "Shùnfēng", "gl": "SF Express"}
+     ],
+     "start": 190.68,
+     "end": 194.33
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s027",
+     "zh": "说到相机，就引出了无人机的事。",
+     "en": "Speaking of cameras, that brings up the drone situation.",
+     "segments": [
+      {"zh": "说到", "py": "shuōdào", "gl": "speaking of"},
+      {"zh": "相机", "py": "xiàngjī", "gl": "camera"},
+      {"zh": "，"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "引出", "py": "yǐnchū", "gl": "bring up"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "事", "py": "shì", "gl": "matter"},
+      {"zh": "。"}
+     ],
+     "start": 195.0,
+     "end": 199.1
+    },
+    {
+     "id": "s028",
+     "zh": "北京出台了无人机禁令，现在连在市内“拥有”一架都不行。",
+     "en": "Beijing has introduced a drone ban, and now you can't even \"own\" one within the city.",
+     "segments": [
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "出台", "py": "chūtái", "gl": "introduce (policy)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "禁令", "py": "jìnlìng", "gl": "ban"},
+      {"zh": "，"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "连", "py": "lián", "gl": "even"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "市内", "py": "shìnèi", "gl": "within the city"},
+      {"zh": "“"},
+      {"zh": "拥有", "py": "yōngyǒu", "gl": "own"},
+      {"zh": "”"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "架", "py": "jià", "gl": "(measure word, aircraft)"},
+      {"zh": "都", "py": "dōu", "gl": "(emphasis with 连)"},
+      {"zh": "不行", "py": "bùxíng", "gl": "not allowed"},
+      {"zh": "。"}
+     ],
+     "start": 199.1,
+     "end": 207.11
+    },
+    {
+     "id": "s029",
+     "zh": "史蒂文只说，这是个“相当爆炸性的决定”。",
+     "en": "Steven just said it was a \"pretty explosive decision.\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "“"},
+      {"zh": "相当", "py": "xiāngdāng", "gl": "quite"},
+      {"zh": "爆炸性", "py": "bàozhàxìng", "gl": "explosive"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "决定", "py": "juédìng", "gl": "decision"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 207.58,
+     "end": 212.73
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s030",
+     "zh": "他的大疆 Mavic 2 Pro 在柜子里躺了大约四年。",
+     "en": "His DJI Mavic 2 Pro had been sitting in a cabinet for about four years.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "大疆", "py": "Dàjiāng", "gl": "DJI"},
+      {"zh": " "},
+      {"zh": "Mavic 2 Pro"},
+      {"zh": " "},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "柜子", "py": "guìzi", "gl": "cabinet"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "躺", "py": "tǎng", "gl": "lie"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "四", "py": "sì", "gl": "four"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "。"}
+     ],
+     "start": 213.32,
+     "end": 219.51
+    },
+    {
+     "id": "s031",
+     "zh": "再加上今年签证出过麻烦，他不想再惹事。",
+     "en": "On top of that, he'd had visa trouble this year, so he didn't want to cause any more problems.",
+     "segments": [
+      {"zh": "再加上", "py": "zàijiāshang", "gl": "on top of that"},
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "出", "py": "chū", "gl": "have (trouble)"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "麻烦", "py": "máfan", "gl": "trouble"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不想", "py": "bùxiǎng", "gl": "not want"},
+      {"zh": "再", "py": "zài", "gl": "again"},
+      {"zh": "惹事", "py": "rěshì", "gl": "cause trouble"},
+      {"zh": "。"}
+     ],
+     "start": 220.04,
+     "end": 225.51
+    },
+    {
+     "id": "s032",
+     "zh": "周一，他和女朋友把无人机打包好，约了顺丰。",
+     "en": "On Monday, he and his girlfriend packed up the drone and booked SF Express.",
+     "segments": [
+      {"zh": "周一", "py": "zhōuyī", "gl": "Monday"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "打包", "py": "dǎbāo", "gl": "pack"},
+      {"zh": "好", "py": "hǎo", "gl": "(completed properly)"},
+      {"zh": "，"},
+      {"zh": "约", "py": "yuē", "gl": "book"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "顺丰", "py": "Shùnfēng", "gl": "SF Express"},
+      {"zh": "。"}
+     ],
+     "start": 226.62,
+     "end": 233.05
+    },
+    {
+     "id": "s033",
+     "zh": "为了买更好的保险，快递员必须亲自验货、亲自打包。",
+     "en": "To get better insurance, the courier had to inspect and pack the item in person.",
+     "segments": [
+      {"zh": "为了", "py": "wèile", "gl": "in order to"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"},
+      {"zh": "，"},
+      {"zh": "快递员", "py": "kuàidìyuán", "gl": "courier"},
+      {"zh": "必须", "py": "bìxū", "gl": "must"},
+      {"zh": "亲自", "py": "qīnzì", "gl": "personally"},
+      {"zh": "验货", "py": "yànhuò", "gl": "inspect goods"},
+      {"zh": "、"},
+      {"zh": "亲自", "py": "qīnzì", "gl": "personally"},
+      {"zh": "打包", "py": "dǎbāo", "gl": "pack"},
+      {"zh": "。"}
+     ],
+     "start": 233.72,
+     "end": 240.34
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s034",
+     "zh": "结果快递员打开盒子，问：“这是无人机吗？”",
+     "en": "Then the courier opened the box and asked, \"Is this a drone?\"",
+     "segments": [
+      {"zh": "结果", "py": "jiéguǒ", "gl": "as it turned out"},
+      {"zh": "快递员", "py": "kuàidìyuán", "gl": "courier"},
+      {"zh": "打开", "py": "dǎkāi", "gl": "open"},
+      {"zh": "盒子", "py": "hézi", "gl": "box"},
+      {"zh": "，"},
+      {"zh": "问", "py": "wèn", "gl": "ask"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "吗", "py": "ma", "gl": "(yes-no question)"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 240.34,
+     "end": 247.85
+    },
+    {
+     "id": "s035",
+     "zh": "史蒂文说是。",
+     "en": "Steven said yes.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "是", "py": "shì", "gl": "yes"},
+      {"zh": "。"}
+     ],
+     "start": 248.82,
+     "end": 249.94
+    },
+    {
+     "id": "s036",
+     "zh": "对方说这个不能寄，把盒子放回去就走了。",
+     "en": "The courier said it couldn't be shipped, put the box back, and left.",
+     "segments": [
+      {"zh": "对方", "py": "duìfāng", "gl": "the other person"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "不能", "py": "bùnéng", "gl": "cannot"},
+      {"zh": "寄", "py": "jì", "gl": "ship"},
+      {"zh": "，"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "盒子", "py": "hézi", "gl": "box"},
+      {"zh": "放回去", "py": "fànghuíqu", "gl": "put back"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "走", "py": "zǒu", "gl": "leave"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
+     ],
+     "start": 249.94,
+     "end": 255.67
+    },
+    {
+     "id": "s037",
+     "zh": "谢了，兄弟。",
+     "en": "Thanks, bro.",
+     "segments": [
+      {"zh": "谢", "py": "xiè", "gl": "thank"},
+      {"zh": "了", "py": "le", "gl": "(casual tone)"},
+      {"zh": "，"},
+      {"zh": "兄弟", "py": "xiōngdi", "gl": "bro"},
+      {"zh": "。"}
+     ],
+     "start": 256.64,
+     "end": 257.7
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "⏰ 周日大限",
+     "en": "⏰ The Sunday Deadline",
+     "segments": [
+      {"zh": "⏰"},
+      {"zh": " "},
+      {"zh": "周日", "py": "zhōurì", "gl": "Sunday"},
+      {"zh": "大限", "py": "dàxiàn", "gl": "deadline"}
+     ],
+     "start": 257.7,
+     "end": 259.41
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s039",
+     "zh": "最后期限是本周日，也就是11月15日。",
+     "en": "The deadline is this Sunday, November 15th.",
+     "segments": [
+      {"zh": "最后期限", "py": "zuìhòu qīxiàn", "gl": "deadline"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "本", "py": "běn", "gl": "this"},
+      {"zh": "周日", "py": "zhōurì", "gl": "Sunday"},
+      {"zh": "，"},
+      {"zh": "也就是", "py": "yě jiù shì", "gl": "that is"},
+      {"zh": "11"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "15"},
+      {"zh": "日", "py": "rì", "gl": "day"},
+      {"zh": "。"}
+     ],
+     "start": 260.16,
+     "end": 266.25
+    },
+    {
+     "id": "s040",
+     "zh": "他不觉得警察会上门搜查，但以后带着无人机坐火车或飞机，他估计会惹上麻烦。",
+     "en": "He doesn't think the police will come to his door to search, but he figures that in the future, taking the drone on a train or plane will get him into trouble.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "觉得", "py": "juéde", "gl": "think"},
+      {"zh": "警察", "py": "jǐngchá", "gl": "police"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "上门", "py": "shàngmén", "gl": "come to the door"},
+      {"zh": "搜查", "py": "sōuchá", "gl": "search"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "以后", "py": "yǐhòu", "gl": "in the future"},
+      {"zh": "带着", "py": "dàizhe", "gl": "carrying"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "坐", "py": "zuò", "gl": "take (transport)"},
+      {"zh": "火车", "py": "huǒchē", "gl": "train"},
+      {"zh": "或", "py": "huò", "gl": "or"},
+      {"zh": "飞机", "py": "fēijī", "gl": "plane"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "估计", "py": "gūjì", "gl": "reckon"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "惹上", "py": "rěshang", "gl": "get into"},
+      {"zh": "麻烦", "py": "máfan", "gl": "trouble"},
+      {"zh": "。"}
+     ],
+     "start": 266.68,
+     "end": 277.39
+    },
+    {
+     "id": "s041",
+     "zh": "罚款可能是500到2000元，而签证的事也让他明白：“规矩就是规矩，法律就是法律。”",
+     "en": "The fine could be 500 to 2,000 yuan, and the visa episode also made him understand: \"Rules are rules, and the law is the law.\"",
+     "segments": [
+      {"zh": "罚款", "py": "fákuǎn", "gl": "fine"},
+      {"zh": "可能", "py": "kěnéng", "gl": "may"},
+      {"zh": "是", "py": "shì", "gl": "be"},
+      {"zh": "500"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "2000"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "and"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "事", "py": "shì", "gl": "matter"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "明白", "py": "míngbai", "gl": "understand"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "规矩", "py": "guīju", "gl": "rules"},
+      {"zh": "就是", "py": "jiùshì", "gl": "are just"},
+      {"zh": "规矩", "py": "guīju", "gl": "rules"},
+      {"zh": "，"},
+      {"zh": "法律", "py": "fǎlǜ", "gl": "law"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is just"},
+      {"zh": "法律", "py": "fǎlǜ", "gl": "law"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 277.8,
+     "end": 288.62
+    },
+    {
+     "id": "s042",
+     "zh": "反正他不想试。",
+     "en": "Either way, he doesn't want to try.",
+     "segments": [
+      {"zh": "反正", "py": "fǎnzhèng", "gl": "anyway"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "试", "py": "shì", "gl": "try"},
+      {"zh": "。"}
+     ],
+     "start": 288.62,
+     "end": 290.63
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s043",
+     "zh": "EMS倒是能寄，但只能通过指定的收寄点，还要有公安备案证明，而他没有。",
+     "en": "EMS can actually ship it, but only through designated drop-off points, and it requires a police registration certificate, which he doesn't have.",
+     "segments": [
+      {"zh": "EMS"},
+      {"zh": "倒是", "py": "dàoshì", "gl": "actually"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "寄", "py": "jì", "gl": "ship"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "只能", "py": "zhǐ néng", "gl": "only can"},
+      {"zh": "通过", "py": "tōngguò", "gl": "through"},
+      {"zh": "指定", "py": "zhǐdìng", "gl": "designated"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "收寄点", "py": "shōujìdiǎn", "gl": "drop-off point"},
+      {"zh": "，"},
+      {"zh": "还要", "py": "hái yào", "gl": "also need"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "公安", "py": "gōng'ān", "gl": "police"},
+      {"zh": "备案", "py": "bèi'àn", "gl": "registration"},
+      {"zh": "证明", "py": "zhèngmíng", "gl": "certificate"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "whereas"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "doesn't have"},
+      {"zh": "。"}
+     ],
+     "start": 291.04,
+     "end": 301.77
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "这架无人机他确实用过，比如拍过济南的一座教堂。",
+     "en": "He really did use this drone, for example to film a church in Jinan.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "架", "py": "jià", "gl": "(measure word)"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "确实", "py": "quèshí", "gl": "indeed"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "，"},
+      {"zh": "比如", "py": "bǐrú", "gl": "for example"},
+      {"zh": "拍", "py": "pāi", "gl": "film"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "济南", "py": "Jǐnán", "gl": "Jinan"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "座", "py": "zuò", "gl": "(measure word)"},
+      {"zh": "教堂", "py": "jiàotáng", "gl": "church"},
+      {"zh": "。"}
+     ],
+     "start": 302.14,
+     "end": 308.51
+    },
+    {
+     "id": "s045",
+     "zh": "可大约从2022年起，它就成了得不偿失的负担：",
+     "en": "But starting around 2022, it became a burden that wasn't worth the trouble:",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "大约", "py": "dàyuē", "gl": "around"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "2022"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "起", "py": "qǐ", "gl": "starting"},
+      {"zh": "，"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "成", "py": "chéng", "gl": "become"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "得不偿失", "py": "débùchángshī", "gl": "not worth it"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "负担", "py": "fùdān", "gl": "burden"},
+      {"zh": "："}
+     ],
+     "start": 309.04,
+     "end": 315.51
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s046",
+     "zh": "超过249克，几乎到处都要登记",
+     "en": "Over 249 grams, it has to be registered almost everywhere",
+     "segments": [
+      {"zh": "超过", "py": "chāoguò", "gl": "exceed"},
+      {"zh": "249"},
+      {"zh": "克", "py": "kè", "gl": "grams"},
+      {"zh": "，"},
+      {"zh": "几乎", "py": "jīhū", "gl": "almost"},
+      {"zh": "到处", "py": "dàochù", "gl": "everywhere"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "要", "py": "yào", "gl": "must"},
+      {"zh": "登记", "py": "dēngjì", "gl": "register"}
+     ],
+     "start": 316.1,
+     "end": 321.55
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s047",
+     "zh": "过机场安检时，要把每块电池拆出来，分装进六个安检筐",
+     "en": "At airport security, every battery has to be taken out and split across six security trays",
+     "segments": [
+      {"zh": "过", "py": "guò", "gl": "pass through"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "安检", "py": "ānjiǎn", "gl": "security check"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "，"},
+      {"zh": "要", "py": "yào", "gl": "must"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "每", "py": "měi", "gl": "every"},
+      {"zh": "块", "py": "kuài", "gl": "(measure word)"},
+      {"zh": "电池", "py": "diànchí", "gl": "battery"},
+      {"zh": "拆", "py": "chāi", "gl": "remove"},
+      {"zh": "出来", "py": "chūlai", "gl": "out"},
+      {"zh": "，"},
+      {"zh": "分装", "py": "fēnzhuāng", "gl": "pack separately"},
+      {"zh": "进", "py": "jìn", "gl": "into"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "安检", "py": "ānjiǎn", "gl": "security"},
+      {"zh": "筐", "py": "kuāng", "gl": "tray"}
+     ],
+     "start": 323.4,
+     "end": 328.99
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s048",
+     "zh": "它得用手机当遥控器，要用手机时就很不方便",
+     "en": "It has to use a phone as the remote, which is very inconvenient when he needs the phone",
+     "segments": [
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "得", "py": "děi", "gl": "must"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "手机", "py": "shǒujī", "gl": "phone"},
+      {"zh": "当", "py": "dāng", "gl": "as"},
+      {"zh": "遥控器", "py": "yáokòngqì", "gl": "remote control"},
+      {"zh": "，"},
+      {"zh": "要", "py": "yào", "gl": "need"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "手机", "py": "shǒujī", "gl": "phone"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "方便", "py": "fāngbiàn", "gl": "convenient"}
+     ],
+     "start": 329.56,
+     "end": 336.08
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s049",
+     "zh": "B计划：天津之行",
+     "en": "Plan B: A Trip to Tianjin",
+     "segments": [
+      {"zh": "B"},
+      {"zh": "计划", "py": "jìhuà", "gl": "plan"},
+      {"zh": "："},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "之行", "py": "zhīxíng", "gl": "trip to"}
+     ],
+     "start": 336.08,
+     "end": 339.33
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s050",
+     "zh": "所以这个周末，他和女朋友要去天津，再从那里把无人机寄给她在上海的姐姐。",
+     "en": "So this weekend, he and his girlfriend are going to Tianjin, and from there they'll mail the drone to her older sister in Shanghai.",
+     "segments": [
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "要", "py": "yào", "gl": "are going to"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "，"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "那里", "py": "nàlǐ", "gl": "there"},
+      {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "寄", "py": "jì", "gl": "mail"},
+      {"zh": "给", "py": "gěi", "gl": "to"},
+      {"zh": "她", "py": "tā", "gl": "her"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "上海", "py": "Shànghǎi", "gl": "Shanghai"},
+      {"zh": "的", "py": "de", "gl": "(possessive/modifier)"},
+      {"zh": "姐姐", "py": "jiějie", "gl": "older sister"},
+      {"zh": "。"}
+     ],
+     "start": 340.08,
+     "end": 349.99
+    },
+    {
+     "id": "s051",
+     "zh": "问题是，他几乎从不去上海，而且那里周末的价格“贵得离谱”。",
+     "en": "The problem is, he almost never goes to Shanghai, and prices there on weekends are \"ridiculously expensive.\"",
+     "segments": [
+      {"zh": "问题", "py": "wèntí", "gl": "problem"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "几乎", "py": "jīhū", "gl": "almost"},
+      {"zh": "从不", "py": "cóngbú", "gl": "never"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "上海", "py": "Shànghǎi", "gl": "Shanghai"},
+      {"zh": "，"},
+      {"zh": "而且", "py": "érqiě", "gl": "and also"},
+      {"zh": "那里", "py": "nàlǐ", "gl": "there"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "价格", "py": "jiàgé", "gl": "prices"},
+      {"zh": "“"},
+      {"zh": "贵", "py": "guì", "gl": "expensive"},
+      {"zh": "得", "py": "de", "gl": "(degree complement)"},
+      {"zh": "离谱", "py": "lípǔ", "gl": "ridiculous"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 350.6,
+     "end": 357.81
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s052",
+     "zh": "他的建议是：买无人机之前，先问问自己，下一部旅行视频里那“三秒钟的镜头”值不值得。",
+     "en": "His advice: before you buy a drone, ask yourself whether those \"three seconds of footage\" in your next travel video are worth it.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "之前", "py": "zhīqián", "gl": "before"},
+      {"zh": "，"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "问问", "py": "wènwen", "gl": "ask"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "yourself"},
+      {"zh": "，"},
+      {"zh": "下", "py": "xià", "gl": "next"},
+      {"zh": "一部", "py": "yíbù", "gl": "one (video)"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "“"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "秒钟", "py": "miǎozhōng", "gl": "seconds"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "镜头", "py": "jìngtóu", "gl": "shot; footage"},
+      {"zh": "”"},
+      {"zh": "值不值得", "py": "zhí bu zhíde", "gl": "worth it or not"},
+      {"zh": "。"}
+     ],
+     "start": 359.28,
+     "end": 369.85
+    },
+    {
+     "id": "s053",
+     "zh": "他下周会回来汇报。",
+     "en": "He'll be back next week to report on how it went.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "下周", "py": "xiàzhōu", "gl": "next week"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "回来", "py": "huílai", "gl": "come back"},
+      {"zh": "汇报", "py": "huìbào", "gl": "report"},
+      {"zh": "。"}
+     ],
+     "start": 370.8,
+     "end": 373.12
+    },
+    {
+     "id": "s054",
+     "zh": "这个周末不更新。",
+     "en": "There's no update this weekend.",
+     "segments": [
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "更新", "py": "gēngxīn", "gl": "update"},
+      {"zh": "。"}
+     ],
+     "start": 373.12,
+     "end": 375.66
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s055",
+     "zh": "能源股与中期选举",
+     "en": "Energy Stocks and the Midterm Elections",
+     "segments": [
+      {"zh": "能源股", "py": "néngyuángǔ", "gl": "energy stocks"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "中期", "py": "zhōngqī", "gl": "midterm"},
+      {"zh": "选举", "py": "xuǎnjǔ", "gl": "election"}
+     ],
+     "start": 375.66,
+     "end": 378.75
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s056",
+     "zh": "先看SSAB股票清单：Tamarack Valley（TVE.TO）和Cenovus（CVE）涨了大约4%到5%。",
+     "en": "First, the SSAB stock list: Tamarack Valley (TVE.TO) and Cenovus (CVE) rose about 4% to 5%.",
+     "segments": [
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "看", "py": "kàn", "gl": "look at"},
+      {"zh": "SSAB"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "清单", "py": "qīngdān", "gl": "list"},
+      {"zh": "："},
+      {"zh": "Tamarack Valley"},
+      {"zh": "（"},
+      {"zh": "TVE.TO"},
+      {"zh": "）"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "Cenovus"},
+      {"zh": "（"},
+      {"zh": "CVE"},
+      {"zh": "）"},
+      {"zh": "涨", "py": "zhǎng", "gl": "rise"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "4%"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "5%"},
+      {"zh": "。"}
+     ],
+     "start": 379.06,
+     "end": 391.07
+    },
+    {
+     "id": "s057",
+     "zh": "Tamarack在10月底从15左右跌到11，如今反弹到11.78。",
+     "en": "At the end of October, Tamarack fell from around 15 to 11, and has now rebounded to 11.78.",
+     "segments": [
+      {"zh": "Tamarack"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "10"},
+      {"zh": "月底", "py": "yuèdǐ", "gl": "end of month"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "15"},
+      {"zh": "左右", "py": "zuǒyòu", "gl": "around"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "11"},
+      {"zh": "，"},
+      {"zh": "如今", "py": "rújīn", "gl": "now"},
+      {"zh": "反弹", "py": "fǎntán", "gl": "rebound"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "11.78"},
+      {"zh": "。"}
+     ],
+     "start": 392.0,
+     "end": 400.67
+    },
+    {
+     "id": "s058",
+     "zh": "Cenovus今年已经翻了一倍多，从16美元涨到34美元。",
+     "en": "Cenovus has more than doubled this year, rising from 16 dollars to 34 dollars.",
+     "segments": [
+      {"zh": "Cenovus"},
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "翻", "py": "fān", "gl": "multiply"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一倍", "py": "yíbèi", "gl": "one times (double)"},
+      {"zh": "多", "py": "duō", "gl": "more than"},
+      {"zh": "，"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "16"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollar"},
+      {"zh": "涨", "py": "zhǎng", "gl": "rise"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "34"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollar"},
+      {"zh": "。"}
+     ],
+     "start": 401.84,
+     "end": 407.88
+    },
+    {
+     "id": "s059",
+     "zh": "这不是投资建议，钱是你的，后果自负。",
+     "en": "This isn't investment advice; it's your money, and you bear the consequences.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "投资", "py": "tóuzī", "gl": "investment"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "，"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "，"},
+      {"zh": "后果", "py": "hòuguǒ", "gl": "consequences"},
+      {"zh": "自负", "py": "zìfù", "gl": "bear oneself"},
+      {"zh": "。"}
+     ],
+     "start": 407.88,
+     "end": 413.43
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s060",
+     "zh": "中期选举后，民主党拿下众议院，主打的是以能源价格为核心的“生活成本”议题。",
+     "en": "After the midterms, the Democrats won the House, campaigning mainly on the \"cost of living\" issue, centered on energy prices.",
+     "segments": [
+      {"zh": "中期", "py": "zhōngqī", "gl": "midterm"},
+      {"zh": "选举", "py": "xuǎnjǔ", "gl": "election"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "，"},
+      {"zh": "民主党", "py": "Mínzhǔdǎng", "gl": "Democratic Party"},
+      {"zh": "拿下", "py": "náxià", "gl": "win"},
+      {"zh": "众议院", "py": "Zhòngyìyuàn", "gl": "House of Representatives"},
+      {"zh": "，"},
+      {"zh": "主打", "py": "zhǔdǎ", "gl": "main focus"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "以", "py": "yǐ", "gl": "take as"},
+      {"zh": "能源", "py": "néngyuán", "gl": "energy"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "为", "py": "wéi", "gl": "as"},
+      {"zh": "核心", "py": "héxīn", "gl": "core"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "“"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "living"},
+      {"zh": "成本", "py": "chéngběn", "gl": "cost"},
+      {"zh": "”"},
+      {"zh": "议题", "py": "yìtí", "gl": "issue"},
+      {"zh": "。"}
+     ],
+     "start": 413.46,
+     "end": 423.89
+    },
+    {
+     "id": "s061",
+     "zh": "选举前，数据中心推高电费的说法，是不是被人炒作了？",
+     "en": "Before the election, was the claim that data centers were driving up electricity bills just hyped up?",
+     "segments": [
+      {"zh": "选举", "py": "xuǎnjǔ", "gl": "election"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "，"},
+      {"zh": "数据中心", "py": "shùjùzhōngxīn", "gl": "data center"},
+      {"zh": "推高", "py": "tuīgāo", "gl": "push up"},
+      {"zh": "电费", "py": "diànfèi", "gl": "electricity bill"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "说法", "py": "shuōfǎ", "gl": "claim"},
+      {"zh": "，"},
+      {"zh": "是不是", "py": "shìbushì", "gl": "is it or not"},
+      {"zh": "被", "py": "bèi", "gl": "(passive)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "炒作", "py": "chǎozuò", "gl": "hype"},
+      {"zh": "了", "py": "le", "gl": "(change/completion)"},
+      {"zh": "？"}
+     ],
+     "start": 424.22,
+     "end": 432.08
+    },
+    {
+     "id": "s062",
+     "zh": "还是说，能源股本来就该获利回吐了？",
+     "en": "Or were energy stocks simply due for some profit-taking?",
+     "segments": [
+      {"zh": "还是说", "py": "háishishuō", "gl": "or rather"},
+      {"zh": "，"},
+      {"zh": "能源股", "py": "néngyuángǔ", "gl": "energy stocks"},
+      {"zh": "本来", "py": "běnlái", "gl": "originally"},
+      {"zh": "就", "py": "jiù", "gl": "just"},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "获利回吐", "py": "huòlìhuítǔ", "gl": "profit-taking"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "？"}
+     ],
+     "start": 432.08,
+     "end": 437.44
+    },
+    {
+     "id": "s063",
+     "zh": "史蒂文说：“拿你赚的钱去买个三明治吧。”",
+     "en": "Steven says: \"Take the money you made and go buy yourself a sandwich.\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "拿", "py": "ná", "gl": "take"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "赚", "py": "zhuàn", "gl": "earn"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "三明治", "py": "sānmíngzhì", "gl": "sandwich"},
+      {"zh": "吧", "py": "ba", "gl": "(suggestion)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 437.44,
+     "end": 443.1
+    },
+    {
+     "id": "s064",
+     "zh": "他只是提出疑问，“我猜你也不知道答案”。",
+     "en": "He's just raising the question: \"I bet you don't know the answer either.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "only"},
+      {"zh": "提出", "py": "tíchū", "gl": "raise"},
+      {"zh": "疑问", "py": "yíwèn", "gl": "question"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "猜", "py": "cāi", "gl": "guess"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "不知道", "py": "bùzhīdào", "gl": "don't know"},
+      {"zh": "答案", "py": "dá'àn", "gl": "answer"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 443.1,
+     "end": 447.98
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s065",
+     "zh": "吃派来财",
+     "en": "Eat Pie, Get Rich",
+     "segments": [
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "派", "py": "pài", "gl": "pie"},
+      {"zh": "来财", "py": "láicái", "gl": "bring wealth"}
+     ],
+     "start": 447.98,
+     "end": 449.75
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s066",
+     "zh": "最后说说那块派。",
+     "en": "Finally, a word about the pie.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "说说", "py": "shuōshuo", "gl": "talk a bit about"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "块", "py": "kuài", "gl": "(measure word: piece)"},
+      {"zh": "派", "py": "pài", "gl": "pie"},
+      {"zh": "。"}
+     ],
+     "start": 450.56,
+     "end": 452.78
+    },
+    {
+     "id": "s067",
+     "zh": "他从一位独立烘焙师那里买的，她因为租金太贵，已经没有店面了。",
+     "en": "He bought it from an independent baker, who no longer has a storefront because the rent got too expensive.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "一位", "py": "yí wèi", "gl": "a (polite measure)"},
+      {"zh": "独立", "py": "dúlì", "gl": "independent"},
+      {"zh": "烘焙师", "py": "hōngbèishī", "gl": "baker"},
+      {"zh": "那里", "py": "nàli", "gl": "(at someone's place)"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "的", "py": "de", "gl": "(emphasizes past detail)"},
+      {"zh": "，"},
+      {"zh": "她", "py": "tā", "gl": "she"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "租金", "py": "zūjīn", "gl": "rent"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "贵", "py": "guì", "gl": "expensive"},
+      {"zh": "，"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "not have"},
+      {"zh": "店面", "py": "diànmiàn", "gl": "storefront"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 452.78,
+     "end": 461.61
+    },
+    {
+     "id": "s068",
+     "zh": "九英寸，一半青柠派，一半巧克力派，360元，另加20元配送费。",
+     "en": "Nine inches, half key lime and half chocolate, 360 yuan, plus a 20-yuan delivery fee.",
+     "segments": [
+      {"zh": "九", "py": "jiǔ", "gl": "nine"},
+      {"zh": "英寸", "py": "yīngcùn", "gl": "inch"},
+      {"zh": "，"},
+      {"zh": "一半", "py": "yíbàn", "gl": "half"},
+      {"zh": "青柠派", "py": "qīngníngpài", "gl": "lime pie"},
+      {"zh": "，"},
+      {"zh": "一半", "py": "yíbàn", "gl": "half"},
+      {"zh": "巧克力派", "py": "qiǎokèlìpài", "gl": "chocolate pie"},
+      {"zh": "，"},
+      {"zh": "360"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "，"},
+      {"zh": "另", "py": "lìng", "gl": "additionally"},
+      {"zh": "加", "py": "jiā", "gl": "add"},
+      {"zh": "20"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "配送费", "py": "pèisòngfèi", "gl": "delivery fee"},
+      {"zh": "。"}
+     ],
+     "start": 463.1,
+     "end": 472.83
+    },
+    {
+     "id": "s069",
+     "zh": "那块一英寸厚的黑巧克力，对他来说太浓了。",
+     "en": "The inch-thick slab of dark chocolate was too rich for him.",
+     "segments": [
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "块", "py": "kuài", "gl": "(measure word: piece)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "英寸", "py": "yīngcùn", "gl": "inch"},
+      {"zh": "厚", "py": "hòu", "gl": "thick"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "黑巧克力", "py": "hēiqiǎokèlì", "gl": "dark chocolate"},
+      {"zh": "，"},
+      {"zh": "对", "py": "duì", "gl": "for"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "来说", "py": "láishuō", "gl": "(as far as … concerned)"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "浓", "py": "nóng", "gl": "rich"},
+      {"zh": "了", "py": "le", "gl": "(emphasis)"},
+      {"zh": "。"}
+     ],
+     "start": 473.22,
+     "end": 479.24
+    },
+    {
+     "id": "s070",
+     "zh": "倒是加拿大风格、口感浓稠的青柠派，吃起来毫不费力。",
+     "en": "The thick, Canadian-style lime pie, on the other hand, went down effortlessly.",
+     "segments": [
+      {"zh": "倒是", "py": "dàoshì", "gl": "on the other hand"},
+      {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
+      {"zh": "风格", "py": "fēnggé", "gl": "style"},
+      {"zh": "、"},
+      {"zh": "口感", "py": "kǒugǎn", "gl": "texture"},
+      {"zh": "浓稠", "py": "nóngchóu", "gl": "thick"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "青柠派", "py": "qīngníngpài", "gl": "lime pie"},
+      {"zh": "，"},
+      {"zh": "吃起来", "py": "chīqilai", "gl": "when eaten"},
+      {"zh": "毫不费力", "py": "háobúfèilì", "gl": "effortless"},
+      {"zh": "。"}
+     ],
+     "start": 479.24,
+     "end": 487.73
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s071",
+     "zh": "后来她给他发来一句“吃派来财”。",
+     "en": "Afterward, she sent him a message: \"Eat pie, get rich.\"",
+     "segments": [
+      {"zh": "后来", "py": "hòulái", "gl": "afterward"},
+      {"zh": "她", "py": "tā", "gl": "she"},
+      {"zh": "给", "py": "gěi", "gl": "to"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "发来", "py": "fālái", "gl": "send over"},
+      {"zh": "一句", "py": "yí jù", "gl": "a line"},
+      {"zh": "“"},
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "派", "py": "pài", "gl": "pie"},
+      {"zh": "来财", "py": "láicái", "gl": "bring wealth"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 488.3,
+     "end": 492.67
+    },
+    {
+     "id": "s072",
+     "zh": "他上一次向她下单是2024年10月17日，两个月后他辞了职，接着整整九个月没有工作。",
+     "en": "The last time he ordered from her was October 17, 2024; two months later he quit his job, and then went a full nine months without work.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "上一次", "py": "shàngyícì", "gl": "last time"},
+      {"zh": "向", "py": "xiàng", "gl": "from"},
+      {"zh": "她", "py": "tā", "gl": "her"},
+      {"zh": "下单", "py": "xiàdān", "gl": "place an order"},
+      {"zh": "是", "py": "shì", "gl": "was"},
+      {"zh": "2024"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "10"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "17"},
+      {"zh": "日", "py": "rì", "gl": "day"},
+      {"zh": "，"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "后", "py": "hòu", "gl": "later"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "辞", "py": "cí", "gl": "quit"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "职", "py": "zhí", "gl": "job"},
+      {"zh": "，"},
+      {"zh": "接着", "py": "jiēzhe", "gl": "then"},
+      {"zh": "整整", "py": "zhěngzhěng", "gl": "a full"},
+      {"zh": "九", "py": "jiǔ", "gl": "nine"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "not have"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "。"}
+     ],
+     "start": 493.52,
+     "end": 506.03
+    },
+    {
+     "id": "s073",
+     "zh": "所以，请祝他在派和无人机这两件事上都好运吧。",
+     "en": "So please wish him luck with both the pie and the drones.",
+     "segments": [
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "，"},
+      {"zh": "请", "py": "qǐng", "gl": "please"},
+      {"zh": "祝", "py": "zhù", "gl": "wish"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "派", "py": "pài", "gl": "pie"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "这", "py": "zhè", "gl": "these"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "件", "py": "jiàn", "gl": "(measure word: matters)"},
+      {"zh": "事", "py": "shì", "gl": "matter"},
+      {"zh": "上", "py": "shàng", "gl": "(regarding)"},
+      {"zh": "都", "py": "dōu", "gl": "both"},
+      {"zh": "好运", "py": "hǎoyùn", "gl": "good luck"},
+      {"zh": "吧", "py": "ba", "gl": "(suggestion)"},
+      {"zh": "。"}
+     ],
+     "start": 506.56,
+     "end": 512.83
+    }
+   ]
+  },
+  {
+   "id": "p35",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s074",
+     "zh": "今日总结",
+     "en": "Today's Summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 513.7,
+     "end": 514.38
+    }
+   ]
+  },
+  {
+   "id": "p36",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s075",
+     "zh": "有时候，最好的购物就是把东西清出去；而有时候，清掉一样东西，竟然得跑一趟天津。",
+     "en": "Sometimes the best shopping is clearing things out, and sometimes getting rid of one thing means you actually have to make a trip to Tianjin.",
+     "segments": [
+      {"zh": "有时候", "py": "yǒushíhou", "gl": "sometimes"},
+      {"zh": "，"},
+      {"zh": "最好", "py": "zuìhǎo", "gl": "best"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "购物", "py": "gòuwù", "gl": "shopping"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is precisely"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "东西", "py": "dōngxi", "gl": "things"},
+      {"zh": "清", "py": "qīng", "gl": "clear"},
+      {"zh": "出去", "py": "chūqu", "gl": "out"},
+      {"zh": "；"},
+      {"zh": "而", "py": "ér", "gl": "while; and"},
+      {"zh": "有时候", "py": "yǒushíhou", "gl": "sometimes"},
+      {"zh": "，"},
+      {"zh": "清掉", "py": "qīngdiào", "gl": "get rid of"},
+      {"zh": "一样", "py": "yí yàng", "gl": "one item"},
+      {"zh": "东西", "py": "dōngxi", "gl": "thing"},
+      {"zh": "，"},
+      {"zh": "竟然", "py": "jìngrán", "gl": "surprisingly"},
+      {"zh": "得", "py": "děi", "gl": "have to"},
+      {"zh": "跑", "py": "pǎo", "gl": "go; travel"},
+      {"zh": "一趟", "py": "yí tàng", "gl": "one trip"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "。"}
+     ],
+     "start": 514.38,
+     "end": 526.61
+    },
+    {
+     "id": "s076",
+     "zh": "吃派来财，但愿这一次真的灵验。",
+     "en": "Eat pie, bring in fortune — let's hope it really works this time.",
+     "segments": [
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "派", "py": "pài", "gl": "pie"},
+      {"zh": "来", "py": "lái", "gl": "bring in"},
+      {"zh": "财", "py": "cái", "gl": "wealth"},
+      {"zh": "，"},
+      {"zh": "但愿", "py": "dànyuàn", "gl": "hopefully"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "一次", "py": "yí cì", "gl": "one time"},
+      {"zh": "真的", "py": "zhēnde", "gl": "really"},
+      {"zh": "灵验", "py": "língyàn", "gl": "work; come true"},
+      {"zh": "。"}
+     ],
+     "start": 527.54,
+     "end": 531.71
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "双十一", "py": "Shuāng Shíyī", "en": "Double 11, Singles Day shopping festival on November 11"},
+  {"zh": "剁手", "py": "duò shǒu", "en": "to shop impulsively (lit. \"chop off one's hands\")"},
+  {"zh": "断舍离", "py": "duàn shě lí", "en": "decluttering; letting go of possessions"},
+  {"zh": "开屏", "py": "kāi píng", "en": "splash screen when opening an app"},
+  {"zh": "无人机", "py": "wúrénjī", "en": "drone"},
+  {"zh": "备案", "py": "bèi'àn", "en": "official registration/filing"},
+  {"zh": "得不偿失", "py": "dé bù cháng shī", "en": "the gain isn't worth the loss"},
+  {"zh": "贵得离谱", "py": "guì de lípǔ", "en": "outrageously expensive"},
+  {"zh": "获利回吐", "py": "huòlì huítǔ", "en": "profit-taking"},
+  {"zh": "吃派来财", "py": "chī pài lái cái", "en": "\"eat pie, bring wealth\" (a pun on a lucky phrase)"}
+ ]
+}

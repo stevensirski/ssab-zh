@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-11T17:43",
+ "updated": "2026-11-12T17:20",
  "episodes": [
+  {
+   "id": "ssab-2026-11-12",
+   "date": "2026-11-12",
+   "title": "The Drone Ban and a Quiet Singles Day",
+   "titleZh": "无人机禁令与冷清双十一",
+   "description": "Steven describes an unusually quiet Singles Day and his decluttering plans instead of shopping, then explains how Beijing's new drone ban is sending him on a weekend trip to Tianjin to ship his DJI Mavic away. He also covers Canadian energy stocks after the US midterms and a lime-and-chocolate pie that supposedly brings good fortune.",
+   "duration": 533,
+   "chars": 1352,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-11",
    "date": "2026-11-11",
