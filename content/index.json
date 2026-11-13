@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-12T17:20",
+ "updated": "2026-11-13T20:21",
  "episodes": [
+  {
+   "id": "ssab-2026-11-13",
+   "date": "2026-11-13",
+   "title": "Friday the 13th: Midterms and a Market Meltdown",
+   "titleZh": "黑色星期五：期中考与股市暴跌",
+   "description": "On Friday the 13th, Steven talks about horror clips flooding his Xiaohongshu feed, a by-the-book midterm writing exam worth \"negative one point,\" and why students need to cite their sources. He then covers a brutal week for tech stocks, including Jensen Huang stepping down as Nvidia CEO after three scandals broke in one week, and explains why he expects a V-shaped recovery.",
+   "duration": 587,
+   "chars": 1423,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-12",
    "date": "2026-11-12",
