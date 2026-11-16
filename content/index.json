@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-13T20:21",
+ "updated": "2026-11-16T18:15",
  "episodes": [
+  {
+   "id": "ssab-2026-11-16",
+   "date": "2026-11-16",
+   "title": "The Great Drone Escape from Beijing",
+   "titleZh": "无人机出逃北京记",
+   "description": "Steven races to get his old DJI drone out of Beijing before the city's midnight flight ban takes effect. He gets stopped at security at Beijing South Station, finally ships the drone with SF Express in Tianjin, and stays in a hotel with robots. The episode ends with dinner with a former coworker from Korea who now teaches in Tianjin.",
+   "duration": null,
+   "chars": 1405,
+   "hasAudio": false
+  },
   {
    "id": "ssab-2026-11-13",
    "date": "2026-11-13",
