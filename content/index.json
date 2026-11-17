@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-16T18:15",
+ "updated": "2026-11-17T18:58",
  "episodes": [
+  {
+   "id": "ssab-2026-11-17",
+   "date": "2026-11-17",
+   "title": "A Day Trip to Tianjin: Skip the Tianjin Eye",
+   "titleZh": "天津一日游：别坐天津之眼",
+   "description": "With Beijing's drone ban now in effect, Steven takes his drone to Tianjin and recaps the trip: the commute between the two cities and the cheaper rent, a Starbucks Reserve inside a 1921 bank, an Apple Store visit that killed his urge to upgrade, and a church guard who asked him to cross himself on the spot. He also explains why he and his girlfriend skipped the Porcelain House and the Tianjin Eye.",
+   "duration": 552,
+   "chars": 1431,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-16",
    "date": "2026-11-16",

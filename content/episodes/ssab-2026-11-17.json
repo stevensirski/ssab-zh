@@ -1,0 +1,1916 @@
+{
+ "id": "ssab-2026-11-17",
+ "date": "2026-11-17",
+ "title": "A Day Trip to Tianjin: Skip the Tianjin Eye",
+ "titleZh": "天津一日游：别坐天津之眼",
+ "description": "With Beijing's drone ban now in effect, Steven takes his drone to Tianjin and recaps the trip: the commute between the two cities and the cheaper rent, a Starbucks Reserve inside a 1921 bank, an Apple Store visit that killed his urge to upgrade, and a church guard who asked him to cross himself on the spot. He also explains why he and his girlfriend skipped the Porcelain House and the Tianjin Eye.",
+ "duration": 552,
+ "audio": {
+  "src": "audio/ssab-2026-11-17.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Content Overview",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 17.92,
+     "end": 19.83
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "今天这期节目，史蒂文聊的是天津。",
+     "en": "In today's episode, Steven talks about Tianjin.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: episode)"},
+      {"zh": "节目", "py": "jiémù", "gl": "program; episode"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "聊", "py": "liáo", "gl": "chat; talk"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "。"}
+     ],
+     "start": 20.42,
+     "end": 24.83
+    },
+    {
+     "id": "s003",
+     "zh": "北京的无人机禁令生效前，他趁周末带着无人机去了一趟。",
+     "en": "Before Beijing's drone ban took effect, he took his drone there for a trip over the weekend.",
+     "segments": [
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "禁令", "py": "jìnlìng", "gl": "ban"},
+      {"zh": "生效", "py": "shēngxiào", "gl": "take effect"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "趁", "py": "chèn", "gl": "take advantage of"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "带着", "py": "dàizhe", "gl": "bringing along"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一趟", "py": "yítàng", "gl": "one trip"},
+      {"zh": "。"}
+     ],
+     "start": 25.28,
+     "end": 32.73
+    },
+    {
+     "id": "s004",
+     "zh": "昨天的节目被“无人机风波”占满了，所以今天才是正式的旅行回顾：天津到北京的通勤、老银行里的星巴克、让他打消购物念头的苹果店、让他当场证明天主教徒身份的教堂门卫，还有因为一堆“不吉利”评价而被放弃的天津之眼。",
+     "en": "Yesterday's episode was taken up entirely by the \"drone saga,\" so today is the proper trip recap: the commute from Tianjin to Beijing, the Starbucks inside an old bank, the Apple Store that put him off shopping, the church doorman who made him prove on the spot that he's Catholic, and the Tianjin Eye, which he skipped because of a pile of \"bad luck\" reviews.",
+     "segments": [
+      {"zh": "昨天", "py": "zuótiān", "gl": "yesterday"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "节目", "py": "jiémù", "gl": "episode"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "“"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "风波", "py": "fēngbō", "gl": "controversy; saga"},
+      {"zh": "”"},
+      {"zh": "占满", "py": "zhànmǎn", "gl": "fully occupy"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "才", "py": "cái", "gl": "only then"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "正式", "py": "zhèngshì", "gl": "proper; official"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "trip"},
+      {"zh": "回顾", "py": "huígù", "gl": "review; recap"},
+      {"zh": "："},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "通勤", "py": "tōngqín", "gl": "commute"},
+      {"zh": "、"},
+      {"zh": "老", "py": "lǎo", "gl": "old"},
+      {"zh": "银行", "py": "yínháng", "gl": "bank"},
+      {"zh": "里", "py": "lǐ", "gl": "inside"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "星巴克", "py": "Xīngbākè", "gl": "Starbucks"},
+      {"zh": "、"},
+      {"zh": "让", "py": "ràng", "gl": "make; cause"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "打消", "py": "dǎxiāo", "gl": "give up; dispel"},
+      {"zh": "购物", "py": "gòuwù", "gl": "shopping"},
+      {"zh": "念头", "py": "niàntou", "gl": "idea; intention"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "苹果店", "py": "Píngguǒdiàn", "gl": "Apple Store"},
+      {"zh": "、"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "当场", "py": "dāngchǎng", "gl": "on the spot"},
+      {"zh": "证明", "py": "zhèngmíng", "gl": "prove"},
+      {"zh": "天主教徒", "py": "tiānzhǔjiàotú", "gl": "Catholic"},
+      {"zh": "身份", "py": "shēnfèn", "gl": "identity"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "教堂", "py": "jiàotáng", "gl": "church"},
+      {"zh": "门卫", "py": "ménwèi", "gl": "doorman; guard"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because of"},
+      {"zh": "一堆", "py": "yìduī", "gl": "a pile of"},
+      {"zh": "“"},
+      {"zh": "不吉利", "py": "bùjílì", "gl": "unlucky"},
+      {"zh": "”"},
+      {"zh": "评价", "py": "píngjià", "gl": "reviews"},
+      {"zh": "而", "py": "ér", "gl": "(and thus)"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "放弃", "py": "fàngqì", "gl": "give up; skip"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "天津之眼", "py": "Tiānjīn Zhī Yǎn", "gl": "Tianjin Eye"},
+      {"zh": "。"}
+     ],
+     "start": 33.36,
+     "end": 62.93
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s005",
+     "zh": "为什么是天津，为什么是现在",
+     "en": "Why Tianjin, and why now",
+     "segments": [
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "，"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"}
+     ],
+     "start": 63.56,
+     "end": 67.23
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s006",
+     "zh": "从上周末起，在北京拥有无人机或其零件已属违法。",
+     "en": "As of last weekend, owning a drone or its parts in Beijing is illegal.",
+     "segments": [
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "上周末", "py": "shàngzhōumò", "gl": "last weekend"},
+      {"zh": "起", "py": "qǐ", "gl": "starting"},
+      {"zh": "，"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "拥有", "py": "yōngyǒu", "gl": "own"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "或", "py": "huò", "gl": "or"},
+      {"zh": "其", "py": "qí", "gl": "its"},
+      {"zh": "零件", "py": "língjiàn", "gl": "parts"},
+      {"zh": "已", "py": "yǐ", "gl": "already"},
+      {"zh": "属", "py": "shǔ", "gl": "counts as"},
+      {"zh": "违法", "py": "wéifǎ", "gl": "illegal"},
+      {"zh": "。"}
+     ],
+     "start": 67.82,
+     "end": 74.85
+    },
+    {
+     "id": "s007",
+     "zh": "史蒂文的无人机没法寄走，只好亲自带到天津。",
+     "en": "Steven couldn't ship his drone, so he had to bring it to Tianjin himself.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "没法", "py": "méifǎ", "gl": "unable to"},
+      {"zh": "寄走", "py": "jìzǒu", "gl": "send off"},
+      {"zh": "，"},
+      {"zh": "只好", "py": "zhǐhǎo", "gl": "had to"},
+      {"zh": "亲自", "py": "qīnzì", "gl": "personally"},
+      {"zh": "带到", "py": "dàidào", "gl": "bring to"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "。"}
+     ],
+     "start": 75.4,
+     "end": 81.21
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s008",
+     "zh": "天津对他来说是老朋友。",
+     "en": "For him, Tianjin is an old friend.",
+     "segments": [
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "对", "py": "duì", "gl": "for"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "来说", "py": "láishuō", "gl": "(as far as … goes)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "老朋友", "py": "lǎopéngyou", "gl": "old friend"},
+      {"zh": "。"}
+     ],
+     "start": 81.58,
+     "end": 84.61
+    },
+    {
+     "id": "s009",
+     "zh": "从北京南站坐高铁，大约半小时。",
+     "en": "It's about half an hour by high-speed train from Beijing South Station.",
+     "segments": [
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "北京南站", "py": "Běijīng Nánzhàn", "gl": "Beijing South Station"},
+      {"zh": "坐", "py": "zuò", "gl": "take (transport)"},
+      {"zh": "高铁", "py": "gāotiě", "gl": "high-speed rail"},
+      {"zh": "，"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "半", "py": "bàn", "gl": "half"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hour"},
+      {"zh": "。"}
+     ],
+     "start": 85.12,
+     "end": 89.31
+    },
+    {
+     "id": "s010",
+     "zh": "这座城市约有1400万人口，2015年的爆炸事故曾让它登上世界新闻。",
+     "en": "The city has a population of about 14 million, and the 2015 explosion once put it in the world news.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "座", "py": "zuò", "gl": "(measure word)"},
+      {"zh": "城市", "py": "chéngshì", "gl": "city"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "有", "py": "yǒu", "gl": "has"},
+      {"zh": "1400"},
+      {"zh": "万", "py": "wàn", "gl": "ten thousand"},
+      {"zh": "人口", "py": "rénkǒu", "gl": "population"},
+      {"zh": "，"},
+      {"zh": "2015"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "爆炸", "py": "bàozhà", "gl": "explosion"},
+      {"zh": "事故", "py": "shìgù", "gl": "accident"},
+      {"zh": "曾", "py": "céng", "gl": "once"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "登上", "py": "dēngshàng", "gl": "appear in"},
+      {"zh": "世界", "py": "shìjiè", "gl": "world"},
+      {"zh": "新闻", "py": "xīnwén", "gl": "news"},
+      {"zh": "。"}
+     ],
+     "start": 89.78,
+     "end": 98.93
+    },
+    {
+     "id": "s011",
+     "zh": "史蒂文住在五大道附近的亚朵酒店，那一带有两百多座百年老建筑，西式味儿十足。",
+     "en": "Steven is staying at the Atour Hotel near the Five Great Avenues, an area with over two hundred century-old buildings and a strong Western feel.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "住在", "py": "zhùzài", "gl": "stay at"},
+      {"zh": "五大道", "py": "Wǔdàdào", "gl": "Five Great Avenues"},
+      {"zh": "附近", "py": "fùjìn", "gl": "near"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "亚朵", "py": "Yàduǒ", "gl": "Atour"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "，"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "一带", "py": "yídài", "gl": "area"},
+      {"zh": "有", "py": "yǒu", "gl": "has"},
+      {"zh": "两百", "py": "liǎngbǎi", "gl": "two hundred"},
+      {"zh": "多", "py": "duō", "gl": "more than"},
+      {"zh": "座", "py": "zuò", "gl": "(measure word)"},
+      {"zh": "百年", "py": "bǎinián", "gl": "century-old"},
+      {"zh": "老", "py": "lǎo", "gl": "old"},
+      {"zh": "建筑", "py": "jiànzhù", "gl": "buildings"},
+      {"zh": "，"},
+      {"zh": "西式", "py": "xīshì", "gl": "Western-style"},
+      {"zh": "味儿", "py": "wèir", "gl": "flavor"},
+      {"zh": "十足", "py": "shízú", "gl": "full of"},
+      {"zh": "。"}
+     ],
+     "start": 100.28,
+     "end": 109.09
+    },
+    {
+     "id": "s012",
+     "zh": "用他的话说：“想逛城市的话，天津算一个吧。”",
+     "en": "In his words: \"If you want to explore a city, Tianjin is one worth considering.\"",
+     "segments": [
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "话", "py": "huà", "gl": "words"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "逛", "py": "guàng", "gl": "stroll around"},
+      {"zh": "城市", "py": "chéngshì", "gl": "city"},
+      {"zh": "的话", "py": "dehuà", "gl": "if"},
+      {"zh": "，"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "算", "py": "suàn", "gl": "count as"},
+      {"zh": "一个", "py": "yíge", "gl": "one"},
+      {"zh": "吧", "py": "ba", "gl": "(suggestion)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 110.88,
+     "end": 116.26
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "房租便宜，列车爆满",
+     "en": "Cheap rent, packed trains",
+     "segments": [
+      {"zh": "房租", "py": "fángzū", "gl": "rent"},
+      {"zh": "便宜", "py": "piányi", "gl": "cheap"},
+      {"zh": "，"},
+      {"zh": "列车", "py": "lièchē", "gl": "trains"},
+      {"zh": "爆满", "py": "bàomǎn", "gl": "packed full"}
+     ],
+     "start": 116.26,
+     "end": 120.27
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s014",
+     "zh": "别指望在天津放松。",
+     "en": "Don't expect to relax in Tianjin.",
+     "segments": [
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "指望", "py": "zhǐwàng", "gl": "expect"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "放松", "py": "fàngsōng", "gl": "relax"},
+      {"zh": "。"}
+     ],
+     "start": 120.7,
+     "end": 123.79
+    },
+    {
+     "id": "s015",
+     "zh": "这里人多，你会被人盯着看，交通也是大城市的样子，只是没北京那么糟。",
+     "en": "It's crowded here, people will stare at you, and the traffic is what you'd expect in a big city, just not as bad as Beijing.",
+     "segments": [
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "多", "py": "duō", "gl": "many"},
+      {"zh": "，"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "盯着", "py": "dīngzhe", "gl": "staring at"},
+      {"zh": "看", "py": "kàn", "gl": "look"},
+      {"zh": "，"},
+      {"zh": "交通", "py": "jiāotōng", "gl": "traffic"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "大城市", "py": "dàchéngshì", "gl": "big city"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "样子", "py": "yàngzi", "gl": "appearance, style"},
+      {"zh": "，"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "just, only"},
+      {"zh": "没", "py": "méi", "gl": "not as"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "那么", "py": "nàme", "gl": "so"},
+      {"zh": "糟", "py": "zāo", "gl": "bad"},
+      {"zh": "。"}
+     ],
+     "start": 124.28,
+     "end": 134.33
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s016",
+     "zh": "天津真正的吸引力是价格。",
+     "en": "Tianjin's real appeal is the price.",
+     "segments": [
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "真正", "py": "zhēnzhèng", "gl": "real"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "吸引力", "py": "xīyǐnlì", "gl": "appeal"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "。"}
+     ],
+     "start": 134.84,
+     "end": 138.25
+    },
+    {
+     "id": "s017",
+     "zh": "北京6000元的房子，在天津可能只要3000到4000元。",
+     "en": "A place that costs 6,000 yuan in Beijing might only cost 3,000 to 4,000 yuan in Tianjin.",
+     "segments": [
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "6000"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "房子", "py": "fángzi", "gl": "apartment"},
+      {"zh": "，"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "可能", "py": "kěnéng", "gl": "might"},
+      {"zh": "只要", "py": "zhǐyào", "gl": "only costs"},
+      {"zh": "3000"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "4000"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "。"}
+     ],
+     "start": 138.6,
+     "end": 145.75
+    },
+    {
+     "id": "s018",
+     "zh": "所以高铁每五到十分钟一趟，照样一票难求，周日晚上和周一早上进京的车次尤其如此。",
+     "en": "So even with a high-speed train every five to ten minutes, tickets are still hard to get, especially for trains into Beijing on Sunday evenings and Monday mornings.",
+     "segments": [
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "高铁", "py": "gāotiě", "gl": "high-speed rail"},
+      {"zh": "每", "py": "měi", "gl": "every"},
+      {"zh": "五", "py": "wǔ", "gl": "five"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "十", "py": "shí", "gl": "ten"},
+      {"zh": "分钟", "py": "fēnzhōng", "gl": "minutes"},
+      {"zh": "一趟", "py": "yítàng", "gl": "one trip"},
+      {"zh": "，"},
+      {"zh": "照样", "py": "zhàoyàng", "gl": "still"},
+      {"zh": "一票难求", "py": "yípiàonánqiú", "gl": "tickets hard to get"},
+      {"zh": "，"},
+      {"zh": "周日", "py": "zhōurì", "gl": "Sunday"},
+      {"zh": "晚上", "py": "wǎnshang", "gl": "evening"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "周一", "py": "zhōuyī", "gl": "Monday"},
+      {"zh": "早上", "py": "zǎoshang", "gl": "morning"},
+      {"zh": "进", "py": "jìn", "gl": "enter"},
+      {"zh": "京", "py": "Jīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "车次", "py": "chēcì", "gl": "train services"},
+      {"zh": "尤其", "py": "yóuqí", "gl": "especially"},
+      {"zh": "如此", "py": "rúcǐ", "gl": "so, like this"},
+      {"zh": "。"}
+     ],
+     "start": 146.76,
+     "end": 159.11
+    },
+    {
+     "id": "s019",
+     "zh": "很多人在天津还房贷，工作日在北京租一间1000到1500元的房间，算下来比直接在北京租房还划算。",
+     "en": "Many people pay off a mortgage in Tianjin and rent a 1,000 to 1,500 yuan room in Beijing on weekdays, which works out cheaper than just renting in Beijing.",
+     "segments": [
+      {"zh": "很多", "py": "hěnduō", "gl": "many"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "还", "py": "huán", "gl": "pay back"},
+      {"zh": "房贷", "py": "fángdài", "gl": "mortgage"},
+      {"zh": "，"},
+      {"zh": "工作日", "py": "gōngzuòrì", "gl": "workdays"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "租", "py": "zū", "gl": "rent"},
+      {"zh": "一间", "py": "yìjiān", "gl": "a (room)"},
+      {"zh": "1000"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "1500"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "房间", "py": "fángjiān", "gl": "room"},
+      {"zh": "，"},
+      {"zh": "算下来", "py": "suànxiàlai", "gl": "all things considered"},
+      {"zh": "比", "py": "bǐ", "gl": "compared to"},
+      {"zh": "直接", "py": "zhíjiē", "gl": "directly"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "租房", "py": "zūfáng", "gl": "rent a place"},
+      {"zh": "还", "py": "hái", "gl": "even more"},
+      {"zh": "划算", "py": "huásuàn", "gl": "worthwhile, cheaper"},
+      {"zh": "。"}
+     ],
+     "start": 160.06,
+     "end": 174.41
+    },
+    {
+     "id": "s020",
+     "zh": "史蒂文会这么做吗？",
+     "en": "Would Steven do this?",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "这么", "py": "zhème", "gl": "like this"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 175.5,
+     "end": 176.88
+    },
+    {
+     "id": "s021",
+     "zh": "不会。",
+     "en": "No.",
+     "segments": [
+      {"zh": "不会", "py": "búhuì", "gl": "would not"},
+      {"zh": "。"}
+     ],
+     "start": 176.88,
+     "end": 178.17
+    },
+    {
+     "id": "s022",
+     "zh": "订票、安检、赶车，这一套麻烦事，能躲就躲。",
+     "en": "Booking tickets, security checks, rushing for trains: he avoids that whole hassle whenever he can.",
+     "segments": [
+      {"zh": "订票", "py": "dìngpiào", "gl": "book tickets"},
+      {"zh": "、"},
+      {"zh": "安检", "py": "ānjiǎn", "gl": "security check"},
+      {"zh": "、"},
+      {"zh": "赶车", "py": "gǎnchē", "gl": "rush for a train"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "一套", "py": "yítào", "gl": "whole set"},
+      {"zh": "麻烦事", "py": "máfanshì", "gl": "hassle"},
+      {"zh": "，"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "躲", "py": "duǒ", "gl": "avoid"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "躲", "py": "duǒ", "gl": "avoid"},
+      {"zh": "。"}
+     ],
+     "start": 178.54,
+     "end": 184.48
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s023",
+     "zh": "给游客和外国居民",
+     "en": "For tourists and foreign residents",
+     "segments": [
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "游客", "py": "yóukè", "gl": "tourists"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "外国", "py": "wàiguó", "gl": "foreign"},
+      {"zh": "居民", "py": "jūmín", "gl": "residents"}
+     ],
+     "start": 184.48,
+     "end": 187.2
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s024",
+     "zh": "多数游客只走北京、西安、上海“三件套”，跳过天津。",
+     "en": "Most tourists only do the Beijing–Xi'an–Shanghai \"big three\" and skip Tianjin.",
+     "segments": [
+      {"zh": "多数", "py": "duōshù", "gl": "most"},
+      {"zh": "游客", "py": "yóukè", "gl": "tourists"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "走", "py": "zǒu", "gl": "travel; visit"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "、"},
+      {"zh": "西安", "py": "Xī'ān", "gl": "Xi'an"},
+      {"zh": "、"},
+      {"zh": "上海", "py": "Shànghǎi", "gl": "Shanghai"},
+      {"zh": "“"},
+      {"zh": "三件套", "py": "sānjiàntào", "gl": "the big three"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "跳过", "py": "tiàoguò", "gl": "skip"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "。"}
+     ],
+     "start": 187.2,
+     "end": 193.84
+    },
+    {
+     "id": "s025",
+     "zh": "可要是你在北京待一周，天津就是一个轻松又便宜的一日游目的地，一个下午就能看完主要景点。",
+     "en": "But if you're staying in Beijing for a week, Tianjin makes an easy, cheap day trip, and you can see the main sights in a single afternoon.",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "要是", "py": "yàoshi", "gl": "if"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "待", "py": "dāi", "gl": "stay"},
+      {"zh": "一周", "py": "yìzhōu", "gl": "one week"},
+      {"zh": "，"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is just"},
+      {"zh": "一个", "py": "yí ge", "gl": "a"},
+      {"zh": "轻松", "py": "qīngsōng", "gl": "easy; relaxed"},
+      {"zh": "又", "py": "yòu", "gl": "and also"},
+      {"zh": "便宜", "py": "piányi", "gl": "cheap"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "一日游", "py": "yírìyóu", "gl": "day trip"},
+      {"zh": "目的地", "py": "mùdìdì", "gl": "destination"},
+      {"zh": "，"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "下午", "py": "xiàwǔ", "gl": "afternoon"},
+      {"zh": "就", "py": "jiù", "gl": "then; just"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "看完", "py": "kànwán", "gl": "finish seeing"},
+      {"zh": "主要", "py": "zhǔyào", "gl": "main"},
+      {"zh": "景点", "py": "jǐngdiǎn", "gl": "sights"},
+      {"zh": "。"}
+     ],
+     "start": 193.84,
+     "end": 206.15
+    },
+    {
+     "id": "s026",
+     "zh": "他们的酒店工作日大约300元，含自助早餐，周六约500元。",
+     "en": "Their hotel was about 300 yuan on weekdays, buffet breakfast included, and about 500 yuan on Saturday.",
+     "segments": [
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "工作日", "py": "gōngzuòrì", "gl": "weekdays"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "300"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "，"},
+      {"zh": "含", "py": "hán", "gl": "including"},
+      {"zh": "自助", "py": "zìzhù", "gl": "self-service"},
+      {"zh": "早餐", "py": "zǎocān", "gl": "breakfast"},
+      {"zh": "，"},
+      {"zh": "周六", "py": "zhōuliù", "gl": "Saturday"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "500"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "。"}
+     ],
+     "start": 206.54,
+     "end": 213.88
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s027",
+     "zh": "他还见了一位认识了20年的朋友，对方刚从韩国釜山搬来，住在价格超低的郊区。",
+     "en": "He also met up with a friend he's known for 20 years, who had just moved from Busan, South Korea, and lives in a super-cheap suburb.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "见", "py": "jiàn", "gl": "meet"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一位", "py": "yíwèi", "gl": "one (polite)"},
+      {"zh": "认识", "py": "rènshi", "gl": "know"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "20"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "，"},
+      {"zh": "对方", "py": "duìfāng", "gl": "the other person"},
+      {"zh": "刚", "py": "gāng", "gl": "just"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "韩国", "py": "Hánguó", "gl": "South Korea"},
+      {"zh": "釜山", "py": "Fǔshān", "gl": "Busan"},
+      {"zh": "搬来", "py": "bānlái", "gl": "move here"},
+      {"zh": "，"},
+      {"zh": "住在", "py": "zhùzài", "gl": "live in"},
+      {"zh": "价格", "py": "jiàgé", "gl": "prices"},
+      {"zh": "超低", "py": "chāodī", "gl": "super low"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "郊区", "py": "jiāoqū", "gl": "suburb"},
+      {"zh": "。"}
+     ],
+     "start": 213.88,
+     "end": 224.51
+    },
+    {
+     "id": "s028",
+     "zh": "和上海周边的城市一样，天津让你够得着北京，却不用付那份高房价。",
+     "en": "Like the cities around Shanghai, Tianjin keeps Beijing within reach without making you pay Beijing's high rents.",
+     "segments": [
+      {"zh": "和", "py": "hé", "gl": "like; with"},
+      {"zh": "上海", "py": "Shànghǎi", "gl": "Shanghai"},
+      {"zh": "周边", "py": "zhōubiān", "gl": "surrounding"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "城市", "py": "chéngshì", "gl": "cities"},
+      {"zh": "一样", "py": "yíyàng", "gl": "the same"},
+      {"zh": "，"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "让", "py": "ràng", "gl": "let"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "够得着", "py": "gòudezháo", "gl": "be within reach"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "，"},
+      {"zh": "却", "py": "què", "gl": "yet"},
+      {"zh": "不用", "py": "búyòng", "gl": "not have to"},
+      {"zh": "付", "py": "fù", "gl": "pay"},
+      {"zh": "那份", "py": "nàfèn", "gl": "that"},
+      {"zh": "高", "py": "gāo", "gl": "high"},
+      {"zh": "房价", "py": "fángjià", "gl": "housing prices"},
+      {"zh": "。"}
+     ],
+     "start": 225.0,
+     "end": 233.83
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s029",
+     "zh": "酒店小记：日式马桶似乎是标配，但浴室门是玻璃的，“放点音乐也许是个好主意”。",
+     "en": "Hotel notes: Japanese-style toilets seem to be standard, but the bathroom door is glass, so \"playing some music might be a good idea.\"",
+     "segments": [
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "小记", "py": "xiǎojì", "gl": "short notes"},
+      {"zh": "："},
+      {"zh": "日式", "py": "rìshì", "gl": "Japanese-style"},
+      {"zh": "马桶", "py": "mǎtǒng", "gl": "toilet"},
+      {"zh": "似乎", "py": "sìhū", "gl": "seem"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "标配", "py": "biāopèi", "gl": "standard feature"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "浴室", "py": "yùshì", "gl": "bathroom"},
+      {"zh": "门", "py": "mén", "gl": "door"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "玻璃", "py": "bōli", "gl": "glass"},
+      {"zh": "的", "py": "de", "gl": "(made of)"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "放", "py": "fàng", "gl": "play"},
+      {"zh": "点", "py": "diǎn", "gl": "some"},
+      {"zh": "音乐", "py": "yīnyuè", "gl": "music"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "maybe"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "个", "py": "ge", "gl": "a"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "主意", "py": "zhǔyi", "gl": "idea"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 235.0,
+     "end": 247.13
+    },
+    {
+     "id": "s030",
+     "zh": "当天雾霾很重，他要空气净化器，对方先递来一台香薰机，“根本是两码事”。",
+     "en": "The smog was heavy that day, and when he asked for an air purifier, the staff first handed him an aroma diffuser: \"Completely different things.\"",
+     "segments": [
+      {"zh": "当天", "py": "dàngtiān", "gl": "that day"},
+      {"zh": "雾霾", "py": "wùmái", "gl": "smog"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "重", "py": "zhòng", "gl": "heavy"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "要", "py": "yào", "gl": "ask for"},
+      {"zh": "空气", "py": "kōngqì", "gl": "air"},
+      {"zh": "净化器", "py": "jìnghuàqì", "gl": "purifier"},
+      {"zh": "，"},
+      {"zh": "对方", "py": "duìfāng", "gl": "the other side"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "递来", "py": "dìlái", "gl": "hand over"},
+      {"zh": "一台", "py": "yì tái", "gl": "one (machine)"},
+      {"zh": "香薰机", "py": "xiāngxūnjī", "gl": "aroma diffuser"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "根本", "py": "gēnběn", "gl": "completely"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "两码事", "py": "liǎngmǎshì", "gl": "two different things"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 247.6,
+     "end": 258.15
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s031",
+     "zh": "和平路与星巴克臻选",
+     "en": "Heping Road and Starbucks Reserve",
+     "segments": [
+      {"zh": "和平路", "py": "Hépíng Lù", "gl": "Heping Road"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "星巴克", "py": "Xīngbākè", "gl": "Starbucks"},
+      {"zh": "臻选", "py": "zhēnxuǎn", "gl": "Reserve (premium)"}
+     ],
+     "start": 259.42,
+     "end": 262.33
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s032",
+     "zh": "他们骑车去了和平路，这是天津一条很长的商业街，有点像王府井，其中一家“巧克力博物馆”，巧克力看着可疑地像纸做的。",
+     "en": "They rode their bikes to Heping Road, a long shopping street in Tianjin, a bit like Wangfujing. One shop there was a \"chocolate museum\", and the chocolate looked suspiciously like it was made of paper.",
+     "segments": [
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "骑车", "py": "qíchē", "gl": "ride a bike"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "和平路", "py": "Hépíng Lù", "gl": "Heping Road"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure word: streets)"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "长", "py": "cháng", "gl": "long"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "商业街", "py": "shāngyèjiē", "gl": "shopping street"},
+      {"zh": "，"},
+      {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
+      {"zh": "王府井", "py": "Wángfǔjǐng", "gl": "Wangfujing"},
+      {"zh": "，"},
+      {"zh": "其中", "py": "qízhōng", "gl": "among them"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "家", "py": "jiā", "gl": "(measure word: shops)"},
+      {"zh": "“"},
+      {"zh": "巧克力", "py": "qiǎokèlì", "gl": "chocolate"},
+      {"zh": "博物馆", "py": "bówùguǎn", "gl": "museum"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "巧克力", "py": "qiǎokèlì", "gl": "chocolate"},
+      {"zh": "看着", "py": "kànzhe", "gl": "looks"},
+      {"zh": "可疑", "py": "kěyí", "gl": "suspicious"},
+      {"zh": "地", "py": "de", "gl": "(adverbial particle)"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
+      {"zh": "纸", "py": "zhǐ", "gl": "paper"},
+      {"zh": "做", "py": "zuò", "gl": "made"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "。"}
+     ],
+     "start": 262.86,
+     "end": 278.51
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s033",
+     "zh": "街的一头是星巴克臻选河畔66旗舰店，位于一座1921年的银行大楼里。",
+     "en": "At one end of the street is the Starbucks Reserve Riverside 66 flagship store, set in a bank building from 1921.",
+     "segments": [
+      {"zh": "街", "py": "jiē", "gl": "street"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "一头", "py": "yìtóu", "gl": "one end"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "星巴克", "py": "Xīngbākè", "gl": "Starbucks"},
+      {"zh": "臻选", "py": "zhēnxuǎn", "gl": "Reserve (premium)"},
+      {"zh": "河畔", "py": "hépàn", "gl": "riverside"},
+      {"zh": "66"},
+      {"zh": "旗舰店", "py": "qíjiàndiàn", "gl": "flagship store"},
+      {"zh": "，"},
+      {"zh": "位于", "py": "wèiyú", "gl": "located in"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "座", "py": "zuò", "gl": "(measure word: buildings)"},
+      {"zh": "1921"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "银行", "py": "yínháng", "gl": "bank"},
+      {"zh": "大楼", "py": "dàlóu", "gl": "building"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "。"}
+     ],
+     "start": 278.82,
+     "end": 287.87
+    },
+    {
+     "id": "s034",
+     "zh": "希腊风格的外立面、玻璃穹顶、大理石柱和百年银行柜台都原样保留。",
+     "en": "The Greek-style facade, the glass dome, the marble columns and the century-old bank counters have all been kept as they were.",
+     "segments": [
+      {"zh": "希腊", "py": "Xīlà", "gl": "Greece"},
+      {"zh": "风格", "py": "fēnggé", "gl": "style"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "外立面", "py": "wàilìmiàn", "gl": "facade"},
+      {"zh": "、"},
+      {"zh": "玻璃", "py": "bōli", "gl": "glass"},
+      {"zh": "穹顶", "py": "qióngdǐng", "gl": "dome"},
+      {"zh": "、"},
+      {"zh": "大理石", "py": "dàlǐshí", "gl": "marble"},
+      {"zh": "柱", "py": "zhù", "gl": "column"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "百年", "py": "bǎinián", "gl": "century-old"},
+      {"zh": "银行", "py": "yínháng", "gl": "bank"},
+      {"zh": "柜台", "py": "guìtái", "gl": "counter"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "原样", "py": "yuányàng", "gl": "original state"},
+      {"zh": "保留", "py": "bǎoliú", "gl": "preserve"},
+      {"zh": "。"}
+     ],
+     "start": 288.26,
+     "end": 297.11
+    },
+    {
+     "id": "s035",
+     "zh": "网红们摆着姿势拍甜点，史蒂文也在拍视频，不过他说自己“无论怎么看都算不上网红”。",
+     "en": "Influencers were posing and taking photos of desserts, and Steven was filming a video too, though he said he was \"not an influencer by any stretch\".",
+     "segments": [
+      {"zh": "网红", "py": "wǎnghóng", "gl": "influencer"},
+      {"zh": "们", "py": "men", "gl": "(plural)"},
+      {"zh": "摆", "py": "bǎi", "gl": "strike (a pose)"},
+      {"zh": "着", "py": "zhe", "gl": "(ongoing action)"},
+      {"zh": "姿势", "py": "zīshì", "gl": "pose"},
+      {"zh": "拍", "py": "pāi", "gl": "photograph"},
+      {"zh": "甜点", "py": "tiándiǎn", "gl": "dessert"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "在", "py": "zài", "gl": "(in progress)"},
+      {"zh": "拍", "py": "pāi", "gl": "film"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "，"},
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "“"},
+      {"zh": "无论", "py": "wúlùn", "gl": "no matter"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "看", "py": "kàn", "gl": "look at"},
+      {"zh": "都", "py": "dōu", "gl": "still"},
+      {"zh": "算不上", "py": "suànbushàng", "gl": "can't count as"},
+      {"zh": "网红", "py": "wǎnghóng", "gl": "influencer"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 297.6,
+     "end": 309.45
+    },
+    {
+     "id": "s036",
+     "zh": "手冲特调加一份麻薯芝士蛋糕，花了七十来块，两人不禁琢磨：为什么不在家煮更好的咖啡呢？",
+     "en": "A special pour-over coffee plus a mochi cheesecake cost them about seventy yuan, and the two couldn't help wondering: why not just make better coffee at home?",
+     "segments": [
+      {"zh": "手冲", "py": "shǒuchōng", "gl": "pour-over"},
+      {"zh": "特调", "py": "tèdiào", "gl": "special blend"},
+      {"zh": "加", "py": "jiā", "gl": "plus"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "份", "py": "fèn", "gl": "(measure word: portion)"},
+      {"zh": "麻薯", "py": "máshǔ", "gl": "mochi"},
+      {"zh": "芝士", "py": "zhīshì", "gl": "cheese"},
+      {"zh": "蛋糕", "py": "dàngāo", "gl": "cake"},
+      {"zh": "，"},
+      {"zh": "花", "py": "huā", "gl": "spend"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "七十", "py": "qīshí", "gl": "seventy"},
+      {"zh": "来", "py": "lái", "gl": "about"},
+      {"zh": "块", "py": "kuài", "gl": "yuan"},
+      {"zh": "，"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "不禁", "py": "bùjīn", "gl": "can't help"},
+      {"zh": "琢磨", "py": "zuómo", "gl": "ponder"},
+      {"zh": "："},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "家", "py": "jiā", "gl": "home"},
+      {"zh": "煮", "py": "zhǔ", "gl": "brew"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "咖啡", "py": "kāfēi", "gl": "coffee"},
+      {"zh": "呢", "py": "ne", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 309.78,
+     "end": 321.44
+    },
+    {
+     "id": "s037",
+     "zh": "好处是：洗手间很干净。",
+     "en": "The upside: the restrooms were very clean.",
+     "segments": [
+      {"zh": "好处", "py": "hǎochu", "gl": "advantage"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："},
+      {"zh": "洗手间", "py": "xǐshǒujiān", "gl": "restroom"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "干净", "py": "gānjìng", "gl": "clean"},
+      {"zh": "。"}
+     ],
+     "start": 321.44,
+     "end": 325.34
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "苹果店与折叠屏iPhone Duo",
+     "en": "The Apple Store and the foldable iPhone Duo",
+     "segments": [
+      {"zh": "苹果店", "py": "Píngguǒ diàn", "gl": "Apple Store"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "折叠屏", "py": "zhédiépíng", "gl": "foldable screen"},
+      {"zh": "iPhone Duo"}
+     ],
+     "start": 325.34,
+     "end": 329.11
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s039",
+     "zh": "隔壁就是苹果店。",
+     "en": "Right next door is an Apple Store.",
+     "segments": [
+      {"zh": "隔壁", "py": "gébì", "gl": "next door"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is exactly"},
+      {"zh": "苹果店", "py": "Píngguǒ diàn", "gl": "Apple Store"},
+      {"zh": "。"}
+     ],
+     "start": 329.8,
+     "end": 332.11
+    },
+    {
+     "id": "s040",
+     "zh": "他的iPhone 14 Pro Max拍了约90%的《语言博客》，升级到18代提升不够大。",
+     "en": "His iPhone 14 Pro Max shot about 90% of \"Language Blog,\" and upgrading to the 18th generation wouldn't be a big enough improvement.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "iPhone 14 Pro Max"},
+      {"zh": "拍", "py": "pāi", "gl": "shoot, film"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "90%"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "《"},
+      {"zh": "语言", "py": "yǔyán", "gl": "language"},
+      {"zh": "博客", "py": "bókè", "gl": "blog"},
+      {"zh": "》"},
+      {"zh": "，"},
+      {"zh": "升级", "py": "shēngjí", "gl": "upgrade"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "18"},
+      {"zh": "代", "py": "dài", "gl": "generation"},
+      {"zh": "提升", "py": "tíshēng", "gl": "improvement"},
+      {"zh": "不够", "py": "búgòu", "gl": "not enough"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "。"}
+     ],
+     "start": 332.6,
+     "end": 343.19
+    },
+    {
+     "id": "s041",
+     "zh": "正如他所说：“问题不在手机，在于用的人。”",
+     "en": "As he put it: \"The problem isn't the phone, it's the person using it.\"",
+     "segments": [
+      {"zh": "正如", "py": "zhèngrú", "gl": "just as"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "所", "py": "suǒ", "gl": "(nominalizer)"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "问题", "py": "wèntí", "gl": "problem"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "在", "py": "zài", "gl": "lie in"},
+      {"zh": "手机", "py": "shǒujī", "gl": "phone"},
+      {"zh": "，"},
+      {"zh": "在于", "py": "zàiyú", "gl": "lies in"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "人", "py": "rén", "gl": "person"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 343.56,
+     "end": 349.43
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s042",
+     "zh": "折叠屏iPhone Duo被女朋友否决了，因为单手够不到另一边。",
+     "en": "His girlfriend vetoed the foldable iPhone Duo because you can't reach the other side with one hand.",
+     "segments": [
+      {"zh": "折叠屏", "py": "zhédiépíng", "gl": "foldable screen"},
+      {"zh": "iPhone Duo"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "否决", "py": "fǒujué", "gl": "veto"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "单手", "py": "dānshǒu", "gl": "one hand"},
+      {"zh": "够不到", "py": "gòubudào", "gl": "can't reach"},
+      {"zh": "另一边", "py": "lìngyìbiān", "gl": "the other side"},
+      {"zh": "。"}
+     ],
+     "start": 350.46,
+     "end": 357.14
+    },
+    {
+     "id": "s043",
+     "zh": "它还是第一代产品，价格又高。",
+     "en": "It's still a first-generation product, and it's expensive too.",
+     "segments": [
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "第一代", "py": "dìyīdài", "gl": "first generation"},
+      {"zh": "产品", "py": "chǎnpǐn", "gl": "product"},
+      {"zh": "，"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "又", "py": "yòu", "gl": "also"},
+      {"zh": "高", "py": "gāo", "gl": "high"},
+      {"zh": "。"}
+     ],
+     "start": 357.14,
+     "end": 362.21
+    },
+    {
+     "id": "s044",
+     "zh": "触屏MacBook更让他心动：用手指操作Logic，比用键盘快捷键还快。",
+     "en": "A touchscreen MacBook tempts him more: operating Logic with his fingers would be even faster than keyboard shortcuts.",
+     "segments": [
+      {"zh": "触屏", "py": "chùpíng", "gl": "touchscreen"},
+      {"zh": "MacBook"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "心动", "py": "xīndòng", "gl": "tempted"},
+      {"zh": "："},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "手指", "py": "shǒuzhǐ", "gl": "finger"},
+      {"zh": "操作", "py": "cāozuò", "gl": "operate"},
+      {"zh": "Logic"},
+      {"zh": "，"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "键盘", "py": "jiànpán", "gl": "keyboard"},
+      {"zh": "快捷键", "py": "kuàijiéjiàn", "gl": "shortcut keys"},
+      {"zh": "还", "py": "hái", "gl": "even"},
+      {"zh": "快", "py": "kuài", "gl": "fast"},
+      {"zh": "。"}
+     ],
+     "start": 363.46,
+     "end": 372.84
+    },
+    {
+     "id": "s045",
+     "zh": "可他现在这台MacBook还没还完款。",
+     "en": "But he still hasn't finished paying off the MacBook he has now.",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "台", "py": "tái", "gl": "(measure word)"},
+      {"zh": "MacBook"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "没", "py": "méi", "gl": "not yet"},
+      {"zh": "还完", "py": "huánwán", "gl": "finish repaying"},
+      {"zh": "款", "py": "kuǎn", "gl": "payment"},
+      {"zh": "。"}
+     ],
+     "start": 372.84,
+     "end": 377.93
+    },
+    {
+     "id": "s046",
+     "zh": "这趟逛店，其实是为了“把分期付款的念头清出脑子”。",
+     "en": "This store visit was really about \"clearing the idea of installment payments out of his head.\"",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "趟", "py": "tàng", "gl": "(trip measure word)"},
+      {"zh": "逛", "py": "guàng", "gl": "browse"},
+      {"zh": "店", "py": "diàn", "gl": "store"},
+      {"zh": "，"},
+      {"zh": "其实", "py": "qíshí", "gl": "actually"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "为了", "py": "wèile", "gl": "in order to"},
+      {"zh": "“"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "分期付款", "py": "fēnqī fùkuǎn", "gl": "installment payment"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "念头", "py": "niàntou", "gl": "idea, thought"},
+      {"zh": "清出", "py": "qīngchū", "gl": "clear out"},
+      {"zh": "脑子", "py": "nǎozi", "gl": "head, mind"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 378.42,
+     "end": 385.34
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s047",
+     "zh": "天津西开教堂",
+     "en": "St. Joseph's Cathedral (Xikai Church), Tianjin",
+     "segments": [
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "西开教堂", "py": "Xīkāi Jiàotáng", "gl": "Xikai Church"}
+     ],
+     "start": 385.34,
+     "end": 388.05
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s048",
+     "zh": "和平路的另一头是西开教堂，一座仍在使用的罗马天主教堂。",
+     "en": "At the other end of Heping Road is Xikai Church, a Roman Catholic church that is still in use.",
+     "segments": [
+      {"zh": "和平路", "py": "Hépíng Lù", "gl": "Heping Road"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "另", "py": "lìng", "gl": "other"},
+      {"zh": "一头", "py": "yìtóu", "gl": "one end"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "西开教堂", "py": "Xīkāi Jiàotáng", "gl": "Xikai Church"},
+      {"zh": "，"},
+      {"zh": "一座", "py": "yízuò", "gl": "a (building)"},
+      {"zh": "仍", "py": "réng", "gl": "still"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "使用", "py": "shǐyòng", "gl": "use"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "罗马", "py": "Luómǎ", "gl": "Roman"},
+      {"zh": "天主教堂", "py": "tiānzhǔjiàotáng", "gl": "Catholic church"},
+      {"zh": "。"}
+     ],
+     "start": 388.34,
+     "end": 395.91
+    },
+    {
+     "id": "s049",
+     "zh": "周日不对游客开放。",
+     "en": "It isn't open to tourists on Sundays.",
+     "segments": [
+      {"zh": "周日", "py": "zhōurì", "gl": "Sunday"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "对", "py": "duì", "gl": "to"},
+      {"zh": "游客", "py": "yóukè", "gl": "tourists"},
+      {"zh": "开放", "py": "kāifàng", "gl": "open"},
+      {"zh": "。"}
+     ],
+     "start": 396.42,
+     "end": 398.66
+    },
+    {
+     "id": "s050",
+     "zh": "门口的人问他是不是天主教徒，他说是，对方就让他画十字来证明。",
+     "en": "The person at the door asked him if he was Catholic; he said yes, so they had him make the sign of the cross to prove it.",
+     "segments": [
+      {"zh": "门口", "py": "ménkǒu", "gl": "doorway"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "人", "py": "rén", "gl": "person"},
+      {"zh": "问", "py": "wèn", "gl": "asked"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "是不是", "py": "shìbushì", "gl": "whether (he) was"},
+      {"zh": "天主教徒", "py": "tiānzhǔjiàotú", "gl": "Catholic"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
+      {"zh": "是", "py": "shì", "gl": "yes"},
+      {"zh": "，"},
+      {"zh": "对方", "py": "duìfāng", "gl": "the other person"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "让", "py": "ràng", "gl": "made; had"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "画", "py": "huà", "gl": "draw; make"},
+      {"zh": "十字", "py": "shízì", "gl": "cross"},
+      {"zh": "来", "py": "lái", "gl": "in order to"},
+      {"zh": "证明", "py": "zhèngmíng", "gl": "prove"},
+      {"zh": "。"}
+     ],
+     "start": 398.66,
+     "end": 407.61
+    },
+    {
+     "id": "s051",
+     "zh": "他从小是乌克兰天主教徒，也记不清哪种传统先碰哪边肩膀。",
+     "en": "He was raised Ukrainian Catholic, and he couldn't remember which tradition touches which shoulder first.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "从小", "py": "cóngxiǎo", "gl": "since childhood"},
+      {"zh": "是", "py": "shì", "gl": "was"},
+      {"zh": "乌克兰", "py": "Wūkèlán", "gl": "Ukrainian"},
+      {"zh": "天主教徒", "py": "tiānzhǔjiàotú", "gl": "Catholic"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "记不清", "py": "jìbuqīng", "gl": "can't remember clearly"},
+      {"zh": "哪", "py": "nǎ", "gl": "which"},
+      {"zh": "种", "py": "zhǒng", "gl": "kind of"},
+      {"zh": "传统", "py": "chuántǒng", "gl": "tradition"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "碰", "py": "pèng", "gl": "touch"},
+      {"zh": "哪边", "py": "nǎbiān", "gl": "which side"},
+      {"zh": "肩膀", "py": "jiānbǎng", "gl": "shoulder"},
+      {"zh": "。"}
+     ],
+     "start": 408.0,
+     "end": 415.7
+    },
+    {
+     "id": "s052",
+     "zh": "最后，他们没有进去。",
+     "en": "In the end, they didn't go in.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "in the end"},
+      {"zh": "，"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "didn't"},
+      {"zh": "进去", "py": "jìnqu", "gl": "go in"},
+      {"zh": "。"}
+     ],
+     "start": 415.7,
+     "end": 419.41
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s053",
+     "zh": "瓷房子，和没去的“眼”",
+     "en": "The Porcelain House, and the \"Eye\" they skipped",
+     "segments": [
+      {"zh": "瓷房子", "py": "cífángzi", "gl": "Porcelain House"},
+      {"zh": "，"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "“"},
+      {"zh": "眼", "py": "yǎn", "gl": "Eye"},
+      {"zh": "”"}
+     ],
+     "start": 420.04,
+     "end": 422.63
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s054",
+     "zh": "五大道的中国瓷房子，是一座1920年代的法式小楼，贴满了数以亿计的瓷片。",
+     "en": "The China House on Five Great Avenues is a 1920s French-style building covered in hundreds of millions of porcelain shards.",
+     "segments": [
+      {"zh": "五大道", "py": "Wǔdàdào", "gl": "Five Great Avenues"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "瓷房子", "py": "cífángzi", "gl": "Porcelain House"},
+      {"zh": "，"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "一座", "py": "yí zuò", "gl": "a (building)"},
+      {"zh": "1920"},
+      {"zh": "年代", "py": "niándài", "gl": "decade; -s"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "法式", "py": "fǎshì", "gl": "French-style"},
+      {"zh": "小楼", "py": "xiǎolóu", "gl": "small building"},
+      {"zh": "，"},
+      {"zh": "贴满", "py": "tiēmǎn", "gl": "covered all over"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "数以亿计", "py": "shùyǐyìjì", "gl": "hundreds of millions"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "瓷片", "py": "cípiàn", "gl": "porcelain shards"},
+      {"zh": "。"}
+     ],
+     "start": 423.94,
+     "end": 434.31
+    },
+    {
+     "id": "s055",
+     "zh": "门票50元，小红书上都说是“坑”，所以他们放弃了。",
+     "en": "Tickets cost 50 yuan, and everyone on Xiaohongshu called it a \"rip-off,\" so they gave it a miss.",
+     "segments": [
+      {"zh": "门票", "py": "ménpiào", "gl": "admission ticket"},
+      {"zh": "50"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "，"},
+      {"zh": "小红书", "py": "Xiǎohóngshū", "gl": "Xiaohongshu (RedNote)"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "“"},
+      {"zh": "坑", "py": "kēng", "gl": "rip-off"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "放弃", "py": "fàngqì", "gl": "give up"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
+     ],
+     "start": 434.82,
+     "end": 443.17
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s056",
+     "zh": "他转而拍《语言博客》，大声说英语，再举着手机，立刻招来一群人围观拍照。",
+     "en": "Instead, he filmed for \"Language Blog,\" speaking English loudly while holding up his phone, and a crowd immediately gathered to watch and take photos.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "转而", "py": "zhuǎn'ér", "gl": "instead"},
+      {"zh": "拍", "py": "pāi", "gl": "film"},
+      {"zh": "《"},
+      {"zh": "语言", "py": "yǔyán", "gl": "language"},
+      {"zh": "博客", "py": "bókè", "gl": "blog"},
+      {"zh": "》"},
+      {"zh": "，"},
+      {"zh": "大声", "py": "dàshēng", "gl": "loudly"},
+      {"zh": "说", "py": "shuō", "gl": "speak"},
+      {"zh": "英语", "py": "Yīngyǔ", "gl": "English"},
+      {"zh": "，"},
+      {"zh": "再", "py": "zài", "gl": "and then"},
+      {"zh": "举", "py": "jǔ", "gl": "hold up"},
+      {"zh": "着", "py": "zhe", "gl": "(ongoing action)"},
+      {"zh": "手机", "py": "shǒujī", "gl": "phone"},
+      {"zh": "，"},
+      {"zh": "立刻", "py": "lìkè", "gl": "immediately"},
+      {"zh": "招来", "py": "zhāolái", "gl": "attract"},
+      {"zh": "一群", "py": "yì qún", "gl": "a crowd of"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "围观", "py": "wéiguān", "gl": "gather to watch"},
+      {"zh": "拍照", "py": "pāizhào", "gl": "take photos"},
+      {"zh": "。"}
+     ],
+     "start": 443.86,
+     "end": 453.96
+    },
+    {
+     "id": "s057",
+     "zh": "拍了三遍，他总算拍到暮色中亮灯的瓷房子。",
+     "en": "After three takes, he finally got a shot of the Porcelain House lit up at dusk.",
+     "segments": [
+      {"zh": "拍", "py": "pāi", "gl": "film"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "三遍", "py": "sān biàn", "gl": "three times"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "总算", "py": "zǒngsuàn", "gl": "finally"},
+      {"zh": "拍到", "py": "pāidào", "gl": "manage to film"},
+      {"zh": "暮色", "py": "mùsè", "gl": "dusk"},
+      {"zh": "中", "py": "zhōng", "gl": "in"},
+      {"zh": "亮灯", "py": "liàngdēng", "gl": "lit up"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "瓷房子", "py": "cífángzi", "gl": "Porcelain House"},
+      {"zh": "。"}
+     ],
+     "start": 453.96,
+     "end": 460.49
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s058",
+     "zh": "至于天津之眼，女朋友翻到两位女生的评价：坐完摩天轮就分手了。",
+     "en": "As for the Tianjin Eye, his girlfriend came across a review by two young women: they broke up right after riding the Ferris wheel.",
+     "segments": [
+      {"zh": "至于", "py": "zhìyú", "gl": "as for"},
+      {"zh": "天津之眼", "py": "Tiānjīn Zhī Yǎn", "gl": "Tianjin Eye"},
+      {"zh": "，"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "翻到", "py": "fāndào", "gl": "come across"},
+      {"zh": "两位", "py": "liǎng wèi", "gl": "two (polite)"},
+      {"zh": "女生", "py": "nǚshēng", "gl": "young women"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "评价", "py": "píngjià", "gl": "review"},
+      {"zh": "："},
+      {"zh": "坐完", "py": "zuòwán", "gl": "finish riding"},
+      {"zh": "摩天轮", "py": "mótiānlún", "gl": "Ferris wheel"},
+      {"zh": "就", "py": "jiù", "gl": "right then"},
+      {"zh": "分手", "py": "fēnshǒu", "gl": "break up"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 460.98,
+     "end": 470.03
+    },
+    {
+     "id": "s059",
+     "zh": "“算了”，他们不去了。",
+     "en": "\"Forget it,\" they decided, and didn't go.",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "算了", "py": "suànle", "gl": "forget it"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 470.58,
+     "end": 472.84
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s060",
+     "zh": "包子、菠萝包和粉色单车",
+     "en": "Baozi, pineapple buns and pink bikes",
+     "segments": [
+      {"zh": "包子", "py": "bāozi", "gl": "steamed buns"},
+      {"zh": "、"},
+      {"zh": "菠萝包", "py": "bōluóbāo", "gl": "pineapple bun"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "粉色", "py": "fěnsè", "gl": "pink"},
+      {"zh": "单车", "py": "dānchē", "gl": "bicycle"}
+     ],
+     "start": 472.84,
+     "end": 477.47
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s061",
+     "zh": "天津的招牌美食有煎饼果子和狗不理包子，大意是“狗都不理”。",
+     "en": "Tianjin's signature foods include jianbing guozi and Goubuli baozi, a name that roughly means \"even dogs ignore it.\"",
+     "segments": [
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "招牌", "py": "zhāopái", "gl": "signature"},
+      {"zh": "美食", "py": "měishí", "gl": "delicacy"},
+      {"zh": "有", "py": "yǒu", "gl": "include"},
+      {"zh": "煎饼果子", "py": "jiānbingguǒzi", "gl": "savory crepe"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "狗不理", "py": "Gǒubùlǐ", "gl": "Goubuli (brand)"},
+      {"zh": "包子", "py": "bāozi", "gl": "steamed buns"},
+      {"zh": "，"},
+      {"zh": "大意", "py": "dàyì", "gl": "rough meaning"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "“"},
+      {"zh": "狗", "py": "gǒu", "gl": "dog"},
+      {"zh": "都", "py": "dōu", "gl": "even"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "理", "py": "lǐ", "gl": "pay attention to"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 478.06,
+     "end": 486.17
+    },
+    {
+     "id": "s062",
+     "zh": "他们改买了麻花和港式菠萝包。",
+     "en": "They bought mahua and Hong Kong-style pineapple buns instead.",
+     "segments": [
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "改", "py": "gǎi", "gl": "instead"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "麻花", "py": "máhuā", "gl": "fried dough twist"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "港式", "py": "Gǎngshì", "gl": "Hong Kong-style"},
+      {"zh": "菠萝包", "py": "bōluóbāo", "gl": "pineapple bun"},
+      {"zh": "。"}
+     ],
+     "start": 487.02,
+     "end": 490.83
+    },
+    {
+     "id": "s063",
+     "zh": "菠萝包里没有菠萝，只是一层带交叉纹路的酥皮，里面夹黄油或奶油。",
+     "en": "There's no pineapple in a pineapple bun. It's just a layer of crisp crust with a criss-cross pattern, filled with butter or cream.",
+     "segments": [
+      {"zh": "菠萝包", "py": "bōluóbāo", "gl": "pineapple bun"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there isn't"},
+      {"zh": "菠萝", "py": "bōluó", "gl": "pineapple"},
+      {"zh": "，"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "just"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "层", "py": "céng", "gl": "layer"},
+      {"zh": "带", "py": "dài", "gl": "with"},
+      {"zh": "交叉", "py": "jiāochā", "gl": "criss-cross"},
+      {"zh": "纹路", "py": "wénlù", "gl": "pattern"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "酥皮", "py": "sūpí", "gl": "flaky crust"},
+      {"zh": "，"},
+      {"zh": "里面", "py": "lǐmiàn", "gl": "inside"},
+      {"zh": "夹", "py": "jiā", "gl": "sandwich, fill"},
+      {"zh": "黄油", "py": "huángyóu", "gl": "butter"},
+      {"zh": "或", "py": "huò", "gl": "or"},
+      {"zh": "奶油", "py": "nǎiyóu", "gl": "cream"},
+      {"zh": "。"}
+     ],
+     "start": 491.48,
+     "end": 500.77
+    },
+    {
+     "id": "s064",
+     "zh": "总共花了48元。",
+     "en": "It cost 48 yuan in total.",
+     "segments": [
+      {"zh": "总共", "py": "zǒnggòng", "gl": "in total"},
+      {"zh": "花", "py": "huā", "gl": "spend"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "48"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "。"}
+     ],
+     "start": 501.54,
+     "end": 504.11
+    },
+    {
+     "id": "s065",
+     "zh": "他点了抹茶，喝了一口才想起自己不爱抹茶，只好硬着头皮喝完。",
+     "en": "He ordered a matcha, and only after one sip did he remember he doesn't like matcha, so he had to force himself to finish it.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "点", "py": "diǎn", "gl": "order"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "抹茶", "py": "mǒchá", "gl": "matcha"},
+      {"zh": "，"},
+      {"zh": "喝", "py": "hē", "gl": "drink"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "口", "py": "kǒu", "gl": "mouthful"},
+      {"zh": "才", "py": "cái", "gl": "only then"},
+      {"zh": "想起", "py": "xiǎngqǐ", "gl": "remember"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "爱", "py": "ài", "gl": "like"},
+      {"zh": "抹茶", "py": "mǒchá", "gl": "matcha"},
+      {"zh": "，"},
+      {"zh": "只好", "py": "zhǐhǎo", "gl": "had to"},
+      {"zh": "硬着头皮", "py": "yìngzhetóupí", "gl": "force oneself"},
+      {"zh": "喝完", "py": "hēwán", "gl": "finish drinking"},
+      {"zh": "。"}
+     ],
+     "start": 504.44,
+     "end": 512.75
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s066",
+     "zh": "他们骑支付宝的粉色单车去车站。",
+     "en": "They rode Alipay's pink bikes to the station.",
+     "segments": [
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "骑", "py": "qí", "gl": "ride"},
+      {"zh": "支付宝", "py": "Zhīfùbǎo", "gl": "Alipay"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "粉色", "py": "fěnsè", "gl": "pink"},
+      {"zh": "单车", "py": "dānchē", "gl": "bicycle"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "车站", "py": "chēzhàn", "gl": "station"},
+      {"zh": "。"}
+     ],
+     "start": 513.48,
+     "end": 517.39
+    },
+    {
+     "id": "s067",
+     "zh": "搬运无人机花了他约1200元，而政府本来愿意出3000元收购。",
+     "en": "Moving the drone cost him about 1,200 yuan, while the government had originally been willing to pay 3,000 yuan to buy it.",
+     "segments": [
+      {"zh": "搬运", "py": "bānyùn", "gl": "transport"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "花", "py": "huā", "gl": "cost"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "1200"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "whereas"},
+      {"zh": "政府", "py": "zhèngfǔ", "gl": "government"},
+      {"zh": "本来", "py": "běnlái", "gl": "originally"},
+      {"zh": "愿意", "py": "yuànyì", "gl": "be willing"},
+      {"zh": "出", "py": "chū", "gl": "pay"},
+      {"zh": "3000"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "收购", "py": "shōugòu", "gl": "buy, acquire"},
+      {"zh": "。"}
+     ],
+     "start": 517.92,
+     "end": 526.73
+    },
+    {
+     "id": "s068",
+     "zh": "现在无人机躺在上海，怎么处理他还没想好。",
+     "en": "Now the drone is sitting in Shanghai, and he still hasn't decided what to do with it.",
+     "segments": [
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "无人机", "py": "wúrénjī", "gl": "drone"},
+      {"zh": "躺", "py": "tǎng", "gl": "lie"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "上海", "py": "Shànghǎi", "gl": "Shanghai"},
+      {"zh": "，"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "处理", "py": "chǔlǐ", "gl": "deal with"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "没", "py": "méi", "gl": "not yet"},
+      {"zh": "想好", "py": "xiǎnghǎo", "gl": "decide"},
+      {"zh": "。"}
+     ],
+     "start": 527.16,
+     "end": 532.54
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s069",
+     "zh": "今日总结",
+     "en": "Today's Summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 532.54,
+     "end": 534.36
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s070",
+     "zh": "天津便宜、离得近，还很漂亮，非常值得从北京来一趟一日游。",
+     "en": "Tianjin is cheap, close by, and really pretty, so it's well worth a day trip from Beijing.",
+     "segments": [
+      {"zh": "天津", "py": "Tiānjīn", "gl": "Tianjin"},
+      {"zh": "便宜", "py": "piányi", "gl": "cheap"},
+      {"zh": "、"},
+      {"zh": "离", "py": "lí", "gl": "distant from"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "近", "py": "jìn", "gl": "close"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "漂亮", "py": "piàoliang", "gl": "pretty"},
+      {"zh": "，"},
+      {"zh": "非常", "py": "fēicháng", "gl": "extremely"},
+      {"zh": "值得", "py": "zhíde", "gl": "worth"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "一趟", "py": "yí tàng", "gl": "one trip"},
+      {"zh": "一日游", "py": "yírìyóu", "gl": "day trip"},
+      {"zh": "。"}
+     ],
+     "start": 534.36,
+     "end": 544.11
+    },
+    {
+     "id": "s071",
+     "zh": "不过，要是你珍惜感情，天津之眼还是别去了。",
+     "en": "But if you value your relationship, you'd better skip the Tianjin Eye.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "however"},
+      {"zh": "，"},
+      {"zh": "要是", "py": "yàoshi", "gl": "if"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "珍惜", "py": "zhēnxī", "gl": "value, cherish"},
+      {"zh": "感情", "py": "gǎnqíng", "gl": "relationship"},
+      {"zh": "，"},
+      {"zh": "天津之眼", "py": "Tiānjīn Zhī Yǎn", "gl": "Tianjin Eye"},
+      {"zh": "还是", "py": "háishi", "gl": "had better"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "了", "py": "le", "gl": "(change of situation)"},
+      {"zh": "。"}
+     ],
+     "start": 544.5,
+     "end": 550.87
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "风波", "py": "fēngbō", "en": "a commotion or uproar; \"saga\""},
+  {"zh": "通勤", "py": "tōngqín", "en": "to commute"},
+  {"zh": "一票难求", "py": "yī piào nán qiú", "en": "tickets are hard to get; sold out"},
+  {"zh": "划算", "py": "huásuàn", "en": "worth the money; good value"},
+  {"zh": "麻烦事", "py": "máfan shì", "en": "a hassle"},
+  {"zh": "网红", "py": "wǎnghóng", "en": "internet celebrity; influencer"},
+  {"zh": "分期付款", "py": "fēnqī fùkuǎn", "en": "to pay in installments"},
+  {"zh": "当场", "py": "dāngchǎng", "en": "on the spot"},
+  {"zh": "倒霉", "py": "dǎoméi", "en": "unlucky"},
+  {"zh": "算了", "py": "suàn le", "en": "forget it; never mind"}
+ ]
+}
