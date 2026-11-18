@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-17T18:58",
+ "updated": "2026-11-18T20:15",
  "episodes": [
+  {
+   "id": "ssab-2026-11-18",
+   "date": "2026-11-18",
+   "title": "Twelve Years After the Snow Shovel: From Winnipeg to Beijing",
+   "titleZh": "铲雪十二年：从温尼伯到北京",
+   "description": "Steven tries live-streaming on three platforms at once, and a 2013 Facebook memory leads him to retell how a dead-end warehouse job in Winnipeg pushed him to move to China. He also talks about Beijing's central heating, ways to raise students' IELTS speaking scores including the three types of fluency, student presentations, and his neighbor's revolving door of tenants.",
+   "duration": 538,
+   "chars": 1377,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-17",
    "date": "2026-11-17",
