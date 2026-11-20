@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-19T18:20",
+ "updated": "2026-11-21T00:23",
  "episodes": [
+  {
+   "id": "ssab-2026-11-20",
+   "date": "2026-11-20",
+   "title": "A Dinner for a Lost Friend and a Falling Market",
+   "titleZh": "怀念老友的晚餐与股市下跌",
+   "description": "Steven describes a dinner with former colleagues held in memory of a friend who died recently, and the conversation about Beijing housing prices, the cost of raising foreign kids in China and how foreigners talk about the country. He also updates the SSAB stock spreadsheet as the market slides, covering Nvidia, Google, gold and Anthropic's new Nasdaq listing.",
+   "duration": 561,
+   "chars": 1411,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-19",
    "date": "2026-11-19",

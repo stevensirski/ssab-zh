@@ -1,0 +1,2035 @@
+{
+ "id": "ssab-2026-11-20",
+ "date": "2026-11-20",
+ "title": "A Dinner for a Lost Friend and a Falling Market",
+ "titleZh": "怀念老友的晚餐与股市下跌",
+ "description": "Steven describes a dinner with former colleagues held in memory of a friend who died recently, and the conversation about Beijing housing prices, the cost of raising foreign kids in China and how foreigners talk about the country. He also updates the SSAB stock spreadsheet as the market slides, covering Nvidia, Google, gold and Anthropic's new Nasdaq listing.",
+ "duration": 561,
+ "audio": {
+  "src": "audio/ssab-2026-11-20.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Episode overview",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 17.78,
+     "end": 18.87
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "今天这期节目里，史蒂文聊了一场特别的晚餐：他和以前的同事、朋友聚在一起，纪念一个大约一个月前去世的朋友。",
+     "en": "In today's episode, Steven talks about a special dinner: he got together with former colleagues and friends to remember a friend who passed away about a month ago.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: episode)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show; episode"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "聊", "py": "liáo", "gl": "talk about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一场", "py": "yì chǎng", "gl": "one (event)"},
+      {"zh": "特别", "py": "tèbié", "gl": "special"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "晚餐", "py": "wǎncān", "gl": "dinner"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "和", "py": "hé", "gl": "with"},
+      {"zh": "以前", "py": "yǐqián", "gl": "former"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "同事", "py": "tóngshì", "gl": "colleagues"},
+      {"zh": "、"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friends"},
+      {"zh": "聚", "py": "jù", "gl": "gather"},
+      {"zh": "在一起", "py": "zàiyìqǐ", "gl": "together"},
+      {"zh": "，"},
+      {"zh": "纪念", "py": "jìniàn", "gl": "commemorate"},
+      {"zh": "一个", "py": "yí ge", "gl": "a"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "前", "py": "qián", "gl": "ago"},
+      {"zh": "去世", "py": "qùshì", "gl": "pass away"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "。"}
+     ],
+     "start": 20.18,
+     "end": 34.75
+    },
+    {
+     "id": "s003",
+     "zh": "这顿饭也让他想起了自己为什么坚持录这些“看似无聊”的播客。",
+     "en": "The dinner also reminded him why he keeps recording these \"seemingly boring\" podcasts.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "顿", "py": "dùn", "gl": "(measure word: meal)"},
+      {"zh": "饭", "py": "fàn", "gl": "meal"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "让", "py": "ràng", "gl": "make; cause"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "想起", "py": "xiǎngqǐ", "gl": "recall"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "坚持", "py": "jiānchí", "gl": "persist in"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "这些", "py": "zhèxiē", "gl": "these"},
+      {"zh": "“"},
+      {"zh": "看似", "py": "kànsì", "gl": "seemingly"},
+      {"zh": "无聊", "py": "wúliáo", "gl": "boring"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcasts"},
+      {"zh": "。"}
+     ],
+     "start": 35.32,
+     "end": 42.35
+    },
+    {
+     "id": "s004",
+     "zh": "接着他们谈到北京的房价、外国人养孩子的花销，以及外国人怎么谈论中国。",
+     "en": "Then they talked about Beijing housing prices, the cost of raising children as a foreigner, and how foreigners talk about China.",
+     "segments": [
+      {"zh": "接着", "py": "jiēzhe", "gl": "next; then"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "谈到", "py": "tándào", "gl": "talk about"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "房价", "py": "fángjià", "gl": "housing prices"},
+      {"zh": "、"},
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigners"},
+      {"zh": "养", "py": "yǎng", "gl": "raise"},
+      {"zh": "孩子", "py": "háizi", "gl": "children"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "花销", "py": "huāxiāo", "gl": "expenses"},
+      {"zh": "，"},
+      {"zh": "以及", "py": "yǐjí", "gl": "as well as"},
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigners"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "谈论", "py": "tánlùn", "gl": "discuss"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "。"}
+     ],
+     "start": 42.74,
+     "end": 51.55
+    },
+    {
+     "id": "s005",
+     "zh": "最后，股市一路下跌，他更新了 SSAB 的谷歌股票表格。",
+     "en": "Finally, with the stock market falling steadily, he updated the SSAB Google stock spreadsheet.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "，"},
+      {"zh": "股市", "py": "gǔshì", "gl": "stock market"},
+      {"zh": "一路", "py": "yílù", "gl": "all the way"},
+      {"zh": "下跌", "py": "xiàdiē", "gl": "fall"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "更新", "py": "gēngxīn", "gl": "update"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": " "},
+      {"zh": "SSAB"},
+      {"zh": " "},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "谷歌", "py": "Gǔgē", "gl": "Google"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "表格", "py": "biǎogé", "gl": "spreadsheet"},
+      {"zh": "。"}
+     ],
+     "start": 52.0,
+     "end": 59.83
+    },
+    {
+     "id": "s006",
+     "zh": "节目录于晚上 11 点 48 分，他嗓子有点哑，请大家多包涵。",
+     "en": "The episode was recorded at 11:48 p.m., and his voice is a bit hoarse, so please bear with him.",
+     "segments": [
+      {"zh": "节目", "py": "jiémù", "gl": "episode"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "于", "py": "yú", "gl": "at"},
+      {"zh": "晚上", "py": "wǎnshang", "gl": "evening"},
+      {"zh": " "},
+      {"zh": "11"},
+      {"zh": " "},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": " "},
+      {"zh": "48"},
+      {"zh": " "},
+      {"zh": "分", "py": "fēn", "gl": "minutes"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "嗓子", "py": "sǎngzi", "gl": "throat; voice"},
+      {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
+      {"zh": "哑", "py": "yǎ", "gl": "hoarse"},
+      {"zh": "，"},
+      {"zh": "请", "py": "qǐng", "gl": "please"},
+      {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
+      {"zh": "多", "py": "duō", "gl": "(more; kindly)"},
+      {"zh": "包涵", "py": "bāohan", "gl": "bear with; forgive"},
+      {"zh": "。"}
+     ],
+     "start": 60.26,
+     "end": 68.36
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s007",
+     "zh": "为朋友而聚的晚餐",
+     "en": "A dinner gathering for a friend",
+     "segments": [
+      {"zh": "为", "py": "wèi", "gl": "for"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "而", "py": "ér", "gl": "(links purpose)"},
+      {"zh": "聚", "py": "jù", "gl": "gather"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "晚餐", "py": "wǎncān", "gl": "dinner"}
+     ],
+     "start": 68.36,
+     "end": 71.29
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s008",
+     "zh": "几周前，史蒂文提到，一位在北京认识的前同事兼好友去世了。",
+     "en": "A few weeks ago, Steven mentioned that a former colleague and good friend he had met in Beijing had passed away.",
+     "segments": [
+      {"zh": "几", "py": "jǐ", "gl": "a few"},
+      {"zh": "周", "py": "zhōu", "gl": "weeks"},
+      {"zh": "前", "py": "qián", "gl": "ago"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "提到", "py": "tídào", "gl": "mentioned"},
+      {"zh": "，"},
+      {"zh": "一位", "py": "yíwèi", "gl": "one (person)"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "认识", "py": "rènshi", "gl": "got to know"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "前", "py": "qián", "gl": "former"},
+      {"zh": "同事", "py": "tóngshì", "gl": "colleague"},
+      {"zh": "兼", "py": "jiān", "gl": "and also"},
+      {"zh": "好友", "py": "hǎoyǒu", "gl": "good friend"},
+      {"zh": "去世", "py": "qùshì", "gl": "pass away"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
+     ],
+     "start": 71.86,
+     "end": 80.03
+    },
+    {
+     "id": "s009",
+     "zh": "今晚，十来个认识他的人聚在亮马桥的一家墨西哥餐厅，就在美国大使馆对面。",
+     "en": "Tonight, about ten people who knew him gathered at a Mexican restaurant in Liangmaqiao, right across from the US Embassy.",
+     "segments": [
+      {"zh": "今晚", "py": "jīnwǎn", "gl": "tonight"},
+      {"zh": "，"},
+      {"zh": "十来", "py": "shílái", "gl": "about ten"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "认识", "py": "rènshi", "gl": "know"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "聚", "py": "jù", "gl": "gather"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "亮马桥", "py": "Liàngmǎqiáo", "gl": "Liangmaqiao"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "一家", "py": "yìjiā", "gl": "a (business)"},
+      {"zh": "墨西哥", "py": "Mòxīgē", "gl": "Mexican"},
+      {"zh": "餐厅", "py": "cāntīng", "gl": "restaurant"},
+      {"zh": "，"},
+      {"zh": "就", "py": "jiù", "gl": "right"},
+      {"zh": "在", "py": "zài", "gl": "located at"},
+      {"zh": "美国", "py": "Měiguó", "gl": "United States"},
+      {"zh": "大使馆", "py": "dàshǐguǎn", "gl": "embassy"},
+      {"zh": "对面", "py": "duìmiàn", "gl": "across from"},
+      {"zh": "。"}
+     ],
+     "start": 80.36,
+     "end": 90.06
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s010",
+     "zh": "这不是一个伤感的夜晚，反而挺开心。",
+     "en": "It wasn't a sad evening; on the contrary, it was quite cheerful.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "一个", "py": "yíge", "gl": "a"},
+      {"zh": "伤感", "py": "shānggǎn", "gl": "sad"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "夜晚", "py": "yèwǎn", "gl": "evening"},
+      {"zh": "，"},
+      {"zh": "反而", "py": "fǎn'ér", "gl": "on the contrary"},
+      {"zh": "挺", "py": "tǐng", "gl": "quite"},
+      {"zh": "开心", "py": "kāixīn", "gl": "happy"},
+      {"zh": "。"}
+     ],
+     "start": 90.06,
+     "end": 95.22
+    },
+    {
+     "id": "s011",
+     "zh": "大多数人是他的前同事，史蒂文是其中唯一离开北京的人。",
+     "en": "Most of them were his former colleagues, and Steven was the only one among them who had left Beijing.",
+     "segments": [
+      {"zh": "大多数", "py": "dàduōshù", "gl": "most"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "前", "py": "qián", "gl": "former"},
+      {"zh": "同事", "py": "tóngshì", "gl": "colleagues"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "其中", "py": "qízhōng", "gl": "among them"},
+      {"zh": "唯一", "py": "wéiyī", "gl": "the only"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "人", "py": "rén", "gl": "person"},
+      {"zh": "。"}
+     ],
+     "start": 95.22,
+     "end": 102.66
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s012",
+     "zh": "第 34 期节目，与旧播客的“暂停”",
+     "en": "Episode 34, and the \"pause\" of the old podcast",
+     "segments": [
+      {"zh": "第", "py": "dì", "gl": "(ordinal prefix)"},
+      {"zh": " "},
+      {"zh": "34"},
+      {"zh": " "},
+      {"zh": "期", "py": "qī", "gl": "issue; episode"},
+      {"zh": "节目", "py": "jiémù", "gl": "program; show"},
+      {"zh": "，"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "旧", "py": "jiù", "gl": "old"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "“"},
+      {"zh": "暂停", "py": "zàntíng", "gl": "pause"},
+      {"zh": "”"}
+     ],
+     "start": 102.66,
+     "end": 107.89
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "这位朋友曾做客史蒂文旧播客的第 34 期。",
+     "en": "This friend was once a guest on episode 34 of Steven's old podcast.",
+     "segments": [
+      {"zh": "这位", "py": "zhèwèi", "gl": "this (person)"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "曾", "py": "céng", "gl": "once; previously"},
+      {"zh": "做客", "py": "zuòkè", "gl": "be a guest"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "旧", "py": "jiù", "gl": "old"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "第", "py": "dì", "gl": "(ordinal prefix)"},
+      {"zh": " "},
+      {"zh": "34"},
+      {"zh": " "},
+      {"zh": "期", "py": "qī", "gl": "episode"},
+      {"zh": "。"}
+     ],
+     "start": 108.24,
+     "end": 113.97
+    },
+    {
+     "id": "s014",
+     "zh": "那一期他们聊了大约四个小时，喝了五六瓶酒。",
+     "en": "In that episode they talked for about four hours and drank five or six bottles of wine.",
+     "segments": [
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "一期", "py": "yìqī", "gl": "one episode"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "聊", "py": "liáo", "gl": "chat"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "四个", "py": "sì ge", "gl": "four"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "，"},
+      {"zh": "喝", "py": "hē", "gl": "drink"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "五六", "py": "wǔliù", "gl": "five or six"},
+      {"zh": "瓶", "py": "píng", "gl": "bottles"},
+      {"zh": "酒", "py": "jiǔ", "gl": "wine; alcohol"},
+      {"zh": "。"}
+     ],
+     "start": 114.3,
+     "end": 119.81
+    },
+    {
+     "id": "s015",
+     "zh": "史蒂文在饭桌上说：“我唯一的遗憾，就是我们一直没能再录一期不喝酒的。”",
+     "en": "At the dinner table Steven said, \"My only regret is that we never managed to record another episode without drinking.\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "饭桌", "py": "fànzhuō", "gl": "dinner table"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "我", "py": "wǒ", "gl": "I; my"},
+      {"zh": "唯一", "py": "wéiyī", "gl": "only"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "遗憾", "py": "yíhàn", "gl": "regret"},
+      {"zh": "，"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is precisely"},
+      {"zh": "我们", "py": "wǒmen", "gl": "we"},
+      {"zh": "一直", "py": "yìzhí", "gl": "all along"},
+      {"zh": "没能", "py": "méinéng", "gl": "never managed"},
+      {"zh": "再", "py": "zài", "gl": "again"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "一期", "py": "yìqī", "gl": "an episode"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "喝酒", "py": "hējiǔ", "gl": "drink alcohol"},
+      {"zh": "的", "py": "de", "gl": "(one that is)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 120.84,
+     "end": 130.07
+    },
+    {
+     "id": "s016",
+     "zh": "2024 年以后，两人总是错开：史蒂文在加拿大时，朋友在北京；史蒂文回北京了，朋友又去了美国和欧洲。",
+     "en": "After 2024, the two kept missing each other: when Steven was in Canada, his friend was in Beijing; when Steven returned to Beijing, his friend had gone to the US and Europe.",
+     "segments": [
+      {"zh": "2024"},
+      {"zh": " "},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "以后", "py": "yǐhòu", "gl": "after"},
+      {"zh": "，"},
+      {"zh": "两人", "py": "liǎng rén", "gl": "the two"},
+      {"zh": "总是", "py": "zǒngshì", "gl": "always"},
+      {"zh": "错开", "py": "cuòkāi", "gl": "miss each other"},
+      {"zh": "："},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "在", "py": "zài", "gl": "be in"},
+      {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "，"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "在", "py": "zài", "gl": "be in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "；"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "回", "py": "huí", "gl": "return to"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "，"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "又", "py": "yòu", "gl": "in turn"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "美国", "py": "Měiguó", "gl": "USA"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "欧洲", "py": "Ōuzhōu", "gl": "Europe"},
+      {"zh": "。"}
+     ],
+     "start": 130.74,
+     "end": 146.19
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s017",
+     "zh": "为什么不用 Zoom？",
+     "en": "Why not use Zoom?",
+     "segments": [
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "不用", "py": "búyòng", "gl": "not use"},
+      {"zh": " "},
+      {"zh": "Zoom"},
+      {"zh": "？"}
+     ],
+     "start": 147.04,
+     "end": 148.37
+    },
+    {
+     "id": "s018",
+     "zh": "因为很多嘉宾想面对面录，史蒂文就得打扫房间、布置镜头，全程一个人包办，付出和收获不成正比。",
+     "en": "Because many guests want to record face to face, Steven has to clean the room and set up the cameras, doing everything himself, and the effort isn't worth the return.",
+     "segments": [
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "很多", "py": "hěn duō", "gl": "many"},
+      {"zh": "嘉宾", "py": "jiābīn", "gl": "guests"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "面对面", "py": "miànduìmiàn", "gl": "face to face"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "得", "py": "děi", "gl": "must"},
+      {"zh": "打扫", "py": "dǎsǎo", "gl": "clean"},
+      {"zh": "房间", "py": "fángjiān", "gl": "room"},
+      {"zh": "、"},
+      {"zh": "布置", "py": "bùzhì", "gl": "set up"},
+      {"zh": "镜头", "py": "jìngtóu", "gl": "camera; lens"},
+      {"zh": "，"},
+      {"zh": "全程", "py": "quánchéng", "gl": "the whole way"},
+      {"zh": "一个人", "py": "yí ge rén", "gl": "alone"},
+      {"zh": "包办", "py": "bāobàn", "gl": "handle everything"},
+      {"zh": "，"},
+      {"zh": "付出", "py": "fùchū", "gl": "effort put in"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "收获", "py": "shōuhuò", "gl": "gains"},
+      {"zh": "不成正比", "py": "bù chéng zhèngbǐ", "gl": "out of proportion"},
+      {"zh": "。"}
+     ],
+     "start": 148.48,
+     "end": 162.81
+    },
+    {
+     "id": "s019",
+     "zh": "所以这个播客是暂停，而不是结束，将来也许会改成视频播客。",
+     "en": "So this podcast is on pause, not over, and in the future it may become a video podcast.",
+     "segments": [
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "暂停", "py": "zàntíng", "gl": "paused"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "but"},
+      {"zh": "不是", "py": "búshì", "gl": "not"},
+      {"zh": "结束", "py": "jiéshù", "gl": "ended"},
+      {"zh": "，"},
+      {"zh": "将来", "py": "jiānglái", "gl": "in the future"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "perhaps"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "改成", "py": "gǎichéng", "gl": "change into"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "。"}
+     ],
+     "start": 163.4,
+     "end": 171.6
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s020",
+     "zh": "今晚的聚会让他想起：去过的地方、一起相处的人，一定要留下照片、录音和视频。",
+     "en": "Tonight's gathering reminded him: for the places you've been and the people you've spent time with, you must keep photos, recordings, and videos.",
+     "segments": [
+      {"zh": "今晚", "py": "jīnwǎn", "gl": "tonight"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "聚会", "py": "jùhuì", "gl": "gathering"},
+      {"zh": "让", "py": "ràng", "gl": "make; cause"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "想起", "py": "xiǎngqǐ", "gl": "be reminded"},
+      {"zh": "："},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "地方", "py": "dìfang", "gl": "places"},
+      {"zh": "、"},
+      {"zh": "一起", "py": "yìqǐ", "gl": "together"},
+      {"zh": "相处", "py": "xiāngchǔ", "gl": "spend time with"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "，"},
+      {"zh": "一定", "py": "yídìng", "gl": "definitely"},
+      {"zh": "要", "py": "yào", "gl": "must"},
+      {"zh": "留下", "py": "liúxià", "gl": "keep; leave"},
+      {"zh": "照片", "py": "zhàopiàn", "gl": "photos"},
+      {"zh": "、"},
+      {"zh": "录音", "py": "lùyīn", "gl": "recordings"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "视频", "py": "shìpín", "gl": "videos"},
+      {"zh": "。"}
+     ],
+     "start": 171.6,
+     "end": 183.29
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s021",
+     "zh": "饭桌上的人，和“常联系”的理由",
+     "en": "The people at the dinner table, and a reason to \"keep in touch\"",
+     "segments": [
+      {"zh": "饭桌", "py": "fànzhuō", "gl": "dinner table"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "，"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "“"},
+      {"zh": "常", "py": "cháng", "gl": "often"},
+      {"zh": "联系", "py": "liánxì", "gl": "keep in touch"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "理由", "py": "lǐyóu", "gl": "reason"}
+     ],
+     "start": 184.0,
+     "end": 187.82
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s022",
+     "zh": "除了同事，其他人都是通过这位朋友认识的。",
+     "en": "Apart from a coworker, everyone else knew each other through this friend.",
+     "segments": [
+      {"zh": "除了", "py": "chúle", "gl": "apart from"},
+      {"zh": "同事", "py": "tóngshì", "gl": "coworker"},
+      {"zh": "，"},
+      {"zh": "其他", "py": "qítā", "gl": "other"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "通过", "py": "tōngguò", "gl": "through"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "认识", "py": "rènshi", "gl": "get to know"},
+      {"zh": "的", "py": "de", "gl": "(emphasis)"},
+      {"zh": "。"}
+     ],
+     "start": 187.82,
+     "end": 194.01
+    },
+    {
+     "id": "s023",
+     "zh": "国际学校的那位老师说，2018 年他在曼谷与这位朋友不期而遇。",
+     "en": "The teacher from the international school said that in 2018 he ran into this friend by chance in Bangkok.",
+     "segments": [
+      {"zh": "国际", "py": "guójì", "gl": "international"},
+      {"zh": "学校", "py": "xuéxiào", "gl": "school"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "老师", "py": "lǎoshī", "gl": "teacher"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
+      {"zh": "，"},
+      {"zh": "2018"},
+      {"zh": " "},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "曼谷", "py": "Màngǔ", "gl": "Bangkok"},
+      {"zh": "与", "py": "yǔ", "gl": "with"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "不期而遇", "py": "bùqī'éryù", "gl": "meet by chance"},
+      {"zh": "。"}
+     ],
+     "start": 194.46,
+     "end": 202.36
+    },
+    {
+     "id": "s024",
+     "zh": "他感叹：“像这样坐在一起的机会，以后还能有几次？”",
+     "en": "He sighed: \"How many more chances will we get to sit together like this?\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "感叹", "py": "gǎntàn", "gl": "sighed"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
+      {"zh": "这样", "py": "zhèyàng", "gl": "this"},
+      {"zh": "坐", "py": "zuò", "gl": "sit"},
+      {"zh": "在", "py": "zài", "gl": "(at)"},
+      {"zh": "一起", "py": "yìqǐ", "gl": "together"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "机会", "py": "jīhuì", "gl": "chance"},
+      {"zh": "，"},
+      {"zh": "以后", "py": "yǐhòu", "gl": "in future"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "几", "py": "jǐ", "gl": "how many"},
+      {"zh": "次", "py": "cì", "gl": "times"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 202.36,
+     "end": 209.67
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s025",
+     "zh": "他还提到教会圈子里的老说法：坏事总是接二连三，人走也是三个一组。",
+     "en": "He also brought up an old saying from church circles: bad things always come one after another, and people pass away in threes.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "提到", "py": "tídào", "gl": "mentioned"},
+      {"zh": "教会", "py": "jiàohuì", "gl": "church"},
+      {"zh": "圈子", "py": "quānzi", "gl": "circle"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "老", "py": "lǎo", "gl": "old"},
+      {"zh": "说法", "py": "shuōfǎ", "gl": "saying"},
+      {"zh": "："},
+      {"zh": "坏事", "py": "huàishì", "gl": "bad things"},
+      {"zh": "总是", "py": "zǒngshì", "gl": "always"},
+      {"zh": "接二连三", "py": "jiē'èrliánsān", "gl": "one after another"},
+      {"zh": "，"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "走", "py": "zǒu", "gl": "pass away"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "组", "py": "zǔ", "gl": "group"},
+      {"zh": "。"}
+     ],
+     "start": 210.08,
+     "end": 219.77
+    },
+    {
+     "id": "s026",
+     "zh": "他讲这话是想让大家放松，不是吓人。",
+     "en": "He said this to put everyone at ease, not to scare anyone.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "讲", "py": "jiǎng", "gl": "say"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "话", "py": "huà", "gl": "remark"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "让", "py": "ràng", "gl": "let"},
+      {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
+      {"zh": "放松", "py": "fàngsōng", "gl": "relax"},
+      {"zh": "，"},
+      {"zh": "不是", "py": "búshì", "gl": "not"},
+      {"zh": "吓人", "py": "xiàrén", "gl": "scare people"},
+      {"zh": "。"}
+     ],
+     "start": 220.16,
+     "end": 225.35
+    },
+    {
+     "id": "s027",
+     "zh": "不过，这倒是个好理由：多给在乎的人发条消息，问一句“嘿，最近怎么样？”",
+     "en": "Still, it's actually a good reason to message the people you care about more often and ask, \"Hey, how have you been lately?\"",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "however"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "倒", "py": "dào", "gl": "actually"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "个", "py": "ge", "gl": "a"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "理由", "py": "lǐyóu", "gl": "reason"},
+      {"zh": "："},
+      {"zh": "多", "py": "duō", "gl": "more often"},
+      {"zh": "给", "py": "gěi", "gl": "to"},
+      {"zh": "在乎", "py": "zàihu", "gl": "care about"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "发", "py": "fā", "gl": "send"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure word)"},
+      {"zh": "消息", "py": "xiāoxi", "gl": "message"},
+      {"zh": "，"},
+      {"zh": "问", "py": "wèn", "gl": "ask"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "句", "py": "jù", "gl": "(measure for sentences)"},
+      {"zh": "“"},
+      {"zh": "嘿", "py": "hēi", "gl": "hey"},
+      {"zh": "，"},
+      {"zh": "最近", "py": "zuìjìn", "gl": "lately"},
+      {"zh": "怎么样", "py": "zěnmeyàng", "gl": "how is it"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 225.76,
+     "end": 237.16
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s028",
+     "zh": "北京的房价",
+     "en": "Housing prices in Beijing",
+     "segments": [
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "房价", "py": "fángjià", "gl": "housing prices"}
+     ],
+     "start": 237.16,
+     "end": 239.26
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s029",
+     "zh": "晚餐的一大话题是生活成本。",
+     "en": "One big topic at dinner was the cost of living.",
+     "segments": [
+      {"zh": "晚餐", "py": "wǎncān", "gl": "dinner"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "话题", "py": "huàtí", "gl": "topic"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "living"},
+      {"zh": "成本", "py": "chéngběn", "gl": "cost"},
+      {"zh": "。"}
+     ],
+     "start": 239.26,
+     "end": 243.18
+    },
+    {
+     "id": "s030",
+     "zh": "在北京待了十五到二十年的人，大多买了房。",
+     "en": "Most people who have been in Beijing for fifteen to twenty years have bought property.",
+     "segments": [
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "待", "py": "dāi", "gl": "stay"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "十五", "py": "shíwǔ", "gl": "fifteen"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "二十", "py": "èrshí", "gl": "twenty"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "，"},
+      {"zh": "大多", "py": "dàduō", "gl": "mostly"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "房", "py": "fáng", "gl": "house"},
+      {"zh": "。"}
+     ],
+     "start": 243.18,
+     "end": 249.21
+    },
+    {
+     "id": "s031",
+     "zh": "他们来的时候房子便宜，英语教学的工作又多，“能赚的时候就赚了一大笔”。",
+     "en": "When they came, housing was cheap and there were plenty of English-teaching jobs, so \"they made a fortune while they could.\"",
+     "segments": [
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "时候", "py": "shíhou", "gl": "time; when"},
+      {"zh": "房子", "py": "fángzi", "gl": "houses"},
+      {"zh": "便宜", "py": "piányi", "gl": "cheap"},
+      {"zh": "，"},
+      {"zh": "英语", "py": "Yīngyǔ", "gl": "English"},
+      {"zh": "教学", "py": "jiàoxué", "gl": "teaching"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "jobs"},
+      {"zh": "又", "py": "yòu", "gl": "also"},
+      {"zh": "多", "py": "duō", "gl": "many"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "赚", "py": "zhuàn", "gl": "earn"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "时候", "py": "shíhou", "gl": "when"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "赚", "py": "zhuàn", "gl": "earn"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "笔", "py": "bǐ", "gl": "sum (of money)"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 250.02,
+     "end": 260.31
+    },
+    {
+     "id": "s032",
+     "zh": "这样的机会如今已经不多了。",
+     "en": "Opportunities like that are rare these days.",
+     "segments": [
+      {"zh": "这样", "py": "zhèyàng", "gl": "like this"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "机会", "py": "jīhuì", "gl": "opportunities"},
+      {"zh": "如今", "py": "rújīn", "gl": "nowadays"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "不多", "py": "bùduō", "gl": "not many"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 261.16,
+     "end": 264.98
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s033",
+     "zh": "一位年轻的美国爸爸说，他们在望京看房，一套要价约 150 万美元，还在贬值。",
+     "en": "A young American dad said they had been looking at apartments in Wangjing, with one asking about 1.5 million US dollars, and still losing value.",
+     "segments": [
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "年轻", "py": "niánqīng", "gl": "young"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "美国", "py": "Měiguó", "gl": "American"},
+      {"zh": "爸爸", "py": "bàba", "gl": "dad"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
+      {"zh": "，"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "望京", "py": "Wàngjīng", "gl": "Wangjing"},
+      {"zh": "看房", "py": "kànfáng", "gl": "house-hunt"},
+      {"zh": "，"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "套", "py": "tào", "gl": "(measure word: apartment)"},
+      {"zh": "要价", "py": "yàojià", "gl": "asking price"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": " "},
+      {"zh": "150"},
+      {"zh": " "},
+      {"zh": "万", "py": "wàn", "gl": "ten thousand"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "还在", "py": "hái zài", "gl": "still (ongoing)"},
+      {"zh": "贬值", "py": "biǎnzhí", "gl": "depreciate"},
+      {"zh": "。"}
+     ],
+     "start": 264.98,
+     "end": 277.83
+    },
+    {
+     "id": "s034",
+     "zh": "政府为了托市降低了首付，可对一套还在跌的房子，谁愿意付三成首付？",
+     "en": "The government lowered down payments to prop up the market, but who wants to put 30% down on an apartment that's still falling in value?",
+     "segments": [
+      {"zh": "政府", "py": "zhèngfǔ", "gl": "government"},
+      {"zh": "为了", "py": "wèile", "gl": "in order to"},
+      {"zh": "托市", "py": "tuōshì", "gl": "prop up market"},
+      {"zh": "降低", "py": "jiàngdī", "gl": "lower"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "首付", "py": "shǒufù", "gl": "down payment"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "对", "py": "duì", "gl": "for"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "套", "py": "tào", "gl": "(measure word: apartment)"},
+      {"zh": "还在", "py": "hái zài", "gl": "still (ongoing)"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "房子", "py": "fángzi", "gl": "house"},
+      {"zh": "，"},
+      {"zh": "谁", "py": "shéi", "gl": "who"},
+      {"zh": "愿意", "py": "yuànyì", "gl": "be willing"},
+      {"zh": "付", "py": "fù", "gl": "pay"},
+      {"zh": "三成", "py": "sānchéng", "gl": "30 percent"},
+      {"zh": "首付", "py": "shǒufù", "gl": "down payment"},
+      {"zh": "？"}
+     ],
+     "start": 278.98,
+     "end": 287.19
+    },
+    {
+     "id": "s035",
+     "zh": "如果只要一成，约十万美元，史蒂文和女朋友倒可以考虑。",
+     "en": "If it were only 10%, about 100,000 US dollars, Steven and his girlfriend might actually consider it.",
+     "segments": [
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "只要", "py": "zhǐyào", "gl": "only need"},
+      {"zh": "一成", "py": "yìchéng", "gl": "10 percent"},
+      {"zh": "，"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "十万", "py": "shíwàn", "gl": "100,000"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "倒", "py": "dào", "gl": "actually; though"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "could"},
+      {"zh": "考虑", "py": "kǎolǜ", "gl": "consider"},
+      {"zh": "。"}
+     ],
+     "start": 290.08,
+     "end": 297.81
+    },
+    {
+     "id": "s036",
+     "zh": "房市触底了吗？",
+     "en": "Has the housing market hit bottom?",
+     "segments": [
+      {"zh": "房市", "py": "fángshì", "gl": "housing market"},
+      {"zh": "触底", "py": "chùdǐ", "gl": "hit bottom"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 298.18,
+     "end": 300.0
+    },
+    {
+     "id": "s037",
+     "zh": "没人知道。",
+     "en": "Nobody knows.",
+     "segments": [
+      {"zh": "没人", "py": "méi rén", "gl": "nobody"},
+      {"zh": "知道", "py": "zhīdào", "gl": "knows"},
+      {"zh": "。"}
+     ],
+     "start": 300.0,
+     "end": 301.48
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "外国孩子与学费",
+     "en": "Foreign children and school fees",
+     "segments": [
+      {"zh": "外国", "py": "wàiguó", "gl": "foreign"},
+      {"zh": "孩子", "py": "háizi", "gl": "children"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "学费", "py": "xuéfèi", "gl": "school fees"}
+     ],
+     "start": 301.48,
+     "end": 304.53
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s039",
+     "zh": "饭桌上有三位外国爸爸，都有孩子。",
+     "en": "There were three foreign dads at the dinner table, and all of them had children.",
+     "segments": [
+      {"zh": "饭桌", "py": "fànzhuō", "gl": "dinner table"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "有", "py": "yǒu", "gl": "there are"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "外国", "py": "wàiguó", "gl": "foreign"},
+      {"zh": "爸爸", "py": "bàba", "gl": "dads"},
+      {"zh": "，"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "孩子", "py": "háizi", "gl": "children"},
+      {"zh": "。"}
+     ],
+     "start": 305.6,
+     "end": 309.31
+    },
+    {
+     "id": "s040",
+     "zh": "两位孩子较大的，听起来打算留下来。",
+     "en": "The two with older children sounded like they planned to stay.",
+     "segments": [
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "孩子", "py": "háizi", "gl": "children"},
+      {"zh": "较", "py": "jiào", "gl": "relatively"},
+      {"zh": "大", "py": "dà", "gl": "older"},
+      {"zh": "的", "py": "de", "gl": "(the ones who)"},
+      {"zh": "，"},
+      {"zh": "听起来", "py": "tīngqilai", "gl": "it sounds like"},
+      {"zh": "打算", "py": "dǎsuàn", "gl": "plan to"},
+      {"zh": "留下来", "py": "liúxiàlai", "gl": "stay on"},
+      {"zh": "。"}
+     ],
+     "start": 309.74,
+     "end": 315.1
+    },
+    {
+     "id": "s041",
+     "zh": "年轻的那位能想象回美国，但不确定妻子是否愿意。",
+     "en": "The younger one could imagine moving back to the US, but wasn't sure whether his wife would want to.",
+     "segments": [
+      {"zh": "年轻", "py": "niánqīng", "gl": "young"},
+      {"zh": "的", "py": "de", "gl": "(the one who is)"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "想象", "py": "xiǎngxiàng", "gl": "imagine"},
+      {"zh": "回", "py": "huí", "gl": "return to"},
+      {"zh": "美国", "py": "Měiguó", "gl": "the US"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "确定", "py": "quèdìng", "gl": "sure"},
+      {"zh": "妻子", "py": "qīzi", "gl": "wife"},
+      {"zh": "是否", "py": "shìfǒu", "gl": "whether"},
+      {"zh": "愿意", "py": "yuànyì", "gl": "be willing"},
+      {"zh": "。"}
+     ],
+     "start": 315.1,
+     "end": 322.69
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s042",
+     "zh": "常见的做法是：外籍家庭待到孩子上初中，就搬回老家，既躲过高考的压力，也省下昂贵的国际学校学费。",
+     "en": "A common approach is for foreign families to stay until their kids start middle school, then move back home, avoiding the pressure of the gaokao and saving on expensive international school fees.",
+     "segments": [
+      {"zh": "常见", "py": "chángjiàn", "gl": "common"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "做法", "py": "zuòfǎ", "gl": "approach"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："},
+      {"zh": "外籍", "py": "wàijí", "gl": "foreign"},
+      {"zh": "家庭", "py": "jiātíng", "gl": "families"},
+      {"zh": "待", "py": "dāi", "gl": "stay"},
+      {"zh": "到", "py": "dào", "gl": "until"},
+      {"zh": "孩子", "py": "háizi", "gl": "kids"},
+      {"zh": "上", "py": "shàng", "gl": "attend"},
+      {"zh": "初中", "py": "chūzhōng", "gl": "middle school"},
+      {"zh": "，"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "搬回", "py": "bānhuí", "gl": "move back to"},
+      {"zh": "老家", "py": "lǎojiā", "gl": "home country"},
+      {"zh": "，"},
+      {"zh": "既", "py": "jì", "gl": "both"},
+      {"zh": "躲过", "py": "duǒguò", "gl": "avoid"},
+      {"zh": "高考", "py": "gāokǎo", "gl": "college entrance exam"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "压力", "py": "yālì", "gl": "pressure"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "and also"},
+      {"zh": "省下", "py": "shěngxià", "gl": "save"},
+      {"zh": "昂贵", "py": "ángguì", "gl": "expensive"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "国际", "py": "guójì", "gl": "international"},
+      {"zh": "学校", "py": "xuéxiào", "gl": "school"},
+      {"zh": "学费", "py": "xuéfèi", "gl": "tuition fees"},
+      {"zh": "。"}
+     ],
+     "start": 323.18,
+     "end": 337.93
+    },
+    {
+     "id": "s043",
+     "zh": "回国后收入也许少些，但教育便宜得多。",
+     "en": "After returning home, their income might be a bit lower, but education is much cheaper.",
+     "segments": [
+      {"zh": "回国", "py": "huíguó", "gl": "return home"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "收入", "py": "shōurù", "gl": "income"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "perhaps"},
+      {"zh": "少", "py": "shǎo", "gl": "less"},
+      {"zh": "些", "py": "xiē", "gl": "a bit"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "教育", "py": "jiàoyù", "gl": "education"},
+      {"zh": "便宜", "py": "piányi", "gl": "cheap"},
+      {"zh": "得", "py": "de", "gl": "(degree complement)"},
+      {"zh": "多", "py": "duō", "gl": "much"},
+      {"zh": "。"}
+     ],
+     "start": 338.4,
+     "end": 343.96
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "外国人怎么谈中国？",
+     "en": "How do foreigners talk about China?",
+     "segments": [
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigners"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "谈", "py": "tán", "gl": "talk about"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "？"}
+     ],
+     "start": 343.96,
+     "end": 346.73
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s045",
+     "zh": "这个话题值得单独做一期。",
+     "en": "This topic deserves its own episode.",
+     "segments": [
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "话题", "py": "huàtí", "gl": "topic"},
+      {"zh": "值得", "py": "zhíde", "gl": "deserves"},
+      {"zh": "单独", "py": "dāndú", "gl": "separately"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "一期", "py": "yìqī", "gl": "one episode"},
+      {"zh": "。"}
+     ],
+     "start": 347.4,
+     "end": 350.43
+    },
+    {
+     "id": "s046",
+     "zh": "当时在座的有三位中国女士和一位北京出生的男士，史蒂文很清楚外国人是怎么谈论这个国家的。",
+     "en": "Present at the time were three Chinese women and a man born in Beijing, and Steven knew very well how foreigners talk about this country.",
+     "segments": [
+      {"zh": "当时", "py": "dāngshí", "gl": "at the time"},
+      {"zh": "在座", "py": "zàizuò", "gl": "present"},
+      {"zh": "的", "py": "de", "gl": "(those who)"},
+      {"zh": "有", "py": "yǒu", "gl": "there were"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "位", "py": "wèi", "gl": "(measure word, people)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "Chinese"},
+      {"zh": "女士", "py": "nǚshì", "gl": "women"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(measure word, people)"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "出生", "py": "chūshēng", "gl": "born"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "男士", "py": "nánshì", "gl": "man"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "清楚", "py": "qīngchu", "gl": "knows clearly"},
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigners"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "谈论", "py": "tánlùn", "gl": "talk about"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "国家", "py": "guójiā", "gl": "country"},
+      {"zh": "的", "py": "de", "gl": "(emphasis)"},
+      {"zh": "。"}
+     ],
+     "start": 351.34,
+     "end": 363.23
+    },
+    {
+     "id": "s047",
+     "zh": "他直言：“我不信任这个国家，抱歉，我就是不信任。”",
+     "en": "He said bluntly: \"I don't trust this country. Sorry, I just don't trust it.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "直言", "py": "zhíyán", "gl": "said bluntly"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "信任", "py": "xìnrèn", "gl": "trust"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "国家", "py": "guójiā", "gl": "country"},
+      {"zh": "，"},
+      {"zh": "抱歉", "py": "bàoqiàn", "gl": "sorry"},
+      {"zh": "，"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "就是", "py": "jiùshì", "gl": "simply"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "信任", "py": "xìnrèn", "gl": "trust"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 363.46,
+     "end": 370.13
+    },
+    {
+     "id": "s048",
+     "zh": "那位年轻爸爸则说，他对自己的祖国也不信任。",
+     "en": "The young father, for his part, said he didn't trust his own home country either.",
+     "segments": [
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "位", "py": "wèi", "gl": "(measure word, people)"},
+      {"zh": "年轻", "py": "niánqīng", "gl": "young"},
+      {"zh": "爸爸", "py": "bàba", "gl": "father"},
+      {"zh": "则", "py": "zé", "gl": "for his part"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "对", "py": "duì", "gl": "toward"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "own"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "祖国", "py": "zǔguó", "gl": "home country"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "信任", "py": "xìnrèn", "gl": "trust"},
+      {"zh": "。"}
+     ],
+     "start": 370.72,
+     "end": 376.35
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s049",
+     "zh": "问题到底出在中国，还是出在他自己和他的选择？",
+     "en": "Is the problem really China, or is it him and his choices?",
+     "segments": [
+      {"zh": "问题", "py": "wèntí", "gl": "problem"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "really"},
+      {"zh": "出", "py": "chū", "gl": "arise"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "，"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "出", "py": "chū", "gl": "arise"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "选择", "py": "xuǎnzé", "gl": "choices"},
+      {"zh": "？"}
+     ],
+     "start": 377.06,
+     "end": 383.45
+    },
+    {
+     "id": "s050",
+     "zh": "这里成功的外国人创业公司在哪儿？",
+     "en": "Where are the successful foreign-run startups here?",
+     "segments": [
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here"},
+      {"zh": "成功", "py": "chénggōng", "gl": "successful"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigners'"},
+      {"zh": "创业", "py": "chuàngyè", "gl": "startup"},
+      {"zh": "公司", "py": "gōngsī", "gl": "companies"},
+      {"zh": "在", "py": "zài", "gl": "are at"},
+      {"zh": "哪儿", "py": "nǎr", "gl": "where"},
+      {"zh": "？"}
+     ],
+     "start": 384.0,
+     "end": 387.83
+    },
+    {
+     "id": "s051",
+     "zh": "懂中文又有多大帮助？",
+     "en": "And how much does knowing Chinese actually help?",
+     "segments": [
+      {"zh": "懂", "py": "dǒng", "gl": "knowing"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "又", "py": "yòu", "gl": "(emphasis) and"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "多大", "py": "duōdà", "gl": "how much"},
+      {"zh": "帮助", "py": "bāngzhù", "gl": "help"},
+      {"zh": "？"}
+     ],
+     "start": 388.36,
+     "end": 390.91
+    },
+    {
+     "id": "s052",
+     "zh": "今年早些时候，一位翻译向他解释了将要发生的事，然后就跟着警卫走了，他在拘留室里待了一整天，“还是不知道到底发生了什么”。",
+     "en": "Earlier this year, an interpreter explained to him what was about to happen, and then he went off with the guards. He spent an entire day in a detention room, \"still not knowing what was actually going on.\"",
+     "segments": [
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "早些", "py": "zǎoxiē", "gl": "earlier"},
+      {"zh": "时候", "py": "shíhou", "gl": "time"},
+      {"zh": "，"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(measure word, people)"},
+      {"zh": "翻译", "py": "fānyì", "gl": "interpreter"},
+      {"zh": "向", "py": "xiàng", "gl": "to"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "解释", "py": "jiěshì", "gl": "explained"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "将要", "py": "jiāngyào", "gl": "about to"},
+      {"zh": "发生", "py": "fāshēng", "gl": "happen"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "事", "py": "shì", "gl": "thing"},
+      {"zh": "，"},
+      {"zh": "然后", "py": "ránhòu", "gl": "then"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "跟着", "py": "gēnzhe", "gl": "following"},
+      {"zh": "警卫", "py": "jǐngwèi", "gl": "guards"},
+      {"zh": "走", "py": "zǒu", "gl": "went"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "拘留室", "py": "jūliúshì", "gl": "detention room"},
+      {"zh": "里", "py": "lǐ", "gl": "inside"},
+      {"zh": "待", "py": "dāi", "gl": "stayed"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一整天", "py": "yìzhěngtiān", "gl": "a whole day"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "知道", "py": "zhīdào", "gl": "know"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "actually"},
+      {"zh": "发生", "py": "fāshēng", "gl": "happened"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 391.46,
+     "end": 407.1
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s053",
+     "zh": "继续做播客，更新股票表",
+     "en": "Still podcasting, and updating the stock list",
+     "segments": [
+      {"zh": "继续", "py": "jìxù", "gl": "continue"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "，"},
+      {"zh": "更新", "py": "gēngxīn", "gl": "update"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "表", "py": "biǎo", "gl": "list; table"}
+     ],
+     "start": 407.1,
+     "end": 411.21
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s054",
+     "zh": "没错，他还在做播客。",
+     "en": "That's right, he's still doing the podcast.",
+     "segments": [
+      {"zh": "没错", "py": "méicuò", "gl": "that's right"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "在", "py": "zài", "gl": "(in progress)"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "。"}
+     ],
+     "start": 411.54,
+     "end": 414.89
+    },
+    {
+     "id": "s055",
+     "zh": "不过今晚没有直播，以后也未必天天直播。",
+     "en": "But there's no livestream tonight, and in the future there won't necessarily be one every day.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "but; however"},
+      {"zh": "今晚", "py": "jīnwǎn", "gl": "tonight"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there is no"},
+      {"zh": "直播", "py": "zhíbō", "gl": "livestream"},
+      {"zh": "，"},
+      {"zh": "以后", "py": "yǐhòu", "gl": "in the future"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "未必", "py": "wèibì", "gl": "not necessarily"},
+      {"zh": "天天", "py": "tiāntiān", "gl": "every day"},
+      {"zh": "直播", "py": "zhíbō", "gl": "livestream"},
+      {"zh": "。"}
+     ],
+     "start": 415.26,
+     "end": 421.57
+    },
+    {
+     "id": "s056",
+     "zh": "这个周末，他要剪完视频博客，还要批改大约 50 篇学生作文。",
+     "en": "This weekend he has to finish editing a vlog and also grade about 50 student essays.",
+     "segments": [
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "要", "py": "yào", "gl": "has to"},
+      {"zh": "剪完", "py": "jiǎnwán", "gl": "finish editing"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "博客", "py": "bókè", "gl": "blog"},
+      {"zh": "，"},
+      {"zh": "还要", "py": "háiyào", "gl": "also has to"},
+      {"zh": "批改", "py": "pīgǎi", "gl": "grade; correct"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": " "},
+      {"zh": "50"},
+      {"zh": " "},
+      {"zh": "篇", "py": "piān", "gl": "(measure word: essays)"},
+      {"zh": "学生", "py": "xuésheng", "gl": "student"},
+      {"zh": "作文", "py": "zuòwén", "gl": "essay"},
+      {"zh": "。"}
+     ],
+     "start": 422.06,
+     "end": 430.47
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "那么，是该抄底，还是该哭？",
+     "en": "So, is it time to buy the dip, or time to cry?",
+     "segments": [
+      {"zh": "那么", "py": "nàme", "gl": "so; then"},
+      {"zh": "，"},
+      {"zh": "是", "py": "shì", "gl": "is it"},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "抄底", "py": "chāodǐ", "gl": "buy the dip"},
+      {"zh": "，"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "哭", "py": "kū", "gl": "cry"},
+      {"zh": "？"}
+     ],
+     "start": 431.1,
+     "end": 435.15
+    },
+    {
+     "id": "s058",
+     "zh": "从 11 月 12 日他选的那批股票算起，英伟达跌了 12%，苹果跌 1.6%，美光跌 13.5%，CoreWeave 跌 20.65%。",
+     "en": "Counting from the batch of stocks he picked on November 12, Nvidia is down 12%, Apple down 1.6%, Micron down 13.5%, and CoreWeave down 20.65%.",
+     "segments": [
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": " "},
+      {"zh": "11"},
+      {"zh": " "},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": " "},
+      {"zh": "12"},
+      {"zh": " "},
+      {"zh": "日", "py": "rì", "gl": "day"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "选", "py": "xuǎn", "gl": "picked"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "那批", "py": "nàpī", "gl": "that batch"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stocks"},
+      {"zh": "算起", "py": "suànqǐ", "gl": "counting from"},
+      {"zh": "，"},
+      {"zh": "英伟达", "py": "Yīngwěidá", "gl": "Nvidia"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": " "},
+      {"zh": "12%"},
+      {"zh": "，"},
+      {"zh": "苹果", "py": "Píngguǒ", "gl": "Apple"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": " "},
+      {"zh": "1.6%"},
+      {"zh": "，"},
+      {"zh": "美光", "py": "Měiguāng", "gl": "Micron"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": " "},
+      {"zh": "13.5%"},
+      {"zh": "，"},
+      {"zh": "CoreWeave"},
+      {"zh": " "},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": " "},
+      {"zh": "20.65%"},
+      {"zh": "。"}
+     ],
+     "start": 435.26,
+     "end": 455.33
+    },
+    {
+     "id": "s059",
+     "zh": "十月底加进来的劳斯莱斯则涨了 13% 到 14%。",
+     "en": "Rolls-Royce, added at the end of October, is up 13% to 14%, on the other hand.",
+     "segments": [
+      {"zh": "十月底", "py": "shíyuèdǐ", "gl": "end of October"},
+      {"zh": "加进来", "py": "jiājìnlai", "gl": "added in"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "则", "py": "zé", "gl": "on the other hand"},
+      {"zh": "涨", "py": "zhǎng", "gl": "rise"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": " "},
+      {"zh": "13%"},
+      {"zh": " "},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": " "},
+      {"zh": "14%"},
+      {"zh": "。"}
+     ],
+     "start": 458.24,
+     "end": 464.15
+    },
+    {
+     "id": "s060",
+     "zh": "今天新增的有：",
+     "en": "New additions today:",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "新增", "py": "xīnzēng", "gl": "newly added"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "有", "py": "yǒu", "gl": "there are"},
+      {"zh": "："}
+     ],
+     "start": 466.58,
+     "end": 468.24
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s061",
+     "zh": "Anthropic（刚在纳斯达克上市，欢迎入局）",
+     "en": "Anthropic (just listed on Nasdaq, welcome to the game)",
+     "segments": [
+      {"zh": "Anthropic"},
+      {"zh": "（"},
+      {"zh": "刚", "py": "gāng", "gl": "just"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "纳斯达克", "py": "Nàsīdákè", "gl": "Nasdaq"},
+      {"zh": "上市", "py": "shàngshì", "gl": "go public"},
+      {"zh": "，"},
+      {"zh": "欢迎", "py": "huānyíng", "gl": "welcome"},
+      {"zh": "入局", "py": "rùjú", "gl": "join the game"},
+      {"zh": "）"}
+     ],
+     "start": 468.24,
+     "end": 473.27
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s062",
+     "zh": "Alphabet/谷歌和 CoreWeave",
+     "en": "Alphabet/Google and CoreWeave",
+     "segments": [
+      {"zh": "Alphabet"},
+      {"zh": "/"},
+      {"zh": "谷歌", "py": "Gǔgē", "gl": "Google"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": " "},
+      {"zh": "CoreWeave"}
+     ],
+     "start": 473.58,
+     "end": 477.19
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s063",
+     "zh": "标普指数、罗素 2000 指数和黄金",
+     "en": "The S&P index, the Russell 2000 index, and gold",
+     "segments": [
+      {"zh": "标普", "py": "Biāopǔ", "gl": "S&P"},
+      {"zh": "指数", "py": "zhǐshù", "gl": "index"},
+      {"zh": "、"},
+      {"zh": "罗素", "py": "Luósù", "gl": "Russell"},
+      {"zh": " "},
+      {"zh": "2000"},
+      {"zh": " "},
+      {"zh": "指数", "py": "zhǐshù", "gl": "index"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "黄金", "py": "huángjīn", "gl": "gold"}
+     ],
+     "start": 477.58,
+     "end": 481.56
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s064",
+     "zh": "RSI、英伟达与“恐惧时买入”",
+     "en": "RSI, Nvidia, and \"Buy When Others Are Fearful\"",
+     "segments": [
+      {"zh": "RSI"},
+      {"zh": "、"},
+      {"zh": "英伟达", "py": "Yīngwěidá", "gl": "Nvidia"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "“"},
+      {"zh": "恐惧", "py": "kǒngjù", "gl": "fear"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "买入", "py": "mǎirù", "gl": "buy"},
+      {"zh": "”"}
+     ],
+     "start": 481.56,
+     "end": 487.37
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s065",
+     "zh": "这些股票很多在 RSI（相对强弱指数）上已经超卖，之后通常会反弹，至少短期如此。",
+     "en": "Many of these stocks are already oversold on the RSI (Relative Strength Index), and they usually bounce back afterward, at least in the short term.",
+     "segments": [
+      {"zh": "这些", "py": "zhèxiē", "gl": "these"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stocks"},
+      {"zh": "很多", "py": "hěnduō", "gl": "many"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": " "},
+      {"zh": "RSI"},
+      {"zh": "（"},
+      {"zh": "相对", "py": "xiāngduì", "gl": "relative"},
+      {"zh": "强弱", "py": "qiángruò", "gl": "strength"},
+      {"zh": "指数", "py": "zhǐshù", "gl": "index"},
+      {"zh": "）"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "超卖", "py": "chāomài", "gl": "oversold"},
+      {"zh": "，"},
+      {"zh": "之后", "py": "zhīhòu", "gl": "afterward"},
+      {"zh": "通常", "py": "tōngcháng", "gl": "usually"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "反弹", "py": "fǎntán", "gl": "rebound"},
+      {"zh": "，"},
+      {"zh": "至少", "py": "zhìshǎo", "gl": "at least"},
+      {"zh": "短期", "py": "duǎnqī", "gl": "short term"},
+      {"zh": "如此", "py": "rúcǐ", "gl": "like this"},
+      {"zh": "。"}
+     ],
+     "start": 488.04,
+     "end": 500.01
+    },
+    {
+     "id": "s066",
+     "zh": "谷歌两周前就是这样，劳斯莱斯十月也是。",
+     "en": "That's what happened with Google two weeks ago, and with Rolls-Royce in October too.",
+     "segments": [
+      {"zh": "谷歌", "py": "Gǔgē", "gl": "Google"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "周", "py": "zhōu", "gl": "weeks"},
+      {"zh": "前", "py": "qián", "gl": "ago"},
+      {"zh": "就是", "py": "jiùshì", "gl": "was exactly"},
+      {"zh": "这样", "py": "zhèyàng", "gl": "like this"},
+      {"zh": "，"},
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "十月", "py": "shíyuè", "gl": "October"},
+      {"zh": "也是", "py": "yěshì", "gl": "also was"},
+      {"zh": "。"}
+     ],
+     "start": 500.7,
+     "end": 505.77
+    },
+    {
+     "id": "s067",
+     "zh": "现在轮到英伟达了，价格是 136.88 美元。",
+     "en": "Now it's Nvidia's turn, at a price of 136.88 dollars.",
+     "segments": [
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "轮到", "py": "lúndào", "gl": "be one's turn"},
+      {"zh": "英伟达", "py": "Yīngwěidá", "gl": "Nvidia"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "，"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": " "},
+      {"zh": "136.88"},
+      {"zh": " "},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "。"}
+     ],
+     "start": 506.92,
+     "end": 513.05
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s068",
+     "zh": "黄金每克跌了 300 元人民币，也许是恐慌性抛售。",
+     "en": "Gold fell 300 yuan per gram; maybe it's panic selling.",
+     "segments": [
+      {"zh": "黄金", "py": "huángjīn", "gl": "gold"},
+      {"zh": "每", "py": "měi", "gl": "per"},
+      {"zh": "克", "py": "kè", "gl": "gram"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": " "},
+      {"zh": "300"},
+      {"zh": " "},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "人民币", "py": "rénmínbì", "gl": "RMB"},
+      {"zh": "，"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "maybe"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "恐慌性", "py": "kǒnghuāngxìng", "gl": "panic-driven"},
+      {"zh": "抛售", "py": "pāoshòu", "gl": "selling off"},
+      {"zh": "。"}
+     ],
+     "start": 513.54,
+     "end": 519.81
+    },
+    {
+     "id": "s069",
+     "zh": "别人恐惧时贪婪，别人贪婪时恐惧。",
+     "en": "Be greedy when others are fearful, and fearful when others are greedy.",
+     "segments": [
+      {"zh": "别人", "py": "biérén", "gl": "others"},
+      {"zh": "恐惧", "py": "kǒngjù", "gl": "fearful"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "贪婪", "py": "tānlán", "gl": "greedy"},
+      {"zh": "，"},
+      {"zh": "别人", "py": "biérén", "gl": "others"},
+      {"zh": "贪婪", "py": "tānlán", "gl": "greedy"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "恐惧", "py": "kǒngjù", "gl": "fearful"},
+      {"zh": "。"}
+     ],
+     "start": 520.22,
+     "end": 526.05
+    },
+    {
+     "id": "s070",
+     "zh": "如果你害怕，就写下原因，周一再看一遍。",
+     "en": "If you're scared, write down why, and look at it again on Monday.",
+     "segments": [
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "害怕", "py": "hàipà", "gl": "scared"},
+      {"zh": "，"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "写下", "py": "xiěxià", "gl": "write down"},
+      {"zh": "原因", "py": "yuányīn", "gl": "reason"},
+      {"zh": "，"},
+      {"zh": "周一", "py": "zhōuyī", "gl": "Monday"},
+      {"zh": "再", "py": "zài", "gl": "again"},
+      {"zh": "看", "py": "kàn", "gl": "look"},
+      {"zh": "一遍", "py": "yíbiàn", "gl": "once through"},
+      {"zh": "。"}
+     ],
+     "start": 526.5,
+     "end": 532.34
+    },
+    {
+     "id": "s071",
+     "zh": "这不是投资建议。",
+     "en": "This is not investment advice.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "投资", "py": "tóuzī", "gl": "investment"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "。"}
+     ],
+     "start": 532.34,
+     "end": 535.4
+    },
+    {
+     "id": "s072",
+     "zh": "“你的钱，你自己负责。”",
+     "en": "\"Your money, your responsibility.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "，"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "yourself"},
+      {"zh": "负责", "py": "fùzé", "gl": "be responsible"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 535.4,
+     "end": 539.45
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s073",
+     "zh": "今日总结",
+     "en": "Today's summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 542.82,
+     "end": 544.39
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s074",
+     "zh": "不管是朋友还是股票，你都不知道它能陪你多久。",
+     "en": "Whether it's friends or stocks, you never know how long they'll stay with you.",
+     "segments": [
+      {"zh": "不管", "py": "bùguǎn", "gl": "no matter"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friends"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stocks"},
+      {"zh": "，"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "都", "py": "dōu", "gl": "all; still"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "知道", "py": "zhīdào", "gl": "know"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "陪", "py": "péi", "gl": "accompany"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "多久", "py": "duōjiǔ", "gl": "how long"},
+      {"zh": "。"}
+     ],
+     "start": 544.98,
+     "end": 550.88
+    },
+    {
+     "id": "s075",
+     "zh": "多拍照，多录音，常问候身边的人，投资前做好自己的功课。",
+     "en": "Take more photos, make more recordings, check in often with the people around you, and do your own homework before investing.",
+     "segments": [
+      {"zh": "多", "py": "duō", "gl": "more"},
+      {"zh": "拍照", "py": "pāizhào", "gl": "take photos"},
+      {"zh": "，"},
+      {"zh": "多", "py": "duō", "gl": "more"},
+      {"zh": "录音", "py": "lùyīn", "gl": "record audio"},
+      {"zh": "，"},
+      {"zh": "常", "py": "cháng", "gl": "often"},
+      {"zh": "问候", "py": "wènhòu", "gl": "greet; check in"},
+      {"zh": "身边", "py": "shēnbiān", "gl": "by one's side"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "，"},
+      {"zh": "投资", "py": "tóuzī", "gl": "invest"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "做好", "py": "zuòhǎo", "gl": "do well"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "one's own"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "功课", "py": "gōngkè", "gl": "homework"},
+      {"zh": "。"}
+     ],
+     "start": 550.88,
+     "end": 560.35
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "看似无聊", "py": "kàn sì wúliáo", "en": "seemingly silly or pointless"},
+  {"zh": "不期而遇", "py": "bù qī ér yù", "en": "to meet by chance"},
+  {"zh": "多包涵", "py": "duō bāohan", "en": "please bear with me"},
+  {"zh": "托市", "py": "tuō shì", "en": "to prop up the market"},
+  {"zh": "首付", "py": "shǒufù", "en": "down payment"},
+  {"zh": "触底", "py": "chù dǐ", "en": "to hit bottom"},
+  {"zh": "超卖", "py": "chāomài", "en": "oversold"},
+  {"zh": "抄底", "py": "chāodǐ", "en": "to buy the dip"},
+  {"zh": "不成正比", "py": "bù chéng zhèngbǐ", "en": "not proportional"},
+  {"zh": "尽职调查", "py": "jìnzhí diàochá", "en": "due diligence"}
+ ]
+}
