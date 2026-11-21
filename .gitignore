@@ -14,5 +14,5 @@
 !content/index.json
 !content/episodes/
 !content/episodes/*.json
+# audio/*.m4a is served from Cloudflare R2; older files already in git stay tracked
 !audio/
-!audio/*.m4a

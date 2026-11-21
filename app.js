@@ -3,6 +3,9 @@
 
   const INDEX_URL = "content/index.json";
   const episodeUrl = (id) => `content/episodes/${encodeURIComponent(id)}.json`;
+  // Audio lives in Cloudflare R2 (the ssab-audio bucket); "audio/<id>.m4a" in the
+  // episode JSON is fetched from there, falling back to this site's audio/ folder if R2 fails.
+  const AUDIO_BASE = "https://ssab-audio.stevensirski.workers.dev/zh/";
   const LAST_KEY = "ssab-reader:last-opened";
   const PREFS_KEY = "ssab-reader:prefs:v1";
   const SIZES = [16, 18, 20, 22, 24, 27, 30, 34];
@@ -345,7 +348,11 @@
     el.unavailable.hidden = true;
     el.controls.hidden = false;
     if (ep.audio.label) { el.note.textContent = ep.audio.label; el.note.hidden = false; }
-    audio.src = src; // preload=metadata only; never autoplay
+    // preload=metadata only; never autoplay
+    if (src.startsWith("audio/")) {
+      audio.addEventListener("error", () => { audio.src = src; }, { once: true });
+      audio.src = AUDIO_BASE + src.slice("audio/".length);
+    } else audio.src = src;
     audio.playbackRate = Number(el.speed.value);
     return true;
   }
