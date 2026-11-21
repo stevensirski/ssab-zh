@@ -1957,9 +1957,10 @@
     {
      "id": "s070",
      "zh": "今日总结",
-     "en": "",
+     "en": "Today's summary",
      "segments": [
-      {"zh": "今日总结"}
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
      ],
      "start": 551.86,
      "end": 553.41
@@ -1973,9 +1974,39 @@
     {
      "id": "s071",
      "zh": "AI终于能帮史蒂文清掉积压15年的内容，但他说，学习、健身和做播客仍然离不开时间、自律和每天坚持。",
-     "en": "",
+     "en": "AI can finally help Steven clear out 15 years of backlogged content, but he says that learning, working out and making podcasts still take time, self-discipline and daily persistence.",
      "segments": [
-      {"zh": "AI终于能帮史蒂文清掉积压15年的内容，但他说，学习、健身和做播客仍然离不开时间、自律和每天坚持。"}
+      {"zh": "AI"},
+      {"zh": "终于", "py": "zhōngyú", "gl": "finally"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "帮", "py": "bāng", "gl": "help"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "清掉", "py": "qīngdiào", "gl": "clear out"},
+      {"zh": "积压", "py": "jīyā", "gl": "backlogged"},
+      {"zh": "15"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说", "py": "shuō", "gl": "says"},
+      {"zh": "，"},
+      {"zh": "学习", "py": "xuéxí", "gl": "learning"},
+      {"zh": "、"},
+      {"zh": "健身", "py": "jiànshēn", "gl": "working out"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcasts"},
+      {"zh": "仍然", "py": "réngrán", "gl": "still"},
+      {"zh": "离不开", "py": "líbukāi", "gl": "can't do without"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "、"},
+      {"zh": "自律", "py": "zìlǜ", "gl": "self-discipline"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "每天", "py": "měitiān", "gl": "every day"},
+      {"zh": "坚持", "py": "jiānchí", "gl": "persistence"},
+      {"zh": "。"}
      ],
      "start": 553.76,
      "end": 567.73
@@ -1983,9 +2014,26 @@
     {
      "id": "s072",
      "zh": "看着亚当·柯里的榜样，他不禁想：自己为什么不能多做一点？",
-     "en": "",
+     "en": "Looking at Adam Curry's example, he can't help wondering: why can't I do a bit more?",
      "segments": [
-      {"zh": "看着亚当·柯里的榜样，他不禁想：自己为什么不能多做一点？"}
+      {"zh": "看着", "py": "kànzhe", "gl": "looking at"},
+      {"zh": "亚当", "py": "Yàdāng", "gl": "Adam"},
+      {"zh": "·"},
+      {"zh": "柯里", "py": "Kēlǐ", "gl": "Curry"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "榜样", "py": "bǎngyàng", "gl": "example"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不禁", "py": "bùjīn", "gl": "can't help"},
+      {"zh": "想", "py": "xiǎng", "gl": "wonder"},
+      {"zh": "："},
+      {"zh": "自己", "py": "zìjǐ", "gl": "oneself"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "不能", "py": "bù néng", "gl": "can't"},
+      {"zh": "多", "py": "duō", "gl": "more"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "一点", "py": "yìdiǎn", "gl": "a bit"},
+      {"zh": "？"}
      ],
      "start": 568.24,
      "end": 576.01

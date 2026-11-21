@@ -930,9 +930,13 @@
     {
      "id": "s032",
      "zh": "气球、人群与目光",
-     "en": "",
+     "en": "Balloons, crowds and stares",
      "segments": [
-      {"zh": "气球、人群与目光"}
+      {"zh": "气球", "py": "qìqiú", "gl": "balloons"},
+      {"zh": "、"},
+      {"zh": "人群", "py": "rénqún", "gl": "crowds"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "目光", "py": "mùguāng", "gl": "stares; gazes"}
      ],
      "start": 248.24,
      "end": 250.41
@@ -946,9 +950,26 @@
     {
      "id": "s033",
      "zh": "还有一位同事在国际学校工作，带着太太和两个孩子来了。",
-     "en": "",
+     "en": "Another colleague, who works at an international school, came with his wife and two kids.",
      "segments": [
-      {"zh": "还有一位同事在国际学校工作，带着太太和两个孩子来了。"}
+      {"zh": "还有", "py": "háiyǒu", "gl": "there's also"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(measure for people)"},
+      {"zh": "同事", "py": "tóngshì", "gl": "colleague"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "国际", "py": "guójì", "gl": "international"},
+      {"zh": "学校", "py": "xuéxiào", "gl": "school"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "，"},
+      {"zh": "带着", "py": "dàizhe", "gl": "bringing"},
+      {"zh": "太太", "py": "tàitai", "gl": "wife"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "孩子", "py": "háizi", "gl": "children"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
      ],
      "start": 250.76,
      "end": 258.09
@@ -956,9 +977,27 @@
     {
      "id": "s034",
      "zh": "有些学校的教职工子女可以免学费，史蒂文猜他换工作就是为了孩子上学。",
-     "en": "",
+     "en": "At some schools, staff members' children can attend tuition-free, and Steven guesses that's exactly why he changed jobs: for his kids' schooling.",
      "segments": [
-      {"zh": "有些学校的教职工子女可以免学费，史蒂文猜他换工作就是为了孩子上学。"}
+      {"zh": "有些", "py": "yǒuxiē", "gl": "some"},
+      {"zh": "学校", "py": "xuéxiào", "gl": "schools"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "教职工", "py": "jiàozhígōng", "gl": "teaching staff"},
+      {"zh": "子女", "py": "zǐnǚ", "gl": "children"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "免", "py": "miǎn", "gl": "be exempt from"},
+      {"zh": "学费", "py": "xuéfèi", "gl": "tuition"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "猜", "py": "cāi", "gl": "guesses"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "换", "py": "huàn", "gl": "change"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "job"},
+      {"zh": "就是", "py": "jiùshì", "gl": "precisely is"},
+      {"zh": "为了", "py": "wèile", "gl": "for the sake of"},
+      {"zh": "孩子", "py": "háizi", "gl": "children"},
+      {"zh": "上学", "py": "shàngxué", "gl": "go to school"},
+      {"zh": "。"}
      ],
      "start": 258.62,
      "end": 268.11
@@ -966,9 +1005,28 @@
     {
      "id": "s035",
      "zh": "孩子们买了10块钱一个的巨型气球，玩起了“人肉棒球”。",
-     "en": "",
+     "en": "The kids bought giant balloons for 10 yuan each and started playing \"human baseball.\"",
      "segments": [
-      {"zh": "孩子们买了10块钱一个的巨型气球，玩起了“人肉棒球”。"}
+      {"zh": "孩子们", "py": "háizimen", "gl": "the kids"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "10"},
+      {"zh": "块", "py": "kuài", "gl": "yuan"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "巨型", "py": "jùxíng", "gl": "giant"},
+      {"zh": "气球", "py": "qìqiú", "gl": "balloons"},
+      {"zh": "，"},
+      {"zh": "玩", "py": "wán", "gl": "play"},
+      {"zh": "起", "py": "qǐ", "gl": "(start doing)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "“"},
+      {"zh": "人肉", "py": "rénròu", "gl": "human"},
+      {"zh": "棒球", "py": "bàngqiú", "gl": "baseball"},
+      {"zh": "”"},
+      {"zh": "。"}
      ],
      "start": 269.08,
      "end": 275.47
@@ -976,9 +1034,30 @@
     {
      "id": "s036",
      "zh": "史蒂文对那位爸爸说：“这20块是你今天花得最值的钱！”",
-     "en": "",
+     "en": "Steven told the dad, \"That 20 yuan is the best money you've spent all day!\"",
      "segments": [
-      {"zh": "史蒂文对那位爸爸说：“这20块是你今天花得最值的钱！”"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "对", "py": "duì", "gl": "to"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "位", "py": "wèi", "gl": "(measure for people)"},
+      {"zh": "爸爸", "py": "bàba", "gl": "dad"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "20"},
+      {"zh": "块", "py": "kuài", "gl": "yuan"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "花", "py": "huā", "gl": "spend"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "值", "py": "zhí", "gl": "worth it"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "！"},
+      {"zh": "”"}
      ],
      "start": 275.92,
      "end": 282.49
@@ -992,9 +1071,18 @@
     {
      "id": "s037",
      "zh": "史蒂文刚下自行车，就有人开始指指点点。",
-     "en": "",
+     "en": "Steven had barely gotten off his bike when people started pointing and gossiping.",
      "segments": [
-      {"zh": "史蒂文刚下自行车，就有人开始指指点点。"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "刚", "py": "gāng", "gl": "just"},
+      {"zh": "下", "py": "xià", "gl": "get off"},
+      {"zh": "自行车", "py": "zìxíngchē", "gl": "bicycle"},
+      {"zh": "，"},
+      {"zh": "就", "py": "jiù", "gl": "right away"},
+      {"zh": "有人", "py": "yǒurén", "gl": "someone"},
+      {"zh": "开始", "py": "kāishǐ", "gl": "start"},
+      {"zh": "指指点点", "py": "zhǐzhǐdiǎndiǎn", "gl": "point and gossip"},
+      {"zh": "。"}
      ],
      "start": 283.46,
      "end": 288.05
@@ -1002,9 +1090,32 @@
     {
      "id": "s038",
      "zh": "小孩冲他笑，他也笑着回应；但有人对着“大胡子老外”拍照，他就挺烦。",
-     "en": "",
+     "en": "When kids smile at him, he smiles back; but when people take photos of the \"big-bearded foreigner,\" it really annoys him.",
      "segments": [
-      {"zh": "小孩冲他笑，他也笑着回应；但有人对着“大胡子老外”拍照，他就挺烦。"}
+      {"zh": "小孩", "py": "xiǎohái", "gl": "kids"},
+      {"zh": "冲", "py": "chòng", "gl": "toward; at"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "笑", "py": "xiào", "gl": "smile"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "笑着", "py": "xiàozhe", "gl": "smiling"},
+      {"zh": "回应", "py": "huíyìng", "gl": "respond"},
+      {"zh": "；"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "有人", "py": "yǒurén", "gl": "someone"},
+      {"zh": "对着", "py": "duìzhe", "gl": "aimed at"},
+      {"zh": "“"},
+      {"zh": "大胡子", "py": "dàhúzi", "gl": "big beard"},
+      {"zh": "老外", "py": "lǎowài", "gl": "foreigner"},
+      {"zh": "”"},
+      {"zh": "拍照", "py": "pāizhào", "gl": "take photos"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "挺", "py": "tǐng", "gl": "quite"},
+      {"zh": "烦", "py": "fán", "gl": "annoyed"},
+      {"zh": "。"}
      ],
      "start": 288.46,
      "end": 297.21
@@ -1012,9 +1123,34 @@
     {
      "id": "s039",
      "zh": "有小孩喊“这是外国人”，他会回一句：“到底谁是外人，我还是你？”",
-     "en": "",
+     "en": "When a kid shouts \"That's a foreigner,\" he'll reply, \"So who's really the outsider here, me or you?\"",
      "segments": [
-      {"zh": "有小孩喊“这是外国人”，他会回一句：“到底谁是外人，我还是你？”"}
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "小孩", "py": "xiǎohái", "gl": "a kid"},
+      {"zh": "喊", "py": "hǎn", "gl": "shouts"},
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigner"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "回", "py": "huí", "gl": "reply"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "句", "py": "jù", "gl": "(measure for sentences)"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "after all; really"},
+      {"zh": "谁", "py": "shéi", "gl": "who"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "外人", "py": "wàirén", "gl": "outsider"},
+      {"zh": "，"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "？"},
+      {"zh": "”"}
      ],
      "start": 297.54,
      "end": 305.29
@@ -1022,9 +1158,13 @@
     {
      "id": "s040",
      "zh": "家长们一般都哈哈大笑。",
-     "en": "",
+     "en": "The parents usually burst out laughing.",
      "segments": [
-      {"zh": "家长们一般都哈哈大笑。"}
+      {"zh": "家长们", "py": "jiāzhǎngmen", "gl": "parents"},
+      {"zh": "一般", "py": "yìbān", "gl": "usually"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "哈哈大笑", "py": "hāhā dàxiào", "gl": "laugh heartily"},
+      {"zh": "。"}
      ],
      "start": 305.92,
      "end": 308.55
@@ -1038,9 +1178,11 @@
     {
      "id": "s041",
      "zh": "整理旅行视频",
-     "en": "",
+     "en": "Organizing the travel videos",
      "segments": [
-      {"zh": "整理旅行视频"}
+      {"zh": "整理", "py": "zhěnglǐ", "gl": "organize"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "视频", "py": "shìpín", "gl": "videos"}
      ],
      "start": 308.62,
      "end": 310.59
@@ -1054,9 +1196,30 @@
     {
      "id": "s042",
      "zh": "史蒂文的美国之行剪出了12到13条短视频，但能用的长视频少得多。",
-     "en": "",
+     "en": "Steven has cut 12 to 13 short videos from his US trip, but there's far less usable material for long videos.",
      "segments": [
-      {"zh": "史蒂文的美国之行剪出了12到13条短视频，但能用的长视频少得多。"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "美国", "py": "Měiguó", "gl": "America"},
+      {"zh": "之行", "py": "zhīxíng", "gl": "trip to"},
+      {"zh": "剪", "py": "jiǎn", "gl": "edit; cut"},
+      {"zh": "出", "py": "chū", "gl": "(result: out)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "12"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "13"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure for videos)"},
+      {"zh": "短视频", "py": "duǎnshìpín", "gl": "short videos"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "长", "py": "cháng", "gl": "long"},
+      {"zh": "视频", "py": "shìpín", "gl": "videos"},
+      {"zh": "少", "py": "shǎo", "gl": "few"},
+      {"zh": "得多", "py": "de duō", "gl": "much more"},
+      {"zh": "。"}
      ],
      "start": 311.68,
      "end": 320.19
@@ -1064,9 +1227,37 @@
     {
      "id": "s043",
      "zh": "有的素材太无聊，有的跟底特律爵士音乐节这类已经过去的活动有关，而且他拍的大多是自己，不是风景。",
-     "en": "",
+     "en": "Some of the footage is too boring, some is tied to events that are already over, like the Detroit Jazz Festival, and most of what he filmed is himself, not the scenery.",
      "segments": [
-      {"zh": "有的素材太无聊，有的跟底特律爵士音乐节这类已经过去的活动有关，而且他拍的大多是自己，不是风景。"}
+      {"zh": "有的", "py": "yǒude", "gl": "some"},
+      {"zh": "素材", "py": "sùcái", "gl": "footage"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "无聊", "py": "wúliáo", "gl": "boring"},
+      {"zh": "，"},
+      {"zh": "有的", "py": "yǒude", "gl": "some"},
+      {"zh": "跟", "py": "gēn", "gl": "with"},
+      {"zh": "底特律", "py": "Dǐtèlǜ", "gl": "Detroit"},
+      {"zh": "爵士", "py": "juéshì", "gl": "jazz"},
+      {"zh": "音乐节", "py": "yīnyuèjié", "gl": "music festival"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "类", "py": "lèi", "gl": "kind"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "过去", "py": "guòqù", "gl": "passed"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "活动", "py": "huódòng", "gl": "events"},
+      {"zh": "有关", "py": "yǒuguān", "gl": "related to"},
+      {"zh": "，"},
+      {"zh": "而且", "py": "érqiě", "gl": "moreover"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "拍", "py": "pāi", "gl": "filmed"},
+      {"zh": "的", "py": "de", "gl": "(what is)"},
+      {"zh": "大多", "py": "dàduō", "gl": "mostly"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "，"},
+      {"zh": "不是", "py": "búshì", "gl": "not"},
+      {"zh": "风景", "py": "fēngjǐng", "gl": "scenery"},
+      {"zh": "。"}
      ],
      "start": 320.7,
      "end": 333.37
@@ -1080,9 +1271,13 @@
     {
      "id": "s044",
      "zh": "他现在的计划：",
-     "en": "",
+     "en": "His current plan:",
      "segments": [
-      {"zh": "他现在的计划："}
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "现在", "py": "xiànzài", "gl": "current"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "计划", "py": "jìhuà", "gl": "plan"},
+      {"zh": "："}
      ],
      "start": 333.74,
      "end": 335.45
@@ -1096,9 +1291,20 @@
     {
      "id": "s045",
      "zh": "做一期从尼亚加拉瀑布步行入境美国的视频。",
-     "en": "",
+     "en": "Make a video about walking into the US from Niagara Falls.",
      "segments": [
-      {"zh": "做一期从尼亚加拉瀑布步行入境美国的视频。"}
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "期", "py": "qī", "gl": "(measure for episodes)"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "尼亚加拉", "py": "Níyàjiālā", "gl": "Niagara"},
+      {"zh": "瀑布", "py": "pùbù", "gl": "falls"},
+      {"zh": "步行", "py": "bùxíng", "gl": "walk"},
+      {"zh": "入境", "py": "rùjìng", "gl": "enter a country"},
+      {"zh": "美国", "py": "Měiguó", "gl": "the US"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "。"}
      ],
      "start": 335.72,
      "end": 340.57
@@ -1112,9 +1318,26 @@
     {
      "id": "s046",
      "zh": "剪一部“美国公路大旅行”合集，包括布法罗、克利夫兰和底特律。",
-     "en": "",
+     "en": "Edit a \"Great American Road Trip\" compilation, covering Buffalo, Cleveland and Detroit.",
      "segments": [
-      {"zh": "剪一部“美国公路大旅行”合集，包括布法罗、克利夫兰和底特律。"}
+      {"zh": "剪", "py": "jiǎn", "gl": "edit"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "部", "py": "bù", "gl": "(measure for films)"},
+      {"zh": "“"},
+      {"zh": "美国", "py": "Měiguó", "gl": "American"},
+      {"zh": "公路", "py": "gōnglù", "gl": "road"},
+      {"zh": "大", "py": "dà", "gl": "great"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "trip"},
+      {"zh": "”"},
+      {"zh": "合集", "py": "héjí", "gl": "compilation"},
+      {"zh": "，"},
+      {"zh": "包括", "py": "bāokuò", "gl": "including"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "、"},
+      {"zh": "克利夫兰", "py": "Kèlìfūlán", "gl": "Cleveland"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "底特律", "py": "Dǐtèlǜ", "gl": "Detroit"},
+      {"zh": "。"}
      ],
      "start": 341.42,
      "end": 348.47
@@ -1128,9 +1351,18 @@
     {
      "id": "s047",
      "zh": "短视频从这周末或下周末开始更新。",
-     "en": "",
+     "en": "The short videos will start updating this weekend or next weekend.",
      "segments": [
-      {"zh": "短视频从这周末或下周末开始更新。"}
+      {"zh": "短视频", "py": "duǎnshìpín", "gl": "short videos"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "或", "py": "huò", "gl": "or"},
+      {"zh": "下", "py": "xià", "gl": "next"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "开始", "py": "kāishǐ", "gl": "start"},
+      {"zh": "更新", "py": "gēngxīn", "gl": "update"},
+      {"zh": "。"}
      ],
      "start": 349.1,
      "end": 353.07
@@ -1144,9 +1376,28 @@
     {
      "id": "s048",
      "zh": "以前他喜欢原汁原味、一刀不剪，现在觉得好故事比“无聊的生活”有意思得多。",
-     "en": "",
+     "en": "He used to like things raw and completely uncut, but now he thinks a good story is far more interesting than \"boring life.\"",
      "segments": [
-      {"zh": "以前他喜欢原汁原味、一刀不剪，现在觉得好故事比“无聊的生活”有意思得多。"}
+      {"zh": "以前", "py": "yǐqián", "gl": "before, formerly"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "喜欢", "py": "xǐhuan", "gl": "like"},
+      {"zh": "原汁原味", "py": "yuánzhīyuánwèi", "gl": "original, unaltered"},
+      {"zh": "、"},
+      {"zh": "一刀不剪", "py": "yìdāobùjiǎn", "gl": "without a single cut"},
+      {"zh": "，"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "觉得", "py": "juéde", "gl": "feel, think"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "故事", "py": "gùshi", "gl": "story"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "“"},
+      {"zh": "无聊", "py": "wúliáo", "gl": "boring"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "life"},
+      {"zh": "”"},
+      {"zh": "有意思", "py": "yǒu yìsi", "gl": "interesting"},
+      {"zh": "得多", "py": "de duō", "gl": "much more"},
+      {"zh": "。"}
      ],
      "start": 353.64,
      "end": 362.59
@@ -1154,9 +1405,19 @@
     {
      "id": "s049",
      "zh": "他承认，自己差点“对着硬盘哭出来”。",
-     "en": "",
+     "en": "He admits he nearly \"cried at his hard drive.\"",
      "segments": [
-      {"zh": "他承认，自己差点“对着硬盘哭出来”。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "承认", "py": "chéngrèn", "gl": "admit"},
+      {"zh": "，"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "差点", "py": "chàdiǎn", "gl": "almost, nearly"},
+      {"zh": "“"},
+      {"zh": "对着", "py": "duìzhe", "gl": "facing, at"},
+      {"zh": "硬盘", "py": "yìngpán", "gl": "hard drive"},
+      {"zh": "哭出来", "py": "kū chulai", "gl": "burst out crying"},
+      {"zh": "”"},
+      {"zh": "。"}
      ],
      "start": 362.86,
      "end": 366.9
@@ -1170,9 +1431,18 @@
     {
      "id": "s050",
      "zh": "债券背景：萨克雷、道指75000点和美联储",
-     "en": "",
+     "en": "Bond background: Sakrey, Dow 75,000 and the Federal Reserve",
      "segments": [
-      {"zh": "债券背景：萨克雷、道指75000点和美联储"}
+      {"zh": "债券", "py": "zhàiquàn", "gl": "bonds"},
+      {"zh": "背景", "py": "bèijǐng", "gl": "background"},
+      {"zh": "："},
+      {"zh": "萨克雷", "py": "Sàkèléi", "gl": "Sakrey (name)"},
+      {"zh": "、"},
+      {"zh": "道指", "py": "Dàozhǐ", "gl": "the Dow"},
+      {"zh": "75000"},
+      {"zh": "点", "py": "diǎn", "gl": "points"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "美联储", "py": "Měiliánchǔ", "gl": "Federal Reserve"}
      ],
      "start": 366.9,
      "end": 373.25
@@ -1186,9 +1456,46 @@
     {
      "id": "s051",
      "zh": "史蒂文的节目笔记里附了一份谷歌文档，有他和ChatGPT一起研究的22个问题，还有季节性分析师布鲁克·萨克雷的文章《别跟美联储作对》。",
-     "en": "",
+     "en": "Steven's show notes include a Google Doc with 22 questions he researched together with ChatGPT, plus an article by seasonal analyst Brooke Sakrey, \"Don't Fight the Fed.\"",
      "segments": [
-      {"zh": "史蒂文的节目笔记里附了一份谷歌文档，有他和ChatGPT一起研究的22个问题，还有季节性分析师布鲁克·萨克雷的文章《别跟美联储作对》。"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": "笔记", "py": "bǐjì", "gl": "notes"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "附", "py": "fù", "gl": "attach"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "份", "py": "fèn", "gl": "(measure word: document)"},
+      {"zh": "谷歌", "py": "Gǔgē", "gl": "Google"},
+      {"zh": "文档", "py": "wéndàng", "gl": "document"},
+      {"zh": "，"},
+      {"zh": "有", "py": "yǒu", "gl": "there is, has"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "和", "py": "hé", "gl": "with"},
+      {"zh": "ChatGPT"},
+      {"zh": "一起", "py": "yìqǐ", "gl": "together"},
+      {"zh": "研究", "py": "yánjiū", "gl": "research"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "22"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "问题", "py": "wèntí", "gl": "questions"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "季节性", "py": "jìjiéxìng", "gl": "seasonal"},
+      {"zh": "分析师", "py": "fēnxīshī", "gl": "analyst"},
+      {"zh": "布鲁克", "py": "Bùlǔkè", "gl": "Brooke"},
+      {"zh": "·"},
+      {"zh": "萨克雷", "py": "Sàkèléi", "gl": "Sakrey (name)"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "文章", "py": "wénzhāng", "gl": "article"},
+      {"zh": "《"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "跟", "py": "gēn", "gl": "with"},
+      {"zh": "美联储", "py": "Měiliánchǔ", "gl": "the Fed"},
+      {"zh": "作对", "py": "zuòduì", "gl": "oppose, fight"},
+      {"zh": "》"},
+      {"zh": "。"}
      ],
      "start": 373.66,
      "end": 389.33
@@ -1196,9 +1503,29 @@
     {
      "id": "s052",
      "zh": "萨克雷指出，美国10年期国债收益率从80年代一路下跌，到2020年左右才回升。",
-     "en": "",
+     "en": "Sakrey points out that the US 10-year Treasury yield fell steadily from the 1980s and only turned back up around 2020.",
      "segments": [
-      {"zh": "萨克雷指出，美国10年期国债收益率从80年代一路下跌，到2020年左右才回升。"}
+      {"zh": "萨克雷", "py": "Sàkèléi", "gl": "Sakrey (name)"},
+      {"zh": "指出", "py": "zhǐchū", "gl": "point out"},
+      {"zh": "，"},
+      {"zh": "美国", "py": "Měiguó", "gl": "USA"},
+      {"zh": "10"},
+      {"zh": "年期", "py": "niánqī", "gl": "-year term"},
+      {"zh": "国债", "py": "guózhài", "gl": "Treasury bonds"},
+      {"zh": "收益率", "py": "shōuyìlǜ", "gl": "yield"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "80"},
+      {"zh": "年代", "py": "niándài", "gl": "decade (the '80s)"},
+      {"zh": "一路", "py": "yílù", "gl": "all the way"},
+      {"zh": "下跌", "py": "xiàdiē", "gl": "fall, decline"},
+      {"zh": "，"},
+      {"zh": "到", "py": "dào", "gl": "until"},
+      {"zh": "2020"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "左右", "py": "zuǒyòu", "gl": "around"},
+      {"zh": "才", "py": "cái", "gl": "only then"},
+      {"zh": "回升", "py": "huíshēng", "gl": "rise again"},
+      {"zh": "。"}
      ],
      "start": 389.86,
      "end": 399.71
@@ -1206,9 +1533,19 @@
     {
      "id": "s053",
      "zh": "80年代，政府债券收益率高达15%到16%。",
-     "en": "",
+     "en": "In the 1980s, government bond yields were as high as 15% to 16%.",
      "segments": [
-      {"zh": "80年代，政府债券收益率高达15%到16%。"}
+      {"zh": "80"},
+      {"zh": "年代", "py": "niándài", "gl": "decade (the '80s)"},
+      {"zh": "，"},
+      {"zh": "政府", "py": "zhèngfǔ", "gl": "government"},
+      {"zh": "债券", "py": "zhàiquàn", "gl": "bonds"},
+      {"zh": "收益率", "py": "shōuyìlǜ", "gl": "yield"},
+      {"zh": "高达", "py": "gāodá", "gl": "as high as"},
+      {"zh": "15%"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "16%"},
+      {"zh": "。"}
      ],
      "start": 400.54,
      "end": 406.41
@@ -1222,17 +1559,57 @@
     {
      "id": "s054",
      "zh": "《股票交易者年鉴》的杰弗里·赫希预测道指将涨到75000点，比现在的51678点高约50%。",
-     "en": "",
+     "en": "Jeffrey Hirsch of the Stock Trader's Almanac predicts the Dow will rise to 75,000, about 50% higher than the current 51,678.",
      "segments": [
-      {"zh": "《股票交易者年鉴》的杰弗里·赫希预测道指将涨到75000点，比现在的51678点高约50%。"}
+      {"zh": "《"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "交易者", "py": "jiāoyìzhě", "gl": "trader"},
+      {"zh": "年鉴", "py": "niánjiàn", "gl": "almanac"},
+      {"zh": "》"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "杰弗里", "py": "Jiéfúlǐ", "gl": "Jeffrey"},
+      {"zh": "·"},
+      {"zh": "赫希", "py": "Hèxī", "gl": "Hirsch"},
+      {"zh": "预测", "py": "yùcè", "gl": "predict"},
+      {"zh": "道指", "py": "Dàozhǐ", "gl": "the Dow"},
+      {"zh": "将", "py": "jiāng", "gl": "will"},
+      {"zh": "涨到", "py": "zhǎngdào", "gl": "rise to"},
+      {"zh": "75000"},
+      {"zh": "点", "py": "diǎn", "gl": "points"},
+      {"zh": "，"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "51678"},
+      {"zh": "点", "py": "diǎn", "gl": "points"},
+      {"zh": "高", "py": "gāo", "gl": "higher"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "50%"},
+      {"zh": "。"}
      ]
     },
     {
      "id": "s055",
      "zh": "史蒂文还提醒：美联储独立于总统，尽管特朗普正向新任主席沃什施压。",
-     "en": "",
+     "en": "Steven also reminds listeners that the Fed is independent of the president, even though Trump is pressuring new chair Warsh.",
      "segments": [
-      {"zh": "史蒂文还提醒：美联储独立于总统，尽管特朗普正向新任主席沃什施压。"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "提醒", "py": "tíxǐng", "gl": "remind"},
+      {"zh": "："},
+      {"zh": "美联储", "py": "Měiliánchǔ", "gl": "the Fed"},
+      {"zh": "独立于", "py": "dúlì yú", "gl": "independent of"},
+      {"zh": "总统", "py": "zǒngtǒng", "gl": "president"},
+      {"zh": "，"},
+      {"zh": "尽管", "py": "jǐnguǎn", "gl": "even though"},
+      {"zh": "特朗普", "py": "Tèlǎngpǔ", "gl": "Trump"},
+      {"zh": "正", "py": "zhèng", "gl": "(in progress)"},
+      {"zh": "向", "py": "xiàng", "gl": "toward, on"},
+      {"zh": "新任", "py": "xīnrèn", "gl": "newly appointed"},
+      {"zh": "主席", "py": "zhǔxí", "gl": "chair"},
+      {"zh": "沃什", "py": "Wòshí", "gl": "Warsh"},
+      {"zh": "施压", "py": "shīyā", "gl": "put pressure"},
+      {"zh": "。"}
      ],
      "start": 419.76,
      "end": 427.61
@@ -1246,9 +1623,19 @@
     {
      "id": "s056",
      "zh": "债券入门：价格跌了，收益率为什么涨？",
-     "en": "",
+     "en": "Bonds 101: when prices fall, why do yields rise?",
      "segments": [
-      {"zh": "债券入门：价格跌了，收益率为什么涨？"}
+      {"zh": "债券", "py": "zhàiquàn", "gl": "bonds"},
+      {"zh": "入门", "py": "rùmén", "gl": "introduction, basics"},
+      {"zh": "："},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "，"},
+      {"zh": "收益率", "py": "shōuyìlǜ", "gl": "yield"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "涨", "py": "zhǎng", "gl": "rise"},
+      {"zh": "？"}
      ],
      "start": 427.94,
      "end": 432.71
@@ -1262,9 +1649,36 @@
     {
      "id": "s057",
      "zh": "史蒂文讲了个故事：1982年，他的祖父母买了一张20年期、面值1000美元、利率15%的债券。",
-     "en": "",
+     "en": "Steven told a story: in 1982, his grandparents bought a 20-year bond with a face value of $1,000 and a 15% interest rate.",
      "segments": [
-      {"zh": "史蒂文讲了个故事：1982年，他的祖父母买了一张20年期、面值1000美元、利率15%的债券。"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "讲", "py": "jiǎng", "gl": "tell"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "故事", "py": "gùshi", "gl": "story"},
+      {"zh": "："},
+      {"zh": "1982"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "祖父母", "py": "zǔfùmǔ", "gl": "grandparents"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "张", "py": "zhāng", "gl": "(measure word: sheet)"},
+      {"zh": "20"},
+      {"zh": "年期", "py": "niánqī", "gl": "-year term"},
+      {"zh": "、"},
+      {"zh": "面值", "py": "miànzhí", "gl": "face value"},
+      {"zh": "1000"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "、"},
+      {"zh": "利率", "py": "lìlǜ", "gl": "interest rate"},
+      {"zh": "15%"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "债券", "py": "zhàiquàn", "gl": "bond"},
+      {"zh": "。"}
      ],
      "start": 434.0,
      "end": 444.75
@@ -1272,9 +1686,39 @@
     {
      "id": "s058",
      "zh": "如果1992年他们以900美元卖出，买家仍按1000美元拿15%的利息，到期还能拿回1000美元，实际收益率更高。",
-     "en": "",
+     "en": "If they sold it for $900 in 1992, the buyer would still get 15% interest on $1,000 and get $1,000 back at maturity, so the real yield is higher.",
      "segments": [
-      {"zh": "如果1992年他们以900美元卖出，买家仍按1000美元拿15%的利息，到期还能拿回1000美元，实际收益率更高。"}
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "1992"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "以", "py": "yǐ", "gl": "for, at"},
+      {"zh": "900"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "卖出", "py": "màichū", "gl": "sell"},
+      {"zh": "，"},
+      {"zh": "买家", "py": "mǎijiā", "gl": "buyer"},
+      {"zh": "仍", "py": "réng", "gl": "still"},
+      {"zh": "按", "py": "àn", "gl": "according to"},
+      {"zh": "1000"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "拿", "py": "ná", "gl": "get"},
+      {"zh": "15%"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "利息", "py": "lìxī", "gl": "interest"},
+      {"zh": "，"},
+      {"zh": "到期", "py": "dàoqī", "gl": "at maturity"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "拿回", "py": "náhuí", "gl": "get back"},
+      {"zh": "1000"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "实际", "py": "shíjì", "gl": "actual, real"},
+      {"zh": "收益率", "py": "shōuyìlǜ", "gl": "yield"},
+      {"zh": "更", "py": "gèng", "gl": "even more"},
+      {"zh": "高", "py": "gāo", "gl": "high"},
+      {"zh": "。"}
      ],
      "start": 445.28,
      "end": 456.32
@@ -1282,9 +1726,18 @@
     {
      "id": "s059",
      "zh": "一句话：价格越低，收益率越高。",
-     "en": "",
+     "en": "In a nutshell: the lower the price, the higher the yield.",
      "segments": [
-      {"zh": "一句话：价格越低，收益率越高。"}
+      {"zh": "一句话", "py": "yíjùhuà", "gl": "in a word"},
+      {"zh": "："},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "越", "py": "yuè", "gl": "the more…"},
+      {"zh": "低", "py": "dī", "gl": "low"},
+      {"zh": "，"},
+      {"zh": "收益率", "py": "shōuyìlǜ", "gl": "yield"},
+      {"zh": "越", "py": "yuè", "gl": "the more…"},
+      {"zh": "高", "py": "gāo", "gl": "high"},
+      {"zh": "。"}
      ],
      "start": 456.32,
      "end": 460.45
@@ -1298,9 +1751,24 @@
     {
      "id": "s060",
      "zh": "买家主要是国债拍卖上的大机构，比如银行和各国央行。",
-     "en": "",
+     "en": "The buyers are mainly big institutions at Treasury auctions, such as banks and central banks of various countries.",
      "segments": [
-      {"zh": "买家主要是国债拍卖上的大机构，比如银行和各国央行。"}
+      {"zh": "买家", "py": "mǎijiā", "gl": "buyers"},
+      {"zh": "主要", "py": "zhǔyào", "gl": "mainly"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "国债", "py": "guózhài", "gl": "Treasury bonds"},
+      {"zh": "拍卖", "py": "pāimài", "gl": "auction"},
+      {"zh": "上", "py": "shang", "gl": "at"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "机构", "py": "jīgòu", "gl": "institutions"},
+      {"zh": "，"},
+      {"zh": "比如", "py": "bǐrú", "gl": "for example"},
+      {"zh": "银行", "py": "yínháng", "gl": "banks"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "各国", "py": "gèguó", "gl": "various countries"},
+      {"zh": "央行", "py": "yāngháng", "gl": "central banks"},
+      {"zh": "。"}
      ],
      "start": 460.76,
      "end": 466.59
@@ -1314,9 +1782,22 @@
     {
      "id": "s061",
      "zh": "持有人在二级市场抛售时，价格下跌，收益率随之上升。",
-     "en": "",
+     "en": "When holders sell off in the secondary market, prices fall and yields rise accordingly.",
      "segments": [
-      {"zh": "持有人在二级市场抛售时，价格下跌，收益率随之上升。"}
+      {"zh": "持有人", "py": "chíyǒurén", "gl": "holders"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "二级", "py": "èrjí", "gl": "secondary"},
+      {"zh": "市场", "py": "shìchǎng", "gl": "market"},
+      {"zh": "抛售", "py": "pāoshòu", "gl": "sell off"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "，"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "下跌", "py": "xiàdiē", "gl": "fall"},
+      {"zh": "，"},
+      {"zh": "收益率", "py": "shōuyìlǜ", "gl": "yield"},
+      {"zh": "随之", "py": "suízhī", "gl": "accordingly"},
+      {"zh": "上升", "py": "shàngshēng", "gl": "rise"},
+      {"zh": "。"}
      ],
      "start": 467.5,
      "end": 474.57
@@ -1330,9 +1811,25 @@
     {
      "id": "s062",
      "zh": "散户的“捡漏单”撼动不了市场：“我可不是什么大鱼。”",
-     "en": "",
+     "en": "Retail investors' \"bargain-hunting orders\" can't move the market: \"I'm certainly no big fish.\"",
      "segments": [
-      {"zh": "散户的“捡漏单”撼动不了市场：“我可不是什么大鱼。”"}
+      {"zh": "散户", "py": "sǎnhù", "gl": "retail investors"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "“"},
+      {"zh": "捡漏单", "py": "jiǎnlòudān", "gl": "bargain-hunting orders"},
+      {"zh": "”"},
+      {"zh": "撼动", "py": "hàndòng", "gl": "shake, move"},
+      {"zh": "不了", "py": "buliǎo", "gl": "unable to"},
+      {"zh": "市场", "py": "shìchǎng", "gl": "market"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "可", "py": "kě", "gl": "really, certainly"},
+      {"zh": "不是", "py": "búshì", "gl": "am not"},
+      {"zh": "什么", "py": "shénme", "gl": "any kind of"},
+      {"zh": "大鱼", "py": "dàyú", "gl": "big fish"},
+      {"zh": "。"},
+      {"zh": "”"}
      ],
      "start": 475.62,
      "end": 480.68
@@ -1346,9 +1843,28 @@
     {
      "id": "s063",
      "zh": "他的免责声明：“不构成任何买卖建议……钱是你的，后果自负。”",
-     "en": "",
+     "en": "His disclaimer: \"This doesn't constitute any buy or sell advice... it's your money, so you bear the consequences.\"",
      "segments": [
-      {"zh": "他的免责声明：“不构成任何买卖建议……钱是你的，后果自负。”"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "免责声明", "py": "miǎnzéshēngmíng", "gl": "disclaimer"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "构成", "py": "gòuchéng", "gl": "constitute"},
+      {"zh": "任何", "py": "rènhé", "gl": "any"},
+      {"zh": "买卖", "py": "mǎimài", "gl": "buying and selling"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "……"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "，"},
+      {"zh": "后果", "py": "hòuguǒ", "gl": "consequences"},
+      {"zh": "自负", "py": "zìfù", "gl": "bear oneself"},
+      {"zh": "。"},
+      {"zh": "”"}
      ],
      "start": 480.68,
      "end": 488.57
@@ -1362,9 +1878,10 @@
     {
      "id": "s064",
      "zh": "今日总结",
-     "en": "",
+     "en": "Today's summary",
      "segments": [
-      {"zh": "今日总结"}
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
      ],
      "start": 488.9,
      "end": 490.35
@@ -1378,9 +1895,24 @@
     {
      "id": "s065",
      "zh": "史蒂文觉得这次塔可节值得去，但值的是人，不是塔可。",
-     "en": "",
+     "en": "Steven thinks this taco festival is worth going to, but what makes it worth it is the people, not the tacos.",
      "segments": [
-      {"zh": "史蒂文觉得这次塔可节值得去，但值的是人，不是塔可。"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "觉得", "py": "juéde", "gl": "thinks"},
+      {"zh": "这次", "py": "zhècì", "gl": "this time"},
+      {"zh": "塔可节", "py": "tǎkějié", "gl": "taco festival"},
+      {"zh": "值得", "py": "zhíde", "gl": "worth"},
+      {"zh": "去", "py": "qù", "gl": "going"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "值", "py": "zhí", "gl": "worth it"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "，"},
+      {"zh": "不是", "py": "búshì", "gl": "not"},
+      {"zh": "塔可", "py": "tǎkě", "gl": "tacos"},
+      {"zh": "。"}
      ],
      "start": 491.12,
      "end": 497.37
@@ -1388,9 +1920,33 @@
     {
      "id": "s066",
      "zh": "至于债券，只要记住面值永远不变，变的只是别人愿意出的价钱，也就没那么难懂了。",
-     "en": "",
+     "en": "As for bonds, as long as you remember that the face value never changes and only the price others are willing to pay changes, they're not so hard to understand.",
      "segments": [
-      {"zh": "至于债券，只要记住面值永远不变，变的只是别人愿意出的价钱，也就没那么难懂了。"}
+      {"zh": "至于", "py": "zhìyú", "gl": "as for"},
+      {"zh": "债券", "py": "zhàiquàn", "gl": "bonds"},
+      {"zh": "，"},
+      {"zh": "只要", "py": "zhǐyào", "gl": "as long as"},
+      {"zh": "记住", "py": "jìzhù", "gl": "remember"},
+      {"zh": "面值", "py": "miànzhí", "gl": "face value"},
+      {"zh": "永远", "py": "yǒngyuǎn", "gl": "always, forever"},
+      {"zh": "不变", "py": "búbiàn", "gl": "unchanging"},
+      {"zh": "，"},
+      {"zh": "变", "py": "biàn", "gl": "change"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "only"},
+      {"zh": "别人", "py": "biérén", "gl": "other people"},
+      {"zh": "愿意", "py": "yuànyì", "gl": "willing"},
+      {"zh": "出", "py": "chū", "gl": "offer, pay"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "价钱", "py": "jiàqián", "gl": "price"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "没", "py": "méi", "gl": "not"},
+      {"zh": "那么", "py": "nàme", "gl": "that, so"},
+      {"zh": "难懂", "py": "nándǒng", "gl": "hard to understand"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
      ],
      "start": 497.68,
      "end": 507.25

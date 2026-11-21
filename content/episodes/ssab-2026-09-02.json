@@ -16,9 +16,10 @@
     {
      "id": "s001",
      "zh": "内容速览",
-     "en": "",
+     "en": "Quick overview",
      "segments": [
-      {"zh": "内容速览"}
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
      ],
      "start": 13.24,
      "end": 14.27
@@ -32,9 +33,27 @@
     {
      "id": "s002",
      "zh": "这期节目是史蒂文在布法罗一家精酿酒吧录的，酒吧就在冰球馆旁边。",
-     "en": "",
+     "en": "Steven recorded this episode in a craft beer bar in Buffalo, right next to the hockey arena.",
      "segments": [
-      {"zh": "这期节目是史蒂文在布法罗一家精酿酒吧录的，酒吧就在冰球馆旁边。"}
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure: episode)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis: 是…的)"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "一家", "py": "yì jiā", "gl": "a (measure: business)"},
+      {"zh": "精酿", "py": "jīngniàng", "gl": "craft-brewed"},
+      {"zh": "酒吧", "py": "jiǔbā", "gl": "bar"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "的", "py": "de", "gl": "(emphasis: 是…的)"},
+      {"zh": "，"},
+      {"zh": "酒吧", "py": "jiǔbā", "gl": "bar"},
+      {"zh": "就", "py": "jiù", "gl": "right"},
+      {"zh": "在", "py": "zài", "gl": "is at"},
+      {"zh": "冰球馆", "py": "bīngqiúguǎn", "gl": "hockey arena"},
+      {"zh": "旁边", "py": "pángbiān", "gl": "next to"},
+      {"zh": "。"}
      ],
      "start": 14.54,
      "end": 21.71
@@ -42,9 +61,21 @@
     {
      "id": "s003",
      "zh": "他喝了两杯啤酒，窗外龙卷风预警，电闪雷鸣。",
-     "en": "",
+     "en": "He drank two beers while a tornado warning was in effect outside, with thunder and lightning.",
      "segments": [
-      {"zh": "他喝了两杯啤酒，窗外龙卷风预警，电闪雷鸣。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "喝", "py": "hē", "gl": "drink"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "杯", "py": "bēi", "gl": "glass"},
+      {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
+      {"zh": "，"},
+      {"zh": "窗外", "py": "chuāngwài", "gl": "outside the window"},
+      {"zh": "龙卷风", "py": "lóngjuǎnfēng", "gl": "tornado"},
+      {"zh": "预警", "py": "yùjǐng", "gl": "warning"},
+      {"zh": "，"},
+      {"zh": "电闪雷鸣", "py": "diànshǎnléimíng", "gl": "thunder and lightning"},
+      {"zh": "。"}
      ],
      "start": 22.7,
      "end": 28.81
@@ -52,9 +83,20 @@
     {
      "id": "s004",
      "zh": "他的难题很简单：布法罗没有便宜的床。",
-     "en": "",
+     "en": "His problem was simple: there are no cheap beds in Buffalo.",
      "segments": [
-      {"zh": "他的难题很简单：布法罗没有便宜的床。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "难题", "py": "nántí", "gl": "problem"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "简单", "py": "jiǎndān", "gl": "simple"},
+      {"zh": "："},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there is no"},
+      {"zh": "便宜", "py": "piányi", "gl": "cheap"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "床", "py": "chuáng", "gl": "bed"},
+      {"zh": "。"}
      ],
      "start": 29.78,
      "end": 34.35
@@ -62,9 +104,24 @@
     {
      "id": "s005",
      "zh": "住一百美元的酒店，睡陌生人的空床，还是去机场过夜？",
-     "en": "",
+     "en": "Stay at a $100 hotel, sleep in a stranger's spare bed, or spend the night at the airport?",
      "segments": [
-      {"zh": "住一百美元的酒店，睡陌生人的空床，还是去机场过夜？"}
+      {"zh": "住", "py": "zhù", "gl": "stay at"},
+      {"zh": "一百", "py": "yìbǎi", "gl": "one hundred"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "，"},
+      {"zh": "睡", "py": "shuì", "gl": "sleep in"},
+      {"zh": "陌生人", "py": "mòshēngrén", "gl": "stranger"},
+      {"zh": "的", "py": "de", "gl": "'s"},
+      {"zh": "空床", "py": "kòngchuáng", "gl": "spare bed"},
+      {"zh": "，"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "过夜", "py": "guòyè", "gl": "spend the night"},
+      {"zh": "？"}
      ],
      "start": 34.8,
      "end": 41.73
@@ -72,9 +129,14 @@
     {
      "id": "s006",
      "zh": "他纠结了大半期。",
-     "en": "",
+     "en": "He agonized over it for most of the episode.",
      "segments": [
-      {"zh": "他纠结了大半期。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "纠结", "py": "jiūjié", "gl": "agonize"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "大半", "py": "dàbàn", "gl": "most of"},
+      {"zh": "期", "py": "qī", "gl": "episode"},
+      {"zh": "。"}
      ],
      "start": 43.0,
      "end": 44.11
@@ -82,9 +144,37 @@
     {
      "id": "s007",
      "zh": "节目里他还聊了水牛城鸡翅、免费披萨、泡坏的手机和一场跑题的采访，最后以日出时分的晨跑收尾。",
-     "en": "",
+     "en": "In the episode he also talks about Buffalo wings, free pizza, a water-damaged phone and an interview that went off topic, and finally wraps up with a run at sunrise.",
      "segments": [
-      {"zh": "节目里他还聊了水牛城鸡翅、免费披萨、泡坏的手机和一场跑题的采访，最后以日出时分的晨跑收尾。"}
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "聊", "py": "liáo", "gl": "chat about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "水牛城", "py": "Shuǐniúchéng", "gl": "Buffalo"},
+      {"zh": "鸡翅", "py": "jīchì", "gl": "chicken wings"},
+      {"zh": "、"},
+      {"zh": "免费", "py": "miǎnfèi", "gl": "free"},
+      {"zh": "披萨", "py": "pīsà", "gl": "pizza"},
+      {"zh": "、"},
+      {"zh": "泡坏", "py": "pàohuài", "gl": "water-damaged"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "手机", "py": "shǒujī", "gl": "phone"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "一场", "py": "yì chǎng", "gl": "a (measure: event)"},
+      {"zh": "跑题", "py": "pǎotí", "gl": "off-topic"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "采访", "py": "cǎifǎng", "gl": "interview"},
+      {"zh": "，"},
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "以", "py": "yǐ", "gl": "with"},
+      {"zh": "日出", "py": "rìchū", "gl": "sunrise"},
+      {"zh": "时分", "py": "shífēn", "gl": "time of"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "晨跑", "py": "chénpǎo", "gl": "morning run"},
+      {"zh": "收尾", "py": "shōuwěi", "gl": "wrap up"},
+      {"zh": "。"}
      ],
      "start": 44.56,
      "end": 55.97
@@ -98,9 +188,15 @@
     {
      "id": "s008",
      "zh": "到了布法罗，却找不到青旅",
-     "en": "",
+     "en": "Arriving in Buffalo, but no hostel to be found",
      "segments": [
-      {"zh": "到了布法罗，却找不到青旅"}
+      {"zh": "到", "py": "dào", "gl": "arrive"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "，"},
+      {"zh": "却", "py": "què", "gl": "but"},
+      {"zh": "找不到", "py": "zhǎobudào", "gl": "can't find"},
+      {"zh": "青旅", "py": "qīnglǚ", "gl": "youth hostel"}
      ],
      "start": 57.34,
      "end": 60.13
@@ -114,9 +210,28 @@
     {
      "id": "s009",
      "zh": "从纽约州的尼亚加拉瀑布城坐公交到布法罗，现金两美元，一小时左右就到了。",
-     "en": "",
+     "en": "Taking the bus from Niagara Falls, New York to Buffalo costs two dollars in cash and takes about an hour.",
      "segments": [
-      {"zh": "从纽约州的尼亚加拉瀑布城坐公交到布法罗，现金两美元，一小时左右就到了。"}
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "纽约州", "py": "Niǔyuēzhōu", "gl": "New York State"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "尼亚加拉瀑布城", "py": "Níyàjiālāpùbùchéng", "gl": "Niagara Falls (city)"},
+      {"zh": "坐", "py": "zuò", "gl": "take"},
+      {"zh": "公交", "py": "gōngjiāo", "gl": "bus"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "，"},
+      {"zh": "现金", "py": "xiànjīn", "gl": "cash"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hour"},
+      {"zh": "左右", "py": "zuǒyòu", "gl": "about"},
+      {"zh": "就", "py": "jiù", "gl": "(already, quickly)"},
+      {"zh": "到", "py": "dào", "gl": "arrive"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
      ],
      "start": 61.18,
      "end": 70.65
@@ -124,9 +239,14 @@
     {
      "id": "s010",
      "zh": "找住处却难了。",
-     "en": "",
+     "en": "Finding a place to stay, however, was hard.",
      "segments": [
-      {"zh": "找住处却难了。"}
+      {"zh": "找", "py": "zhǎo", "gl": "look for"},
+      {"zh": "住处", "py": "zhùchù", "gl": "place to stay"},
+      {"zh": "却", "py": "què", "gl": "however"},
+      {"zh": "难", "py": "nán", "gl": "hard"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
      ],
      "start": 72.04,
      "end": 73.37
@@ -134,9 +254,22 @@
     {
      "id": "s011",
      "zh": "这里没有背包客青旅，住一晚基本都要一百美元起。",
-     "en": "",
+     "en": "There are no backpacker hostels here, and a night basically costs $100 and up.",
      "segments": [
-      {"zh": "这里没有背包客青旅，住一晚基本都要一百美元起。"}
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there is no"},
+      {"zh": "背包客", "py": "bēibāokè", "gl": "backpacker"},
+      {"zh": "青旅", "py": "qīnglǚ", "gl": "youth hostel"},
+      {"zh": "，"},
+      {"zh": "住", "py": "zhù", "gl": "stay"},
+      {"zh": "一晚", "py": "yì wǎn", "gl": "one night"},
+      {"zh": "基本", "py": "jīběn", "gl": "basically"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "要", "py": "yào", "gl": "cost"},
+      {"zh": "一百", "py": "yìbǎi", "gl": "one hundred"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "起", "py": "qǐ", "gl": "and up"},
+      {"zh": "。"}
      ],
      "start": 73.8,
      "end": 79.53
@@ -144,9 +277,31 @@
     {
      "id": "s012",
      "zh": "Reddit上有人建议睡灰狗巴士站，但史蒂文觉得那里地方小，周边治安差，并不安全。",
-     "en": "",
+     "en": "Someone on Reddit suggested sleeping at the Greyhound bus station, but Steven felt it was small, the surrounding area was rough, and it wasn't safe at all.",
      "segments": [
-      {"zh": "Reddit上有人建议睡灰狗巴士站，但史蒂文觉得那里地方小，周边治安差，并不安全。"}
+      {"zh": "Reddit"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "有人", "py": "yǒurén", "gl": "someone"},
+      {"zh": "建议", "py": "jiànyì", "gl": "suggest"},
+      {"zh": "睡", "py": "shuì", "gl": "sleep at"},
+      {"zh": "灰狗", "py": "Huīgǒu", "gl": "Greyhound"},
+      {"zh": "巴士站", "py": "bāshìzhàn", "gl": "bus station"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "觉得", "py": "juéde", "gl": "feel"},
+      {"zh": "那里", "py": "nàli", "gl": "there"},
+      {"zh": "地方", "py": "dìfang", "gl": "space"},
+      {"zh": "小", "py": "xiǎo", "gl": "small"},
+      {"zh": "，"},
+      {"zh": "周边", "py": "zhōubiān", "gl": "surrounding area"},
+      {"zh": "治安", "py": "zhì'ān", "gl": "public safety"},
+      {"zh": "差", "py": "chà", "gl": "poor"},
+      {"zh": "，"},
+      {"zh": "并", "py": "bìng", "gl": "(emphatic) at all"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "安全", "py": "ānquán", "gl": "safe"},
+      {"zh": "。"}
      ],
      "start": 79.86,
      "end": 89.95
@@ -160,9 +315,14 @@
     {
      "id": "s013",
      "zh": "行李也没处寄存。",
-     "en": "",
+     "en": "There was nowhere to store his luggage, either.",
      "segments": [
-      {"zh": "行李也没处寄存。"}
+      {"zh": "行李", "py": "xíngli", "gl": "luggage"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "没", "py": "méi", "gl": "no"},
+      {"zh": "处", "py": "chù", "gl": "place"},
+      {"zh": "寄存", "py": "jìcún", "gl": "store"},
+      {"zh": "。"}
      ],
      "start": 90.24,
      "end": 91.67
@@ -170,9 +330,37 @@
     {
      "id": "s014",
      "zh": "他问遍了司机、酒保、车站员工和游客中心，得到的回答都一样：九一一之后因为炸弹威胁，储物柜早就撤了。",
-     "en": "",
+     "en": "He asked drivers, bartenders, station staff and the visitor center, and got the same answer everywhere: after 9/11, because of bomb threats, the lockers were removed long ago.",
      "segments": [
-      {"zh": "他问遍了司机、酒保、车站员工和游客中心，得到的回答都一样：九一一之后因为炸弹威胁，储物柜早就撤了。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "问遍", "py": "wènbiàn", "gl": "ask all around"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "司机", "py": "sījī", "gl": "driver"},
+      {"zh": "、"},
+      {"zh": "酒保", "py": "jiǔbǎo", "gl": "bartender"},
+      {"zh": "、"},
+      {"zh": "车站", "py": "chēzhàn", "gl": "station"},
+      {"zh": "员工", "py": "yuángōng", "gl": "staff"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "游客中心", "py": "yóukèzhōngxīn", "gl": "visitor center"},
+      {"zh": "，"},
+      {"zh": "得到", "py": "dédào", "gl": "get"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "回答", "py": "huídá", "gl": "answer"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "一样", "py": "yíyàng", "gl": "the same"},
+      {"zh": "："},
+      {"zh": "九一一", "py": "Jiǔyāoyāo", "gl": "9/11"},
+      {"zh": "之后", "py": "zhīhòu", "gl": "after"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because of"},
+      {"zh": "炸弹", "py": "zhàdàn", "gl": "bomb"},
+      {"zh": "威胁", "py": "wēixié", "gl": "threat"},
+      {"zh": "，"},
+      {"zh": "储物柜", "py": "chǔwùguì", "gl": "lockers"},
+      {"zh": "早就", "py": "zǎojiù", "gl": "long ago"},
+      {"zh": "撤", "py": "chè", "gl": "remove"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
      ],
      "start": 92.7,
      "end": 106.14
@@ -186,9 +374,14 @@
     {
      "id": "s015",
      "zh": "沙发客和酒吧里的邀请",
-     "en": "",
+     "en": "Couchsurfers and an invitation at the bar",
      "segments": [
-      {"zh": "沙发客和酒吧里的邀请"}
+      {"zh": "沙发客", "py": "shāfākè", "gl": "couchsurfers"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "酒吧", "py": "jiǔbā", "gl": "bar"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "邀请", "py": "yāoqǐng", "gl": "invitation"}
      ],
      "start": 106.14,
      "end": 109.43
@@ -202,9 +395,26 @@
     {
      "id": "s016",
      "zh": "史蒂文付费开通了沙发客网站Couchsurfing，现在每月约7美元，一年25美元。",
-     "en": "",
+     "en": "Steven paid to sign up for the couch-surfing site Couchsurfing; it's now about 7 dollars a month, or 25 dollars a year.",
      "segments": [
-      {"zh": "史蒂文付费开通了沙发客网站Couchsurfing，现在每月约7美元，一年25美元。"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "付费", "py": "fùfèi", "gl": "pay"},
+      {"zh": "开通", "py": "kāitōng", "gl": "activate (account)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "沙发客", "py": "shāfākè", "gl": "couch-surfing"},
+      {"zh": "网站", "py": "wǎngzhàn", "gl": "website"},
+      {"zh": "Couchsurfing"},
+      {"zh": "，"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "每月", "py": "měiyuè", "gl": "per month"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "7"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "一年", "py": "yìnián", "gl": "a year"},
+      {"zh": "25"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "。"}
      ],
      "start": 110.36,
      "end": 119.59
@@ -212,9 +422,43 @@
     {
      "id": "s017",
      "zh": "可临时给陌生人发消息，他心里还是没底：“说白了就是一场交易……我今晚只想有个地方睡，不想交朋友，这样行吗？”",
-     "en": "",
+     "en": "But messaging strangers at the last minute, he still felt unsure: \"Let's be honest, it's just a transaction... I only want somewhere to sleep tonight, I don't want to make friends. Is that okay?\"",
      "segments": [
-      {"zh": "可临时给陌生人发消息，他心里还是没底：“说白了就是一场交易……我今晚只想有个地方睡，不想交朋友，这样行吗？”"}
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "临时", "py": "línshí", "gl": "at short notice"},
+      {"zh": "给", "py": "gěi", "gl": "to"},
+      {"zh": "陌生人", "py": "mòshēngrén", "gl": "strangers"},
+      {"zh": "发", "py": "fā", "gl": "send"},
+      {"zh": "消息", "py": "xiāoxi", "gl": "messages"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "心里", "py": "xīnli", "gl": "inwardly"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "没底", "py": "méidǐ", "gl": "unsure"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "说白了", "py": "shuōbáile", "gl": "to put it bluntly"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is just"},
+      {"zh": "一场", "py": "yìchǎng", "gl": "a (measure word)"},
+      {"zh": "交易", "py": "jiāoyì", "gl": "transaction"},
+      {"zh": "……"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "今晚", "py": "jīnwǎn", "gl": "tonight"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "地方", "py": "dìfang", "gl": "place"},
+      {"zh": "睡", "py": "shuì", "gl": "sleep"},
+      {"zh": "，"},
+      {"zh": "不想", "py": "bùxiǎng", "gl": "don't want"},
+      {"zh": "交朋友", "py": "jiāopéngyou", "gl": "make friends"},
+      {"zh": "，"},
+      {"zh": "这样", "py": "zhèyàng", "gl": "this way"},
+      {"zh": "行", "py": "xíng", "gl": "okay"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"},
+      {"zh": "”"}
      ],
      "start": 120.02,
      "end": 135.43
@@ -222,9 +466,19 @@
     {
      "id": "s018",
      "zh": "他还开玩笑说，不知道女朋友会怎么看。",
-     "en": "",
+     "en": "He also joked that he didn't know what his girlfriend would think.",
      "segments": [
-      {"zh": "他还开玩笑说，不知道女朋友会怎么看。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "开玩笑", "py": "kāiwánxiào", "gl": "joke"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "不知道", "py": "bùzhīdào", "gl": "not know"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "看", "py": "kàn", "gl": "view"},
+      {"zh": "。"}
      ],
      "start": 136.34,
      "end": 140.57
@@ -238,9 +492,31 @@
     {
      "id": "s019",
      "zh": "酒吧里一位出差的男士分了他半块披萨，还说自己酒店房间里有张空床。",
-     "en": "",
+     "en": "In a bar, a man on a business trip shared half a pizza with him and said there was an empty bed in his hotel room.",
      "segments": [
-      {"zh": "酒吧里一位出差的男士分了他半块披萨，还说自己酒店房间里有张空床。"}
+      {"zh": "酒吧", "py": "jiǔbā", "gl": "bar"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "一位", "py": "yíwèi", "gl": "a (polite measure)"},
+      {"zh": "出差", "py": "chūchāi", "gl": "on business trip"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "男士", "py": "nánshì", "gl": "man"},
+      {"zh": "分", "py": "fēn", "gl": "share"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "半", "py": "bàn", "gl": "half"},
+      {"zh": "块", "py": "kuài", "gl": "piece"},
+      {"zh": "披萨", "py": "pīsà", "gl": "pizza"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "his own"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "房间", "py": "fángjiān", "gl": "room"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "张", "py": "zhāng", "gl": "(measure for beds)"},
+      {"zh": "空床", "py": "kōngchuáng", "gl": "empty bed"},
+      {"zh": "。"}
      ],
      "start": 142.06,
      "end": 149.87
@@ -248,9 +524,26 @@
     {
      "id": "s020",
      "zh": "为了安全，史蒂文婉言谢绝：“这事可能有两种完全不同的结局。”",
-     "en": "",
+     "en": "For safety's sake, Steven politely declined: \"This could end in two completely different ways.\"",
      "segments": [
-      {"zh": "为了安全，史蒂文婉言谢绝：“这事可能有两种完全不同的结局。”"}
+      {"zh": "为了", "py": "wèile", "gl": "for the sake of"},
+      {"zh": "安全", "py": "ānquán", "gl": "safety"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "婉言谢绝", "py": "wǎnyánxièjué", "gl": "politely decline"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "事", "py": "shì", "gl": "matter"},
+      {"zh": "可能", "py": "kěnéng", "gl": "may"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "两种", "py": "liǎngzhǒng", "gl": "two kinds"},
+      {"zh": "完全", "py": "wánquán", "gl": "completely"},
+      {"zh": "不同", "py": "bùtóng", "gl": "different"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "结局", "py": "jiéjú", "gl": "outcome"},
+      {"zh": "。"},
+      {"zh": "”"}
      ],
      "start": 150.96,
      "end": 158.85
@@ -264,9 +557,18 @@
     {
      "id": "s021",
      "zh": "旅行的意义：洗浴中心、机场和个人风格",
-     "en": "",
+     "en": "The meaning of travel: bathhouses, airports and personal style",
      "segments": [
-      {"zh": "旅行的意义：洗浴中心、机场和个人风格"}
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "意义", "py": "yìyì", "gl": "meaning"},
+      {"zh": "："},
+      {"zh": "洗浴中心", "py": "xǐyùzhōngxīn", "gl": "bathhouse"},
+      {"zh": "、"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "个人", "py": "gèrén", "gl": "personal"},
+      {"zh": "风格", "py": "fēnggé", "gl": "style"}
      ],
      "start": 159.3,
      "end": 164.86
@@ -280,9 +582,16 @@
     {
      "id": "s022",
      "zh": "他想验证在美国能不能穷游。",
-     "en": "",
+     "en": "He wanted to test whether budget travel is possible in America.",
      "segments": [
-      {"zh": "他想验证在美国能不能穷游。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "验证", "py": "yànzhèng", "gl": "test"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "美国", "py": "Měiguó", "gl": "America"},
+      {"zh": "能不能", "py": "néngbunéng", "gl": "whether can"},
+      {"zh": "穷游", "py": "qióngyóu", "gl": "budget travel"},
+      {"zh": "。"}
      ],
      "start": 164.86,
      "end": 168.51
@@ -290,9 +599,20 @@
     {
      "id": "s023",
      "zh": "至少在布法罗、克利夫兰和底特律，答案是不能。",
-     "en": "",
+     "en": "At least in Buffalo, Cleveland and Detroit, the answer is no.",
      "segments": [
-      {"zh": "至少在布法罗、克利夫兰和底特律，答案是不能。"}
+      {"zh": "至少", "py": "zhìshǎo", "gl": "at least"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "、"},
+      {"zh": "克利夫兰", "py": "Kèlìfūlán", "gl": "Cleveland"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "底特律", "py": "Dǐtèlǜ", "gl": "Detroit"},
+      {"zh": "，"},
+      {"zh": "答案", "py": "dá'àn", "gl": "answer"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "不能", "py": "bùnéng", "gl": "cannot"},
+      {"zh": "。"}
      ],
      "start": 169.12,
      "end": 175.09
@@ -300,9 +620,38 @@
     {
      "id": "s024",
      "zh": "他想找类似中国洗浴中心的地方，换上浴服、吃点零食，便宜地过一夜，可布法罗唯一的澡堂看起来很高档。",
-     "en": "",
+     "en": "He wanted to find something like a Chinese bathhouse, where he could change into a bathrobe, have some snacks and spend the night cheaply, but Buffalo's only bathhouse looked very upscale.",
      "segments": [
-      {"zh": "他想找类似中国洗浴中心的地方，换上浴服、吃点零食，便宜地过一夜，可布法罗唯一的澡堂看起来很高档。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "找", "py": "zhǎo", "gl": "find"},
+      {"zh": "类似", "py": "lèisì", "gl": "similar to"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "洗浴中心", "py": "xǐyùzhōngxīn", "gl": "bathhouse"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "地方", "py": "dìfang", "gl": "place"},
+      {"zh": "，"},
+      {"zh": "换上", "py": "huànshang", "gl": "change into"},
+      {"zh": "浴服", "py": "yùfú", "gl": "bathrobe"},
+      {"zh": "、"},
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "点", "py": "diǎn", "gl": "some"},
+      {"zh": "零食", "py": "língshí", "gl": "snacks"},
+      {"zh": "，"},
+      {"zh": "便宜", "py": "piányi", "gl": "cheap"},
+      {"zh": "地", "py": "de", "gl": "(adverb particle)"},
+      {"zh": "过", "py": "guò", "gl": "spend"},
+      {"zh": "一夜", "py": "yíyè", "gl": "one night"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "唯一", "py": "wéiyī", "gl": "only"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "澡堂", "py": "zǎotáng", "gl": "bathhouse"},
+      {"zh": "看起来", "py": "kànqilai", "gl": "look"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "高档", "py": "gāodàng", "gl": "upscale"},
+      {"zh": "。"}
      ],
      "start": 175.44,
      "end": 188.61
@@ -316,9 +665,23 @@
     {
      "id": "s025",
      "zh": "剩下的选择就是坐24路公交去24小时开放的机场。",
-     "en": "",
+     "en": "The remaining option was to take the No. 24 bus to the airport, which is open 24 hours.",
      "segments": [
-      {"zh": "剩下的选择就是坐24路公交去24小时开放的机场。"}
+      {"zh": "剩下", "py": "shèngxia", "gl": "remaining"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "选择", "py": "xuǎnzé", "gl": "option"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is just"},
+      {"zh": "坐", "py": "zuò", "gl": "take (vehicle)"},
+      {"zh": "24"},
+      {"zh": "路", "py": "lù", "gl": "route (bus)"},
+      {"zh": "公交", "py": "gōngjiāo", "gl": "bus"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "24"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "开放", "py": "kāifàng", "gl": "open"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "。"}
      ],
      "start": 189.98,
      "end": 196.79
@@ -326,9 +689,41 @@
     {
      "id": "s026",
      "zh": "他在泰国、韩国和中国都睡过车站和机场，再说在北京被邻居凌晨三点打电话吵了好几年，什么难熬的夜都不怕。",
-     "en": "",
+     "en": "He has slept in stations and airports in Thailand, Korea and China, and besides, after years of being woken by a neighbor's 3 a.m. phone calls in Beijing, no rough night scares him.",
      "segments": [
-      {"zh": "他在泰国、韩国和中国都睡过车站和机场，再说在北京被邻居凌晨三点打电话吵了好几年，什么难熬的夜都不怕。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "泰国", "py": "Tàiguó", "gl": "Thailand"},
+      {"zh": "、"},
+      {"zh": "韩国", "py": "Hánguó", "gl": "South Korea"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "睡", "py": "shuì", "gl": "sleep"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "车站", "py": "chēzhàn", "gl": "stations"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airports"},
+      {"zh": "，"},
+      {"zh": "再说", "py": "zàishuō", "gl": "besides"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "邻居", "py": "línjū", "gl": "neighbor"},
+      {"zh": "凌晨", "py": "língchén", "gl": "early morning"},
+      {"zh": "三点", "py": "sāndiǎn", "gl": "three o'clock"},
+      {"zh": "打电话", "py": "dǎdiànhuà", "gl": "make phone calls"},
+      {"zh": "吵", "py": "chǎo", "gl": "disturb"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "好几年", "py": "hǎojǐnián", "gl": "several years"},
+      {"zh": "，"},
+      {"zh": "什么", "py": "shénme", "gl": "any"},
+      {"zh": "难熬", "py": "nán'áo", "gl": "hard to endure"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "夜", "py": "yè", "gl": "night"},
+      {"zh": "都", "py": "dōu", "gl": "(emphasis)"},
+      {"zh": "不怕", "py": "búpà", "gl": "not afraid"},
+      {"zh": "。"}
      ],
      "start": 197.18,
      "end": 212.07
@@ -336,9 +731,32 @@
     {
      "id": "s027",
      "zh": "他不会推荐侄子侄女这样做，但承认这很符合他“你也能做到”的旅行风格。",
-     "en": "",
+     "en": "He wouldn't recommend his nieces and nephews do this, but admits it fits his \"you can do it too\" travel style.",
      "segments": [
-      {"zh": "他不会推荐侄子侄女这样做，但承认这很符合他“你也能做到”的旅行风格。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不会", "py": "búhuì", "gl": "would not"},
+      {"zh": "推荐", "py": "tuījiàn", "gl": "recommend"},
+      {"zh": "侄子", "py": "zhízi", "gl": "nephews"},
+      {"zh": "侄女", "py": "zhínǚ", "gl": "nieces"},
+      {"zh": "这样", "py": "zhèyàng", "gl": "like this"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "承认", "py": "chéngrèn", "gl": "admit"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "符合", "py": "fúhé", "gl": "fit"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "做到", "py": "zuòdào", "gl": "do it"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "风格", "py": "fēnggé", "gl": "style"},
+      {"zh": "。"}
      ],
      "start": 212.48,
      "end": 221.45
@@ -352,9 +770,28 @@
     {
      "id": "s028",
      "zh": "他还算过租车睡车里：租金、停车和油费加起来一天约95美元。",
-     "en": "",
+     "en": "He also calculated renting a car and sleeping in it: rental, parking and gas together come to about 95 dollars a day.",
      "segments": [
-      {"zh": "他还算过租车睡车里：租金、停车和油费加起来一天约95美元。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "算", "py": "suàn", "gl": "calculate"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "租车", "py": "zūchē", "gl": "rent a car"},
+      {"zh": "睡", "py": "shuì", "gl": "sleep"},
+      {"zh": "车", "py": "chē", "gl": "car"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "："},
+      {"zh": "租金", "py": "zūjīn", "gl": "rental fee"},
+      {"zh": "、"},
+      {"zh": "停车", "py": "tíngchē", "gl": "parking"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "油费", "py": "yóufèi", "gl": "gas cost"},
+      {"zh": "加起来", "py": "jiāqilai", "gl": "added up"},
+      {"zh": "一天", "py": "yìtiān", "gl": "per day"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "95"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "。"}
      ],
      "start": 221.76,
      "end": 230.27
@@ -362,9 +799,32 @@
     {
      "id": "s029",
      "zh": "游客中心说布法罗是“汽车城市”，他却不以为然：有共享单车、公交，还有自己的两条腿。",
-     "en": "",
+     "en": "The visitor center said Buffalo is a \"car city,\" but he disagreed: there are shared bikes, buses, and his own two legs.",
      "segments": [
-      {"zh": "游客中心说布法罗是“汽车城市”，他却不以为然：有共享单车、公交，还有自己的两条腿。"}
+      {"zh": "游客中心", "py": "yóukèzhōngxīn", "gl": "visitor center"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "“"},
+      {"zh": "汽车", "py": "qìchē", "gl": "car"},
+      {"zh": "城市", "py": "chéngshì", "gl": "city"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "却", "py": "què", "gl": "however"},
+      {"zh": "不以为然", "py": "bùyǐwéirán", "gl": "disagree"},
+      {"zh": "："},
+      {"zh": "有", "py": "yǒu", "gl": "there are"},
+      {"zh": "共享单车", "py": "gòngxiǎngdānchē", "gl": "shared bikes"},
+      {"zh": "、"},
+      {"zh": "公交", "py": "gōngjiāo", "gl": "buses"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "his own"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "两条", "py": "liǎngtiáo", "gl": "two (measure)"},
+      {"zh": "腿", "py": "tuǐ", "gl": "legs"},
+      {"zh": "。"}
      ],
      "start": 230.82,
      "end": 241.81
@@ -378,9 +838,14 @@
     {
      "id": "s030",
      "zh": "游客中心的建议和龙卷风预警",
-     "en": "",
+     "en": "The visitor center's advice and a tornado warning",
      "segments": [
-      {"zh": "游客中心的建议和龙卷风预警"}
+      {"zh": "游客中心", "py": "yóukèzhōngxīn", "gl": "visitor center"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "龙卷风", "py": "lóngjuǎnfēng", "gl": "tornado"},
+      {"zh": "预警", "py": "yùjǐng", "gl": "warning"}
      ],
      "start": 242.3,
      "end": 246.23
@@ -394,9 +859,30 @@
     {
      "id": "s031",
      "zh": "游客中心的工作人员觉得睡机场完全合理，还推荐了艺术中心、博物馆和一座赖特设计的房子。",
-     "en": "",
+     "en": "The visitor center staff thought sleeping at the airport was perfectly reasonable, and they also recommended an arts center, a museum, and a house designed by Frank Lloyd Wright.",
      "segments": [
-      {"zh": "游客中心的工作人员觉得睡机场完全合理，还推荐了艺术中心、博物馆和一座赖特设计的房子。"}
+      {"zh": "游客中心", "py": "yóukè zhōngxīn", "gl": "visitor center"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "工作人员", "py": "gōngzuò rényuán", "gl": "staff"},
+      {"zh": "觉得", "py": "juéde", "gl": "think"},
+      {"zh": "睡", "py": "shuì", "gl": "sleep"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "完全", "py": "wánquán", "gl": "completely"},
+      {"zh": "合理", "py": "hélǐ", "gl": "reasonable"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "推荐", "py": "tuījiàn", "gl": "recommend"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "艺术中心", "py": "yìshù zhōngxīn", "gl": "arts center"},
+      {"zh": "、"},
+      {"zh": "博物馆", "py": "bówùguǎn", "gl": "museum"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "一座", "py": "yí zuò", "gl": "a (building)"},
+      {"zh": "赖特", "py": "Làitè", "gl": "Wright"},
+      {"zh": "设计", "py": "shèjì", "gl": "design"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "房子", "py": "fángzi", "gl": "house"},
+      {"zh": "。"}
      ],
      "start": 247.18,
      "end": 258.33
@@ -404,9 +890,23 @@
     {
      "id": "s032",
      "zh": "史蒂文认为房价飙升，部分是因为劳动节长周末快到了。",
-     "en": "",
+     "en": "Steven thinks the soaring room prices are partly because the Labor Day long weekend is coming up.",
      "segments": [
-      {"zh": "史蒂文认为房价飙升，部分是因为劳动节长周末快到了。"}
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "认为", "py": "rènwéi", "gl": "think"},
+      {"zh": "房价", "py": "fángjià", "gl": "room prices"},
+      {"zh": "飙升", "py": "biāoshēng", "gl": "soar"},
+      {"zh": "，"},
+      {"zh": "部分", "py": "bùfen", "gl": "partly"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "劳动节", "py": "Láodòngjié", "gl": "Labor Day"},
+      {"zh": "长", "py": "cháng", "gl": "long"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "快", "py": "kuài", "gl": "soon"},
+      {"zh": "到", "py": "dào", "gl": "arrive"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
      ],
      "start": 258.94,
      "end": 265.97
@@ -414,9 +914,18 @@
     {
      "id": "s033",
      "zh": "龙卷风预警让野牛队的棒球赛推迟到周五。",
-     "en": "",
+     "en": "A tornado warning postponed the Bisons' baseball game to Friday.",
      "segments": [
-      {"zh": "龙卷风预警让野牛队的棒球赛推迟到周五。"}
+      {"zh": "龙卷风", "py": "lóngjuǎnfēng", "gl": "tornado"},
+      {"zh": "预警", "py": "yùjǐng", "gl": "warning"},
+      {"zh": "让", "py": "ràng", "gl": "cause"},
+      {"zh": "野牛队", "py": "Yěniú Duì", "gl": "the Bisons"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "棒球赛", "py": "bàngqiúsài", "gl": "baseball game"},
+      {"zh": "推迟", "py": "tuīchí", "gl": "postpone"},
+      {"zh": "到", "py": "dào", "gl": "until"},
+      {"zh": "周五", "py": "zhōuwǔ", "gl": "Friday"},
+      {"zh": "。"}
      ],
      "start": 266.32,
      "end": 271.27
@@ -424,9 +933,31 @@
     {
      "id": "s034",
      "zh": "瀑布边连下四天雨，他的衣服全是湿的：“我真是受够了！”",
-     "en": "",
+     "en": "After four straight days of rain by the falls, all his clothes were wet: \"I've really had enough!\"",
      "segments": [
-      {"zh": "瀑布边连下四天雨，他的衣服全是湿的：“我真是受够了！”"}
+      {"zh": "瀑布", "py": "pùbù", "gl": "waterfall"},
+      {"zh": "边", "py": "biān", "gl": "beside"},
+      {"zh": "连", "py": "lián", "gl": "in a row"},
+      {"zh": "下", "py": "xià", "gl": "fall (rain)"},
+      {"zh": "四", "py": "sì", "gl": "four"},
+      {"zh": "天", "py": "tiān", "gl": "days"},
+      {"zh": "雨", "py": "yǔ", "gl": "rain"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "衣服", "py": "yīfu", "gl": "clothes"},
+      {"zh": "全", "py": "quán", "gl": "all"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "湿", "py": "shī", "gl": "wet"},
+      {"zh": "的", "py": "de", "gl": "(emphasis)"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "真是", "py": "zhēnshi", "gl": "really"},
+      {"zh": "受够", "py": "shòugòu", "gl": "have had enough"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "！"},
+      {"zh": "”"}
      ],
      "start": 271.72,
      "end": 279.1
@@ -440,9 +971,13 @@
     {
      "id": "s035",
      "zh": "酒吧、鸡翅和披萨",
-     "en": "",
+     "en": "Bars, Wings and Pizza",
      "segments": [
-      {"zh": "酒吧、鸡翅和披萨"}
+      {"zh": "酒吧", "py": "jiǔbā", "gl": "bars"},
+      {"zh": "、"},
+      {"zh": "鸡翅", "py": "jīchì", "gl": "chicken wings"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "披萨", "py": "pīsà", "gl": "pizza"}
      ],
      "start": 279.1,
      "end": 281.63
@@ -456,9 +991,29 @@
     {
      "id": "s036",
      "zh": "这家酒吧紧挨着布法罗军刀队的主场，赛前总是爆满，像放大三倍的北京东直门大跃啤酒。",
-     "en": "",
+     "en": "This bar is right next to the Buffalo Sabres' home arena and is always packed before games, like Great Leap Brewing at Dongzhimen in Beijing, but three times bigger.",
      "segments": [
-      {"zh": "这家酒吧紧挨着布法罗军刀队的主场，赛前总是爆满，像放大三倍的北京东直门大跃啤酒。"}
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "家", "py": "jiā", "gl": "(measure word for businesses)"},
+      {"zh": "酒吧", "py": "jiǔbā", "gl": "bar"},
+      {"zh": "紧挨着", "py": "jǐn'āizhe", "gl": "right next to"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "军刀队", "py": "Jūndāo Duì", "gl": "the Sabres"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "主场", "py": "zhǔchǎng", "gl": "home arena"},
+      {"zh": "，"},
+      {"zh": "赛前", "py": "sàiqián", "gl": "before games"},
+      {"zh": "总是", "py": "zǒngshì", "gl": "always"},
+      {"zh": "爆满", "py": "bàomǎn", "gl": "packed"},
+      {"zh": "，"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
+      {"zh": "放大", "py": "fàngdà", "gl": "enlarged"},
+      {"zh": "三倍", "py": "sān bèi", "gl": "three times"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "东直门", "py": "Dōngzhímén", "gl": "Dongzhimen"},
+      {"zh": "大跃啤酒", "py": "Dàyuè Píjiǔ", "gl": "Great Leap Brewing"},
+      {"zh": "。"}
      ],
      "start": 282.0,
      "end": 292.13
@@ -472,9 +1027,18 @@
     {
      "id": "s037",
      "zh": "他发现纽约人对鸡翅和披萨特别挑剔。",
-     "en": "",
+     "en": "He found that New Yorkers are especially picky about wings and pizza.",
      "segments": [
-      {"zh": "他发现纽约人对鸡翅和披萨特别挑剔。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "发现", "py": "fāxiàn", "gl": "discover"},
+      {"zh": "纽约人", "py": "Niǔyuērén", "gl": "New Yorkers"},
+      {"zh": "对", "py": "duì", "gl": "about"},
+      {"zh": "鸡翅", "py": "jīchì", "gl": "chicken wings"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "披萨", "py": "pīsà", "gl": "pizza"},
+      {"zh": "特别", "py": "tèbié", "gl": "especially"},
+      {"zh": "挑剔", "py": "tiāoti", "gl": "picky"},
+      {"zh": "。"}
      ],
      "start": 292.46,
      "end": 297.23
@@ -482,9 +1046,31 @@
     {
      "id": "s038",
      "zh": "据说某天深夜，Anchor Bar的老板给几个饿坏的孩子炸了鸡块，撒上调料，结果一炮而红。",
-     "en": "",
+     "en": "Supposedly, late one night, the owner of the Anchor Bar fried up some chicken pieces for a few starving kids, tossed them in seasoning, and they became an instant hit.",
      "segments": [
-      {"zh": "据说某天深夜，Anchor Bar的老板给几个饿坏的孩子炸了鸡块，撒上调料，结果一炮而红。"}
+      {"zh": "据说", "py": "jùshuō", "gl": "reportedly"},
+      {"zh": "某", "py": "mǒu", "gl": "a certain"},
+      {"zh": "天", "py": "tiān", "gl": "day"},
+      {"zh": "深夜", "py": "shēnyè", "gl": "late at night"},
+      {"zh": "，"},
+      {"zh": "Anchor Bar"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "老板", "py": "lǎobǎn", "gl": "owner"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "几个", "py": "jǐ ge", "gl": "a few"},
+      {"zh": "饿坏", "py": "èhuài", "gl": "starving"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "孩子", "py": "háizi", "gl": "kids"},
+      {"zh": "炸", "py": "zhá", "gl": "deep-fry"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "鸡块", "py": "jīkuài", "gl": "chicken pieces"},
+      {"zh": "，"},
+      {"zh": "撒上", "py": "sǎshang", "gl": "sprinkle on"},
+      {"zh": "调料", "py": "tiáoliào", "gl": "seasoning"},
+      {"zh": "，"},
+      {"zh": "结果", "py": "jiéguǒ", "gl": "as a result"},
+      {"zh": "一炮而红", "py": "yí pào ér hóng", "gl": "instant hit"},
+      {"zh": "。"}
      ],
      "start": 297.56,
      "end": 307.87
@@ -492,9 +1078,30 @@
     {
      "id": "s039",
      "zh": "那块免费披萨是鸡柳配蓝纹奶酪酱，他赞不绝口：“公司这钱花得值。”",
-     "en": "",
+     "en": "That free slice of pizza was chicken tenders with blue cheese sauce, and he couldn't stop praising it: \"Money well spent by the company.\"",
      "segments": [
-      {"zh": "那块免费披萨是鸡柳配蓝纹奶酪酱，他赞不绝口：“公司这钱花得值。”"}
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "块", "py": "kuài", "gl": "(measure word for pieces)"},
+      {"zh": "免费", "py": "miǎnfèi", "gl": "free"},
+      {"zh": "披萨", "py": "pīsà", "gl": "pizza"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "鸡柳", "py": "jīliǔ", "gl": "chicken tenders"},
+      {"zh": "配", "py": "pèi", "gl": "paired with"},
+      {"zh": "蓝纹奶酪", "py": "lánwén nǎilào", "gl": "blue cheese"},
+      {"zh": "酱", "py": "jiàng", "gl": "sauce"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "赞不绝口", "py": "zànbùjuékǒu", "gl": "praise endlessly"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "花", "py": "huā", "gl": "spend"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "值", "py": "zhí", "gl": "worth it"},
+      {"zh": "。"},
+      {"zh": "”"}
      ],
      "start": 308.16,
      "end": 316.23
@@ -502,9 +1109,19 @@
     {
      "id": "s040",
      "zh": "至于鸡翅，太贵了，还没吃。",
-     "en": "",
+     "en": "As for the wings, they were too expensive, so he hasn't had any yet.",
      "segments": [
-      {"zh": "至于鸡翅，太贵了，还没吃。"}
+      {"zh": "至于", "py": "zhìyú", "gl": "as for"},
+      {"zh": "鸡翅", "py": "jīchì", "gl": "chicken wings"},
+      {"zh": "，"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "贵", "py": "guì", "gl": "expensive"},
+      {"zh": "了", "py": "le", "gl": "(emphasis)"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "没", "py": "méi", "gl": "not (yet)"},
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "。"}
      ],
      "start": 316.6,
      "end": 320.19
@@ -518,9 +1135,14 @@
     {
      "id": "s041",
      "zh": "在昂贵的布法罗做预算",
-     "en": "",
+     "en": "Budgeting in Expensive Buffalo",
      "segments": [
-      {"zh": "在昂贵的布法罗做预算"}
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "昂贵", "py": "ángguì", "gl": "expensive"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "预算", "py": "yùsuàn", "gl": "budget"}
      ],
      "start": 320.92,
      "end": 322.99
@@ -534,9 +1156,23 @@
     {
      "id": "s042",
      "zh": "一杯啤酒9美元，一顿饭15美元，酒店130美元起。",
-     "en": "",
+     "en": "A beer is $9, a meal is $15, and hotels start at $130.",
      "segments": [
-      {"zh": "一杯啤酒9美元，一顿饭15美元，酒店130美元起。"}
+      {"zh": "一杯", "py": "yì bēi", "gl": "a glass"},
+      {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
+      {"zh": "9"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "一顿", "py": "yí dùn", "gl": "a (meal)"},
+      {"zh": "饭", "py": "fàn", "gl": "meal"},
+      {"zh": "15"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "酒店", "py": "jiǔdiàn", "gl": "hotel"},
+      {"zh": "130"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "起", "py": "qǐ", "gl": "and up"},
+      {"zh": "。"}
      ],
      "start": 323.34,
      "end": 329.64
@@ -544,9 +1180,36 @@
     {
      "id": "s043",
      "zh": "他建议在美国每天准备100到150美元，还分享了一条经验：床位多少钱，附近吃饭大概也花多少。",
-     "en": "",
+     "en": "He suggests budgeting $100 to $150 a day in the US, and shared a rule of thumb: whatever a hostel bed costs is roughly what you'll spend on food nearby.",
      "segments": [
-      {"zh": "他建议在美国每天准备100到150美元，还分享了一条经验：床位多少钱，附近吃饭大概也花多少。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "建议", "py": "jiànyì", "gl": "suggest"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "美国", "py": "Měiguó", "gl": "the US"},
+      {"zh": "每天", "py": "měitiān", "gl": "every day"},
+      {"zh": "准备", "py": "zhǔnbèi", "gl": "set aside"},
+      {"zh": "100"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "150"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "分享", "py": "fēnxiǎng", "gl": "share"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一条", "py": "yì tiáo", "gl": "a (piece of)"},
+      {"zh": "经验", "py": "jīngyàn", "gl": "experience"},
+      {"zh": "："},
+      {"zh": "床位", "py": "chuángwèi", "gl": "bed"},
+      {"zh": "多少", "py": "duōshao", "gl": "how much"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "，"},
+      {"zh": "附近", "py": "fùjìn", "gl": "nearby"},
+      {"zh": "吃饭", "py": "chīfàn", "gl": "eat"},
+      {"zh": "大概", "py": "dàgài", "gl": "roughly"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "花", "py": "huā", "gl": "spend"},
+      {"zh": "多少", "py": "duōshao", "gl": "that much"},
+      {"zh": "。"}
      ],
      "start": 329.64,
      "end": 341.57
@@ -554,9 +1217,35 @@
     {
      "id": "s044",
      "zh": "他还吐槽订房网站先标23美元，点进去却一路涨到89，而且“它们在收集你的数据”。",
-     "en": "",
+     "en": "He also complained that booking sites first list $23, but once you click in it climbs all the way to $89, and \"they're collecting your data.\"",
      "segments": [
-      {"zh": "他还吐槽订房网站先标23美元，点进去却一路涨到89，而且“它们在收集你的数据”。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "吐槽", "py": "tǔcáo", "gl": "complain"},
+      {"zh": "订房", "py": "dìngfáng", "gl": "room-booking"},
+      {"zh": "网站", "py": "wǎngzhàn", "gl": "websites"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "标", "py": "biāo", "gl": "list (price)"},
+      {"zh": "23"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "点进去", "py": "diǎn jìnqu", "gl": "click in"},
+      {"zh": "却", "py": "què", "gl": "but"},
+      {"zh": "一路", "py": "yílù", "gl": "all the way"},
+      {"zh": "涨", "py": "zhǎng", "gl": "rise"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "89"},
+      {"zh": "，"},
+      {"zh": "而且", "py": "érqiě", "gl": "and also"},
+      {"zh": "“"},
+      {"zh": "它们", "py": "tāmen", "gl": "they"},
+      {"zh": "在", "py": "zài", "gl": "(in progress)"},
+      {"zh": "收集", "py": "shōují", "gl": "collect"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "数据", "py": "shùjù", "gl": "data"},
+      {"zh": "”"},
+      {"zh": "。"}
      ],
      "start": 342.02,
      "end": 352.69
@@ -570,9 +1259,15 @@
     {
      "id": "s045",
      "zh": "泡水的手机和跑题的采访",
-     "en": "",
+     "en": "A Waterlogged Phone and an Off-Topic Interview",
      "segments": [
-      {"zh": "泡水的手机和跑题的采访"}
+      {"zh": "泡水", "py": "pàoshuǐ", "gl": "waterlogged"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "手机", "py": "shǒujī", "gl": "phone"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "跑题", "py": "pǎotí", "gl": "off-topic"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "采访", "py": "cǎifǎng", "gl": "interview"}
      ],
      "start": 353.34,
      "end": 355.93
@@ -586,9 +1281,39 @@
     {
      "id": "s046",
      "zh": "他的iPhone在瀑布景点被淋透，充不进电，昨天那期46分钟的节目只好不用麦克风“裸录”，下午一点半才上线。",
-     "en": "",
+     "en": "His iPhone got soaked at the waterfall and wouldn't charge, so yesterday's 46-minute episode had to be recorded \"raw\" without a microphone, and it didn't go up until 1:30 p.m.",
      "segments": [
-      {"zh": "他的iPhone在瀑布景点被淋透，充不进电，昨天那期46分钟的节目只好不用麦克风“裸录”，下午一点半才上线。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "iPhone"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "瀑布", "py": "pùbù", "gl": "waterfall"},
+      {"zh": "景点", "py": "jǐngdiǎn", "gl": "scenic spot"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "淋透", "py": "líntòu", "gl": "soaked through"},
+      {"zh": "，"},
+      {"zh": "充不进", "py": "chōngbujìn", "gl": "can't be charged"},
+      {"zh": "电", "py": "diàn", "gl": "electricity"},
+      {"zh": "，"},
+      {"zh": "昨天", "py": "zuótiān", "gl": "yesterday"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "期", "py": "qī", "gl": "(episode measure word)"},
+      {"zh": "46"},
+      {"zh": "分钟", "py": "fēnzhōng", "gl": "minutes"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show, episode"},
+      {"zh": "只好", "py": "zhǐhǎo", "gl": "had no choice but"},
+      {"zh": "不用", "py": "búyòng", "gl": "without using"},
+      {"zh": "麦克风", "py": "màikèfēng", "gl": "microphone"},
+      {"zh": "“"},
+      {"zh": "裸录", "py": "luǒlù", "gl": "record raw"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "下午", "py": "xiàwǔ", "gl": "afternoon"},
+      {"zh": "一点半", "py": "yìdiǎnbàn", "gl": "half past one"},
+      {"zh": "才", "py": "cái", "gl": "not until"},
+      {"zh": "上线", "py": "shàngxiàn", "gl": "go online"},
+      {"zh": "。"}
      ],
      "start": 356.38,
      "end": 369.29
@@ -596,9 +1321,28 @@
     {
      "id": "s047",
      "zh": "之后有推销员邀他抽大麻，他拒绝了，因为回中国可能会被检测。",
-     "en": "",
+     "en": "Later a salesman offered him marijuana, but he turned it down, because he might get tested when he goes back to China.",
      "segments": [
-      {"zh": "之后有推销员邀他抽大麻，他拒绝了，因为回中国可能会被检测。"}
+      {"zh": "之后", "py": "zhīhòu", "gl": "afterwards"},
+      {"zh": "有", "py": "yǒu", "gl": "there was"},
+      {"zh": "推销员", "py": "tuīxiāoyuán", "gl": "salesman"},
+      {"zh": "邀", "py": "yāo", "gl": "invite"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "抽", "py": "chōu", "gl": "smoke"},
+      {"zh": "大麻", "py": "dàmá", "gl": "marijuana"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "拒绝", "py": "jùjué", "gl": "refuse"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "回", "py": "huí", "gl": "return to"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "可能", "py": "kěnéng", "gl": "possibly"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "检测", "py": "jiǎncè", "gl": "test"},
+      {"zh": "。"}
      ],
      "start": 369.74,
      "end": 377.79
@@ -612,9 +1356,45 @@
     {
      "id": "s048",
      "zh": "他对青旅老板的两小时采访，从鸡翅聊到开青旅，偏偏没怎么聊对方的书，后来还变成了酒桌闲聊，看来得好好剪辑了。",
-     "en": "",
+     "en": "His two-hour interview with the hostel owner went from chicken wings to running a hostel, yet barely touched on the owner's book, and later turned into drinking-table chit-chat, so it looks like it'll need some serious editing.",
      "segments": [
-      {"zh": "他对青旅老板的两小时采访，从鸡翅聊到开青旅，偏偏没怎么聊对方的书，后来还变成了酒桌闲聊，看来得好好剪辑了。"}
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "对", "py": "duì", "gl": "with, toward"},
+      {"zh": "青旅", "py": "qīnglǚ", "gl": "youth hostel"},
+      {"zh": "老板", "py": "lǎobǎn", "gl": "owner"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "采访", "py": "cǎifǎng", "gl": "interview"},
+      {"zh": "，"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "鸡翅", "py": "jīchì", "gl": "chicken wings"},
+      {"zh": "聊", "py": "liáo", "gl": "chat"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "开", "py": "kāi", "gl": "run, open"},
+      {"zh": "青旅", "py": "qīnglǚ", "gl": "youth hostel"},
+      {"zh": "，"},
+      {"zh": "偏偏", "py": "piānpiān", "gl": "yet, of all things"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "怎么", "py": "zěnme", "gl": "much"},
+      {"zh": "聊", "py": "liáo", "gl": "talk about"},
+      {"zh": "对方", "py": "duìfāng", "gl": "the other person"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "书", "py": "shū", "gl": "book"},
+      {"zh": "，"},
+      {"zh": "后来", "py": "hòulái", "gl": "later"},
+      {"zh": "还", "py": "hái", "gl": "even"},
+      {"zh": "变成", "py": "biànchéng", "gl": "turn into"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "酒桌", "py": "jiǔzhuō", "gl": "drinking table"},
+      {"zh": "闲聊", "py": "xiánliáo", "gl": "chit-chat"},
+      {"zh": "，"},
+      {"zh": "看来", "py": "kànlái", "gl": "it seems"},
+      {"zh": "得", "py": "děi", "gl": "will have to"},
+      {"zh": "好好", "py": "hǎohǎo", "gl": "properly"},
+      {"zh": "剪辑", "py": "jiǎnjí", "gl": "edit"},
+      {"zh": "了", "py": "le", "gl": "(change of situation)"},
+      {"zh": "。"}
      ],
      "start": 378.16,
      "end": 393.17
@@ -622,9 +1402,29 @@
     {
      "id": "s049",
      "zh": "他还提议玩个喝水游戏：他每说一次“basically”，你就喝一口。",
-     "en": "",
+     "en": "He also suggested a drinking game: every time he says \"basically,\" you take a sip.",
      "segments": [
-      {"zh": "他还提议玩个喝水游戏：他每说一次“basically”，你就喝一口。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "提议", "py": "tíyì", "gl": "suggest"},
+      {"zh": "玩", "py": "wán", "gl": "play"},
+      {"zh": "个", "py": "ge", "gl": "a"},
+      {"zh": "喝水", "py": "hēshuǐ", "gl": "drinking"},
+      {"zh": "游戏", "py": "yóuxì", "gl": "game"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "每", "py": "měi", "gl": "every"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "一次", "py": "yícì", "gl": "once"},
+      {"zh": "“"},
+      {"zh": "basically"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "喝", "py": "hē", "gl": "drink"},
+      {"zh": "一口", "py": "yìkǒu", "gl": "a sip"},
+      {"zh": "。"}
      ],
      "start": 393.48,
      "end": 401.07
@@ -638,9 +1438,15 @@
     {
      "id": "s050",
      "zh": "签证视频和未来的中文学习者",
-     "en": "",
+     "en": "The visa video and future Chinese learners",
      "segments": [
-      {"zh": "签证视频和未来的中文学习者"}
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "未来", "py": "wèilái", "gl": "future"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "学习者", "py": "xuéxízhě", "gl": "learners"}
      ],
      "start": 402.2,
      "end": 405.65
@@ -654,9 +1460,27 @@
     {
      "id": "s051",
      "zh": "他的中国签证视频停在1200次播放左右，不少人评论说他违法。",
-     "en": "",
+     "en": "His China visa video has stalled at around 1,200 views, and quite a few people commented that he broke the law.",
      "segments": [
-      {"zh": "他的中国签证视频停在1200次播放左右，不少人评论说他违法。"}
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "停", "py": "tíng", "gl": "stop"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "1200"},
+      {"zh": "次", "py": "cì", "gl": "times"},
+      {"zh": "播放", "py": "bōfàng", "gl": "views, plays"},
+      {"zh": "左右", "py": "zuǒyòu", "gl": "around"},
+      {"zh": "，"},
+      {"zh": "不少", "py": "bùshǎo", "gl": "quite a few"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "评论", "py": "pínglùn", "gl": "comment"},
+      {"zh": "说", "py": "shuō", "gl": "saying"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "违法", "py": "wéifǎ", "gl": "break the law"},
+      {"zh": "。"}
      ],
      "start": 406.04,
      "end": 413.49
@@ -664,9 +1488,24 @@
     {
      "id": "s052",
      "zh": "他刚想反击，又提醒自己：“跑题了，专心！”",
-     "en": "",
+     "en": "He was about to fight back, but reminded himself: \"You're getting off topic, focus!\"",
      "segments": [
-      {"zh": "他刚想反击，又提醒自己：“跑题了，专心！”"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "刚", "py": "gāng", "gl": "just"},
+      {"zh": "想", "py": "xiǎng", "gl": "want to"},
+      {"zh": "反击", "py": "fǎnjī", "gl": "fight back"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "but then"},
+      {"zh": "提醒", "py": "tíxǐng", "gl": "remind"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "跑题", "py": "pǎotí", "gl": "go off topic"},
+      {"zh": "了", "py": "le", "gl": "(change of situation)"},
+      {"zh": "，"},
+      {"zh": "专心", "py": "zhuānxīn", "gl": "focus"},
+      {"zh": "！"},
+      {"zh": "”"}
      ],
      "start": 414.2,
      "end": 419.57
@@ -674,9 +1513,29 @@
     {
      "id": "s053",
      "zh": "酒吧女服务员正在学中文，这让他想拍一期“来中国之前”的视频。",
-     "en": "",
+     "en": "The bar's waitress is learning Chinese, which made him want to film a \"before coming to China\" video.",
      "segments": [
-      {"zh": "酒吧女服务员正在学中文，这让他想拍一期“来中国之前”的视频。"}
+      {"zh": "酒吧", "py": "jiǔbā", "gl": "bar"},
+      {"zh": "女", "py": "nǚ", "gl": "female"},
+      {"zh": "服务员", "py": "fúwùyuán", "gl": "server"},
+      {"zh": "正在", "py": "zhèngzài", "gl": "currently"},
+      {"zh": "学", "py": "xué", "gl": "learn"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "想", "py": "xiǎng", "gl": "want to"},
+      {"zh": "拍", "py": "pāi", "gl": "film"},
+      {"zh": "一期", "py": "yìqī", "gl": "an episode"},
+      {"zh": "“"},
+      {"zh": "来", "py": "lái", "gl": "come to"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "之前", "py": "zhīqián", "gl": "before"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "。"}
      ],
      "start": 420.58,
      "end": 427.19
@@ -684,9 +1543,27 @@
     {
      "id": "s054",
      "zh": "他发现，身边中文流利的人几乎都是来中国前就开始学了。",
-     "en": "",
+     "en": "He's noticed that almost everyone around him who's fluent in Chinese started learning before coming to China.",
      "segments": [
-      {"zh": "他发现，身边中文流利的人几乎都是来中国前就开始学了。"}
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "发现", "py": "fāxiàn", "gl": "notice"},
+      {"zh": "，"},
+      {"zh": "身边", "py": "shēnbiān", "gl": "around him"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "流利", "py": "liúlì", "gl": "fluent"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "几乎", "py": "jīhū", "gl": "almost"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "来", "py": "lái", "gl": "come to"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "就", "py": "jiù", "gl": "already"},
+      {"zh": "开始", "py": "kāishǐ", "gl": "start"},
+      {"zh": "学", "py": "xué", "gl": "learn"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
      ],
      "start": 428.02,
      "end": 434.81
@@ -700,9 +1577,13 @@
     {
      "id": "s055",
      "zh": "下一站和河边的清晨",
-     "en": "",
+     "en": "The next stop and a morning by the river",
      "segments": [
-      {"zh": "下一站和河边的清晨"}
+      {"zh": "下一站", "py": "xiàyízhàn", "gl": "next stop"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "河边", "py": "hébiān", "gl": "riverside"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "清晨", "py": "qīngchén", "gl": "early morning"}
      ],
      "start": 435.32,
      "end": 437.85
@@ -716,9 +1597,32 @@
     {
      "id": "s056",
      "zh": "接下来，他要去克利夫兰，多半又睡机场，周六到底特律，周日回多伦多，再回温尼伯。",
-     "en": "",
+     "en": "Next, he's heading to Cleveland, probably sleeping at the airport again, getting to Detroit on Saturday, back to Toronto on Sunday, and then back to Winnipeg.",
      "segments": [
-      {"zh": "接下来，他要去克利夫兰，多半又睡机场，周六到底特律，周日回多伦多，再回温尼伯。"}
+      {"zh": "接下来", "py": "jiēxiàlái", "gl": "next"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "要", "py": "yào", "gl": "is going to"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "克利夫兰", "py": "Kèlìfūlán", "gl": "Cleveland"},
+      {"zh": "，"},
+      {"zh": "多半", "py": "duōbàn", "gl": "probably"},
+      {"zh": "又", "py": "yòu", "gl": "again"},
+      {"zh": "睡", "py": "shuì", "gl": "sleep"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "，"},
+      {"zh": "周六", "py": "zhōuliù", "gl": "Saturday"},
+      {"zh": "到", "py": "dào", "gl": "arrive"},
+      {"zh": "底特律", "py": "Dǐtèlǜ", "gl": "Detroit"},
+      {"zh": "，"},
+      {"zh": "周日", "py": "zhōurì", "gl": "Sunday"},
+      {"zh": "回", "py": "huí", "gl": "return to"},
+      {"zh": "多伦多", "py": "Duōlúnduō", "gl": "Toronto"},
+      {"zh": "，"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "回", "py": "huí", "gl": "return to"},
+      {"zh": "温尼伯", "py": "Wēnníbó", "gl": "Winnipeg"},
+      {"zh": "。"}
      ],
      "start": 438.24,
      "end": 448.01
@@ -726,9 +1630,24 @@
     {
      "id": "s057",
      "zh": "离开学只剩12天，他也好几个月没收入了。",
-     "en": "",
+     "en": "There are only 12 days left until school starts, and he hasn't had any income for several months.",
      "segments": [
-      {"zh": "离开学只剩12天，他也好几个月没收入了。"}
+      {"zh": "离", "py": "lí", "gl": "until"},
+      {"zh": "开学", "py": "kāixué", "gl": "school starts"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "剩", "py": "shèng", "gl": "remain"},
+      {"zh": "12"},
+      {"zh": "天", "py": "tiān", "gl": "days"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "好几", "py": "hǎojǐ", "gl": "quite a few"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "月", "py": "yuè", "gl": "months"},
+      {"zh": "没", "py": "méi", "gl": "not have"},
+      {"zh": "收入", "py": "shōurù", "gl": "income"},
+      {"zh": "了", "py": "le", "gl": "(change of situation)"},
+      {"zh": "。"}
      ],
      "start": 449.14,
      "end": 453.31
@@ -742,9 +1661,29 @@
     {
      "id": "s058",
      "zh": "附加环节里，他35分钟跑了约6公里，到三姐妹岛独自站了半小时。",
-     "en": "",
+     "en": "In the bonus segment, he ran about 6 kilometers in 35 minutes and stood alone on Three Sisters Islands for half an hour.",
      "segments": [
-      {"zh": "附加环节里，他35分钟跑了约6公里，到三姐妹岛独自站了半小时。"}
+      {"zh": "附加", "py": "fùjiā", "gl": "bonus"},
+      {"zh": "环节", "py": "huánjié", "gl": "segment"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "35"},
+      {"zh": "分钟", "py": "fēnzhōng", "gl": "minutes"},
+      {"zh": "跑", "py": "pǎo", "gl": "run"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "6"},
+      {"zh": "公里", "py": "gōnglǐ", "gl": "kilometers"},
+      {"zh": "，"},
+      {"zh": "到", "py": "dào", "gl": "go to"},
+      {"zh": "三姐妹岛", "py": "Sānjiěmèidǎo", "gl": "Three Sisters Islands"},
+      {"zh": "独自", "py": "dúzì", "gl": "alone"},
+      {"zh": "站", "py": "zhàn", "gl": "stand"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "半", "py": "bàn", "gl": "half"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hour"},
+      {"zh": "。"}
      ],
      "start": 453.6,
      "end": 461.81
@@ -752,9 +1691,33 @@
     {
      "id": "s059",
      "zh": "看着河水，他感慨：“就像人不能两次踏进同一条河，我们每分每秒都不是同一个人。”",
-     "en": "",
+     "en": "Looking at the river, he reflected: \"Just as you can't step into the same river twice, we're not the same person from one moment to the next.\"",
      "segments": [
-      {"zh": "看着河水，他感慨：“就像人不能两次踏进同一条河，我们每分每秒都不是同一个人。”"}
+      {"zh": "看着", "py": "kànzhe", "gl": "looking at"},
+      {"zh": "河水", "py": "héshuǐ", "gl": "river water"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "感慨", "py": "gǎnkǎi", "gl": "reflect with emotion"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "就像", "py": "jiùxiàng", "gl": "just like"},
+      {"zh": "人", "py": "rén", "gl": "a person"},
+      {"zh": "不能", "py": "bùnéng", "gl": "cannot"},
+      {"zh": "两次", "py": "liǎngcì", "gl": "twice"},
+      {"zh": "踏进", "py": "tàjìn", "gl": "step into"},
+      {"zh": "同", "py": "tóng", "gl": "same"},
+      {"zh": "一条", "py": "yìtiáo", "gl": "one (river)"},
+      {"zh": "河", "py": "hé", "gl": "river"},
+      {"zh": "，"},
+      {"zh": "我们", "py": "wǒmen", "gl": "we"},
+      {"zh": "每分每秒", "py": "měifēnměimiǎo", "gl": "every moment"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "不是", "py": "búshì", "gl": "are not"},
+      {"zh": "同", "py": "tóng", "gl": "same"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "人", "py": "rén", "gl": "person"},
+      {"zh": "。"},
+      {"zh": "”"}
      ],
      "start": 462.26,
      "end": 472.29
@@ -768,9 +1731,10 @@
     {
      "id": "s060",
      "zh": "今日总结",
-     "en": "",
+     "en": "Today's summary",
      "segments": [
-      {"zh": "今日总结"}
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
      ],
      "start": 472.68,
      "end": 474.13
@@ -784,9 +1748,17 @@
     {
      "id": "s061",
      "zh": "布法罗很友好，却不适合背包客。",
-     "en": "",
+     "en": "Buffalo is very friendly, but it isn't suited to backpackers.",
      "segments": [
-      {"zh": "布法罗很友好，却不适合背包客。"}
+      {"zh": "布法罗", "py": "Bùfǎluó", "gl": "Buffalo"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "友好", "py": "yǒuhǎo", "gl": "friendly"},
+      {"zh": "，"},
+      {"zh": "却", "py": "què", "gl": "but, yet"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "适合", "py": "shìhé", "gl": "suitable for"},
+      {"zh": "背包客", "py": "bēibāokè", "gl": "backpackers"},
+      {"zh": "。"}
      ],
      "start": 474.56,
      "end": 477.81
@@ -794,9 +1766,34 @@
     {
      "id": "s062",
      "zh": "对史蒂文来说，昂贵的床、连绵的雨和机场的地板，都是认识美国穷游真实面貌的一部分。",
-     "en": "",
+     "en": "For Steven, the expensive beds, the endless rain and the airport floors were all part of getting to know what budget travel in America is really like.",
      "segments": [
-      {"zh": "对史蒂文来说，昂贵的床、连绵的雨和机场的地板，都是认识美国穷游真实面貌的一部分。"}
+      {"zh": "对", "py": "duì", "gl": "for, to"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "来说", "py": "láishuō", "gl": "as far as … concerned"},
+      {"zh": "，"},
+      {"zh": "昂贵", "py": "ángguì", "gl": "expensive"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "床", "py": "chuáng", "gl": "bed"},
+      {"zh": "、"},
+      {"zh": "连绵", "py": "liánmián", "gl": "continuous, endless"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "雨", "py": "yǔ", "gl": "rain"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "地板", "py": "dìbǎn", "gl": "floor"},
+      {"zh": "，"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "认识", "py": "rènshi", "gl": "get to know"},
+      {"zh": "美国", "py": "Měiguó", "gl": "America"},
+      {"zh": "穷游", "py": "qióngyóu", "gl": "budget travel"},
+      {"zh": "真实", "py": "zhēnshí", "gl": "true, real"},
+      {"zh": "面貌", "py": "miànmào", "gl": "appearance, face"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "一部分", "py": "yíbùfen", "gl": "a part"},
+      {"zh": "。"}
      ],
      "start": 479.46,
      "end": 490.07
