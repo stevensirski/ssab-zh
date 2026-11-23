@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-21T00:23",
+ "updated": "2026-11-23T17:12",
  "episodes": [
+  {
+   "id": "ssab-2026-11-23",
+   "date": "2026-11-23",
+   "title": "Stocks Crash, Beijing Rushes for Gold",
+   "titleZh": "股市暴跌，北京人抢黄金",
+   "description": "Steven talks about a stock market sell-off that left NVIDIA badly oversold and pulled the newly listed Anthropic shares down with it, and about a trip with his girlfriend to Caishikou Department Store, where shoppers had bought up all the investment gold. He also covers running into Claude's usage limits, trying out Codex and WorkBuddy, and the results of his first-semester teaching evaluations.",
+   "duration": 596,
+   "chars": 1448,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-20",
    "date": "2026-11-20",
