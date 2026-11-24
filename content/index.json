@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-23T17:12",
+ "updated": "2026-11-24T19:29",
  "episodes": [
+  {
+   "id": "ssab-2026-11-24",
+   "date": "2026-11-24",
+   "title": "Letting AI Agents Do My Job",
+   "titleZh": "AI智能体替我打工",
+   "description": "Steven talks about his year-long plan to automate his work with round-the-clock AI agents like Claude Code and Cowork, NVIDIA's big gap up after last week's sell-off, and Beijing's spicy tripe-and-vermicelli dish. He also explains the 11 daily supplements he takes and why he started taking them.",
+   "duration": null,
+   "chars": 1548,
+   "hasAudio": false
+  },
   {
    "id": "ssab-2026-11-23",
    "date": "2026-11-23",
