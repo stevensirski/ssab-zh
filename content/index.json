@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-24T19:29",
+ "updated": "2026-11-25T18:17",
  "episodes": [
+  {
+   "id": "ssab-2026-11-25",
+   "date": "2026-11-25",
+   "title": "\"The Evaluation Is Wrong, Teacher!\"",
+   "titleZh": "评价打错了，老师！",
+   "description": "Steven talks about students saying his teaching evaluation scores were wrong, a class observation that got called \"impressive,\" and his approach of more student talk, fun lessons, Claude-made flashcards and leaving deep grammar questions to AI. He also explains his new overnight setup where Gemini and OpenAI check the content Claude makes.",
+   "duration": 585,
+   "chars": 1462,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-24",
    "date": "2026-11-24",
