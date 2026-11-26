@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-25T18:17",
+ "updated": "2026-11-26T20:28",
  "episodes": [
+  {
+   "id": "ssab-2026-11-26",
+   "date": "2026-11-26",
+   "title": "My AI Experiments: Have I Been Duped?",
+   "titleZh": "AI实验：我被忽悠了吗？",
+   "description": "Steven talks about getting AI to post his podcast intros to Instagram Stories and buying Gemini API credits as a \"second pair of eyes,\" and asks whether all his AI spending is a smart career hedge or a con. He also wishes listeners a happy Thanksgiving, wonders who counts as \"American,\" gives an update on grading student essays and teaching academic writing, and mentions a mystery brand email and a café near his home that closed.",
+   "duration": 604,
+   "chars": 1448,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-25",
    "date": "2026-11-25",
