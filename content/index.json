@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-26T20:28",
+ "updated": "2026-11-27T21:25",
  "episodes": [
+  {
+   "id": "ssab-2026-11-27",
+   "date": "2026-11-27",
+   "title": "Students Game the System, Teacher Strikes Back",
+   "titleZh": "学生钻空子，老师以牙还牙",
+   "description": "Steven describes how his students gamed the vocabulary list and the AI-made quizzes, and how he outsmarted them. He also explains how he uses Meta's Muse to post Instagram Stories, and he argues with a colleague who thinks AI will replace teachers the way cars replaced horses.",
+   "duration": 625,
+   "chars": 1512,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-11-26",
    "date": "2026-11-26",
